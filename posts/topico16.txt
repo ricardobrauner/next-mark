@@ -3,7 +3,6 @@
 title: 'Estatística Descritiva: medidas de tendência central'
 
 ---
-
 <h2 id="estatística-descritiva-medidas-de-tendência-central">Estatística
       Descritiva: medidas de tendência central</h2>
     <p>Cara(o) estudante, dando sequência à nossa preparação em
@@ -85,6 +84,13 @@ title: 'Estatística Descritiva: medidas de tendência central'
                 <p><em>317</em></p>
               </li>
             </ol>
+          </div onChange={onChangeRadio}>
+          <input type="radio" value="A" name="resposta" /> 96  
+          <input type="radio" value="B" name="resposta" /> 164
+          <input type="radio" value="C" name="resposta" /> 259
+          <input type="radio" value="D" name="resposta" /> 317
+          <div>
+
           </div>
         </div>
         <div class="verSolucao">VER SOLUÇÃO</div>

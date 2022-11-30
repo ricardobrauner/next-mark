@@ -1,0 +1,15 @@
+---
+
+title: 'Estatística Descritiva: medidas de tendência central'
+
+---
+{"texto": "<p>Cara(o) estudante, dando sequência à nossa preparação em conhecimentos matemáticos para seus projetos de vida cidadã, acadêmica ou profissional, abordamos, neste módulo, alguns conceitos e problemas envolvendo o estudo de dados, com a leitura e interpretação de textos, tabelas e gráficos usando ferramentas da Estatística Descritiva, como as <em>medidas de tendência central</em>, dentre as quais médias e medianas, e as <em>medidas de dispersão</em>, como amplitude, variância, desvio-padrão, entre outras. Com os exercícios nesse módulo, trabalhamos a seguinte competência explorada no ENEM: interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação.</p>",
+"questoes":[{
+"<div class=\"eBox\"> <div class=\"questaoT\"> <p><strong>Questão 1.178</strong> (SPAECE, Item M120976E4). <em>O dono de uma locadora fez uma pesquisa para saber a quantidade de filmes que os clientes alugam por mês. Os resultados dessa pesquisa estão representados na tabela abaixo.</em></p> <div class=\"center\"> <table> <thead> <tr class=\"header\"> <th style=\"text-align: center;\"><em>QUANTIDADE DE FILMES ALUGADOS POR MÊS  </em></th> <th style=\"text-align: center;\"><em>   QUANTIDADE DE CLIENTES</em></th> </tr> </thead> <tbody> <tr class=\"odd\"> <td style=\"text-align: center;\"><em>2 OU MENOS</em></td> <td style=\"text-align: center;\"><em>42</em></td> </tr> <tr class=\"even\"> <td style=\"text-align: center;\"><em>3</em></td> <td style=\"text-align: center;\"><em>35</em></td> </tr> <tr class=\"odd\"> <td style=\"text-align: center;\"><em>4</em></td> <td style=\"text-align: center;\"><em><span class=\"math inline\">87</span></em></td> </tr> <tr class=\"even\"> <td style=\"text-align: center;\"><em>5</em></td> <td style=\"text-align: center;\"><em><span class=\"math inline\">95</span></em></td> </tr> <tr class=\"odd\"> <td style=\"text-align: center;\"><em>6 OU MAIS</em></td> <td style=\"text-align: center;\"><em>58</em></td> </tr> </tbody> </table> </div> <p><em>De acordo com essa tabela, quantos clientes alugam menos de 5 filmes por mês?</em></p>",
+"&lt;ol type=\"A\"&gt; &lt;li&gt;&lt;p&gt;&lt;em&gt;87&lt;/em&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;em&gt;95&lt;/em&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;em&gt;164&lt;/em&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;em&gt;259&lt;/em&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;em&gt;317&lt;/em&gt;&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt;",
+"&lt;div class=\"versaoProfessor\"&gt; &lt;div class=\"proof\"&gt; &lt;p&gt;&lt;em&gt;.&lt;/em&gt; Devemos somar as quantidades na coluna da direita das linhas da tabela correspondentes a “2 ou menos”, “3” e “4”, obtendo &lt;span class=\"math display\"&gt;42 + 35 + 87 = 40 + 35 + 85 + 2 + 2 = 40 + 120 + 4 = 164.&lt;/span&gt; Logo, a alternativa correta é a C).&nbsp;◻&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;"
+}
+]
+}
+
+
