@@ -1,8 +1,3 @@
----
-
-title: 'Estatística Descritiva: medidas de tendência central'
-
----
 <h2 id="estatística-descritiva-medidas-de-tendência-central">Estatística
       Descritiva: medidas de tendência central</h2>
     <p>Cara(o) estudante, dando sequência à nossa preparação em

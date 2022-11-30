@@ -1,13 +1,14 @@
 import fs from 'fs';
 import matter from 'gray-matter';
 import SidebarLayout from '../../components/sidebarLayout'
+import Question from '../../components/question';
 
 export async function getStaticPaths() {
     // Retrieve all our slugs
     const files = fs.readdirSync('posts');
     const paths = files.map((fileName) => ({
         params: {
-          slug: fileName.replace('.txt', ''),
+          slug: fileName.replace(/\.\w*/, ''),
         },
     }));
 
@@ -23,7 +24,7 @@ export async function getStaticPaths() {
 
     const files = fs.readdirSync('posts');
     const slugs = files.map((fileName) => 
-        fileName.replace('.txt', ''),
+        fileName.replace(/\.\w*/, ''),
     );
     return {
       props: {
@@ -38,7 +39,12 @@ export async function getStaticPaths() {
     return (
         <SidebarLayout posts={slugs}>
 
-            <div dangerouslySetInnerHTML={{ __html: content }} />
+            let font = JSON.parse(content);
+            <div dangerouslySetInnerHTML={{ __html: FontFace.texto }} />
+            font.questoes.map((e) =>
+                <Question title={e[0]} description={e[1]} options={e[2]} solution={e[3]} />
+            )
+            
 
         </SidebarLayout>
     );
