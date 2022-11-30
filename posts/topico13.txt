@@ -1,0 +1,1519 @@
+<h2 class="unnumbered"
+id="exercícios-propostos-números-racionais-razões-e-proporcões">Exercícios
+propostos: números racionais, razões e proporcões</h2>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.54</strong> (SPAECE - Item M100529E4). <em>Carlos
+foi a uma loja de material de construção e comprou uma chave de fenda
+por R<span class="math inline">$</span> 12,50, uma escova de aço por
+R<span class="math inline">$</span> 8,80 e um conjunto de espátulas por
+R<span class="math inline">$</span> 25,90.</em></p>
+<p><em>Quanto ele pagou por essa compra?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 21,30</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 45,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 46,30</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 47,20</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 48,20</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Sugerimos praticar cálculos
+aritméticos com números decimais de modo a promover o uso correto dos
+algoritmos de adição e multiplicação. É igualmente relevante que
+estejamos cientes das razões pelas quais esses algoritmos funcionam, com
+base no sistema posicional decimal e nas propriedades comutativa,
+associativa e distributiva das operações aritméticas. Recomendamos, para
+reforçar essas habilidades, o uso do material estruturado sobre
+<span><strong>Aritmética</strong></span>.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.55</strong> (SPAECE - Item M100530E4). <em>Na
+empresa de Alberto, 75<span class="math inline">%</span> das 200
+mulheres são casadas. Quantas mulheres dessa empresa são
+casadas?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>15</em></p></li>
+<li><p><em>50</em></p></li>
+<li><p><em>75</em></p></li>
+<li><p><em>150</em></p></li>
+<li><p><em>275</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Temos <span class="math display">$$75 \% \times 200 =
+\frac{75}{100} \times 200 = 75 \times 2 = 150,$$</span> o que
+corresponde à alternativa D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.56</strong> (PUC-2022). <em>Alberto sai de casa com
+R<span class="math inline">$</span> 200,00 em dinheiro. Ele passa
+primeiro na farmácia, onde gasta 1/4 do que tem consigo. Em seguida ele
+visita a papelaria, onde gasta 40<span class="math inline">%</span> do
+que lhe resta. Depois ele passa pela banca de jornal, e ao voltar para
+casa, verifica que ainda tem R<span class="math inline">$</span> 55,00.
+Sabendo que, na banca de jornal, ele comprou uma revista no valor de
+R<span class="math inline">$</span> 10,00 e um jogo para seu filho,
+quanto custou o jogo?</em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 25,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 30,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 35,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 40,00</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Na farmácia, Alberto gasta <span
+class="math display">$$\frac{1}{4} \times 200 = 50$$</span> reais,
+restando 150 reais. Na papelaria, gasta 40<span
+class="math inline">%</span> desse restante, ou seja, <span
+class="math display">$$40\% \times 150 = \frac{4}{10} \times 150 = 4
+\times 15 = 60$$</span> reais. Logo, restam <span
+class="math inline">150 − 60 = 90</span> reais. Portanto, gastou, na
+banca de jornal, ao todo <span class="math display">90 − 55 = 35</span>
+reais. Como a revista custou 10 reais, concluímos que o jogo custou 25
+reais. Logo, a alternativa correta é a A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.57</strong> (PAEBES - Item M120232G5, adaptado).
+<em>O projeto de reforma de uma escola que irá incluir uma quadra
+poliesportiva gerou o investimento de R<span
+class="math inline">$</span> 1 600 000,00. Até a metade dessa obra foram
+gastos R<span class="math inline">$</span> 200 000,00. Do restante desse
+dinheiro, 30<span class="math inline">%</span> serão destinados à
+construção da quadra poliesportiva. O valor em reais destinado à
+construção dessa quadra poliesportiva é</em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 6 000,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 46 666,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 420 000,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 480 000,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 980 000,00.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Dos 1 600 000 reais, foram gastos 200 000. Logo, restam
+1 400 000 reais. Desse restante, calculamos 30<span
+class="math inline">%</span> como segue: <span class="math display">$$30
+\% \times 1\,400\,000 = \frac{30}{100} \times 1\,400\,000 = \frac{3}{10}
+\times 1\,400\,000 = 3 \times 140\,000 = 420\,000$$</span> reais, o que
+corresponde à alternativa C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.58</strong> (SAEP - Item M100276E4). <em>Para
+retirar o entulho de um terreno, 8 máquinas iguais retiram um total de
+24 toneladas de entulho por dia. Para agilizar o trabalho, foram
+acrescentadas mais 4 máquinas iguais às anteriores.</em></p>
+<p><em>Com todas essas máquinas trabalhando ao mesmo tempo, quantas
+toneladas de entulho serão retiradas por dia desse terreno?</em></p>
+<ol type="A">
+<li><p><em>16</em></p></li>
+<li><p><em>28</em></p></li>
+<li><p><em>32</em></p></li>
+<li><p><em>36</em></p></li>
+<li><p><em>48</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Com essa eficiência de trabalho, em
+<span><strong>média</strong></span>, o uso de 1 única máquina permite
+retirar <span class="math display">$$\frac{24}{8} = 3 \mbox{ toneladas
+de entulho por dia}.$$</span> Logo, 4 máquinas a mais permitem retirar
+<span class="math display">4 × 3 = 12</span> toneladas de entulho por
+dia a mais. Assim, as <span class="math inline">8 + 4 = 12</span>
+máquinas, juntas, permitem retirar <span
+class="math inline">24 + 12 = 36</span> toneladas de entulho por dia
+Logo, a alternativa correta é a D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.59</strong> (SPAECE - Item M100531E4). <em>Mariana
+utilizou 2,5 kg de farinha de trigo para fazer 30 pães. Para ela fazer
+90 desses pães, quantos quilogramas de farinha, no total, serão
+necessários?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>5,5 kg</em></p></li>
+<li><p><em>7,5 kg</em></p></li>
+<li><p><em>27,5 kg</em></p></li>
+<li><p><em>36 kg</em></p></li>
+<li><p><em>150 kg</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Mariana produziu 30 pães. Precisa produzir <span
+class="math inline">3</span> vezes mais para fazer 90 pães, pois <span
+class="math inline">90 = 3 × 30</span>. Assim, mantido o
+<span><strong>rendimento</strong></span> da farinha de trigo, precisa de
+uma quantidade <span class="math inline">3</span> vezes maior desse
+ingrediente, ou seja, precisa de <span
+class="math display">3 × 2, 5 = 7, 5 quilogramas</span> de farinha de
+trigo. Logo, a alternativa correta é a B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.60</strong> (SAEPE - Item M110246H6). <em>Um
+paciente recebeu um medicamento por via intravenosa com frequência de 20
+gotas por minuto. Nessa frequência, o volume total da medicação demorou
+6 horas para ser ministrado por completo. Esse paciente também recebeu
+outro medicamento intravenoso que continha o mesmo volume do anterior,
+porém esse medicamento fluiu com frequência de 40 gotas por
+minuto.</em></p>
+<p><em>Em quanto tempo esse paciente receberá o segundo medicamento por
+completo?</em></p>
+<ol type="A">
+<li><p><em>3 horas.</em></p></li>
+<li><p><em>6 horas.</em></p></li>
+<li><p><em>9 horas.</em></p></li>
+<li><p><em>10 horas.</em></p></li>
+<li><p><em>12 horas.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O outro medicamento tem o mesmo volume do primeiro. No
+entanto, vai ser administrado ao paciente com 40 gotas por minuto, ou
+seja, com o dobro da taxa (ou o dobro da velocidade) do anterior.
+Portanto, será necessária metade do tempo, isto é, 3 horas. Logo, a
+alternativa correta é a A). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Para detalhar algo mais a
+resolução do problema, observamos que, como 1 hora tem 60 minutos, a
+taxa de 20 gotas por minuto equivale a <span
+class="math display">60 × 20 = 1 200</span> gotas por hora. Logo, em 6
+horas, a quantidade de gotas, administrada ao paciente com essa
+<span><strong>taxa</strong></span>, é igual a <span
+class="math display">6 × 1 200 = 7 200 gotas.</span> Como o segundo
+medicamento será dado ao paciente a uma taxa de 40 gotas por minuto,
+serão necessários <span class="math display">$$\frac{7\,200}{40} = 180
+\mbox{ minutos}$$</span> ou 3 horas para administrá-lo por
+completo.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.61</strong> (SAEPE - Item M110364H6). <em>Existe
+uma unidade de medida de velocidade, denominada nó, que é utilizada em
+navegação marítima e aérea. A velocidade máxima do maior navio cargueiro
+do mundo é 25 nós, o que equivale a 46,3 km/h. Existem aviões comerciais
+que atingem a velocidade máxima de 500 nós.</em></p>
+<p><em>De acordo com essas informações, qual é a velocidade máxima, em
+km/h, que esses aviões comerciais atingem?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>270</em></p></li>
+<li><p><em>479</em></p></li>
+<li><p><em>500</em></p></li>
+<li><p><em>521</em></p></li>
+<li><p><em>926</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Devemos determinar quantas vezes a velocidade de 500 nós é
+maior do que a velocidade de 25 nós, que é nossa base de comparação.
+Temos, para tanto, que calcular a <span><strong>razão</strong></span>
+<span class="math display">$$\frac{500}{25} = 20.$$</span> Logo, a
+velocidade de 500 nós é 20 vezes maior do que a velocidade de 25 nós ou
+de 46,3 km/h. Logo, 500 nós equivalem a <span
+class="math display">20 × 46, 3 = 10 × 92, 6 = 926 km/h.</span> Logo, a
+alternativa correta é a E). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.62</strong> (SAEPE - Item M110095H6). <em>Daniela
+foi contemplada em um programa de inclusão educacional, por meio do qual
+obteve um desconto de 60<span class="math inline">%</span> nas
+mensalidades de um curso. A mensalidade integral desse curso é R<span
+class="math inline">$</span> 936,00.</em></p>
+<p><em>Dessa forma, qual será o valor da mensalidade paga por
+Daniela?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 374,40</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 561,60</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 624,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 876,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 935,40</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Para sabermos qual o desconto sobre a mensalidade, basta
+calcularmos <span class="math inline">60%</span> de 936 reais. Temos
+<span class="math display">$$60\% \times 936 = \frac{60}{100} \times 936
+= \frac{6}{10} \times 936 = \frac{5\,616}{10} = 561,60 \mbox{
+reais},$$</span> Sendo assim, a mensalidade a ser paga por Daniela passa
+a ser apenas os restantes 40<span class="math inline">%</span> da
+mensalidade de antes do desconto, ou seja, <span
+class="math display">936 − 561, 60 = 935 − 561 + 0, 40 = 374, 40</span>
+o que corresponde à alternativa A). Note que poderíamos ter calculado
+diretamente <span class="math display">$$40\% \times 936 = \frac{4}{10}
+\times 936 = 374,40.$$</span> ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Note que a alternativa B)
+corresponde ao valor do desconto, isto é, a 60<span
+class="math inline">%</span> de R<span class="math inline">$</span>
+936,00. Essa alternativa pode ser marcada pelo(a) aluno(a), caso não
+tenha ficado claro que o comando da questão não pede o valor do
+desconto, mas o <em>novo</em> valor da mensalidade, dado o
+desconto.</em></p>
+<p><em>Já alternativa D) revela um erro mais sério: o de considerar que
+um desconto de 60<span class="math inline">%</span> aplicado sobre
+R<span class="math inline">$</span> 936,00 significa <em>subtrair</em>
+60 de 936, obtendo 876 reais.</em></p>
+<p><em>É de extrema relevância entender a natureza e as possíveis razões
+dos erros: em alguns casos, podem derivar de alguma interpretação errada
+ou de algum procedimento técnico mal executado; em outros, podem
+evidenciar uma falha <em>conceitual</em> que precisa ser sanada com mais
+empenho e cuidado.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div id="juros1" class="questaoT">
+<p><strong>Questão 1.63</strong> (SPAECE - Item M120122H6). <em>Bruno
+pagou um boleto bancário cujo valor sem multa era de R<span
+class="math inline">$</span> 350,00. Porém, como o boleto estava vencido
+há 4 dias, no dia do pagamento, foi acrescido a esse valor uma multa por
+atraso de 2<span class="math inline">%</span> ao dia no regime de juros
+simples.</em></p>
+<p><em>Dessa forma, qual foi o valor total do boleto bancário pago por
+Bruno?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 350,08</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 352,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 357,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 358,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 378,00</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O <em>valor inicial</em> do boleto era de <span
+class="math inline"><em>C</em> = 350</span> reais. A <span><strong>taxa
+de juros simples</strong></span> a ser aplicada, <em>a cada dia</em>, é
+igual a <span class="math display">$$i = 2\%
+=\frac{2}{100}\cdot$$</span> Logo, o valor ajustado <span
+class="math inline"><em>M</em></span> com essa taxa de juros, após <span
+class="math inline"><em>t</em> = 4</span> dias, foi igual a <span
+class="math display">$$\begin{aligned}
+&amp; M = 350 + \frac{2}{100} \times 350 +  \frac{2}{100} \times 350
++  \frac{2}{100} \times 350 +  \frac{2}{100} \times 350 \\
+&amp; = 350 \times \bigg(1+ 4\times \frac{2}{100}\bigg)\\
+&amp; = 350 \times \frac{108}{100} = 378 \mbox{ reais},
+\end{aligned}$$</span> o que corresponde à alternativa E). ◻</p>
+</div>
+<div class="obsBox">
+<div id="pa1" class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Essa questão e algumas outras
+tratam de <em>acréscimos simples</em>. De fato, envolvem, mais
+particularmente, a aplicação de juros simples. Nesse regime de
+capitalização, o <span><strong>montante</strong></span> varia
+<em>proporcionalmente</em> ao intervalo de tempo. Ou seja, temos um
+<span><strong>crescimento aritmético</strong></span> do
+montante.</em></p>
+<p><em>Na questão <a href="#juros1" data-reference-type="ref"
+data-reference="juros1">1.63</a>, temos a seguinte <em>progressão
+aritmética</em> do montante:</em></p>
+<div class="center">
+
+</div>
+<p><em>No eixo horizontal, temos os <em>intervalos de tempo</em>, em
+dias, decorridos desde a data de vencimento do boleto; no eixo vertical,
+vemos os valores sucessivos do <em>montante</em>, aumentando
+<span><strong>linearmente</strong></span> dia após dia, com um acréscimo
+de <span class="math display">0, 02 × 350 = 7 reais por dia.</span> Note
+que os pontos destacados no plano estão todos alinhados sobre uma reta:
+essa é a maneira gráfica de expressar que os valores do montante <span
+class="math inline"><em>M</em></span> crescem em
+<span><strong>progressão aritmética</strong></span> em função do tempo
+<span class="math inline"><em>t</em></span>, isto é, <span
+class="math display"><em>M</em> = <em>C</em> + <em>C</em> × <em>i</em> × <em>t</em>,</span>
+a “fórmula” do montante em um regime de juros simples, em que <span
+class="math inline"><em>i</em></span> é a taxa de juros (no exemplo,
+aplicada ao dia) e <span class="math inline"><em>C</em></span> é o valor
+ou capital inicial.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.64</strong> (SPAECE - Item M100532E4). <em>André
+emprestou R<span class="math inline">$</span> 1 200,00 para seu irmão
+Rafael no regime de capitalização simples, a uma taxa de 2<span
+class="math inline">%</span> ao mês. Ao final de 6 meses, Rafael saldou
+sua dívida com André.</em></p>
+<p><em>Quanto Rafael pagou para seu irmão André?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 144,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 1 224,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 1 344,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 2 400,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 7 200,00</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O valor inicial, devido por Rafael a André, era de <span
+class="math inline"><em>C</em> = 1 200</span> reais, corrigido a uma
+<span><strong>taxa de juros simples</strong></span> de <span
+class="math inline">2%</span> ao mês, ou seja, <span
+class="math display"><em>i</em> = 2% = 0, 02 ao mês.</span> Após 6
+meses, isto é, com <span class="math inline"><em>t</em> = 6</span>, o
+<span><strong>montante</strong></span> era igual a <span
+class="math display"><em>M</em> = <em>C</em> + <em>C</em> × <em>i</em> × <em>t</em> = 1 200 + 1 200 × 0, 02 × 6 = 1 200 + 1 200 × 0, 12 = 1 200 + 144 = 1 344
+reais,</span> o que corresponde à alternativa C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.65</strong> (SPAECE - Item M100524E4). <em>Paula
+emprestou R<span class="math inline">$</span> 200,00 a Luiza com juros
+simples de 3<span class="math inline">%</span> ao mês e somente após 4
+meses Luiza pagou o empréstimo e os juros decorrentes desse período.
+Qual foi o montante que Luiza pagou por esse empréstimo?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 206,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 212,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 224,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 225,10</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 824,00</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O valor inicial, devido por Luiza a Paula, era de <span
+class="math inline"><em>C</em> = 200</span> reais, corrigido a uma
+<span><strong>taxa de juros simples</strong></span> de <span
+class="math inline">3%</span> ao mês, ou seja, <span
+class="math display"><em>i</em> = 3% = 0, 03 ao mês.</span> Após 4
+meses, isto é, com <span class="math inline"><em>t</em> = 4</span>, o
+<span><strong>montante</strong></span> era igual a <span
+class="math display"><em>M</em> = <em>C</em> + <em>C</em> × <em>i</em> × <em>t</em> = 200 + 200 × 0, 03 × 4 = 200 + 6 × 4 = 200 + 24 = 224
+reais,</span> o que corresponde à alternativa C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.66</strong>. <em>Uma vendedora em uma loja de
+roupas recebe, como comissão, <span class="math inline">6%</span> do
+valor das vendas que realizar. Qual o total de vendas que ela deve
+realizar para que receba R<span class="math inline">$</span>
+120,00?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que 6<span class="math inline">%</span> das vendas
+equivale a 120 reais. Logo, 1<span class="math inline">%</span> das
+vendas equivale a <span class="math display">$$\frac{120}{6} =
+20$$</span> reais. Assim, 100<span class="math inline">%</span> das
+vendas equivalem a <span class="math display">100 × 20 = 2 000</span>
+reais. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.67</strong> (SPAECE - Item M110776E4). <em>Para
+minimizar os problemas de abastecimento de água de um vilarejo com 700
+habitantes, foram instaladas 3 cisternas, com volume interno de 50
+m<span class="math inline"><sup>3</sup></span> cada. Em um dia, essas 3
+cisternas estavam abastecidas em sua capacidade máxima e o consumo médio
+por habitante foi de 150 L. Nesse dia, quantos litros de água restaram
+nessas cisternas?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>45 L</em></p></li>
+<li><p><em>100 L</em></p></li>
+<li><p><em>45 000 L</em></p></li>
+<li><p><em>105 000 L</em></p></li>
+<li><p><em>150 000 L</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A capacidade total das 3 cisternas será de <span
+class="math display">3 × 50 = 150 metros cúbicos.</span> Para
+<em>converter</em> essa medida de capacidade para <em>litros</em>,
+devemos lembrar que <span class="math display">$$1 \mbox{ litro} = 1
+\mbox{ decímetro cúbico} = \frac{1}{1\,000} \mbox{ metro
+cúbico},$$</span> ou, posto de outra forma, <span
+class="math display">1m<sup>3</sup> = 1 000 L.</span> Assim, <span
+class="math display">150 m<sup>3</sup> = 150 × 1 000 = 150 000 L.</span>
+Por outro lado, o consumo, de acordo com o enunciado, foi igual, no dia
+registrado, a <span class="math display">700 × 150 L.</span> Logo, o
+volume restante, nas 3 cisternas, após consumida essa quantidade de
+água, foi de <span
+class="math display">150 × 1 000 − 150 × 700 = 150 × 300 = 45 000
+L,</span> o que corresponde à alternativa C). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Esse é um problema que combina
+proporcionalidade e mudanças de unidades de medida no sistema métrico.
+Nesse caso, lidamos com medidas de
+<span><strong>capacidade</strong></span>. Sugerimos, a esse respeito,
+consultar os materiais estruturados sobre aritmética de números decimais
+e sobre geometria métrica.</em></p>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong> (Medidas, grandezas e potências).
+<em>Fazemos, aqui, uma rápida incursão a respeito de potências de 10 no
+sistema posicional decimal e no sistema métrico decimal. Essas
+potências, tanto negativas quanto positivas, são notações muito úteis em
+cálculos aritméticos, especialmente quando envolvem medidas de
+experimentos científicos, na chamada <em>notação científica</em>. Para
+começar, relembremos que potências de expoente <em>natural</em> indicam,
+simplesmente, que estamos multiplicando um mesmo número uma dada
+quantidade de vezes. Por exemplo, em <span
+class="math display">$$10^{\textcolor{red}{5}},$$</span> estamos
+escrevendo, de forma sucinta, o seguinte produto: <span
+class="math display">10 × 10 × 10 × 10 × 10,</span> em que o número 10
+(chamado base) aparece multiplicado por ele mesmo <span
+style="color: red">5</span> vezes. Neste caso, o número <span
+style="color: red">5</span> é chamado <em>expoente</em>. Da mesma forma
+<span class="math display">$$10^{\textcolor{blue}{7}} = 10 \times 10
+\times 10 \times 10 \times 10 \times 10 \times 10 = 10.000.000,$$</span>
+dez milhões. Desta vez, o expoente é o número <span
+style="color: blue">7</span> e a base continua a ser o número 10.
+Observe que <span class="math display">$$\begin{aligned}
+&amp; 10^{\textcolor{red}{5}} \times 10^{\textcolor{blue}{7}}= \\
+&amp;= \textcolor{red}{10 \times 10 \times 10 \times 10 \times 10}
+\times \textcolor{blue}{10 \times 10 \times 10 \times 10 \times 10\times
+10 \times 10}\\
+&amp; = 10^{\textcolor{violet}{12}},
+\end{aligned}$$</span> uma vez que a base 10 aparece multiplicada por
+ela mesma <span style="color: violet">12</span> vezes. Ou seja, o
+expoente final, 12, é a <em>soma</em> dos dois expoentes iniciais, 5 e
+7, já que esta soma é igual ao total de fatores iguais a 10 que aparece
+no produto final. De modo geral, dados dois números naturais <span
+class="math inline"><em>m</em></span> e <span
+class="math inline"><em>n</em></span>, não nulos, temos <span
+class="math display">$$10^{\textcolor{red}{m}} \times
+10^{\textcolor{blue}{n}} = 10^{\textcolor{violet}{m+n}},$$</span> ou
+seja, multiplicando <span class="math inline"><em>m</em></span> fatores
+iguais a 10 e <span class="math inline"><em>n</em></span> fatores iguais
+a 10, obtemos o produto de <span
+class="math inline"><em>m</em> + <em>n</em></span> fatores iguais a
+10.</em></p>
+<p><em>Agora, definimos potências com expoentes inteiros
+<em>negativos</em>. Por exemplo, definimos <span
+class="math display">$$10^{\textcolor{red}{-5}} = \frac{1}{10} \times
+\frac{1}{10} \times \frac{1}{10} \times \frac{1}{10} \times
+\frac{1}{10},$$</span> ou seja, <span
+class="math display">$$10^{\textcolor{red}{-5}} =
+\frac{1}{10^{5}}\cdot$$</span> Da mesma forma, <span
+class="math display">$$10^{\textcolor{blue}{-7}} = \frac{1}{10^{7}} =
+\frac{1}{10.000.000} = 0,0000001,$$</span> um décimo milionésimo. Assim
+como antes, observe que <span
+class="math display">$$10^{\textcolor{red}{-5}}
+\times  10^{\textcolor{blue}{-7}}  =
+10^{\textcolor{violet}{-12}}.$$</span> Observe, além disso, que <span
+class="math display">$$10^{\textcolor{red}{5}} \times
+10^{\textcolor{blue}{-5}} = 10^5 \times \frac{1}{10^5} = 1.$$</span>
+Portanto, em geral, dado um número natural não nulo <span
+class="math inline"><em>m</em></span>, temos <span
+class="math display">10<sup><em>m</em></sup> × 10<sup>−<em>m</em></sup> = 1,</span>
+o que nos leva a definir <span
+class="math display">10<sup>0</sup> = 1.</span> Em resumo, temos <span
+class="math inline">10<sup>0</sup> = 1</span>, <span
+class="math inline">10<sup>1</sup> = 10</span> e <span
+class="math display">$$\begin{aligned}
+10^m &amp; = \underbrace{10 \times \ldots \times 10}_{m \, {\rm vezes}
+},\\
+10^{-m} &amp;= \underbrace{\frac{1}{10} \times \ldots \times
+\frac{1}{10}}_{m \, {\rm vezes} } = \frac{1}{10^m},
+\end{aligned}$$</span> onde <span class="math inline"><em>m</em></span>
+é um número natural não-nulo. Concluímos, também que, <span
+class="math display">10<sup><em>m</em></sup> × 10<sup><em>n</em></sup> = 10<sup><em>m</em> + <em>n</em></sup></span>
+para dois números inteiros <span class="math inline"><em>m</em></span> e
+<span class="math inline"><em>n</em></span>
+<span><strong>quaisquer</strong></span>, sejam eles negativos, positivos
+ou nulos.</em></p>
+<p><em>Prosseguindo com exemplos de potências na base 10, vemos que
+<span class="math display">$$\begin{aligned}
+\ldots \quad &amp; 10^{-5} = 0,00001 \quad  10^{-4} = 0,0001
+\quad  10^{-3} = 0,001 \\
+&amp;  10^{-2} = 0,01 \quad 10^{-1} =0,1\\
+&amp; 10^0 =1\\
+&amp; 10^1 = 10 \quad 10^2 = 100 \quad 10^3 = 1.000 \\
+&amp;  10^4 = 10.000 \quad 10^5 = 100.000\quad \ldots
+\end{aligned}$$</span></em></p>
+<p><em>Adotando o <em>metro</em> como unidade de medida de comprimento,
+definimos seus múltiplos e submúltiplos em termos de potências de dez.
+Temos por exemplo <span class="math display">1 metro = 10<sup>−1</sup>
+decâmetro = 10<sup>−2</sup> hectômetro = 10<sup>−3</sup>
+quilômetro</span> e <span class="math display">1 metro = 10<sup>1</sup>
+decímetros = 10<sup>2</sup> centímetros = 10<sup>3</sup>
+milímetros</span> Da mesma forma, os múltiplos e submúltiplos do
+<em>metro quadrado</em> como unidade de medida de área são definidos em
+termos de potências de dez (mais precisamente, de cem). Temos, por
+exemplo:</em></p>
+<div class="center">
+<p><em><span class="math display">$$\begin{aligned}
+&amp; 1 \mbox{ metro quadrado} = 10^{-2} \mbox { decâmetro quadrado} =
+10^{-4} \mbox{ hectômetro quadrado} \\
+&amp;= 10^{-6} \mbox{ quilômetro quadrado}
+\end{aligned}$$</span> e <span class="math display">$$\begin{aligned}
+&amp; 1 \mbox{ metro quadrado} = 10^{2} \mbox { decímetros quadrados} =
+10^{4} \mbox{ centímetros quadrados} \\
+&amp; = 10^{6} \mbox{ milímetros quadrados}.
+\end{aligned}$$</span></em></p>
+</div>
+<p><em>Conversões semelhantes podem ser estabelecidas para os múltiplos
+e submúltiplos do metro cúbico como unidade de medida de volume ou
+capacidade. Convém lembrar que o <em>litro</em> é uma medida de
+capacidade dada por <span class="math display">1 litro = 1 decímetro
+cúbico = 10<sup>−3</sup> metro cúbico.</span> Para mais detalhes e
+exercícios sobre o uso do sistema posicional decimal, em particular das
+potências de 10, na expressão de unidades de medida, seus múltiplos e
+submúltiplos, relativas a comprimentos, áreas, volumes e capacidade,
+sugerimos a leitura dos materiais estruturados sobre
+<span><strong>aritmética de números decimais</strong></span> e
+<span><strong>geometria métrica</strong></span>.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.68</strong>. <em>Um suco de caju em uma caixa de
+960 mililitros tem <span class="math inline">$\frac{3}{4}$</span> de
+polpa de fruta e <span class="math inline">$\frac{1}{4}$</span> de água.
+Aline diluiu esse suco, adicionando 120 mililitros de água. Qual passou
+a ser a proporção de polpa no suco após esse acréscimo de água?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A água corresponde a <span
+class="math inline">$\frac{1}{4}$</span> da <em>capacidade</em> da caixa
+de suco, ou seja, a <span class="math display">$$\frac{1}{4} \times 960
+= 240 \mbox{ mililitros}.$$</span> Logo, os <span
+class="math inline">$\frac{3}{4}$</span> restantes são de polpa de fruta
+e correspondem a <span class="math display">$$\frac{3}{4} \times 960 = 3
+\times \frac{1}{4} \times 960 = 3 \times 240 = 720 \mbox{
+mililitros}.$$</span> Com a adição de 120 mililitros de água, temos uma
+capacidade total de <span class="math display">960 + 120 = 1.080
+mililitros,</span> dos quais <em>permanecem</em> 720 mililitros de polpa
+de fruta. Logo, a <em>concentração</em> de polpa de fruta no suco com
+mais água é igual a <span><strong>razão</strong></span> <span
+class="math display">$$\frac{720}{1.080} = \frac{720:90}{1.080:90} =
+\frac{8}{12} = \frac{2}{3},$$</span> ou seja, de cada 5 mililitros de
+suco, 3 são de polpa e 2 são de água. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.69</strong>. <em>Os 45 colegas de uma turma da
+primeira série de uma escola em Arneiroz decidiram dividir entre eles as
+despesas de uma excursão nas férias de fim de ano. Porém, com a
+desistência de 5 deles, cada um dos demais terá que pagar, agora, R<span
+class="math inline">$</span> 7,00 a mais do que pagaria antes. Qual o
+total das despesas da excursão a serem pagas por todos?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Como 5 dos 45 alunos desistiram, cada um dos 40 restantes
+deve pagar 7 reais a mais para a excursão. Logo, pagam, ao todo, <span
+class="math inline">40 × 7 = 280</span> reais a mais para a excursão.
+Esse é o valor que os 5 desistentes pagariam e que teve que ser
+compensado. Logo, cada aluno deveria pagar, no início, <span
+class="math display">$$\frac{280}{5} = 56 \mbox{ reais}.$$</span> Logo,
+o total a ser pago é igual a <span
+class="math inline">45 × 56 = 40 × 63 = 2 520</span> reais. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.70</strong> (OBM – 1999). <em>Um pequeno caminhão
+pode carregar 50 sacos de areia ou 400 tijolos. Se forem colocados no
+caminhão 32 sacos de areia, quantos tijolos ele ainda pode
+carregar?</em></p>
+<ol type="A">
+<li><p><em>132.</em></p></li>
+<li><p><em>144.</em></p></li>
+<li><p><em>146.</em></p></li>
+<li><p><em>148.</em></p></li>
+<li><p><em>152.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Um saco de areia equivale a <span
+class="math display">$$\frac{400}{50} = 8 \mbox{ tijolos}.$$</span>
+Logo, 32 sacos de areia equivalem a <span
+class="math display">32 × 8 = 256 tijolos.</span> Logo, o caminhão ainda
+teria capacidade para <span class="math display">400 − 256 = 144</span>
+tijolos, o que corresponde à alternativa B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.71</strong> (ESPM – 2003). <em>Certo grupo de
+funcionários realiza certo trabalho em 6 horas. Descobriu-se que, se
+eles fossem 40<span class="math inline">%</span> mais eficientes, com 2
+funcionários a menos esse mesmo trabalho seria feito em 5 horas. O
+número de funcionários em questão é</em></p>
+<ol type="A">
+<li><p><em>10.</em></p></li>
+<li><p><em>11.</em></p></li>
+<li><p><em>12.</em></p></li>
+<li><p><em>13.</em></p></li>
+<li><p><em>14.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O grupo de funcionários realiza, inicialmente, <span
+class="math display">$$\frac{1}{6}$$</span> da tarefa em 1 hora. O
+aumento de eficiência em 40<span class="math inline">%</span> significa
+que, por hora, o grupo passa a realizar <span
+class="math display">$$\frac{1}{6} + 40\% \times \frac{1}{6} =
+\frac{1}{6} + \frac{4}{60} = \frac{14}{60}$$</span> da tarefa em 1 hora.
+Com essa eficiência, em 5 horas, o grupo inicial de funcionários
+realizaria <span class="math display">$$5 \times \frac{14}{60} =
+\frac{70}{60} = 1+ \frac{10}{60} = 1 + \frac{1}{6}$$</span> da tarefa,
+ou seja, <span class="math inline">$\frac{1}{6}$</span> da tarefa <em>a
+mais</em>. De acordo com o enunciado, esse excedente de <span
+class="math inline">$\frac{1}{6}$</span> permite diminuir o número de
+funcionários em 2. Logo, 2 funcionários, com a eficiência aumentada,
+realizam <span class="math inline">$\frac{1}{6}$</span> da tarefa em 5
+horas. Portanto, com a eficiência inicial, 2 funcionários realizariam
+<span class="math display">$$\frac{1}{6} \times \frac{1}{1,4}
+=\frac{1}{8,4} = \frac{10}{84}$$</span> da tarefa em 5 horas. Logo, em 1
+hora, 1 funcionário, com a eficiência inicial, faria <span
+class="math display">$$\frac{1}{84}$$</span> da tarefa. Em 6 horas, 1
+funcionário, com a eficiência inicial, faria <span
+class="math display">$$\frac{6}{84} = \frac{1}{14}$$</span> da tarefa.
+Logo, a equipe tinha, inicialmente, 14 funcionários. Portanto, a
+alternativa correta é a de letra E). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Apresentamos, agora, uma solução
+mais algébrica do problema. Seja <span
+class="math inline"><em>N</em></span> o número de funcionários na equipe
+e <span class="math inline"><em>E</em></span> a eficiência de cada
+funcionário por hora. Assim, a tarefa, com o número inicial de
+funcionários, com a eficiência inicial, é executada em 6 horas: <span
+class="math display">6 × <em>N</em> × <em>E</em>.</span> Aumentando-se a
+eficiência em 40<span class="math inline">%</span>, podemos retirar 2
+funcionários da equipe, de modo que a equipe reduzida para <span
+class="math inline"><em>N</em> − 2</span> funcionários executa a mesma
+tarefa em 5 horas: <span class="math display">$$5 \times (N-2) \times
+\frac{140}{100} E.$$</span> Portanto, <span
+class="math display">6 × <em>N</em> × <em>E</em> = 7 × (<em>N</em><em>E</em>−2<em>E</em>).</span>
+Logo, dividindo cada um dos lados da igualdade por <span
+class="math inline"><em>E</em></span>, temos <span
+class="math display">6 × <em>N</em> = 7 × <em>N</em> − 14.</span>
+Portanto, <span class="math inline"><em>N</em> = 14</span>.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.72</strong> (PUC-2021). <em>Em janeiro, 100 gramas
+de adamantium custavam R<span class="math inline">$</span> 20 000,00. Em
+fevereiro o preço caiu em 5<span class="math inline">%</span>. Em março
+o preço subiu 5<span class="math inline">%</span>. Quanto custam 500
+gramas de adamantium em abril?</em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 99 750,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 100 250,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 100 750,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 101 237,00</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Com o diminuição de <span class="math inline">5%</span>, o
+preço de 100 gramas do material passou a ser <span
+class="math display">$$20\,000 - 20\,000 \times \frac{5}{100} = 20\,000
+- 200 \times 5 = 19\,000 \mbox{ reais}$$</span> em fevereiro. Em março,
+com o aumento de 5<span class="math inline">%</span> sobre o <em>preço
+de fevereiro</em>, o preço de 100 gramas do material passou a ser <span
+class="math display">$$19\,000 + 19\,000 \times \frac{5}{100} = 19\,000
++ 190 \times 5 = 19\,950 \mbox{ reais}.$$</span> Assim, com este preço
+final, 500 gramas do material passaram a custar <span
+class="math display">5 × 19 950 = 5 × 20 000 − 5 × 50 = 100 000 − 250 = 99 750
+reais,</span> o que corresponde à alternativa A). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Nesse problema, temos uma
+situação em que os acréscimos são <em>compostos</em>, ou seja:
+inicialmente, temos um <em>decréscimo</em> de 5<span
+class="math inline">% = 0, 05</span> sobre o valor inicial <span
+class="math inline"><em>C</em> = 20 000</span>; em seguida, um
+<em>acréscimo</em> também de 5<span
+class="math inline">% = 0, 05</span>. O detalhe crucial é de que o
+acréscimo é calculado sobre o <em>novo valor</em> e não sobre o valor
+inicial, ou seja, é calculado sobre os R<span
+class="math inline">$</span> 19 000,00 e não sobre os R<span
+class="math inline">$</span> 20 000,00 iniciais. Temos, então, o
+seguinte cálculo: <span
+class="math display">20 000 × (1−0,05) × (1+0,05) = 20 000 × (1−0,025) = 20 000 × 0, 9975 = 19 950,</span>
+outra maneira de obter o resultado que já havíamos encontrado.</em></p>
+</div>
+</div>
+<div class="obsBox">
+<div id="pa2" class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em><span><strong>Acréscimos
+compostos</strong></span> são diferentes de <span><strong>acréscimos
+simples</strong></span>. No caso de acréscimos simples sobre um valor
+inicial <span class="math inline"><em>C</em></span> a uma taxa <span
+class="math inline"><em>i</em></span> igual a, por exemplo <span
+class="math inline">5% = 0, 05</span>, os acréscimos são sempre
+calculados sobre <span class="math inline"><em>C</em></span>, isto é,
+<span class="math display">$$C + \underbrace{C \times i + \ldots +
+C\times i}_{t\, {\rm vezes}},$$</span> ou seja, o montante <span
+class="math inline"><em>M</em></span>, isto é, o valor final após <span
+class="math inline"><em>t</em></span> acréscimos, é dado por <span
+class="math display"><em>M</em> = <em>C</em> + <em>C</em><em>i</em><em>t</em> = <em>C</em>(1+<em>i</em><em>t</em>).</span>
+Esses valores definem uma <span><strong>progressão
+aritmética</strong></span>.</em></p>
+<p><em>No caso de acréscimos compostos, cada acréscimo é calculado sobre
+o valor <em>imediatamente anterior</em> e não sobre o valor inicial.
+Logo, acréscimos compostos a uma taxa <span
+class="math inline"><em>i</em></span>, sobre o valor inicial <span
+class="math inline"><em>C</em></span>, definem uma
+<span><strong>progressão geométrica</strong></span>: <span
+class="math display">$$\begin{aligned}
+&amp; C + Ci = C(1+i),\\
+&amp; C(1+i) + C(1+i)i = C(1+i)^2,\\
+&amp; C(1+i)^2 + C(1+i)^2 i = C(1+i)^3,
+\end{aligned}$$</span> e assim por diante. De um modo geral, o acréscimo
+composto <span class="math inline"><em>t</em></span> vezes resulta no
+montante <span
+class="math display"><em>M</em> = <em>C</em>(1+<em>i</em>)<sup><em>t</em></sup>.</span>
+A figura seguinte ilustra a diferença entre os crescimentos aritmético e
+geométrico, respectivamente associados aos acréscimos simples e
+acréscimos compostos:</em></p>
+<div class="center">
+
+</div>
+<p><em>Os pontos alinhados em uma reta correspondem aos acréscimos
+simples, a partir do valor inicial <span
+class="math inline"><em>C</em> = 5/32</span> a uma taxa de acréscimos
+simples igual a <span class="math inline"><em>i</em> = 100%</span>. Já
+os pontos que seguem ao longo de uma linha <em>exponencial</em> são
+dados pela progressão geométrica de acréscimos <em>compostos</em> que
+também iniciam com <span class="math inline"><em>C</em> = 5/32</span>, a
+uma taxa de acréscimos compostos igual a <span
+class="math inline"><em>i</em> = 100%</span>.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.73</strong>. <em>De julho a novembro de 2019, o
+preço de quilograma de carne subiu, em média, 25<span
+class="math inline">%</span>. Após este período de alta de preços, houve
+uma redução de <span class="math inline">20%</span>, de novembro para
+dezembro de 2019. O que aconteceu, portanto, com o preço da carne em
+dezembro com relação a julho?</em></p>
+<ol type="A">
+<li><p><em>Aumentou 0<span class="math inline">%</span>.</em></p></li>
+<li><p><em>Aumentou 5<span class="math inline">%</span>.</em></p></li>
+<li><p><em>Aumentou 10<span class="math inline">%</span>.</em></p></li>
+<li><p><em>Aumentou 45<span class="math inline">%</span>.</em></p></li>
+<li><p><em>Aumentou 50<span class="math inline">%</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Com o aumento, o preço inicial foi multiplicado por <span
+class="math inline">1 + 0, 25 = 1, 25</span>. Esse novo preço, com a
+redução, deve ser multiplicado por <span
+class="math inline">1 − 0, 20 = 0, 80</span>. Logo, o preço final é
+obtido multiplicando o preço inicial por <span
+class="math display">1, 25 × 0, 80 = 1.</span> Logo, com o aumento e a
+redução, em seguida, o preço voltou ao valor inicial. Logo, a
+alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.74</strong> (FGV, 2016, Prova A - Verde, Questão
+7). <em>Um comerciante comprou mercadorias para revendê-las. Ele deseja
+marcar essas mercadorias com preços tais que, ao dar descontos de
+20<span class="math inline">%</span> sobre os preços marcados, ele ainda
+obtenha um lucro de 25<span class="math inline">%</span> sobre o preço
+de compra. Em relação ao preço de compra, o preco marcado nas
+mercadorias é</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">30%</span> maior.</em></p></li>
+<li><p><em><span class="math inline">40%</span> maior.</em></p></li>
+<li><p><em><span class="math inline">45%</span> maior.</em></p></li>
+<li><p><em><span class="math inline">50%</span> maior.</em></p></li>
+<li><p><em>mais de <span class="math inline">50%</span>
+maior.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Sejam <span class="math inline"><em>p</em></span> o preço
+de compra e <span class="math inline"><em>P</em></span> o preço de
+venda, marcado nas mercadorias. Com o desconto de 20<span
+class="math inline">%</span> sobre o preço de venda, esse passa a ser
+<span class="math display">$$P - \frac{20}{100}  \times P =
+\frac{80}{100} \times P.$$</span> Com essa redução, deve haver um lucro
+de 25<span class="math inline">%</span> sobre o preço de compra, isto é,
+<span class="math display">$$\frac{80}{100}\times P = p +
+\frac{25}{100}\times p = \frac{125}{100} p.$$</span> Assim <span
+class="math display">$$\frac{80}{100} P = \frac{125}{100}p.$$</span>
+Logo, <span class="math display">$$P = \frac{125}{80} p = 1,5625 p &gt;
+1,50 p.$$</span> Logo, o preço de venda <span
+class="math inline"><em>P</em></span> é obtido por um aumento superior a
+50<span class="math inline">%</span> sobre o preço de compra <span
+class="math inline"><em>p</em></span>. Portanto, a alternativa correta é
+E). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.75</strong> (FGV, 2017, Prova C - Rosa, Questão
+15). <em>O custo de produção de uma peça é composto de: 40<span
+class="math inline">%</span> de mão de obra; 25<span
+class="math inline">%</span> de matéria-prima; 20<span
+class="math inline">%</span> de energia elétrica e 15<span
+class="math inline">%</span> das demais despesas. Num certo momento,
+ocorrem os seguintes aumentos: mão de obra, 10<span
+class="math inline">%</span>; matéria-prima, 20<span
+class="math inline">%</span>; energia elétrica, 15<span
+class="math inline">%</span>; e demais despesas, 10<span
+class="math inline">%</span>. O aumento percentual no custo total da
+peça foi de</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">13, 0%</span>.</em></p></li>
+<li><p><em><span class="math inline">13, 5%</span>.</em></p></li>
+<li><p><em><span class="math inline">12, 0%</span>.</em></p></li>
+<li><p><em><span class="math inline">12, 5%</span>.</em></p></li>
+<li><p><em><span class="math inline">11, 5%</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> De cada 100 reais de custo de produção, 40 reais são
+relativos à mão-de-obra; 25 reais, à matéria-prima; 20 reais dizem
+respeito à energia elétrica; e 15 reais, às demais despesas. Um aumento
+de 10<span class="math inline">%</span> na matéria-prima significa que o
+custo com esse item passa a <span class="math display">$$40 +
+\frac{10}{100}\times 40 = 40 + 4 = 44 \mbox{ reais}.$$</span> Já a
+matéria-prima, com o aumento de 20<span class="math inline">%</span>,
+passa a custar <span class="math display">$$25 + \frac{20}{100} \times
+25 = 25 + 5 = 30 \mbox{ reais}.$$</span> O aumento de 15<span
+class="math inline">%</span> no preço da energia elétrica eleva o custo
+desse item para <span class="math display">$$20 + \frac{15}{100} \times
+20 = 20 + 3 = 23 \mbox{ reais}.$$</span> Por fim, as demais despesas,
+após o aumento de 10<span class="math inline">%</span>, tem custo,
+agora, dado por <span class="math display">$$15 + \frac{10}{100} \times
+15 = 15 + 1,5 = 16,50 \mbox{ reais}.$$</span> Portanto, o novo custo
+total de produção é dado por <span
+class="math display">44 + 30 + 23 + 16, 50 = 113, 50.</span> Logo, o
+<em>aumento percentual</em> é dado por <span
+class="math display">$$\frac{113,50-100}{100} = \frac{13,50}{100}  =
+13,50\%$$</span> Portanto, a alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.76</strong> (Colégio Militar de Fortaleza, 2006 –
+adaptado). <em>Um comerciante vendeu <span
+class="math inline">$\frac{3}{10}$</span> de seu estoque de certo
+produto com lucro de 30<span class="math inline">%</span> e o restante
+desse estoque com prejuízo de 10<span class="math inline">%</span>. No
+total da operação, o comerciante</em></p>
+<ul>
+<li><p><em>teve lucro de <span
+class="math inline">20%</span>.</em></p></li>
+<li><p><em>teve lucro de <span
+class="math inline">2%</span>.</em></p></li>
+<li><p><em>teve prejuízo de <span
+class="math inline">20%</span>.</em></p></li>
+<li><p><em>teve prejuízo de <span
+class="math inline">2%</span>.</em></p></li>
+<li><p><em>não teve lucro nem prejuízo.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O lucro de <span class="math inline">30% = 0, 3</span>
+sobre <span class="math inline">$\frac{3}{10}$</span> do estoque e o
+prejuízo de <span class="math inline">10% = 0, 1</span> sobre os outros
+<span class="math inline">$\frac{7}{10}$</span> do estoque resultam em
+<span class="math display">$$\frac{3}{10} \times (1+0,3) + \frac{7}{10}
+\times (1-0,1) = \frac{3,9}{10} + \frac{6,3}{10} = \frac{10,2}{10} =
+\frac{102}{100} = 1 + 2\%$$</span> Portanto, a alternativa correta é
+B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.77</strong> (UECE – Vestibular 2018.1). <em>Se a
+base de um triângulo é aumentada em 10<span class="math inline">%</span>
+e a altura diminuída em 10<span class="math inline">%</span>, então, em
+relação à área do triângulo alterado, comparada com a área do triângulo
+inicial, é correto afirmar que ela</em></p>
+<ol type="A">
+<li><p><em>diminui 1<span class="math inline">%</span>.</em></p></li>
+<li><p><em>permanece a mesma.</em></p></li>
+<li><p><em>aumenta 0,01<span class="math inline">%</span>.</em></p></li>
+<li><p><em>diminui 0,1<span class="math inline">%</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Como revisaremos mais adiante, a área de um triângulo é
+dada por metade do produto de uma de suas bases, digamos <span
+class="math inline"><em>B</em></span>, pela altura <span
+class="math inline"><em>H</em></span> correspondente. Se a base aumenta
+10<span class="math inline">%</span>, a nova base passa a ter
+comprimento <span
+class="math display"><em>B</em> + 0, 1 × <em>B</em> = 1, 1 × <em>B</em>.</span>
+Se, por outro lado, a altura <span class="math inline"><em>H</em></span>
+diminui 10<span class="math inline">%</span>, passa a ter comprimento
+<span
+class="math display"><em>H</em> − 0, 1 × <em>H</em> = 0, 9 × <em>H</em>.</span>
+Logo, a área do triângulo com essas novas dimensões passa a ser <span
+class="math display">$$\frac{1}{2} \times 1,1 \times B \times 0,9 \times
+H = 1,1 \times 0,9 \times \frac{1}{2} B \times H.$$</span> Logo, a área
+passa a ser <span
+class="math display">1, 1 × 0, 9 = 1 − 0, 01 = 0, 99 = 99%</span> da
+área original. Logo, a alternativa correta é a A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.78</strong> (FUVEST – 2016). <em>Um veículo viaja
+entre dois povoados da Serra da Mantiqueira, percorrendo a primeira
+terça parte do trajeto à velocidade média de 60 quilômetros por hora, a
+terça parte seguinte a 40 quilômetros por hora e o restante do percurso
+a 20 quilômetros por hora. O valor que melhor aproxima a velocidade
+média do veículo nessa viagem, em quilômetros por hora, é</em></p>
+<ol type="A">
+<li><p><em>32,5.</em></p></li>
+<li><p><em>35.</em></p></li>
+<li><p><em>37,5.</em></p></li>
+<li><p><em>40.</em></p></li>
+<li><p><em>42,5.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A velocidade na primeira parte do percurso é igual a <span
+class="math display">$$\frac{60}{40} = \frac{6}{4} =
+\frac{3}{2}$$</span> vezes a velocidade na segunda parte do percurso.
+Logo, o tempo gasto na segunda parte do percurso é igual a <span
+class="math display">$$\frac{3}{2}$$</span> vezes o tempo gasto na
+primeira parte do percurso. Da mesma forma, a velocidade na primeira
+parte do percurso é igual a <span class="math display">$$\frac{60}{20} =
+\frac{6}{2} =3$$</span> vezes a velocidade na terceira parte do
+percurso. Logo, o tempo gasto na terceira parte do percurso é igual a
+<span class="math display">3</span> vezes o tempo gasto na terceira
+parte do percurso. Logo, o tempo total do percurso é proporcional a
+<span class="math display">$$1 + \frac{3}{2} + 3
+=\frac{11}{2}\cdot$$</span> Já as distâncias percorridas, em cada
+trecho, são iguais e proporcionais a <span class="math display">$$60
+\times 1 \qquad \frac{3}{2} \times 40 = 60 \quad \mbox{ e } \quad 3
+\times 20 = 60$$</span> (mesma constante de proporcionalidade;
+justifique). Logo, a velocidade do percurso total é igual a <span
+class="math display">$$\frac{60+60+60}{\frac{11}{2}} = \frac{360}{11}
+\approx 33\, \mbox{km/h}.$$</span> Concluímos que a alternativa correta
+é a A). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Podemos abordar esse problema
+usando uma linguagem mais algébrica. As três partes do percurso têm a
+mesmo comprimento, que denotamos por <span
+class="math inline"><em>x</em></span>. Para percorrer a primeira terça
+parte, o veículo gasta <span
+class="math display">$$\frac{x}{60}$$</span> horas; na segunda terça
+parte, gasta <span class="math display">$$\frac{x}{40}$$</span> horas;
+por fim, na última terça parte, gasta <span
+class="math display">$$\frac{x}{20}$$</span> horas. Assim, a velocidade
+média é dada, durante o percurso inteiro, é dada por <span
+class="math display">$$\frac{x+x+x}{\frac{x}{60} + \frac{x}{40} +
+\frac{x}{20}} = \frac{3}{\frac{2+3+6}{120}} =  3\times \frac{120}{11}
+\approx 3\times \frac{121}{11} = 3 \times 11 = 33\,
+\mbox{km/h}.$$</span> Logo, a alternativa correta é a A).</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div id="tab:my_label" class="questaoT">
+<p><strong>Questão 1.79</strong>. <em>A tabela abaixo informa alguns
+valores nutricionais para a mesma quantidade de dois alimentos, A e
+B.</em></p>
+<div id="tab:my_label">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><em>Alimento</em></th>
+<th style="text-align: center;"><em>A</em></th>
+<th style="text-align: center;"><em>B</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Quantidade  </em></td>
+<td style="text-align: center;"><em>   20 gramas  </em></td>
+<td style="text-align: center;"><em>  20 gramas</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Valor energético  </em></td>
+<td style="text-align: center;"><em>   60 quilocalorias  </em></td>
+<td style="text-align: center;"><em>  80 quilocalorias</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Sódio  </em></td>
+<td style="text-align: center;"><em>   10 miligramas  </em></td>
+<td style="text-align: center;"><em>  20 miligramas</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Proteína  </em></td>
+<td style="text-align: center;"><em>   6 gramas  </em></td>
+<td style="text-align: center;"><em>  1 grama</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em></em></p>
+<p><em>Considere duas porções isocalóricas (de mesmo valor energético)
+dos alimentos A e B. A razão entre as quantidades de proteína em A e em
+B é igual a:</em></p>
+<ol type="A">
+<li><p><em>4.</em></p></li>
+<li><p><em>6.</em></p></li>
+<li><p><em>8.</em></p></li>
+<li><p><em>10.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que 20 gramas do alimento A tem 60 quilocalorias
+ao passo que 20 gramas do alimento B tem 80 quilocalorias, isto é, um
+valor energético <span class="math display">$$\frac{80}{60} =
+\frac{4}{3}$$</span> vezes maior. Logo, 4 gramas do alimento A têm o
+mesmo valor energético que 3 gramas do alimento B. Por outro lado, cada
+grama do alimento A tem <span class="math inline">$\frac{6}{20}$</span>
+de proteína ao passo que cada grama do alimento B tem <span
+class="math inline">$\frac{1}{20}$</span> de proteína. Assim, 4 gramas
+do alimento A têm <span class="math inline">$\frac{24}{20}$</span>
+gramas de proteína. Da mesma forma, 3 gramas do alimento B têm <span
+class="math inline">$\frac{3}{20}$</span> gramas de proteína.</p>
+<p>Portanto, a razão entre as quantidades de proteína em porções de
+mesmo valor energético dos alimentos A e B é igual a <span
+class="math display">$$\frac{\frac{24}{20}}{\frac{3}{20}} = \frac{24}{3}
+= 8$$</span> A alternativa correta, portanto, é a letra C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.80</strong> (Colégio Naval, 1980). <em>Um pai
+resolveu premiar seus três filhos com R<span
+class="math inline">$</span> 1 900,00. Esse valor deve ser dividido em
+partes inversamente proporcionais aos números de faltas de cada um dos
+filhos na escola, que foram 2, 4 e 5. Então, a quantia que caberá ao que
+recebeu menos é de</em></p>
+<ul>
+<li><p><em>R<span class="math inline">$</span> 300,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 400,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 500,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 600,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 700,00.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> As partes são proporcionais a <span
+class="math inline">$\frac{1}{2}$</span>, <span
+class="math inline">$\frac{1}{4}$</span> e <span
+class="math inline">$\frac{1}{5}$</span>. A soma dessas partes deve ser,
+portanto, proporcional a <span class="math display">$$\frac{1}{2} +
+\frac{1}{4} + \frac{1}{5} = \frac{10+5+4}{20} =
+\frac{19}{20}\cdot$$</span> Logo, como <span
+class="math inline">$\frac{19}{20}$</span> é proporcional a 1.900, a
+fração <span class="math inline">$\frac{1}{20}$</span> é proporcional a
+<span class="math display">$$\frac{1\,900}{19} = 100 \mbox{
+reais}.$$</span> Portanto, a menor parte, dada por <span
+class="math inline">$\frac{1}{5} = \frac{4}{20}$</span>, é proporcional
+a <span class="math inline">4 × 100 = 400</span> reais. Logo, a
+alternativa correta é B). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Em uma abordagem mais algébrica
+para a resolução do problema, denotamos por <span
+class="math inline"><em>x</em>, <em>y</em></span> e <span
+class="math inline"><em>z</em></span> as partes a serem recebidas pelos
+3 filhos. Assim, <span
+class="math display">2<em>x</em> = 4<em>y</em> = 5<em>z</em>.</span>
+Logo, <span class="math display">$$y = \frac{1}{2}x \quad \mbox{ e }
+\quad  z = \frac{2}{5}x.$$</span> Assim, uma vez que <span
+class="math display"><em>x</em> + <em>y</em> + <em>z</em> = 1 900,</span>
+temos <span class="math display">$$x + \frac{1}{2} x + \frac{2}{5} x =
+1\,900.$$</span> Portanto, <span
+class="math display">$$\frac{10+5+4}{10} x  = 1\,900.$$</span>
+Concluímos que <span class="math display">$$x = \frac{19\,000}{19} =
+1\,000.$$</span> Portanto, <span class="math display">$$z = \frac{2}{5}
+\times 1\,000 = 400 \mbox{ reais}.$$</span></em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.81</strong> (UECE). <em>Sejam <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> duas grandezas inversamente
+proporcionais. Se <span class="math inline"><em>x</em></span> sofre um
+acréscimo de 25<span class="math inline">%</span>, o decréscimo
+percentual sofrido por <span class="math inline"><em>y</em></span>
+é</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">20%</span>.</em></p></li>
+<li><p><em><span class="math inline">22%</span>.</em></p></li>
+<li><p><em><span class="math inline">24%</span>.</em></p></li>
+<li><p><em><span class="math inline">25%</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Como <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> são inversamente proporcionais, o
+produto <span class="math inline"><em>x</em><em>y</em></span> permanece
+constante. Logo, um acréscimo de 25<span class="math inline">%</span> na
+variável <span class="math inline"><em>x</em></span> significa que
+multiplicamos seu valor por <span
+class="math inline">1 + 0, 25 = 1, 25</span>. Para que o produto
+permaneça constante, devemos dividir <span
+class="math inline"><em>y</em></span> por <span
+class="math inline">1, 25</span>. No entanto, <span
+class="math display">$$\frac{1}{1,25} = \frac{100}{125} = \frac{4}{5} =
+\frac{80}{100} = 80\%.$$</span> Portanto, o decréscimo percentual de
+<span class="math inline"><em>y</em></span> é de <span
+class="math inline">20%</span>. Logo, a alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.82</strong> (ENEM 2021, Caderno Amarelo, Questão
+138). <em>Uma unidade de medida comum usada para expressar áreas de
+terrenos de grandes dimensões é o hectare, que equivale a 10 000 m<span
+class="math inline"><sup>2</sup></span>. Um fazendeiro decide fazer um
+loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare
+será usado para a construção de ruas e calçadas e o restante será
+dividido em terrenos com área de 300 m<span
+class="math inline"><sup>2</sup></span> cada um. Os 20 primeiros
+terrenos vendidos terão preços promocionais de R<span
+class="math inline">$</span> 20 000,00 cada, e os demais, R<span
+class="math inline">$</span> 30 000,00 cada.</em></p>
+<p><em>Nas condições estabelecidas, o valor total, em real, obtido pelo
+fazendeiro com a venda de todos os terrenos será igual a</em></p>
+<ol type="A">
+<li><p><em>700 000.</em></p></li>
+<li><p><em>1 600 000.</em></p></li>
+<li><p><em>1 900 000.</em></p></li>
+<li><p><em>2 200 000.</em></p></li>
+<li><p><em>2 800 000.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A área total dos terrenos é igual a <span
+class="math inline">3 − 0, 9 = 2, 1</span> hectares, ou seja, <span
+class="math display">$$2,1 \times 10\,000 = 21\,000 \, {\mbox
+m}^2.$$</span> Dividindo essa área em terrenos com área de 300 m<span
+class="math inline"><sup>2</sup></span>, temos <span
+class="math display">$$\frac{21\,000}{300} = \frac{210}{3} = 70 \mbox{
+terrenos}.$$</span> Desses 70 terrenos, 20 serão vendidos a R<span
+class="math inline">$</span> 20 000,00 cada um, totalizando <span
+class="math display">20 × 20 000 = 400 000</span> reais, enquanto os
+demais terrenos, isto é, os <span
+class="math inline">70 − 20 = 50</span> restantes serão vendidos a
+R<span class="math inline">$</span> 30 000,00, cada um, totalizando
+<span class="math display">50 × 30 000 = 1 500 000</span> reais. Logo, o
+valor total das vendas será de <span
+class="math display">400 000 + 1 500 000 = 1 900 000</span> reais.
+Portanto, a alternativa correta é a C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.83</strong> (ENEM 2021, Caderno Amarelo, Questão
+151). <em>Um automóvel apresenta um desempenho médio de 16 km/L. Um
+engenheiro desenvolveu um novo motor a combustão que economiza, em
+relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km
+percorridos.</em></p>
+<p><em>O valor do desempenho médio do automóvel com o novo motor, em
+quilômetro por litro, expresso com uma cada decimal, é</em></p>
+<ol type="A">
+<li><p><em>15,9.</em></p></li>
+<li><p><em>16,1.</em></p></li>
+<li><p><em>16,4.</em></p></li>
+<li><p><em>17,4.</em></p></li>
+<li><p><em>18,0.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Com o desenvolvimento feito pelo engenheiro, há uma
+redução de consumo de <span class="math inline">0, 1</span> de litro de
+combustível para cada 20 quilômetros percorridos. Assim, a economia, em
+um percurso de 80 quilômetros, será de <span
+class="math display">4 × 0, 1 = 0, 4 litro.</span> Com o desempenho
+médio anterior, o automóvel consumiria, nesse percurso de 80
+quilômetros, <span class="math display">$$\frac{80}{16} = 5 \mbox{
+litros}$$</span> de combustível. Logo, com a redução, o consumo seria
+igual <span class="math display">5 − 0, 4 = 4, 6</span> litros de
+combustível em 80 quilômetros, ou seja, um desempenho médio igual a
+<span class="math display">$$\frac{80}{4,6} \approx 17,39 \mbox{
+quilômetros por litro}.$$</span> Portanto, a alternativa correta é a D).
+Lembre que o símbolo <span class="math inline">≈</span> significa
+“aproximadamente”. ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Um erro possivelmente frequente
+nesse problema seria o entendimento errôneo de que a redução de consumo
+conseguida pelo engenheiro implicaria que o novo desempenho seria dado
+por <span class="math display">16 − 0, 1 = 15, 9</span> quilômetro por
+litro. Sendo assim, a discussão do problema pode ser um momento muito
+apropriado para revisitar, com os alunos, a ideia de taxa de variação
+que está presente em todo o estudo que fizemos sobre proporcionalidade.
+Cabe ressaltar o papel que a <em>análise dimensional</em> tem na
+formulação do problema: devemos entender como usar as grandezas e suas
+medidas de forma consistente. Por exemplo, o desempenho é dado em
+<em>quilômetros por litro</em>, enquanto a redução de consumo conseguida
+pelo engenheiro é expressa em <em>litros por quilômetro</em>. Ter
+atenção sobre as grandezas pode dar ideias e evitar erros na resolução
+de problemas desse tipo.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.84</strong> (ENEM 2021, Caderno Amarelo, Questão
+157). <em>Para realizar um voo entre duas cidades que distam 2 000 km
+uma da outra, uma companhia aérea utilizava um modelo de aeronave A,
+capaz de transportar até 200 passageiros. Quando uma dessas aeronaves
+está lotada de passageiros, o consumo de combustível é de 0,02 litro por
+quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de
+aeronave A pelo modelo de aeronave B, que é capaz de transportar 10<span
+class="math inline">%</span> de passageiros a mais do que o modelo A,
+mas consumindo 10<span class="math inline">%</span> menos combustível
+por quilômetro e por passageiro.</em></p>
+<p><em>A quantidade de combustível consumida pelo modelo de aeronave B,
+em relação à do modelo de aeronave A, em um voo lotado entre as duas
+cidades, é</em></p>
+<ol type="A">
+<li><p><em>10<span class="math inline">%</span> menor.</em></p></li>
+<li><p><em>1<span class="math inline">%</span> menor.</em></p></li>
+<li><p><em>igual.</em></p></li>
+<li><p><em>1<span class="math inline">%</span> maior.</em></p></li>
+<li><p><em>11<span class="math inline">%</span> maior.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A aeronave de modelo B transporta 10<span
+class="math inline">% = 0, 1</span> a mais de passageiros do que a
+aeronave de modelo A, ou seja, transporta <span
+class="math display">200 + 200 × 0, 1 = 200 × (1+0,1)</span> No entanto,
+consome 10<span class="math inline">% = 0, 1</span> menos combustível do
+que a aeronave de modelo A, por combustível e por passageiro, ou seja,
+consome <span
+class="math display">0, 02 − 0, 02 × 0, 1 = 0, 02 × (1−0,1)</span> litro
+de combustível, por quilômetro e por passageiro. Logo, a aeronave de
+modelo B, realizando o vôo de 2 000 quilômetros, com sua capacidade
+total de passageiros, consome <span
+class="math display">0, 02 × (1−0,1) × 2 000 × 200 × (1+0,1) = 0, 02 × 2 000 × 200 × (1+0,1) × (1−0,1)</span>
+litros de combustível. Já a aeronave A realiza esse vôo de 2 000
+quilômetros, com capacidade de 200 passageiros, consumindo <span
+class="math display">0, 02 × 2 000 × 200</span> litros de combustível.
+Para comparar os consumos dos dois modelos, calculamos a
+<span><strong>razão</strong></span> <span
+class="math display">$$\frac{\bcancel{0,02 \times 2\,000 \times 200}
+\times (1+0,1) \times (1-0,1)}{\bcancel{0,02 \times 2\,000 \times 200}}
+= (1+0,1) \times (1-0,1) = 1- 0,01.$$</span> Portanto, o consumo da
+aeronave de modelo B é 1<span class="math inline">%</span> menor do que
+o consumo da aeronave de modelo A. Logo, a alternativa correta é a
+B). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Observe que não é conveniente
+fazer os cálculos aritméticos logo no início da resolução,
+multiplicando, por exemplo <span class="math inline">200</span> por
+<span class="math inline">0, 02</span>, e assim por diante. Ao fim,
+percebemos que tanto o número de passageiros (200) quanto o consumo
+informado (0,02) eram irrelevantes para a resolução do problema. Os
+dados essenciais são o percentual de aumento de passageiros e o
+percentual de redução do consumo</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.85</strong> (ENEM 2021, Caderno Amarelo, Questão
+143). <em>Após consulta médica, um paciente deve seguir um tratamento
+composto por três medicamentos: X, Y e Z. O paciente, para adquirir os
+três medicamentos, faz um orçamento em três farmácias diferentes,
+conforme o quadro.</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><em>  </em></th>
+<th style="text-align: center;"><em>   X   </em></th>
+<th style="text-align: center;"><em>   Y   </em></th>
+<th style="text-align: center;"><em>   Z</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Farmácia 1  </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 45,00   </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 40,00   </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 50,00</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Farmácia 2  </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 50,00   </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 50,00   </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 40,00</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Farmácia 3  </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 65,00   </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 45,00   </em></td>
+<td style="text-align: center;"><em>   R<span
+class="math inline">$</span> 35,00</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>Dessas farmácias, algumas oferecem descontos:</em></p>
+<ol>
+<li><p><em>na compra dos medicamentos X e Y na Farmácia 2, recebe-se um
+desconto de 20<span class="math inline">%</span> em ambos os produtos,
+independentemente da compra do medicamento Z, e não há desconto para o
+medicamento Z;</em></p></li>
+<li><p><em>na compra dos 3 medicamentos na Farmácia 3, recebe-se 20<span
+class="math inline">%</span> de desconto no valor total da
+compra;</em></p></li>
+</ol>
+<p><em>O paciente deseja efetuar a compra de modo a minimizar sua
+despesa com os medicamentos.</em></p>
+<p><em>De acordo com as informações, o paciente deve comprar os
+medicamentos da seguinte forma:</em></p>
+<ol type="A">
+<li><p><em>X, Y e Z na Farmácia 1.</em></p></li>
+<li><p><em>X e Y na Farmácia 1, e Z na Farmácia 3.</em></p></li>
+<li><p><em>X e Y na Farmácia 2, e Z na Farmácia 3.</em></p></li>
+<li><p><em>X na Farmácia 2, e Y e Z na Farmácia 3.</em></p></li>
+<li><p><em>X, Y e Z na Farmácia 3.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>A habilidade relevante explorada
+nessa questão é o uso da Matemática Básica para basear, racionalmente,
+uma tomada de decisão: o tutor pode ajudar os alunos a modelar, formular
+ou resolver problemas de natureza prática e cotidiana como esse,
+sugeridos pelos próprios alunos. Isso seria um excelente desfecho, com
+protagonismo e pesquisa, dessa etapa da recomposição de
+aprendizagens.</em></p>
+</div>
+</div>
+</div>

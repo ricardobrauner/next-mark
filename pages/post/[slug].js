@@ -1,14 +1,13 @@
 import fs from 'fs';
 import matter from 'gray-matter';
-
-import md from 'markdown-it';
+import SidebarLayout from '../../components/sidebarLayout'
 
 export async function getStaticPaths() {
     // Retrieve all our slugs
     const files = fs.readdirSync('posts');
     const paths = files.map((fileName) => ({
         params: {
-          slug: fileName.replace('.md', ''),
+          slug: fileName.replace('.txt', ''),
         },
     }));
 
@@ -19,21 +18,28 @@ export async function getStaticPaths() {
   }
 
   export async function getStaticProps({ params: { slug } }) {
-    const fileName = fs.readFileSync(`posts/${slug}.md`, 'utf-8');
+    const fileName = fs.readFileSync(`posts/${slug}.txt`, 'utf-8');
     const { data: frontmatter, content } = matter(fileName);
+
+    const files = fs.readdirSync('posts');
+    const slugs = files.map((fileName) => 
+        fileName.replace('.txt', ''),
+    );
     return {
       props: {
         frontmatter,
         content,
+        slugs,
       },
     };
   }
 
-  export default function PostPage({ frontmatter, content }) {
+  export default function PostPage({ frontmatter, content, slugs }) {
     return (
-      <div className='prose mx-auto'>
-        <h1>{frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: md().render(content) }} />
-      </div>
+        <SidebarLayout posts={slugs}>
+
+            <div dangerouslySetInnerHTML={{ __html: content }} />
+
+        </SidebarLayout>
     );
   }

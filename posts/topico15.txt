@@ -1,0 +1,1918 @@
+<h2 id="linearidade-e-não-linearidade">Linearidade e
+não-linearidade</h2>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Nas seções anteriores,
+discutimos problemas em que uma variável é função afim de outra, ou
+seja, em que as variações das duas variáveis são diretamente
+proporcionais. No que segue, apresentamos, para que você possa comparar
+e diferenciar as situações, problemas em que uma variável depende
+<em>quadraticamente</em> de outra. Neste caso, as variações das
+variáveis não são diretamente proporcionais uma a outra.</em></p>
+</div>
+</div>
+<div class="fBox">
+<p>As figuras seguintes mostram uma sequência de quadrados desenhados em
+uma malha quadriculada:</p>
+<div class="center">
+
+</div>
+<p>O primeiro quadrado, à esquerda, tem lados medindo 2 unidades de
+comprimento; o segundo, da esquerda para a direita, tem lados medindo 4
+unidades de comprimento; o terceiro tem lados medindo 6 unidades de
+comprimento; e o último, à direita, tem lados que medem 8 unidades de
+comprimento.</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.153</strong>. <em>Observe o crescimento do
+perímetro e o crescimento da área nessa sequência de quadrados. Complete
+a seguinte tabela com os valores do perímetro e da área desses quatro
+quadrados:</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><em>Lado</em></th>
+<th style="text-align: center;"><em>  2  </em></th>
+<th style="text-align: center;"><em>   4  </em></th>
+<th style="text-align: center;"><em>   6  </em></th>
+<th style="text-align: center;"><em>   8</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Perímetro  </em></td>
+<td style="text-align: center;"><em>  8  </em></td>
+<td style="text-align: center;"><em>   ?  </em></td>
+<td style="text-align: center;"><em>   24  </em></td>
+<td style="text-align: center;"><em>   ?</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Área   </em></td>
+<td style="text-align: center;"><em>   ?   </em></td>
+<td style="text-align: center;"><em>   16  </em></td>
+<td style="text-align: center;"><em>   ?   </em></td>
+<td style="text-align: center;"><em>   64</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Completando a tabela, obtemos:</p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Lado</th>
+<th style="text-align: center;">  2  </th>
+<th style="text-align: center;">   4  </th>
+<th style="text-align: center;">   6  </th>
+<th style="text-align: center;">   8</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Perímetro  </td>
+<td style="text-align: center;">  8  </td>
+<td style="text-align: center;">   16  </td>
+<td style="text-align: center;">   24  </td>
+<td style="text-align: center;">   32</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Área   </td>
+<td style="text-align: center;">   4   </td>
+<td style="text-align: center;">   16  </td>
+<td style="text-align: center;">   36   </td>
+<td style="text-align: center;">   64</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.154</strong>. <em>Desenhe, no <em>plano
+cartesiano</em>, gráficos que mostram as relações</em></p>
+<ul>
+<li><p><em>lado <span class="math inline">×</span> perímetro;
+e</em></p></li>
+<li><p><em>lado <span class="math inline">×</span> área</em></p></li>
+</ul>
+<p><em>dos quatro quadrados na figura.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Os valores na tabela podem ser representados no plano
+cartesiano do seguinte modo (note que as escalas nos eixos horizontal e
+vertical são diferentes): os pontos alinhados na reta representam os
+pares ordenados (lado, perímetro), o que indica que o perímetro é uma
+função linear da medida do lado; os demais pontos representam os pares
+ordenados (lado, área). Percebemos que esses pontos não podem ser
+alinhados ao longo de uma reta, o que mostra que a área
+<span><strong>não</strong></span> é uma função linear ou afim da medida
+do lado. De fato, a curva que conecta esses pontos deveria ser uma
+parábola, visto que, na verdade, a área do quadrado é uma
+<span><strong>função quadrática</strong></span> da medida de seu
+lado.</p>
+<div class="center">
+
+</div>
+<p>Importante observar que esse crescimento <em>quadrático</em> da área
+em função do lado é diferente do crescimento <em>exponencial</em> do
+montante em função do tempo estudado anteriormente. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.155</strong>. <em>Seja <span
+class="math inline"><em>x</em></span> a medida do lado de um quadrado,
+em uma dada unidade de comprimento. A <em>função</em> de <span
+class="math inline"><em>x</em></span> que corresponde ao
+<span><strong>perímetro</strong></span> desse quadrado é dada
+por</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>P</em>(<em>x</em>) = <em>x</em></span>.</em></p></li>
+<li><p><em><span
+class="math inline"><em>P</em>(<em>x</em>) = 2<em>x</em></span>.</em></p></li>
+<li><p><em><span
+class="math inline"><em>P</em>(<em>x</em>) = 4<em>x</em></span>.</em></p></li>
+<li><p><em><span
+class="math inline"><em>P</em>(<em>x</em>) = <em>x</em><sup>2</sup></span>.</em></p></li>
+</ol>
+<p><em>Justifique sua resposta com base na tabela e no gráfico que você
+construiu.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A resposta correta é a alternativa C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.156</strong>. <em>Seja <span
+class="math inline"><em>x</em></span> a medida do lado de um quadrado,
+em uma dada unidade de comprimento. A <em>função</em> de <span
+class="math inline"><em>x</em></span> que corresponde à
+<span><strong>área</strong></span> desse quadrado é dada por</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>A</em>(<em>x</em>) = <em>x</em></span>.</em></p></li>
+<li><p><em><span
+class="math inline"><em>A</em>(<em>x</em>) = 4<em>x</em></span>.</em></p></li>
+<li><p><em><span
+class="math inline"><em>A</em>(<em>x</em>) = <em>x</em><sup>2</sup></span>.</em></p></li>
+<li><p><em><span
+class="math inline"><em>A</em>(<em>x</em>) = 4<em>x</em><sup>2</sup></span>.</em></p></li>
+</ol>
+<p><em>Justifique sua resposta com base na tabela e no gráfico que você
+construiu.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A resposta correta é a alternativa C). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>É importante que haja
+familiaridade com notações algébricas como <span
+class="math inline">2<em>x</em></span>, <span
+class="math inline"><em>x</em><sup>2</sup></span> e outras, de modo que
+se possa compreender as operações algébricas que denotam. Recomendamos,
+para tanto, a leitura do material estruturado acerca de
+<span><strong>Álgebra Elementar</strong></span>.</em></p>
+</div>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>As questões <a href="#area1"
+data-reference-type="ref" data-reference="area1">1.157</a> a <a
+href="#area3" data-reference-type="ref" data-reference="area3">1.159</a>
+trabalham, diretamente, os descritores D65 e D67 na Matriz de Referência
+do SPAECE. Recomendamos, para um aprofundamento na temática de áreas e
+perímetros, o estudo do material estruturado sobre
+<span><strong>Geometria Métrica</strong></span>. É também relevante
+resgatar alguns conhecimentos sobre o sistema métrico decimal,
+especialmente a respeito da conversão de unidades de medida,
+utilizando-se múltiplos e submúltiplos de uma dada unidade de
+comprimento, área, volume ou capacidade.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div id="area1" class="questaoT">
+<p><strong>Questão 1.157</strong> (SPAECE - Item M110782E4). <em>O
+desenho abaixo apresenta as dimensões da laje da casa de Isadora. Ela
+irá colocar um muro de proteção nessa laje e, para calcular a quantidade
+de material a ser comprado, precisou medir o seu contorno.</em></p>
+<div class="center">
+<p><img src="casa.jpg" style="width:50.0%" alt="image" /></p>
+</div>
+<p><em>Qual é o perímetro da laje dessa casa?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol>
+<li><p><em>58 m</em></p></li>
+<li><p><em>116 m</em></p></li>
+<li><p><em>232 m</em></p></li>
+<li><p><em>360 m</em></p></li>
+<li><p><em>720 m</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A resposta correta é a alternativa B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div id="area2" class="questaoT">
+<p><strong>Questão 1.158</strong> (SAEPE - Item M120195H6). <em>Paulo
+comprou um terreno retangular de 120 000 m<span
+class="math inline"><sup>2</sup></span>. Esse terreno possui 200 m de
+largura.</em></p>
+<p><em>Quanto mede o comprimento desse terreno?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>200 m</em></p></li>
+<li><p><em>300 m</em></p></li>
+<li><p><em>400 m</em></p></li>
+<li><p><em>600 m</em></p></li>
+<li><p><em>800 m</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A resposta correta é a alternativa D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div id="area3" class="questaoT">
+<p><strong>Questão 1.159</strong> (SAEPE, - Item M120195H6). <em>Observe
+no desenho abaixo o projeto da quadra de basquete que será construída no
+condomínio em que Bruno mora.</em></p>
+<div class="center">
+<p><img src="quadra.jpg" style="width:50.0%" alt="image" /></p>
+</div>
+<p><em>A medida da área dessa quadra de basquete, em metros quadrados,
+será</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>480.</em></p></li>
+<li><p><em>240.</em></p></li>
+<li><p><em>92.</em></p></li>
+<li><p><em>46.</em></p></li>
+<li><p><em>14.</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A resposta correta é a alternativa A). ◻</p>
+</div>
+</div>
+<div class="fBox">
+<p>As figuras seguintes mostram uma sequência de triângulos desenhados
+em uma malha quadriculada:</p>
+<div class="center">
+
+</div>
+<p>Cada um desses triângulos tem <span><strong>base</strong></span>
+igual à medida <span class="math inline">ℓ</span> do lado do quadrado. A
+<span><strong>altura</strong></span> de cada triângulo é também igual à
+medida <span class="math inline">ℓ</span> do lado do quadrado. Observe
+que todos os triângulos têm mesma área <span
+class="math inline"><em>A</em></span>, igual à metade da área do
+quadrado, ou seja, <span class="math display">$$A =
+\frac{1}{2}\ell^2.$$</span></p>
+</div>
+<div class="eBox">
+<div id="triangulos" class="questaoT">
+<p><strong>Questão 1.160</strong>. <em>A figura seguinte mostra oito
+triângulos, em que as medidas de suas bases e de suas alturas podem ser
+determinadas utilizando-se a malha quadriculada, em que os menores
+quadrados têm lados iguais a uma unidade de comprimento:</em></p>
+<div class="center">
+
+</div>
+<div class="center">
+
+</div>
+<p><em>Calcule as áreas desses triângulos. Mostre que, em cada caso, a
+área é dada pela metade do produto da base <span
+class="math inline"><em>b</em></span> e da altura <span
+class="math inline"><em>h</em></span>, isto é, <span
+class="math display">$$A = \frac{b\cdot h}{2}\cdot$$</span></em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Podemos decompor os triângulos do seguinte modo:</p>
+<div class="center">
+
+</div>
+<p>Observe que cada um dos triângulos é, desse modo, decomposto em dois
+triângulos congruentes e, portanto, de mesma área. Por outro lado, a
+área de cada uma dos triângulos destacados é metade da área de um
+retângulo:</p>
+<div class="center">
+
+</div>
+<p>Os retângulos tem área igual ao produto de metade da base <span
+class="math inline">$\frac{1}{2}b$</span> do triângulo pela altura <span
+class="math inline"><em>h</em></span> do triângulo, ou seja, igual a
+<span class="math inline">$\frac{1}{2} b\cdot h$</span>. Podemos ver
+isso, mais claramente, recombinando os dois triângulos em que
+decompusemos cada um dos triângulos originais:</p>
+<div class="center">
+
+</div>
+<p>Esse procedimento pode ser repetido para os quatro outros triângulos,
+como ilustrado na seguinte figura:</p>
+<div class="center">
+
+</div>
+<p>Decompomos cada um desses quatro triângulos em dois triângulos, os
+quais podem ser duplicados para formar retângulos. Com isso, podemos
+demonstrar que a área dos triângulos originais é sempre igual ao produto
+de metade da base pela altura. Deixamos os detalhes ao leitor. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.161</strong>. <em>Observe o crescimento do
+perímetro e o crescimento da área nessa sequência de oito triângulos, da
+esquerda para a direita e da primeira linha para a segunda. Complete a
+seguinte tabela com os valores do perímetro e da área desses oito
+triângulos:</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><em>Base</em></th>
+<th style="text-align: center;"><em>   4   </em></th>
+<th style="text-align: center;"><em>   6   </em></th>
+<th style="text-align: center;"><em>   6   </em></th>
+<th style="text-align: center;"><em>   8   </em></th>
+<th style="text-align: center;"><em>   5   </em></th>
+<th style="text-align: center;"><em>   5   </em></th>
+<th style="text-align: center;"><em>   5   </em></th>
+<th style="text-align: center;"><em>   5</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Altura</em></td>
+<td style="text-align: center;"><em>   3   </em></td>
+<td style="text-align: center;"><em>   3   </em></td>
+<td style="text-align: center;"><em>   5   </em></td>
+<td style="text-align: center;"><em>   5   </em></td>
+<td style="text-align: center;"><em>   5   </em></td>
+<td style="text-align: center;"><em>   6   </em></td>
+<td style="text-align: center;"><em>   7   </em></td>
+<td style="text-align: center;"><em>   8</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Perímetro  </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  </em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Área   </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  </em></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Iniciamos completando a tabela com as áreas dos
+triângulos, calculadas de acordo com os procedimentos geométricos
+descritos anteriormente, com o recurso da malha quadriculada:</p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Base  </th>
+<th style="text-align: center;">   4   </th>
+<th style="text-align: center;">   6   </th>
+<th style="text-align: center;">   6   </th>
+<th style="text-align: center;">   8   </th>
+<th style="text-align: center;">   5   </th>
+<th style="text-align: center;">   5   </th>
+<th style="text-align: center;">   5   </th>
+<th style="text-align: center;">   5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Altura  </td>
+<td style="text-align: center;">   3   </td>
+<td style="text-align: center;">   3   </td>
+<td style="text-align: center;">   5   </td>
+<td style="text-align: center;">   5   </td>
+<td style="text-align: center;">   5   </td>
+<td style="text-align: center;">   6   </td>
+<td style="text-align: center;">   7   </td>
+<td style="text-align: center;">   8</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Área  </td>
+<td style="text-align: center;">   6   </td>
+<td style="text-align: center;">   9   </td>
+<td style="text-align: center;">   15   </td>
+<td style="text-align: center;">   20   </td>
+<td style="text-align: center;">   12,5   </td>
+<td style="text-align: center;">   15   </td>
+<td style="text-align: center;">   17,5   </td>
+<td style="text-align: center;">   20</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Convém que, em cada caso, seja verificado que o uso direto da
+expressão <span class="math display">$$\frac{1}{2} \mbox{ base } \times
+\mbox{ altura}$$</span> daria exatamente o resultado obtido
+geometricamente.</p>
+<p>O cálculo dos perímetros é mais sutil, pois envolve o uso do
+<span><strong>Teorema de Pitágoras</strong></span>.</p>
+<div class="fBox">
+<p>Considere o triângulo <span
+class="math inline"><em>O</em><em>Q</em><em>R</em></span> ilustrado na
+seguinte figura, cuja base <span
+class="math inline"><em>B</em> = <em>O</em><em>R</em></span> mede <span
+class="math inline">4</span> unidades de comprimento e cuja altura <span
+class="math inline"><em>H</em> = <em>P</em><em>Q</em></span>, relativa a
+essa base, mede <span class="math inline">3</span> unidades de
+comprimento:</p>
+<div class="center">
+
+</div>
+<p>Observe que o lado <span
+class="math inline"><em>O</em><em>Q</em></span> do triângulo <span
+class="math inline"><em>O</em><em>Q</em><em>R</em></span> é a
+<span><strong>hipotenusa</strong></span> do <em>triângulo retângulo</em>
+<span class="math inline"><em>O</em><em>P</em><em>Q</em></span>, cujos
+catetos <span class="math inline"><em>O</em><em>P</em></span> e <span
+class="math inline"><em>P</em><em>Q</em></span> medem, respectivamente,
+2 e 3 unidades de comprimento. Portanto, o <span><strong>Teorema de
+Pitágoras</strong></span> implica que a medida <span
+class="math inline">ℓ</span> da hipotenusa <span
+class="math inline"><em>O</em><em>Q</em></span> é a <em>raiz quadrada da
+soma dos quadrados das medidas dos catetos</em>, ou seja <span
+class="math display">$$\ell = \sqrt{2^2 + 3^2} = \sqrt{4+9} =
+\sqrt{13}.$$</span> unidades de comprimento. Pela simetria do triângulo,
+constatamos que a medida do lado <span
+class="math inline"><em>Q</em><em>R</em></span> é igual a medida do lado
+<span class="math inline"><em>O</em><em>Q</em></span>, ou seja, é também
+igual a <span class="math display">$$\ell = \sqrt{13}$$</span> unidades
+de comprimento.</p>
+</div>
+<p>Com os cálculos acima, vemos que o perímetro do primeiro triângulo na
+sequência da questão <a href="#triangulos" data-reference-type="ref"
+data-reference="triangulos">1.160</a> (de baixo para cima, da esquerda
+para a direita) é dado por <span class="math display">$$4 + \sqrt{13} +
+\sqrt{13} = 4 + 2 \sqrt{13}$$</span> unidades de comprimento. Da mesma
+forma, usando o Teorema de Pitágoras de modo análogo ao que fizemos
+acima, mostramos que dois dos lados do segundo triângulo têm medida
+igual a <span class="math display">$$\sqrt{3^2 + 3^2} = \sqrt{2\times
+3^2} = 3 \sqrt 2$$</span> unidades de comprimento, ao passo que o
+terceiro lado, apoiado no eixo horizontal, tem medida igual a <span
+class="math inline">6</span> unidades de comprimento. Logo, o perímetro
+do segundo triângulo é dado por <span class="math display">$$6 + 3\sqrt
+2.$$</span> Quanto ao terceiro triângulo, o lado sobre o eixo horizontal
+também mede 6 unidades de comprimento e seus dois outros lados medem,
+cada um, <span class="math display">$$\sqrt{3^2+5^2} = \sqrt{9+25} =
+\sqrt{34}$$</span> unidades de comprimento. Logo, seu perímetro é igual
+a <span class="math display">$$6 + 2 \sqrt{34}$$</span> unidades de
+comprimento. Por fim, o quarto triângulo, na linha de cima, à
+extrema-direita, tem um dos lados medindo 8 unidades de comprimento
+(sobre o eixo horizontal) e dois de seus lados medindo, cada um, <span
+class="math display">$$\sqrt{4^2+5^2} = \sqrt{16+25} =
+\sqrt{41}$$</span> unidades de comprimento. Logo, seu perímetro é dado
+por <span class="math display">$$8 + 2\sqrt{41}$$</span> unidades de
+comprimento.</p>
+<div class="fBox">
+<p>Considere o triângulo <span
+class="math inline"><em>O</em><em>Q</em><em>R</em></span> ilustrado na
+seguinte figura, cuja base <span
+class="math inline"><em>B</em> = <em>O</em><em>R</em></span> mede <span
+class="math inline">5</span> unidades de comprimento e cuja altura <span
+class="math inline"><em>H</em> = <em>P</em><em>Q</em></span>, relativa a
+essa base, mede também <span class="math inline">5</span> unidades de
+comprimento:</p>
+<div class="center">
+
+</div>
+<p>Observe que o lado <span
+class="math inline"><em>O</em><em>Q</em></span> do triângulo <span
+class="math inline"><em>O</em><em>Q</em><em>R</em></span> é a
+<span><strong>hipotenusa</strong></span> do <em>triângulo retângulo</em>
+<span class="math inline"><em>O</em><em>P</em><em>Q</em></span>, cujos
+catetos <span class="math inline"><em>O</em><em>P</em></span> e <span
+class="math inline"><em>P</em><em>Q</em></span> medem, respectivamente,
+2 e 5 unidades de comprimento. Portanto, o <span><strong>Teorema de
+Pitágoras</strong></span> implica que a medida <span
+class="math inline">ℓ<sub>1</sub></span> da hipotenusa <span
+class="math inline"><em>O</em><em>Q</em></span> é a <em>raiz quadrada da
+soma dos quadrados das medidas dos catetos</em>, ou seja <span
+class="math display">$$\ell_1 = \sqrt{2^2 + 5^2} = \sqrt{4+25} =
+\sqrt{29}.$$</span> unidades de comprimento. De modo similar,
+constatamos que a medida do lado <span
+class="math inline"><em>Q</em><em>R</em></span> é a
+<span><strong>hipotenusa</strong></span> do <em>triângulo retângulo</em>
+<span class="math inline"><em>P</em><em>Q</em><em>R</em></span>, cujos
+catetos <span class="math inline"><em>P</em><em>R</em></span> e <span
+class="math inline"><em>P</em><em>Q</em></span> medem, respectivamente,
+3 e 5 unidades de comprimento. Portanto, o <span><strong>Teorema de
+Pitágoras</strong></span> implica que a medida <span
+class="math inline">ℓ<sub>2</sub></span> da hipotenusa <span
+class="math inline"><em>Q</em><em>R</em></span> é a <em>raiz quadrada da
+soma dos quadrados das medidas dos catetos</em>, ou seja <span
+class="math display">$$\ell_2 = \sqrt{3^2 + 5^2} = \sqrt{9+25} =
+\sqrt{34}.$$</span> unidades de comprimento.</p>
+</div>
+<p>Com os cálculos acima, vemos que o perímetro do primeiro triângulo na
+segunda linha da sequência da questão <a href="#triangulos"
+data-reference-type="ref" data-reference="triangulos">1.160</a> (de
+baixo para cima, da esquerda para a direita) é dado por <span
+class="math display">$$5 + \sqrt{29} + \sqrt{34}$$</span> unidades de
+comprimento. Da mesma forma, usando o Teorema de Pitágoras de modo
+análogo ao que fizemos acima, mostramos que um dos lados do segundo
+triângulo na segunda linha, da esquerda para a direita, tem medida igual
+a <span class="math display">$$\sqrt{2^2 + 6^2} = \sqrt{4+36} =
+\sqrt{40},$$</span> unidades de comprimento, ao passo que o outro de
+seus lados tem medida igual a <span
+class="math display">$$\sqrt{3^2+6^2} = \sqrt{9+36} = \sqrt{45}$$</span>
+unidades de comprimento. Já o terceiro lado, apoiado no eixo horizontal,
+tem medida igual a <span class="math inline">5</span> unidades de
+comprimento. Logo, o perímetro do segundo triângulo, da esquerda para a
+direita, na linha de baixo, é dado por <span class="math display">$$5 +
+\sqrt{40}+ \sqrt{45}$$</span> unidades de comprimento. Quanto ao
+terceiro triângulo, o lado sobre o eixo horizontal também mede 5
+unidades de comprimento e seus dois outros lados medem, juntos, <span
+class="math display">$$\sqrt{1^2+7^2} + \sqrt{4^2+7^2}= \sqrt{50} +
+\sqrt{65}$$</span> unidades de comprimento. Logo, seu perímetro é igual
+a <span class="math display">$$5 + \sqrt{50} + \sqrt{65}$$</span>
+unidades de comprimento. Por fim, o quarto triângulo, na linha de baixo,
+à extrema-direita, tem um dos lados medindo 5 unidades de comprimento
+(sobre o eixo vertical) e os outros dois lados medindo, juntos, <span
+class="math display">$$\sqrt{1^2+8^2} + \sqrt{4^2+8^2}= \sqrt{65} +
+\sqrt{80}$$</span> unidades de comprimento. Logo, seu perímetro é dado
+por <span class="math display">$$5 +\sqrt{65} + \sqrt{80}$$</span>
+unidades de comprimento. ◻</p>
+</div>
+</div>
+<div class="fBox">
+<p>Veja a sequência de triângulos <em>retângulos</em> encaixados um
+dentro do outro na seguinte figura:</p>
+<div class="center">
+
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.162</strong>. <em>Observe o crescimento do
+perímetro e o crescimento da área nessa sequência de triângulos.
+Complete a seguinte tabela com os valores do perímetro e da área desses
+quatro triângulos:</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><em>Base  </em></th>
+<th style="text-align: center;"><em>   8   </em></th>
+<th style="text-align: center;"><em>   4   </em></th>
+<th style="text-align: center;"><em>   2   </em></th>
+<th style="text-align: center;"><em>   1</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Altura  </em></td>
+<td style="text-align: center;"><em>   8   </em></td>
+<td style="text-align: center;"><em>   4   </em></td>
+<td style="text-align: center;"><em>   2   </em></td>
+<td style="text-align: center;"><em>   1</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Perímetro  </em></td>
+<td style="text-align: center;"><em>   <span
+class="math inline">$(2+\sqrt 2)\cdot 8$</span>   </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  </em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Área   </em></td>
+<td style="text-align: center;"><em>32</em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  </em></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Completando a tabela, obtemos:</p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Base  </th>
+<th style="text-align: center;">   8   </th>
+<th style="text-align: center;">   4   </th>
+<th style="text-align: center;">   2   </th>
+<th style="text-align: center;">   1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Altura  </td>
+<td style="text-align: center;">   8   </td>
+<td style="text-align: center;">   4   </td>
+<td style="text-align: center;">   2   </td>
+<td style="text-align: center;">   1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Perímetro  </td>
+<td style="text-align: center;">   <span class="math inline">$(2+\sqrt
+2)\cdot 8$</span>   </td>
+<td style="text-align: center;">   <span class="math inline">$(2+\sqrt
+2)\cdot 4$</span>   </td>
+<td style="text-align: center;">   <span class="math inline">$(2+\sqrt
+2)\cdot 2$</span>   </td>
+<td style="text-align: center;">   <span class="math inline">$2+\sqrt
+2$</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Área   </td>
+<td style="text-align: center;">32</td>
+<td style="text-align: center;">   8   </td>
+<td style="text-align: center;">   2   </td>
+<td style="text-align: center;">   1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.163</strong>. <em>Desenhe, no <em>plano
+cartesiano</em>, gráficos que mostram as relações</em></p>
+<ul>
+<li><p><em>lado <span class="math inline">×</span> perímetro;
+e</em></p></li>
+<li><p><em>lado <span class="math inline">×</span> área</em></p></li>
+</ul>
+<p><em>dos quatro triângulos retângulos isósceles na figura.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.164</strong>. <em>Seja <span
+class="math inline"><em>x</em></span> a medida do lado de cada um dos
+catetos em um triângulo <em>retângulo isósceles</em>, em um certa
+unidade de comprimento. A <em>função</em> de <span
+class="math inline"><em>x</em></span> que corresponde ao
+<span><strong>perímetro</strong></span> desse triângulo é dada
+por</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>P</em>(<em>x</em>) = <em>x</em></span></em></p></li>
+<li><p><em><span class="math inline">$P(x) = (2+\sqrt
+2)x$</span></em></p></li>
+<li><p><em><span class="math inline">$P(x) = (4+\sqrt
+2)x$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>P</em>(<em>x</em>) = <em>x</em><sup>2</sup></span></em></p></li>
+</ol>
+<p><em>Justifique sua resposta com base na tabela e no gráfico que você
+construiu.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A resposta correta é a alternativa B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.165</strong>. <em>Seja <span
+class="math inline"><em>x</em></span> a medida do lado de cada um dos
+catetos em um triângulo <em>retângulo isósceles</em>, em um certa
+unidade de comprimento. A <em>função</em> de <span
+class="math inline"><em>x</em></span> que corresponde à
+<span><strong>área</strong></span> desse triângulo é dada por</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">$A(x) =
+\frac{1}{2}x$</span></em></p></li>
+<li><p><em><span class="math inline">$A(x) =
+\frac{1}{2}x^2$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>A</em>(<em>x</em>) = <em>x</em><sup>2</sup></span></em></p></li>
+<li><p><em><span
+class="math inline"><em>A</em>(<em>x</em>) = 2<em>x</em><sup>2</sup></span></em></p></li>
+</ol>
+<p><em>Justifique sua resposta com base na tabela e no gráfico que você
+construiu.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A resposta correta é a alternativa B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.166</strong> (PUC-2021). <em>Qual é a razão entre a
+área de um hexágono regular de lado 1 e a área de um triângulo
+equilátero de lado 1?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em>2</em></p></li>
+<li><p><em>3</em></p></li>
+<li><p><em>6</em></p></li>
+<li><p><em><span class="math inline">$2/\sqrt 3$</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Um hexágono regular de lado 1 pode ser decomposto em 6
+triângulos equiláteros de lado 1. Logo, a razão entre as áreas de
+hexágono e do triângulo equilátero, ambos de lado 1, é igual a 6. A
+resposta correta é a alternativa C). ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="fBox">
+<p>A figura seguinte mostra um quadrado de lados iguais a <span
+class="math inline"><em>x</em> + <em>r</em></span>.</p>
+<div class="center">
+
+</div>
+<p>Observe que esse quadrado é formado por um quadrado de lado <span
+class="math inline"><em>x</em></span> (destacado em preto na figura); um
+quadrado de lado <span class="math inline"><em>r</em></span> (destacado
+em cinza na figura, no canto superior direito); e dois
+<em>retângulos</em> de lados <span class="math inline"><em>x</em></span>
+e <span class="math inline"><em>r</em></span>.</p>
+<p>Sendo assim, á área do quadrado completo, dada por <span
+class="math inline">(<em>x</em>+<em>r</em>)<sup>2</sup></span>, é igual
+a soma da área do quadrado de lado <span
+class="math inline"><em>x</em></span> (igual a <span
+class="math inline"><em>x</em><sup>2</sup></span>), da área do quadrado
+de lado <span class="math inline"><em>r</em></span> (igual a <span
+class="math inline"><em>r</em><sup>2</sup></span>) e das áreas dos dois
+retângulos, igual a <span
+class="math inline">2<em>x</em><em>r</em></span>.</p>
+<p>Deduzimos, desse modo, a expressão para o <span><strong>quadrado da
+soma</strong></span>: <span
+class="math display">(<em>x</em>+<em>r</em>)<sup>2</sup> = <em>x</em><sup>2</sup> + 2<em>x</em><em>r</em> + <em>r</em><sup>2</sup>,</span>
+no caso em que <span
+class="math inline"><em>x</em> ≥ 0, <em>r</em> ≥ 0</span>.</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="fBox">
+<p>A figura seguinte mostra um quadrado de lado <span
+class="math inline"><em>x</em></span>, formado por um quadrado de lado
+<span class="math inline"><em>s</em></span> (em preto, na figura); por
+um quadrado de lado <span class="math inline"><em>r</em></span> (no
+canto superior direito, em cinza); e por dois retângulos de lados <span
+class="math inline"><em>r</em></span> e <span
+class="math inline"><em>s</em></span> (em branco, na figura):</p>
+<div class="center">
+
+</div>
+<p>Portanto, a área do quadrado de lado <span
+class="math inline"><em>s</em> = <em>x</em> − <em>r</em></span> é igual
+a área do quadrado completo, de lado <span
+class="math inline"><em>x</em></span> (igual a <span
+class="math inline"><em>x</em><sup>2</sup></span>),
+<span><strong>menos</strong></span> a área do quadrado de lado <span
+class="math inline"><em>r</em></span> (igual a <span
+class="math inline"><em>r</em><sup>2</sup></span>) e
+<span><strong>menos</strong></span> a área dos dois retângulos de lados
+<span class="math inline"><em>s</em></span> e <span
+class="math inline"><em>r</em></span> (igual a <span
+class="math inline">2<em>r</em><em>s</em></span>). Sendo assim, temos
+<span
+class="math display"><em>s</em><sup>2</sup> = (<em>x</em>−<em>r</em>)<sup>2</sup> = <em>x</em><sup>2</sup> − <em>r</em><sup>2</sup> − 2<em>r</em><em>s</em> = <em>x</em><sup>2</sup> − <em>r</em><sup>2</sup> − 2<em>r</em>(<em>x</em>−<em>r</em>) = <em>x</em><sup>2</sup> − <em>r</em><sup>2</sup> − 2<em>x</em><em>r</em> + 2<em>r</em><sup>2</sup> = <em>x</em><sup>2</sup> − 2<em>x</em><em>r</em> + <em>r</em><sup>2</sup>.</span>
+Deduzimos, desse modo, o <span><strong>quadrado da
+diferença</strong></span>: <span
+class="math display">(<em>x</em>−<em>r</em>)<sup>2</sup> = <em>x</em><sup>2</sup> − 2<em>x</em><em>r</em> + <em>r</em><sup>2</sup>,</span>
+no caso em que <span class="math inline"><em>x</em> ≥ 0</span> e <span
+class="math inline">0 ≤ <em>r</em> ≤ <em>x</em></span>. Outra forma de
+demonstrar essa expressão é usar a expansão do quadrado da soma que
+deduzimos antes. Temos <span
+class="math display"><em>x</em><sup>2</sup> = (<em>s</em>+<em>r</em>)<sup>2</sup> = <em>s</em><sup>2</sup> + 2<em>s</em><em>r</em> + <em>r</em><sup>2</sup>.</span>
+Logo, <span
+class="math display">(<em>x</em>−<em>r</em>)<sup>2</sup> = <em>s</em><sup>2</sup> = <em>x</em><sup>2</sup> − 2<em>s</em><em>r</em> − <em>r</em><sup>2</sup> = <em>x</em><sup>2</sup> − 2(<em>x</em>−<em>r</em>)<em>r</em> − <em>r</em><sup>2</sup> = <em>x</em><sup>2</sup> − 2<em>x</em><em>r</em> + <em>r</em><sup>2</sup>.</span>
+Podemos usar a figura para também demonstrar a <span><strong>diferença
+de quadrados</strong></span>: os cálculos acima implicam que <span
+class="math display"><em>x</em><sup>2</sup> − <em>r</em><sup>2</sup> = <em>s</em><sup>2</sup> + 2<em>s</em><em>r</em> = <em>s</em>(<em>s</em>+2<em>r</em>) = (<em>x</em>−<em>r</em>)(<em>x</em>−<em>r</em>+2<em>r</em>) = (<em>x</em>−<em>r</em>)(<em>x</em>+<em>r</em>).</span>
+Logo, demonstramos a <span><strong>diferença de
+quadrados</strong></span>: <span
+class="math display"><em>x</em><sup>2</sup> − <em>r</em><sup>2</sup> = (<em>x</em>−<em>r</em>)(<em>x</em>+<em>r</em>),</span>
+para <span class="math inline"><em>x</em> ≥ 0</span>, <span
+class="math inline">0 ≤ <em>r</em> ≤ <em>x</em></span>.</p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong> (Resumo: produtos notáveis).
+<em>Todas essas expressões podem ser estendidas para valores quaisquer
+de <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>r</em></span>. Em resumo, temos:</em></p>
+<ul>
+<li><p><em>Quadrado da soma: <span
+class="math inline"><em>x</em><sup>2</sup> + 2<em>r</em><em>x</em> + <em>r</em><sup>2</sup> = (<em>x</em>+<em>r</em>)<sup>2</sup></span>.</em></p></li>
+<li><p><em>Quadrado da diferença: <span
+class="math inline"><em>x</em><sup>2</sup> − 2<em>r</em><em>x</em> + <em>r</em><sup>2</sup> = (<em>x</em>−<em>r</em>)<sup>2</sup></span>.</em></p></li>
+<li><p><em>Diferença de quadrados: <span
+class="math inline"><em>x</em><sup>2</sup> − <em>r</em><sup>2</sup> = (<em>x</em>−<em>r</em>)(<em>x</em>+<em>r</em>)</span>.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="fBox">
+<p>A figura seguinte mostra quatro <em>trapézios</em>:</p>
+<div class="center">
+
+</div>
+<p>Observe que a área desses trapézios pode ser calculada
+<em>adicionando-se</em> a a área de um (ou dois) triângulo(s):</p>
+<div class="center">
+
+</div>
+<p>Na primeira figura, da esquerda para a direita, ao completarmos o
+trapézio com um triângulo de base <span
+class="math inline"><em>b</em></span> e altura <span
+class="math inline"><em>h</em></span> (destacado em preto nas figuras),
+obtemos outro triângulo (parte destacada da figura) com base <span
+class="math inline"><em>B</em></span> e altura <span
+class="math inline"><em>H</em></span>. Logo, a área do trapézio é a
+<em>diferença</em> das áreas desses dois triângulos, isto é, <span
+class="math display">$$\frac{1}{2} B \cdot H - \frac{1}{2} b\cdot
+h.$$</span> Pela <span><strong>semelhança dos
+triângulos</strong></span>, temos <span
+class="math display">$$\frac{B}{H} = \frac{b}{h},$$</span> ou seja,
+<span
+class="math display"><em>B</em> ⋅ <em>h</em> = <em>b</em> ⋅ <em>H</em>.</span>
+Por outro lado, a altura <span class="math inline"><em>s</em></span> do
+trapézio é dada pela diferença das alturas dos triângulos <span
+class="math display"><em>s</em> = <em>H</em> − <em>h</em>,</span> ou
+seja <span
+class="math display"><em>H</em> = <em>s</em> + <em>h</em>.</span> Logo,
+a área do trapézio é dada por <span class="math display">$$\frac{1}{2} B
+\cdot H - \frac{1}{2} b\cdot h = \frac{1}{2} B \cdot (s+h) - \frac{1}{2}
+b\cdot h = \frac{1}{2}B\cdot s + \frac{1}{2} B\cdot h - \frac{1}{2}
+b\cdot h =  \frac{1}{2}B\cdot s + \frac{1}{2} b\cdot H - \frac{1}{2}
+b\cdot h.$$</span> Logo, <span class="math display">$$\frac{1}{2} B
+\cdot H - \frac{1}{2} b\cdot h  =  \frac{1}{2}B\cdot s + \frac{1}{2}
+b\cdot (H -  h) = \frac{1}{2}B\cdot s + \frac{1}{2} b\cdot s.$$</span>
+Portanto, deduzimos que a área do trapézio na primeira figura à esquerda
+é dada por <span class="math display">$$\frac{1}{2} (B+b)\cdot
+s,$$</span> onde <span class="math inline"><em>B</em></span> e <span
+class="math inline"><em>b</em></span> são as bases do trapézio e <span
+class="math inline"><em>s</em></span> é a sua altura.</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.167</strong>. <em>Demonstre, para cada um dos
+outros três trapézios, que as áreas são dadas por <span
+class="math display">$$\frac{1}{2} (B+b)\cdot s,$$</span> onde <span
+class="math inline"><em>B</em></span> e <span
+class="math inline"><em>b</em></span> são as bases do trapézio e <span
+class="math inline"><em>s</em></span> é a sua altura.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A área do trapézio na segunda figura, da esquerda para a
+direita, é dada pela diferença da área do quadrado de lado <span
+class="math inline"><em>B</em></span> e da área do triângulo de base
+<span class="math inline"><em>s</em></span> e altura <span
+class="math inline"><em>h</em></span> (destacado em preto na figura), ou
+seja, é dada por <span class="math display">$$B^2 - \frac{1}{2} B\cdot h
+= B^2 - \frac{1}{2} B \cdot (B-b) = \frac{1}{2} B^2 + \frac{1}{2} B\cdot
+b = \frac{1}{2} (B+b)\cdot B$$</span> A área do trapézio na terceira
+figura, da esquerda para a direita, é calculada da mesma forma que
+fizemos para o trapézio na primeira figura: o triângulo que usamos para
+completar o trapézio (destacado em preto) tem base <span
+class="math inline"><em>b</em></span> e altura <span
+class="math inline"><em>h</em></span> e é semelhante ao triângulo
+completo, que tem base <span class="math inline"><em>B</em></span> e
+altura <span class="math inline"><em>H</em></span>. Logo, raciocinando
+como na explicação acima, concluímos que a área do trapézio é dada pelo
+produto da média das bases <span class="math inline">$\frac{1}{2}
+(B+b)$</span> pela altura <span
+class="math inline"><em>s</em> = <em>H</em> − <em>h</em></span>, isto é,
+por <span class="math display">$$\frac{1}{2}(B+b) \cdot h.$$</span>
+Finalmente, no caso do trapézio da figura mais à direita, completamos o
+trapézio com <em>triângulos</em> com altura <span
+class="math inline"><em>H</em></span> e bases iguais a <span
+class="math inline">$\frac{1}{2} (B-b)$</span>. A área de cada um desses
+triângulos é <span class="math display">$$\frac{1}{2} \cdot \frac{1}{2}
+(B-b) \cdot H.$$</span> As duas áreas somam <span
+class="math display">$$\frac{1}{2} (B-b) \cdot H.$$</span> A área do
+trapézio é dada por <span class="math display">$$B \cdot H - \frac{1}{2}
+(B-b) \cdot H = \frac{1}{2} (B+b) \cdot H,$$</span> o produto da média
+das bases pela altura do trapézio. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.168</strong> (SAEPE - Item M100270E4). <em>Marta
+comprou um terreno na forma de trapézio cujas medidas estão
+representadas no desenho abaixo. Para construir um muro em torno desse
+terreno, ela precisa calcular o seu perímetro.</em></p>
+<div class="center">
+<p><img src="trapezio.jpg" style="width:50.0%" alt="image" /></p>
+</div>
+<p><em>Qual é o perímetro desse terreno?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>12 m</em></p></li>
+<li><p><em>20 m</em></p></li>
+<li><p><em>24 m</em></p></li>
+<li><p><em>32 m</em></p></li>
+<li><p><em>40 m</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O perímetro é dado por <span
+class="math display">4 + 4 + 6 + 10 = 24 m,</span> o que corresponde à
+alternativa C). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Para calcular a área desse
+trapézio, podemos decompô-lo no retângulo na parte central da figura,
+que tem base medindo 6 m. Pela simetria da figura, teríamos, ainda, dois
+triângulos retângulos congruentes, com bases medindo, cada uma, 2 m, de
+modo que teríamos a base maior do trapézio ao somar as bases do
+retângulo e dos triângulos, isto é, <span
+class="math display">2 + 6 + 2 = 10</span> metros. Resta, então,
+calcular a altura <span class="math inline"><em>H</em></span>, tanto do
+retângulo quanto dos triângulos. Para tanto, usamos o Teorema de
+Pitágoras, considerando que <span class="math inline"><em>H</em></span>
+é medida de um dos catetos de cada um dos triângulos retângulos, cujas
+hipotenusas medem, cada uma, 4 m. Assim, <span
+class="math display">2<sup>2</sup> + <em>H</em><sup>2</sup> = 4<sup>2</sup>.</span>
+Logo, <span
+class="math display"><em>H</em><sup>2</sup> = 16 − 4 = 12.</span>
+Portanto, a altura comum ao retângulo e aos triângulos retângulos é
+<span class="math display">$$H = \sqrt{12} = 2 \sqrt 3$$</span> metros.
+Assim, somando as áreas dos dois triângulos retângulos e do retângulo,
+termos a área do trapézio: <span class="math display">$$2\sqrt 3 \times
+2 + 2 \sqrt 3 \times 6 = 2\sqrt 3 \times 8 = 16  \sqrt 3 \mbox{
+m}^2.$$</span></em></p>
+</div>
+</div>
+</div>
+<div class="fBox">
+<p>O seguinte gráfico mostra a velocidade <span
+class="math inline"><em>v</em></span> de um veículo, em função do tempo
+<span class="math inline"><em>t</em></span>: o veículo, que estava
+parado por conta do semáforo fechado, parte no instante <span
+class="math inline"><em>t</em> = 0</span>, quando o semáforo fica
+“verde”. Acelera até o instante <span
+class="math inline"><em>t</em> = 20</span> segundos, quando se aproxima
+de um foto-sensor próximo a uma faixa de pedestres. No instante, <span
+class="math inline"><em>t</em> = 80</span> segundos, começa a frear,
+junto a uma placa de trânsito, até parar, no instante <span
+class="math inline"><em>t</em> = 100</span> segundos, junto à faixa de
+pedestres.</p>
+<div class="center">
+
+</div>
+<p>Os eixos horizontal e vertical não estão na mesma escala: além disso,
+os números no eixo horizontal registram os intervalos de tempo em
+segundos ao passo que os números no eixo vertical registram as
+velocidades instantâneas em metros por segundo.</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.169</strong>. <em>De acordo com os dados e o
+gráfico acima, responda às seguintes questões.</em></p>
+<ul>
+<li><p><em>Qual a aceleração do veículo entre os instantes <span
+class="math inline"><em>t</em> = 0</span> e <span
+class="math inline"><em>t</em> = 20</span>?</em></p></li>
+<li><p><em>Qual a aceleração do veículo entre os instantes <span
+class="math inline"><em>t</em> = 20</span> e <span
+class="math inline"><em>t</em> = 80</span>?</em></p></li>
+<li><p><em>Qual a aceleração do veículo entre os instantes <span
+class="math inline"><em>t</em> = 80</span> e <span
+class="math inline"><em>t</em> = 100</span>?</em></p></li>
+<li><p><em>Qual a velocidade do veículo no trecho percorrido entre os
+instantes <span class="math inline"><em>t</em> = 20</span> e <span
+class="math inline"><em>t</em> = 80</span>?</em></p></li>
+<li><p><em>Qual a velocidade média do veículo no trecho percorrido entre
+os instantes <span class="math inline"><em>t</em> = 0</span> e <span
+class="math inline"><em>t</em> = 20</span>?</em></p></li>
+<li><p><em>Qual a velocidade média do veículo no trecho percorrido entre
+os instantes <span class="math inline"><em>t</em> = 80</span> e <span
+class="math inline"><em>t</em> = 100</span>?</em></p></li>
+<li><p><em>Qual a velocidade média do veículo em todo o percurso, ou
+seja, entre os instantes <span class="math inline"><em>t</em> = 0</span>
+e <span class="math inline"><em>t</em> = 100</span>?</em></p></li>
+<li><p><em>Qual a distância percorrida pelo veículo entre o semáforo e o
+fotossensor?</em></p></li>
+<li><p><em>Qual a distância percorrida pelo veículo entre o fotossensor
+e a placa de trânsito?</em></p></li>
+<li><p><em>Qual a distância percorrida pelo veículo entre o placa de
+trânsito e a faixa de pedestres?</em></p></li>
+<li><p><em>Qual a distância percorrida pelo veículo em todo o percurso,
+do instante <span class="math inline"><em>t</em> = 0</span> ao instante
+<span class="math inline"><em>t</em> = 100</span>?</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> a) A aceleração entre os instantes <span
+class="math inline"><em>t</em> = 0</span> e <span
+class="math inline"><em>t</em> = 20</span> é a <span><strong>taxa de
+variação</strong></span> da velocidade entre esses instantes, isto é,
+<span class="math display">$$\frac{15-0}{20-0} = \frac{15}{20} =
+\frac{3}{4} = 0, 75 \, {\mbox m/s}^2.$$</span> b) A aceleração entre os
+instantes <span class="math inline"><em>t</em> = 20</span> e <span
+class="math inline"><em>t</em> = 80</span> é a <span><strong>taxa de
+variação</strong></span> da velocidade entre esses instantes, isto é,
+<span class="math display">$$\frac{15-15}{20-0} = 0 \, {\mbox
+m/s}^2.$$</span> c) A aceleração entre os instantes <span
+class="math inline"><em>t</em> = 80</span> e <span
+class="math inline"><em>t</em> = 100</span> é a <span><strong>taxa de
+variação</strong></span> da velocidade entre esses instantes, isto é,
+<span class="math display">$$\frac{0-15}{20-0} = -\frac{15}{20} = -0,75
+\, {\mbox m/s}^2.$$</span> d) De acordo com o gráfico, a velocidade é
+constante e igual a 15 m/s, entre os instantes <span
+class="math inline"><em>t</em> = 20</span> e <span
+class="math inline"><em>t</em> = 80</span>.</p>
+<p>e) Observe que, no intervalo entre <span
+class="math inline"><em>t</em> = 0</span> e <span
+class="math inline"><em>t</em> = 20</span>, a velocidade <em>cresce
+linearmente</em>. Nesse caso, podemos verificar que a velocidade média
+<span class="math inline">$v_{{\rm média}}$</span> nesse intervalo de
+tempo é igual a <em>média</em> entre a velocidade mínima <span
+class="math inline">$v_{\rm min}$</span> e a velocidade máxima <span
+class="math inline">$v_{\rm max}$</span>, ou seja, <span
+class="math display">$$v_{{\rm média}} = \frac{v_{\rm min} + v_{\rm
+max}}{2} = \frac{0+15}{2} = 7,5\, \mbox{m/s}.$$</span> f) Também no
+intervalo entre <span class="math inline"><em>t</em> = 0</span> e <span
+class="math inline"><em>t</em> = 20</span>, a velocidade <em>decresce
+linearmente</em>. Nesse caso, podemos verificar que a velocidade média
+<span class="math inline">$v_{{\rm média}}$</span> nesse intervalo de
+tempo é igual a <em>média</em> entre a velocidade mínima <span
+class="math inline">$v_{\rm min}$</span> e a velocidade máxima <span
+class="math inline">$v_{\rm max}$</span>, ou seja, <span
+class="math display">$$v_{{\rm média}} = \frac{v_{\rm min} + v_{\rm
+max}}{2} = \frac{15+0}{2} = 7,5\, \mbox{m/s}.$$</span> g) A velocidade
+média, em todo o percurso, deve ser a <em>média ponderada</em> das
+velocidades médias nos três intervalos, de <span
+class="math inline"><em>t</em> = 0</span> a <span
+class="math inline"><em>t</em> = 20</span>, de <span
+class="math inline"><em>t</em> = 20</span> a <span
+class="math inline"><em>t</em> = 80</span> e de <span
+class="math inline"><em>t</em> = 80</span> a <span
+class="math inline"><em>t</em> = 100</span>, ou seja, <span
+class="math display">$$v_{{\rm média}} = \frac{20 \times 7,5 + 60 \times
+15 + 20 \times 7,5}{100} = \frac{150+900+150}{100} = 12
+\,\mbox{m/s}$$</span> h) A distância percorrida entre <span
+class="math inline"><em>t</em> = 0</span> e <span
+class="math inline"><em>t</em> = 20</span> é igual a distância
+percorrida por um automóvel com a velocidade média desse intervalo de
+tempo, ou seja, <span class="math display">$$v_{{\rm média}} \times 20 =
+7,5 \times 20 = 150 \mbox{ metros}.$$</span> Observe que essa distância
+é (numericamente) igual a área do triângulo destacado na figura:</p>
+<div class="center">
+
+</div>
+<p>i) A distância percorrida entre <span
+class="math inline"><em>t</em> = 20</span> e <span
+class="math inline"><em>t</em> = 80</span> é igual a distância
+percorrida por um automóvel com a velocidade média desse intervalo de
+tempo, ou seja, <span class="math display">$$v_{{\rm média}} \times
+(80-20) = 16 \times 60 = 900 \mbox{ metros}.$$</span> Observe que essa
+distância é (numericamente) igual a área do retângulo destacado na
+figura:</p>
+<div class="center">
+
+</div>
+<p>j) A distância percorrida entre <span
+class="math inline"><em>t</em> = 80</span> e <span
+class="math inline"><em>t</em> = 100</span> é igual a distância
+percorrida por um automóvel com a velocidade média desse intervalo de
+tempo, ou seja, <span class="math display">$$v_{{\rm média}} \times
+(100-80) = 7,5 \times 20 = 150 \mbox{ metros}.$$</span> Observe que essa
+distância é (numericamente) igual a área do retângulo destacado na
+figura:</p>
+<div class="center">
+
+</div>
+<p>l) A distância percorrida entre <span
+class="math inline"><em>t</em> = 0</span> e <span
+class="math inline"><em>t</em> = 100</span> é igual a distância
+percorrida por um automóvel com a velocidade média desse intervalo de
+tempo, ou seja, <span class="math display">$$v_{{\rm média}} \times 100
+= 12 \times 100 = 1.200 \mbox{ metros}.$$</span> Observe que essa
+distância é (numericamente) igual a área do trapézio destacado na
+figura:</p>
+<div class="center">
+
+</div>
+<p> ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>O exercício anterior pode ser o
+início de uma sequência didática relativa à <em>transposição</em> de
+conhecimentos sobre áreas e funções quadráticas para o estudo da
+Cinemática, mais particularmente de movimentos uniformemente acelerados.
+Por exemplo, nos intervalos de <span
+class="math inline"><em>t</em> = 0</span> a <span
+class="math inline"><em>t</em> = 20</span> e de <span
+class="math inline"><em>t</em> = 80</span> a <span
+class="math inline"><em>t</em> = 100</span>, temos acelerações
+constantes. No intervalo de <span
+class="math inline"><em>t</em> = 20</span> a <span
+class="math inline"><em>t</em> = 80</span>, temos aceleração nula. O
+exemplo pode ser generalizado de modo a demonstrar que, dada uma
+aceleração constante <span class="math inline"><em>a</em></span>, a
+velocidade em um instante <span class="math inline"><em>t</em></span> de
+uma partícula que parte do repouso em <span
+class="math inline"><em>t</em> = 0</span>, é dada por <span
+class="math display"><em>v</em> = <em>a</em><em>t</em>.</span> Logo, a
+velocidade média de <span class="math inline">0</span> a <span
+class="math inline"><em>t</em></span> segundos é dada por <span
+class="math display">$$v_{{\rm média}} = \frac{0+at}{2} =
+\frac{1}{2}at.$$</span> Portanto, a distância percorrida de <span
+class="math inline">0</span> a <span
+class="math inline"><em>t</em></span> segundos, em um movimento com
+aceleração constante <span class="math inline"><em>a</em></span>, é dada
+por <span class="math display">$$s = v_{{\rm média}} t = \frac{1}{2}
+at^2.$$</span></em></p>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="fBox">
+<p>A figura seguinte mostra quatro <em>paralelogramos</em>:</p>
+<div class="center">
+
+</div>
+<p>Observe que a área desses paralelogramos pode ser calculada
+<em>adicionando-se</em> a a área de um (ou dois) triângulo(s):</p>
+<div class="center">
+
+</div>
+<p>Nas três últimas figuras, da esquerda para a direita, ao completarmos
+o paralelogramo (de base <span class="math inline"><em>B</em></span> e
+altura <span class="math inline"><em>H</em></span>) com dois triângulos
+de base <span class="math inline"><em>b</em></span> e altura <span
+class="math inline"><em>H</em></span>, obtemos um retângulo com base
+<span class="math inline"><em>B</em> + <em>b</em></span> e altura <span
+class="math inline"><em>H</em></span>. Logo, a área do paralelograma é a
+<em>diferença</em> das áreas do retângulo completo e dos dois
+triângulos, isto é, <span
+class="math display">(<em>B</em>+<em>b</em>) ⋅ <em>H</em> − <em>b</em> ⋅ <em>H</em> = <em>B</em> ⋅ <em>H</em>.</span>
+Deduzimos, desse modo, que as áreas de cada um desses três
+paralelogramos é igual a área do retângulo na primeira figura à
+esquerda, ou seja, é igual ao produto da base <span
+class="math inline"><em>B</em></span> pela altura <span
+class="math inline"><em>H</em></span>.</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.170</strong> (ENEM 2011, Caderno 6 - Cinza, Segundo
+Dia, Questão 166, adaptada). <em>Uma fábrica de fórmicas produz placas
+quadradas de lados de medida igual a <span
+class="math inline"><em>y</em></span> centímetros. Essas placas são
+vendidas em caixas com <span class="math inline"><em>N</em></span>
+unidades e, na caixa, é especificada a área máxima <span
+class="math inline"><em>S</em></span> que pode ser coberta pelas <span
+class="math inline"><em>N</em></span> placas. Devido a uma demanda do
+mercado por placas maiores, a fábrica triplicou a medida dos lados de
+suas placas e conseguiu reuní-las em uma nova caixa, de tal forma que a
+área coberta <span class="math inline"><em>S</em></span> não fosse
+alterada. A quantidade <span class="math inline"><em>X</em></span>, de
+placas do novo modelo, em cada nova caixa será igual a:</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ul>
+<li><p><em><span class="math inline">$\dfrac{N}{9}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{N}{6}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{N}{3}$</span></em></p></li>
+<li><p><em><span class="math inline">3<em>N</em></span></em></p></li>
+<li><p><em><span class="math inline">9<em>N</em></span></em></p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Se a área <span class="math inline"><em>S</em></span> a
+ser coberta é a mesma, mas as placas quadradas aumentam de tamanho, o
+número de placas deve ser menor. A questão é saber <em>quantas
+vezes</em> menor. O aumento de tamanho das placas quadradas significa,
+precisamente, que a medida do lado passa de <span
+class="math inline"><em>y</em></span> metros para <span
+class="math inline">3<em>y</em></span> metros, isto é, a medida do lado
+triplica. Assim, a <em>área</em> de cada placa passa de <span
+class="math display"><em>y</em> × <em>y</em> = <em>y</em><sup>2</sup>
+centímetros quadrados</span> para <span
+class="math display">3<em>y</em> × 3<em>y</em> = 9<em>y</em><sup>2</sup>
+centímetros quadrados.</span> Portanto, a área de cada placa quadrada
+aumenta 9 vezes e não apenas 3 vezes, como poderíamos pensar
+inicialmente. Logo, se a área <span
+class="math inline"><em>S</em></span> a ser coberta pelas placas é a
+mesma de antes, teremos 9 <em>vezes menos</em> placas cobrindo esta
+área. Ou seja, o número total de placas passa de <span
+class="math inline"><em>N</em></span> para <span
+class="math inline">$\frac{N}{9}$</span>. A alternativa é a da letra
+A). ◻</p>
+</div>
+<div class="fBox">
+<p>A área <span class="math inline"><em>S</em></span> coberta por <span
+class="math inline"><em>N</em></span> placas quadradas cujos lados tem
+medida igual a <span class="math inline"><em>y</em></span> centímetros é
+dada por <span
+class="math display"><em>S</em> = <em>N</em><em>y</em><sup>2</sup>,</span>
+ou seja, a área <span class="math inline"><em>S</em></span> não é
+proporcional à medida <span class="math inline"><em>y</em></span> do
+lado, mas ao <em>quadrado</em> <span
+class="math inline"><em>y</em><sup>2</sup></span> desta medida.</p>
+</div>
+<p>Após essas várias comparações entre variação linear e variação
+quadrática, passamos ao estudo de problemas, de vários contextos, que
+envolvem <span><strong>equações e funções quadráticas</strong></span> ou
+de segundo grau.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.171</strong> (ENEM 2016, Caderno 7 - Azul, Questão
+157, adaptada). <em>Para evitar uma epidemia, a Secretaria de Saúde de
+uma cidade dedetizou todos os bairros, de modo a evitar a proliferação
+do mosquito da dengue. Sabe-se que o número <span
+class="math inline"><em>f</em></span> de infectados é dado pela função
+<span
+class="math inline"><em>f</em>(<em>x</em>) =  − 2<em>x</em><sup>2</sup> + 120<em>x</em></span>
+(em que <span class="math inline"><em>x</em></span> é expresso em dia e
+<span class="math inline"><em>x</em> = 0</span> é o dia anterior à
+primeira infecção) e que tal expressão é válida para os 60 primeiros
+dias da epidemia.</em></p>
+<p><em>A Secretaria de Saúde decidiu que uma segunda dedetização deveria
+ser feita no dia em que o número de infectados chegasse à marca de 1 600
+pessoas, e uma segunda dedetização precisou acontecer.</em></p>
+<ul>
+<li><p><em><span class="math inline">$19^{{\rm o}}$</span>
+dia.</em></p></li>
+<li><p><em><span class="math inline">$20^{{\rm o}}$</span>
+dia.</em></p></li>
+<li><p><em><span class="math inline">$29^{{\rm o}}$</span>
+dia.</em></p></li>
+<li><p><em><span class="math inline">$30^{{\rm o}}$</span>
+dia.</em></p></li>
+<li><p><em><span class="math inline">$60^{{\rm o}}$</span>
+dia.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Devemos encontrar o dia <span
+class="math inline"><em>x</em></span> em que o número de infectados, ou
+seja, <span class="math inline"><em>f</em>(<em>x</em>)</span>, é igual a
+1 600 pessoas. Isto significa que <span
+class="math inline"><em>x</em></span> é solução da equação
+<em>quadrática</em> <span
+class="math display"><em>f</em>(<em>x</em>) = 1 600</span> ou <span
+class="math display"> − 2<em>x</em><sup>2</sup> + 120<em>x</em> = 1 600.</span>
+Subtraindo 1 600 dos dois lados da equação, temos <span
+class="math display"> − 2<em>x</em><sup>2</sup> + 120<em>x</em> − 1 600 = 0.</span>
+Dividindo os dois lados desta equação por <span
+class="math inline"> − 2</span>, temos <span
+class="math display"><em>x</em><sup>2</sup> − 60<em>x</em> + 800 = 0.</span>
+Ora, a expressão quadrática do lado esquerdo da equação pode ser
+<em>fatorada</em>, ou seja, escrita na forma de um produto como <span
+class="math display">(<em>x</em>−20)(<em>x</em>−40) = 0.</span> Uma vez
+que o produto é igual a zero, pelo menos um de seus fatores deve ser
+também igual a zero. Logo, ou <span
+class="math display"><em>x</em> − 20 = 0   ou
+  <em>x</em> − 40 = 0,</span> o que implica que ou <span
+class="math inline"><em>x</em> = 20</span> ou <span
+class="math inline"><em>x</em> = 40</span>. Isto significa que o número
+de infectados chega a 1 600 no vigésimo (20<span
+class="math inline">$^{\rm o}$</span>) dia e <em>volta</em> a ser igual
+a 1 600 no quadragésimo (40<span class="math inline">$^{\rm o}$</span>)
+dia. A resposta correta é a da alternativa B). ◻</p>
+</div>
+<div class="versaoProfessor">
+<div class="fBox">
+<p>A <span><strong>equação quadrática</strong></span> (ou de segundo
+grau) <span
+class="math display"><em>x</em><sup>2</sup> − 60<em>x</em> + 800 = 0</span>
+poderia ser também resolvida por <em>completamento de quadrados</em>:
+lembrando que <span class="math inline">60 = 2 × 30</span>, teríamos
+<span
+class="math display"><em>x</em><sup>2</sup> − 2 × 30<em>x</em> + 800 = 0.</span>
+Lembremos também da expressão da <em>diferença de quadrados</em>: <span
+class="math display"><em>a</em><sup>2</sup> − 2<em>a</em><em>b</em> + <em>b</em><sup>2</sup> = (<em>a</em>−<em>b</em>)<sup>2</sup>,</span>
+onde <span class="math inline"><em>a</em>, <em>b</em></span> são números
+ou variáveis reais. Em nosso caso, <span
+class="math inline"><em>a</em> = <em>x</em></span> e <span
+class="math inline"><em>b</em> = 30</span>. Assim <span
+class="math display">$$\begin{aligned}
+0 = x^2 - 2 \times 30 x+ 800 &amp; = x^2 - 2 \times 30 x + 800 +
+\textcolor{blue}{30^2} - \textcolor{red}{30^2} \\
+&amp; = x^2  - 2 \times 30 x  + \textcolor{blue}{30^2} + 800 -30^2 \\
+&amp; =  (x-30)^2 + 800 - 900\\
+&amp; = (x-30)^2 -100
+\end{aligned}$$</span> Logo, a equação quadrática pode ser reescrita
+como <span
+class="math display">(<em>x</em>−30)<sup>2</sup> − 100 = 0,</span> uma
+equação bem mais simples, cuja solução segue da seguinte forma: somamos
+100 dos dois lados da equação, obtendo <span
+class="math display">(<em>x</em>−30)<sup>2</sup> = 100.</span>
+Calculamos as raízes quadrados dos dois lados, o que resulta em <span
+class="math display"><em>x</em> − 30 =  − 10  ou  <em>x</em> − 30 = 10,</span>
+donde segue que <span
+class="math display"><em>x</em> =  − 10 + 30 = 20  ou  <em>x</em> = 10 + 30 = 40,</span>
+como antes.</p>
+</div>
+</div>
+<p>Observamos, de um modo ou de outro, que há <em>dois</em> dias em que
+o número de infectados é de 1 600 pessoas: o dia <span
+class="math inline"><em>x</em> = 20</span> e o dia <span
+class="math inline"><em>x</em> = 40</span>. O fato é que, no dia <span
+class="math inline"><em>x</em> = 0</span>, temos <span
+class="math inline"><em>f</em>(0) = 0</span> infectados. A partir daí, o
+número de infectados cresce, chega a 1 600 no dia <span
+class="math inline"><em>x</em> = 20</span> e segue aumentando até
+atingir um valor <em>máximo</em>. Em seguida, começa a diminuir,
+reduzindo para 1 600 infectados novamente no dia <span
+class="math inline"><em>x</em> = 40</span>. Segue nesta diminuição até o
+dia <span class="math inline"><em>x</em> = 60</span>, quando o número
+volta a ser <span class="math inline"><em>f</em>(60) = 0</span>. O valor
+máximo é atingido exatamente no meio do intervalo entre o dia <span
+class="math inline"><em>x</em> = 20</span> e o dia <span
+class="math inline"><em>x</em> = 40</span>, isto é, no dia <span
+class="math display">$$x=\frac{20+40}{2} = 30.$$</span> Neste dia, o
+número (máximo) de infectados é dado por <span
+class="math display">$$\begin{aligned}
+f(30) &amp;= -2\times 30^2 +120 \times 30\\
+&amp; = 30 \times (-2\times 30+120)\\
+&amp; = 30 \times 60 \\
+&amp; = 1\,800 \mbox{ pessoas infectadas}.
+\end{aligned}$$</span> O gráfico na figura seguinte ilustra isto que
+discutimos:</p>
+<div class="center">
+<p><img src="paabola-ft.jpeg" style="width:40.0%" alt="image" /></p>
+</div>
+<p>No eixo horizontal temos a quantidade (em dezenas) de dias e no eixo
+vertical a quantidade (em milhares) de pessoas infectadas. O ponto <span
+class="math inline"><em>V</em></span>, chamado vértice, corresponde ao
+número máximo de pessoas infectadas. Este ponto determina o eixo de
+simetria do gráfico. De um lado e de outro deste eixo, estão os pontos
+na intersecção da reta horizontal com o gráfico: estes pontos
+correspondem aos dias em que o número de infectados é de 1.600
+pessoas.</p>
+<div class="versaoProfessor">
+<div class="fBox">
+<p>Na forma rotineira de resolver uma equação quadrática como <span
+class="math display"><em>x</em><sup>2</sup> − 60<em>x</em> + 800 = 0,</span>
+empregamos a chamada “fórmula de Bhaskara”: <span
+class="math display">$$\begin{aligned}
+x &amp; = \frac{-(-60)\pm \sqrt {(-60)^2 - 4\times 1 \times
+800}}{2\times 1} \\
+&amp; = \frac{60\pm \sqrt {3.600 -3.200}}{2} \\
+&amp; = \frac{60\pm 20}{2}\cdot
+\end{aligned}$$</span> Logo, <span
+class="math inline"><em>x</em> = 20</span> ou <span
+class="math inline"><em>x</em> = 40</span> são as soluções ou
+<em>raízes</em> da equação. Na verdade, esta fórmula é uma mera
+consequência da técnica de completamento de quadrados que vimos acima.
+De fato, uma equação quadrática geral da forma <span
+class="math display"><em>a</em><em>x</em><sup>2</sup> + <em>b</em><em>x</em> + <em>c</em> = 0</span>
+com <span class="math inline"><em>a</em> ≠ 0</span> e <span
+class="math inline"><em>b</em><sup>2</sup> − 4<em>a</em><em>c</em> ≥ 0</span>,
+pode ser reescrita como <span class="math display">$$a\bigg(x^2 + 2
+\frac{b}{2a} x+ \frac{b^2}{4a^2}- \frac{b^2}{4a^2}\bigg) +c =0$$</span>
+Portanto, temos <span class="math display">$$\bigg(
+x+\frac{b}{2a}\bigg)^2 =\frac{b^2-4ac}{4a^2}$$</span> Logo,</p>
+<p><span class="math display">$$\label{roots}
+x= \frac{-b\pm \sqrt{b^2 -4ac}}{2a}$$</span></p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong> (Descritores SAEB D25 e D26).
+<em>Dados três constantes <span class="math inline"><em>a</em></span>,
+<span class="math inline"><em>r</em></span> e <span
+class="math inline"><em>r</em>′</span>, com <span
+class="math inline"><em>r</em> &lt; <em>r</em>′</span>, a expressão
+<span
+class="math display"><em>f</em>(<em>x</em>) = <em>a</em>(<em>x</em>−<em>r</em>)(<em>x</em>−<em>r</em>′)</span>
+define uma função quadrática na <em>forma fatorada</em>. Note que <span
+class="math inline"><em>f</em>(<em>r</em>) = <em>f</em>(<em>r</em>′) = 0</span>.
+Logo, <span class="math inline"><em>r</em></span> e <span
+class="math inline"><em>r</em>′</span> são os zeros ou raízes da função
+<span class="math inline"><em>f</em></span>. Se <span
+class="math inline"><em>a</em> &gt; 0</span> (respectivamente <span
+class="math inline"><em>a</em> &lt; 0</span>), o valor mínimo
+(respectivamente, máximo) da função <span
+class="math inline"><em>f</em></span> ocorre quando <span
+class="math display">$$x = \frac{r+r'}{2},$$</span> ou seja, no ponto
+médio entre as raízes. “Abrindo” a expressão fatorada, obtemos <span
+class="math display">$$f(x) =ax^2 - \underbrace{a(r+r' )}_{=b} x +
+\underbrace{ar r'}_{=c}.$$</span> Portanto, partimos da forma fatorada e
+chegamos à seguinte expressão da função quadrática <span
+class="math inline"><em>f</em></span>: <span
+class="math display"><em>f</em>(<em>x</em>) = <em>a</em><em>x</em><sup>2</sup> + <em>b</em><em>x</em> + <em>c</em>,</span>
+onde <span
+class="math display"><em>b</em> =  − <em>a</em>(<em>r</em>+<em>r</em>′)  
+e   <em>c</em> = <em>a</em><em>r</em><em>r</em>′</span> Logo, a
+<em>soma</em> das raízes é dado por <span
+class="math inline">$-\frac{b}{a}$</span> e o produto das raízes é dado
+por <span class="math inline">$\frac{c}{a}\cdot$</span></em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.172</strong>. <em>Determine os zeros ou raízes e os
+pontos de mínimo das seguintes funções quadráticas:</em></p>
+<ul>
+<li><p><em><span
+class="math inline"><em>f</em>(<em>x</em>) = <em>x</em><sup>2</sup> − 6<em>x</em> + 5</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>g</em>(<em>x</em>) = <em>x</em><sup>2</sup> − 6<em>x</em> + 9</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>h</em>(<em>x</em>) = <em>x</em><sup>2</sup> − 6<em>x</em> + 10</span></em></p></li>
+</ul>
+<p><em>Em seguida, esboce seus gráficos.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Na função quadrática <span
+class="math display"><em>f</em>(<em>x</em>) = <em>x</em><sup>2</sup> − 6<em>x</em> + 5,</span>
+os coeficientes são iguais a <span
+class="math display"><em>a</em> = 1,  <em>b</em> =  − 6,  <em>c</em> = 5.</span>
+Os únicos dois valores da variável <span
+class="math inline"><em>x</em></span> para os quais <span
+class="math inline"><em>f</em>(<em>x</em>) = 0</span> são <span
+class="math inline"><em>x</em> = 1</span> e <span
+class="math inline"><em>x</em> = 5</span>. De fato, observe que podemos
+escrever a função <span class="math inline"><em>f</em></span> na
+seguinte <span><strong>forma fatorada</strong></span>: <span
+class="math display"><em>f</em>(<em>x</em>) = (<em>x</em>−1)(<em>x</em>−5),</span>
+pois <span
+class="math display">(<em>x</em>−1)(<em>x</em>−5) = <em>x</em><sup>2</sup> − <em>x</em> − 5<em>x</em> + (−1) ⋅ (−5) = <em>x</em><sup>2</sup> − 6<em>x</em> + 5 = <em>f</em>(<em>x</em>).</span>
+Portanto, <span class="math inline"><em>f</em>(<em>x</em>) = 0</span> se
+e somente se <span class="math inline"><em>x</em> − 1 = 0</span> ou
+<span class="math inline"><em>x</em> − 5 = 0</span>. Dizemos que <span
+class="math inline"><em>x</em> = 1</span> e <span
+class="math inline"><em>x</em> = 5</span> são os
+<span><strong>zeros</strong></span> ou
+<span><strong>raízes</strong></span> da função <span
+class="math inline"><em>f</em></span>. Observamos, também, que o
+<span><strong>valor mínimo</strong></span> da função <span
+class="math inline"><em>f</em></span> ocorre quando <span
+class="math inline"><em>x</em></span> é igual a média aritmética dos
+dois zeros, isto é, quando <span class="math display">$$x =
+\frac{1+5}{2} = 3.$$</span> Para este valor de <span
+class="math inline"><em>x</em></span>, o valor da função <span
+class="math inline"><em>f</em></span> é dado por <span
+class="math display"><em>f</em>(3) = (3−1)(3−5) = 2 ⋅ (−2) =  − 4.</span>
+O ponto com as coordenadas <span
+class="math inline"><em>x</em> = 3</span> e <span
+class="math inline"><em>y</em> =  − 4</span> é o ponto <span
+class="math inline"><em>V</em></span>, o ponto “mais baixo” na parábola
+representada abaixo, que é o gráfico da função <span
+class="math inline"><em>f</em></span>. Dizemos que o ponto <span
+class="math inline"><em>V</em></span> é o
+<span><strong>vértice</strong></span> da parábola.</p>
+<p>Consideramos, desta vez, a função <span class="math display">$$g(x) =
+x^2-6x+\textcolor{red}{9}.$$</span> Observe que <span
+class="math display">$$g(x) = x^2 - 6x + 5 +\textcolor{red}{4} = f(x)
++4,$$</span> ou seja, para calcularmos <span
+class="math inline"><em>g</em>(<em>x</em>)</span> basta somar <span
+class="math inline">4</span> ao valor <span
+class="math inline"><em>f</em>(<em>x</em>)</span>. Portanto, o gráfico
+da função <span class="math inline"><em>g</em></span> pode ser obtido
+simplesmente <em>transladando</em> o gráfico da função <span
+class="math inline"><em>f</em></span> na direção vertical <span
+class="math inline">4</span> unidades para cima, conforme a figura
+abaixo. Observamos, a partir do gráfico, que a função <span
+class="math inline"><em>g</em></span> se anula apenas quando <span
+class="math inline"><em>x</em> = 3</span>. Ou seja, <span
+class="math inline"><em>x</em> = 3</span> é o único zero da função <span
+class="math inline"><em>g</em></span>. Podemos verificar esta afirmação
+sem recorrer à figura, usando apenas a expressão algébrica que define a
+função <span class="math inline"><em>g</em></span>. Para tanto, note que
+podemos escrever a função <span class="math inline"><em>g</em></span> na
+<span><strong>forma fatorada</strong></span> como <span
+class="math inline"><em>g</em>(<em>x</em>) = (<em>x</em>−3)<sup>2</sup>.</span>
+De fato, <span
+class="math display">(<em>x</em>−3)<sup>2</sup> = (<em>x</em>−3)(<em>x</em>−3) = <em>x</em><sup>2</sup> − 3<em>x</em> − 3<em>x</em> + (−3) ⋅ (−3) = <em>x</em><sup>2</sup> − 6<em>x</em> + 9 = <em>g</em>(<em>x</em>).</span>
+Portanto, fica claro que a função quadrática <span
+class="math inline"><em>g</em></span> se anula apenas quando <span
+class="math inline"><em>x</em> = 3</span>, pois <span
+class="math inline">(<em>x</em>−3)<sup>2</sup> = 0</span> se e somente
+se <span class="math inline"><em>x</em> − 3 = 0</span>, ou seja, se e
+somente se, <span class="math inline"><em>x</em> = 3</span>. Para
+valores <span class="math inline"><em>x</em> ≠ 3</span>, temos <span
+class="math inline">(<em>x</em>−3)<sup>2</sup> &gt; 0</span>. Se
+somarmos um valor <em>maior</em> que <span class="math inline">4</span>
+à <span class="math inline"><em>f</em>(<em>x</em>)</span>, obteremos uma
+nova função quadrática que, desta vez, <em>não</em> tem zeros. Por
+exemplo, somando <span class="math inline">5</span> à <span
+class="math inline"><em>f</em>(<em>x</em>)</span>, definimos a função
+quadrática <span class="math display">$$\begin{aligned}
+h(x) =  f(x) + \textcolor{red}{5} = x^2 -6x + 5 + \textcolor{red}{5} =
+x^2 -6x+10.
+\end{aligned}$$</span> O gráfico de <span
+class="math inline"><em>h</em></span> é obtido transladando o gráfico de
+<span class="math inline"><em>f</em></span> cinco unidades para cima na
+direção vertical. Observamos que, com isto, o gráfico de <span
+class="math inline"><em>h</em></span> <em>não</em> intersecta o eixo
+horizontal (o eixo dos <span class="math inline"><em>x</em></span>), de
+acordo com a figura abaixo. Portanto, a função <span
+class="math inline"><em>h</em></span> não tem zeros. De fato, podemos
+demonstrar algebricamente que <span
+class="math inline"><em>h</em>(<em>x</em>) &gt; 0</span> para todo valor
+da variável <span class="math inline"><em>x</em></span> usando o
+seguinte artifício: <span class="math display">$$\begin{aligned}
+h(x)  =  x^2 -6x + 10 = x^2 -6x + 9 +\textcolor{red}{1} = (x-3)^2 + 1
+\ge 1,
+\end{aligned}$$</span> pois, como já vimos, <span
+class="math inline">(<em>x</em>−3)<sup>2</sup> ≥ 0</span>. Logo,
+demonstramos que <span
+class="math inline"><em>h</em>(<em>x</em>) ≥ 1</span>, seja qual for o
+valor da variável <span class="math inline"><em>x</em></span>. Portanto,
+<span class="math inline"><em>h</em>(<em>x</em>) &gt; 0</span>, para
+todo valor de <span class="math inline"><em>x</em></span>.</p>
+<div class="center">
+
+</div>
+<p>Observe que os vértices das três parábolas, que são os gráficos das
+funções <span class="math inline"><em>f</em></span>, <span
+class="math inline"><em>g</em></span> e <span
+class="math inline"><em>h</em></span>, estão alinhados e pertencem ao
+eixo de simetria vertical comum aos três gráficos. Na figura,
+representamos, além disso, o gráfico da função <span
+class="math display">$$\begin{aligned}
+\ell (x)  =\frac{4}{9} x (x-6)  =\frac{4}{9}x^2 - \frac{8}{3}x,
+\end{aligned}$$</span> função quadrática cujo gráfico tem o mesmo
+vértice que o gráfico de <span class="math inline"><em>f</em></span>.
+Observe que o coeficiente do termo quadrático em <span
+class="math inline">ℓ</span> é igual a <span
+class="math inline"><em>a</em> = 4/9</span>, menor do que 1, o
+coeficiente do termo quadrático da função <span
+class="math inline"><em>f</em></span>. Geometricamente, no ponto <span
+class="math inline"><em>V</em></span>, o gráfico de <span
+class="math inline">ℓ</span> é uma parábola de menor <em>curvatura</em>
+do que o gráfico de <span class="math inline"><em>f</em></span>. ◻</p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Considere o caso particular da
+função quadrática <span
+class="math display"><em>y</em> = (<em>x</em>−<em>r</em>)<sup>2</sup></span>
+que seria o <span style="color: blue">quadrado de uma diferença</span>.
+Esta função tem uma única raiz, <span
+class="math display"><em>r</em>′ = <em>r</em>″ = <em>r</em></span> Neste
+caso, a função pode ser reescrita como <span
+class="math display"><em>y</em> = <em>x</em><sup>2</sup> − 2<em>r</em><em>x</em> + <em>r</em><sup>2</sup></span>
+De modo similar, uma função quadrática da forma <span
+class="math display"><em>y</em> = (<em>x</em>+<em>r</em>)<sup>2</sup></span>
+é o <span style="color: blue">quadrado de uma soma</span> e tem uma
+única raiz <span
+class="math display"><em>r</em>′ = <em>r</em>″ =  − <em>r</em></span>
+Neste caso, a função pode ser reescrita como <span
+class="math display"><em>y</em> = <em>x</em><sup>2</sup> + 2<em>r</em><em>x</em> + <em>r</em><sup>2</sup></span>
+Agora, considere a seguinte função quadrática <span
+class="math display"><em>y</em> = (<em>x</em>−<em>r</em>)(<em>x</em>+<em>r</em>)</span>
+Neste caso, as raízes são simétricas <span
+class="math display"><em>r</em>′ = <em>r</em>   e
+  <em>r</em>″ =  − <em>r</em></span> e a função pode ser reescrita como
+uma <span style="color: blue">diferença de quadrados</span> <span
+class="math display"><em>y</em> = <em>x</em><sup>2</sup> − <em>r</em><sup>2</sup>.</span></em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.173</strong> (SAEPE, Item M120187H6). <em>O custo
+diário de uma produção de potes de sorvete em uma empresa é dada pela
+função <span
+class="math inline"><em>C</em>(<em>x</em>) = <em>x</em><sup>2</sup> − 40<em>x</em> + 500</span>,
+na qual, <span class="math inline"><em>C</em>(<em>x</em>)</span> é o
+custo em reais e <span class="math inline"><em>x</em></span> é o número
+de unidades de potes de sorvete produzidos por essa empresa.</em></p>
+<p><em>Quantos potes de sorvetes devem ser produzidos diariamente por
+essa empresa para que o custo da produção seja mínimo?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>10</em></p></li>
+<li><p><em>13</em></p></li>
+<li><p><em>20</em></p></li>
+<li><p><em>100</em></p></li>
+<li><p><em>500</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A função custo pode ser reescrita, <em>completando-se
+quadrados</em>, da seguinte forma: <span
+class="math display">$$\begin{aligned}
+C(x) &amp; = \textcolor{red}{x^2 - 2\times 20 x + 400} + 100 \\
+&amp; = (x-20)^2 + 100.
+\end{aligned}$$</span> Logo, o custo mínimo é 100, uma vez que <span
+class="math display"><em>C</em>(<em>x</em>) ≥ 100.</span> Além disso,
+esse valor mínimos é atingido quando <span
+class="math inline"><em>x</em> = 20</span>. Essa é a quantidade de potes
+de sorvete produzidos de modo a ter o menor custo possível de acordo com
+a função <span class="math inline"><em>C</em></span>. Logo, a
+alternativa correta é a C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.174</strong> (ENEM 2018, Caderno Amarelo, PPL,
+Questão 171). <em>Um projétil é lançado por um canhão e atinge o solo a
+uma distância de 150 metros do ponto de partida. Ele percorre uma
+trajetória parabólica, e a altura máxima que atinge em relação ao solo é
+de 25 metros.</em></p>
+<div class="center">
+<p><img src="projetil.jpg" style="width:60.0%" alt="image" /></p>
+</div>
+<p><em>Admita um sistema de coordenadas xy em que no eixo vertical y
+está representada a altura e no eixo horizontal x está representada a
+distância, ambas em metro. Considere que o canhão está no ponto <span
+class="math inline">(150,0)</span> e que o projétil atinge o solo no
+ponto <span class="math inline">(0,0)</span> do plano xy</em></p>
+<p><em>A equação da parábola que representa a trajetória descrita pelo
+projétil é</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> = 150<em>x</em> − <em>x</em><sup>2</sup></span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 3 750<em>x</em> − 25<em>x</em><sup>2</sup></span></em></p></li>
+<li><p><em><span
+class="math inline">75<em>y</em> = 300<em>x</em> − 2<em>x</em><sup>2</sup></span></em></p></li>
+<li><p><em><span
+class="math inline">125<em>y</em> = 450<em>x</em> − 3<em>x</em><sup>2</sup></span></em></p></li>
+<li><p><em><span
+class="math inline">225<em>y</em> = 150<em>x</em> − <em>x</em><sup>2</sup></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> De acordo com a situação descrita no problema, podemos
+<em>modelar</em> a trajetória do projétil como o gráfico de uma função
+quadrática cujos zeros são <span
+class="math inline"><em>x</em> = 0</span> e <span
+class="math inline"><em>x</em> = 150</span>, pontos em que o projétil
+atinge o solo e onde está localizado o canhão, respectivamente. Logo, a
+função tem a seguinte <em>forma fatorada</em>: <span
+class="math display"><em>y</em> = <em>a</em><em>x</em>(<em>x</em>−150).</span>
+Resta, então, determinarmos o coeficiente <span
+class="math inline"><em>a</em></span>, que deve ser negativo, dado o
+formato da parábola (concavidade para “baixo”). Para isso, vemos que, no
+ponto médio entre os zeros, isto é, quando <span
+class="math display">$$x = \frac{0+150}{2} = 75 \mbox{ metros},$$</span>
+o projétil atinge sua máxima altura, ou seja, temos <span
+class="math inline"><em>y</em> = 25</span> metros. Substituindo esses
+valores, temos <span
+class="math display">25 =  − <em>a</em> × 75 × 75.</span> Assim,
+dividindo ambos os lados por <span class="math inline">75 × 75</span>,
+obtemos <span class="math display">$$\frac{1}{3 \times 75} =
+-a,$$</span> ou seja, <span class="math display">$$a =
+-\frac{1}{225}\cdot$$</span> Logo, a função quadrática desejada é <span
+class="math display">$$y = - \frac{1}{225} x (x-150)$$</span> ou,
+reescrevendo de outro modo, <span
+class="math display">225<em>y</em> = 150<em>x</em> − <em>x</em><sup>2</sup>.</span>
+Portanto, a alternativa correta é a E). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.175</strong>. <em>Quais as dimensões (isto é, base
+e altura) de um retângulo de área máxima, considerando que seu perímetro
+deve ser igual a <span class="math inline">64</span> metros?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Sejam <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>h</em></span>, respectivamente, as medidas da
+base e da altura do retângulo. Como o perímetro do retângulo é igual a
+64 metros, temos <span
+class="math display">2<em>x</em> + 2<em>h</em> = 64,</span> ou seja,
+<span class="math display"><em>x</em> + <em>h</em> = 32.</span> Sendo
+assim, <span class="math display"><em>h</em> = 32 − <em>x</em></span> e
+a área do retângulo com essas medidas pode ser expressa como uma função
+quadrática de <span class="math inline"><em>x</em></span>, a saber,
+<span
+class="math display"><em>A</em>(<em>x</em>) = <em>x</em>(32−<em>x</em>).</span>
+Como essa função se anula quando <span
+class="math inline"><em>x</em> = 0</span> e quando <span
+class="math inline"><em>x</em> = 32</span> (justifique geometricamente
+por quê!), concluímos que seu valor máximo é atingido no ponto médio
+entre esses zeros, isto é, quando <span class="math display">$$x =
+\frac{0+32}{2} = 16.$$</span> Para essa medida da base, a medida
+correspondente da altura é <span
+class="math display"><em>h</em> = 32 − 16 = 16.</span> Concluímos que o
+retângulo de área máxima, com perímetro igual a 64 metros, é o quadrado
+de lados iguais a 16 metros e área <span
+class="math inline">16 × 16 = 256</span> metros quadrados. ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Discuta com os alunos se esse
+fato pode ser generalizado para retângulos com um dado perímetro. E
+quanto a paralelogramos?</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.176</strong> (ENEM 2013, Caderno Cinza,
+Reaplicação, Questão 150). <em>Uma pequena fábrica vende seus bonés em
+pacotes com quantidades de unidades variáveis. O lucro obtido é dado
+pela expressão <span
+class="math inline"><em>L</em>(<em>x</em>) =  − <em>x</em><sup>2</sup> + 12<em>x</em> − 20</span>,
+onde <span class="math inline"><em>x</em></span> representa a quantidade
+de bonés contidos no pacote. A empresa pretende fazer um único tipo de
+empacotamento, obtendo um lucro máximo.</em></p>
+<p><em>Para obter o lucro máximo nas vendas, os pacotes devem conter uma
+quantidade de bonés igual a</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>4.</em></p></li>
+<li><p><em>6.</em></p></li>
+<li><p><em>9.</em></p></li>
+<li><p><em>10.</em></p></li>
+<li><p><em>14.</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Note que <span class="math display">$$\begin{aligned}
+L(x) &amp; = -x^2 + 12 x - 20 \\
+&amp; = -(x^2 -12 x + 20)\\
+&amp; = - (x-2)(x-10).
+\end{aligned}$$</span> Assim, o valor máximo ocorre no ponto médio entre
+as raízes, isto é, quando <span class="math inline">$x = \frac{2+10}{2}
+= 6$</span>. Portanto, a alternativa correta é a B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.177</strong>. <em>Um automóvel, percorrendo uma
+rodovia, começa a frear, em um certo instante, ao aproximar-se de uma
+zona urbana, que está a uma distância de 400 metros. A seguinte tabela
+mostra as distâncias percorridas e as velocidades instantâneas em alguns
+instantes a partir desse instante inicial:</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><em>Intervalo de tempo
+(segundos)</em></th>
+<th style="text-align: center;"><em>   0   </em></th>
+<th style="text-align: center;"><em>   3   </em></th>
+<th style="text-align: center;"><em>   6   </em></th>
+<th style="text-align: center;"><em>   9   </em></th>
+<th style="text-align: center;"><em>   12   </em></th>
+<th style="text-align: center;"><em>   15</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Velocidade (metros por
+segundo)  </em></td>
+<td style="text-align: center;"><em>   40   </em></td>
+<td style="text-align: center;"><em>   34   </em></td>
+<td style="text-align: center;"><em>   28   </em></td>
+<td style="text-align: center;"><em>   22   </em></td>
+<td style="text-align: center;"><em>   16   </em></td>
+<td style="text-align: center;"><em>   10</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Distância percorrida (metros)
+  </em></td>
+<td style="text-align: center;"><em>   0   </em></td>
+<td style="text-align: center;"><em>   111   </em></td>
+<td style="text-align: center;"><em>   204   </em></td>
+<td style="text-align: center;"><em>   279   </em></td>
+<td style="text-align: center;"><em>   336   </em></td>
+<td style="text-align: center;"><em>   375</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>Com base nesses dados, trabalhe as seguintes questões.</em></p>
+<ol>
+<li><p><em><span><strong>Bloco 1 de questões</strong></span></em></p>
+<ul>
+<li><p><em>Represente, em um gráfico, as velocidades instantâneas em
+função do tempo.</em></p></li>
+<li><p><em>Qual a declividade do gráfico que representa as velocidades
+em função do tempo?</em></p></li>
+<li><p><em>Denotando por <span class="math inline"><em>t</em></span> o
+tempo decorrido desde o instante inicial e por <span
+class="math inline"><em>v</em>(<em>t</em>)</span> a velocidade
+instantânea, escrevemos <span
+class="math inline"><em>v</em>(<em>t</em>)</span> como uma função
+<em>afim</em> de <span class="math inline"><em>t</em></span> da seguinte
+forma: <span
+class="math inline"><em>v</em>(<em>t</em>) = 40 + <em>a</em><em>t</em></span>.
+Qual o valor de <span
+class="math inline"><em>a</em></span>?</em></p></li>
+<li><p><em>Que relação tem esse valor de <span
+class="math inline"><em>a</em></span> com a declividade do
+gráfico?</em></p></li>
+<li><p><em>Caso o movimento continue a ser descrito por essa função,
+após os 15 segundos, em que instante o automóvel pára?</em></p></li>
+</ul></li>
+<li><p><em><span><strong>Bloco 2 de questões</strong></span></em></p>
+<ul>
+<li><p><em>Represente, em um gráfico, as distâncias percorridas, desde a
+posição inicial, em função do tempo.</em></p></li>
+<li><p><em>O gráfico que representa as distâncias percorridas em função
+do tempo é uma linha reta?</em></p></li>
+<li><p><em>Denotando por <span class="math inline"><em>t</em></span> o
+tempo decorrido desde o instante inicial e por <span
+class="math inline"><em>x</em>(<em>t</em>)</span> as distâncias
+percorridas, escrevemos <span
+class="math inline"><em>x</em>(<em>t</em>)</span> como uma função
+<em>quadrática</em> de <span class="math inline"><em>t</em></span> da
+seguinte forma: <span class="math inline">$x(t) = 40t +
+\frac{a}{2}t^2$</span>. Qual o valor de <span
+class="math inline"><em>a</em></span>?</em></p></li>
+<li><p><em>Que relação tem esse valor de <span
+class="math inline"><em>a</em></span> com a declividade do gráfico da
+velocidades <span class="math inline">×</span> tempo?</em></p></li>
+<li><p><em>Qual o intervalo de tempo, desde o instante inicial, gasto
+pelo automóvel para percorrer 100 metros desde a posição inicial? E para
+percorrer 144 metros?</em></p></li>
+<li><p><em>Caso o movimento continue a ser descrito por essa função,
+após os 15 segundos, a que distância da posição inicial o automóvel
+para?</em></p></li>
+</ul></li>
+</ol>
+</div>
+</div>

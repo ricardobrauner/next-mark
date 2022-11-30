@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-export default function Layout({ children }) {
+export default function Layout({posts, children }) {
 
   return (
 
@@ -28,7 +28,7 @@ export default function Layout({ children }) {
 
         <div className='container mx-auto flex justify-center'>
 
-          &copy; 2022 DailyDevTips
+          &copy; 2022 DailyDevTips          
 
         </div>
 

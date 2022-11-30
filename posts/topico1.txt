@@ -1,0 +1,152 @@
+<h2 class="unnumbered"
+id="mapeamento-das-lacunas-de-aprendizagem-via-sisedu">Mapeamento das
+lacunas de aprendizagem via SISEDU</h2>
+<p>A avaliação diagnóstica processual, via SISEDU, cuja primeira etapa
+vem ocorrendo desde 15 de fevereiro último, é um dos principais
+elementos para o trabalho das escolas em 2022 e 2023. De fato, os
+resultados tem ajudado a identificar lacunas ou avanços de aprendizagem
+em Matemática, norteando as iniciativas educacionais necessárias para um
+acompanhamento dos alunos que seja mais efetivo, personalizado e baseado
+em evidências pedagogicamente significativas e estatisticamente
+robustas.</p>
+<p>Os testes diagnósticos via SISEDU são baseados na Matriz dos Saberes,
+inovação desenvolvida pelo Programa Cientista-Chefe em Educação Básica.
+Esta matriz incorpora e articula os descritores de avaliações externas,
+como SAEB e SPAECE, além das habilidades na matriz do ENEM, mas vai além
+de uma mera junção de habilidades, no sentido de que elucida toda a
+gradação lógica e cognitiva da Matemática Básica, nos níveis fundamental
+e médio, tanto no domínio do conhecimento quanto no domínio dos
+processos cognitivos.</p>
+<p>Com base nessa matriz e nos dados relativos aos parâmetros de
+dificuldade dos itens, calculados segundo a Teoria da Resposta ao Item,
+apresentamos, a seguir, na forma de tabela, os conhecimentos e
+habilidades mobilizados nos itens, que correspondem às lacunas de
+aprendizagem predominantes entre os estudantes que participaram dos
+testes, de acordo com a análise fatorial que realizamos:</p>
+<div class="fBox">
+<p>S02.H30: determinar parcelas desconhecidas em um cálculo aritmético a
+partir de parcelas e resultados dados, preservando igualdade entre
+expressões aritméticas</p>
+</div>
+<div class="fBox">
+<p>S02.H32: modelar e resolver problemas, motivados por diversos
+contextos e com recurso a diferentes procedimentos, envolvendo
+multiplicação ou divisão de números naturais e seus vários significados
+e representações</p>
+</div>
+<div class="fBox">
+<p>S03.H7: associar frações a números decimais (e reciprocamente) e, em
+particular, estabelecer a equivalência entre porcentagens, frações
+centesimais e suas representações como números decimais</p>
+</div>
+<div class="fBox">
+<p>S03.H14: efetuar, segundo algoritmos corretos e justificados, a
+adição ou subtração de números racionais, em suas representações
+fracionárias</p>
+</div>
+<div class="fBox">
+<p>S04.H6: determinar as relações entre razões, taxas de variação,
+frações e suas representações decimais, inclusive quando expressas na
+forma de porcentagem</p>
+</div>
+<div class="fBox">
+<p>S04.H9: resolver problemas que envolvam porcentagens, motivados por
+diferentes contextos e aplicações</p>
+</div>
+<div class="fBox">
+<p>S15.H20: resolver problema envolvendo informações apresentadas em
+tabelas e/ou gráficos</p>
+</div>
+<div class="fBox">
+<p>S15.H23: calcular medidas de tendência central ou de dispersão.</p>
+</div>
+<h3 class="unnumbered"
+id="habilidades-prioritárias-em-matemática-de-acordo-com-o-spaece---primeira-e-terceira-séries">Habilidades
+prioritárias em Matemática, de acordo com o SPAECE - Primeira e terceira
+séries</h3>
+<p>De modo similar, os resultados do SPAECE Diagnóstico, teste também
+realizado no primeiro semestre de 2022, identificam habilidades que
+requerem uma atenção prioritária na elaboração dos percursos pedagógicos
+e que, além disso, são <span><strong>basilares</strong></span> para o
+seguimento desses percursos rumo aos objetivos de aprendizagem do Ensino
+Médio. Entre essas habilidades, o presente caderno trabalha as
+seguintes:</p>
+<ul>
+<li><p>Números (primeira e terceira séries)</p>
+<ol type="1">
+<li><p>Resolver problemas utilizando mínimo múltiplo comum ou máximo
+divisor comum com números naturais.</p></li>
+<li><p>Ordenar ou identificar a localização de números inteiros na reta
+numérica.</p></li>
+<li><p>Resolver problemas com números inteiros envolvendo suas
+operações.</p></li>
+<li><p>Ordenar ou identificar a localização de números racionais na reta
+numérica.</p></li>
+<li><p>Resolver problemas com números racionais envolvendo suas
+operações.</p></li>
+<li><p>Reconhecer diferentes representações de um mesmo número
+racional.</p></li>
+<li><p>Estabelecer relações entre representações fracionárias e decimais
+dos números racionais.</p></li>
+<li><p>Resolver problemas utilizando porcentagem.</p></li>
+<li><p>Resolver problemas envolvendo juros simples.</p></li>
+</ol></li>
+<li><p>Álgebra (primeira e terceira séries)</p>
+<ol type="1">
+<li><p>Resolver problemas envolvendo a variação proporcional entre
+grandezas direta ou inversamente proporcionais.</p></li>
+<li><p>Resolver problemas que envolva equações de 1<span
+class="math inline"><sup>∘</sup></span> grau.</p></li>
+<li><p>Resolver problemas envolvendo fatoração e resolução de equação do
+2<span class="math inline"><sup>∘</sup></span> grau.</p></li>
+<li><p>Resolver problemas envolvendo sistema de equações do 1<span
+class="math inline"><sup>∘</sup></span> grau.</p></li>
+<li><p>Construir modelos para resolução de problemas
+algébricos.</p></li>
+</ol></li>
+<li><p>Álgebra (apenas terceira série)</p>
+<ol type="1">
+<li><p>Fatorar e simplificar expressões algébricas.</p></li>
+<li><p>Reconhecer a representação algébrica e geométrica da função
+polinomial de 1<span class="math inline"><sup>∘</sup></span> e 2<span
+class="math inline"><sup>∘</sup></span> graus.</p></li>
+<li><p>Relacionar as raízes de um polinômio com sua decomposição em
+fatores do 1<span class="math inline"><sup>∘</sup></span> grau.</p></li>
+</ol></li>
+<li><p>Geometria (primeira e terceira séries)</p>
+<ol type="1">
+<li><p>Reconhecer transformações geométricas (reflexão, rotação e
+translação).</p></li>
+<li><p>Reconhecer ampliação e redução de figuras
+bidimensionais.</p></li>
+</ol></li>
+<li><p>Geometria (apenas terceira série)</p>
+<ol type="1">
+<li><p>Resolver problemas envolvendo semelhança de figuras
+planas.</p></li>
+<li><p>Resolver problema aplicando o Teorema de Pitágoras ou as demais
+relações métricas no triângulo retângulo.</p></li>
+<li><p>Identificar a localização de pontos no plano cartesiano.</p></li>
+</ol></li>
+<li><p>Grandezas e medidas (primeira e terceira séries)</p>
+<ol type="1">
+<li><p>Resolver problema envolvendo cálculo de perímetro, área e
+volume</p></li>
+<li><p>Resolver problemas envolvendo noções de volume.</p></li>
+</ol></li>
+<li><p>Grandezas e medidas (apenas terceira séries)</p>
+<ol type="1">
+<li><p>Resolver problema envolvendo cálculo de perímetro, área e
+volume</p></li>
+<li><p>Resolver problema envolvendo o calculo de perímetro, área e
+volume (<em>sic</em>) de figuras bidimensionais.</p></li>
+</ol></li>
+<li><p>Probabilidade e Estatística (primeira e terceira séries)</p>
+<ol type="1">
+<li><p>Resolver problemas envolvendo informações apresentadas em tabelas
+ou gráficos.</p></li>
+<li><p>Resolver problemas usando a média aritmética.</p></li>
+<li><p>Resolver problemas envolvendo medidas de tendência central:
+média, moda ou mediana.</p></li>
+</ol></li>
+</ul>

@@ -1,0 +1,2934 @@
+<h2 id="proporcionalidade-e-linearidade">Proporcionalidade e
+Linearidade</h2>
+<p>Caro(a) estudante, esta parte do material envolve assuntos e
+habilidades essenciais para a aprendizagem da Matemática e para sua
+preparação para avaliações de larga escala (SPAECE e SAEB) e para o
+ENEM. Iniciamos nosso estudo retomando os conceitos de frações
+equivalentes e suas representações como números decimais para,
+gradativamente, passarmos a exercícios envolvendo proporcionalidade,
+equações lineares e funções afins.</p>
+<div class="fBox">
+<p>As tarefas a seguir envolvem conhecimentos prévios fundamentais para
+desenvolver as habilidades nos descritores D16, D19, D28, D55, D57 e D58
+da Matriz de Referência do SPAECE. Veja a matriz em</p>
+<div class="center">
+<p><span> <a
+href="https://spaece.caedufjf.net/wp-content/uploads/2012/07/CE-SPAECE-2016-MATRIZ-MT-3EM.pdf"
+class="uri">https://spaece.caedufjf.net/wp-content/uploads/2012/07/CE-SPAECE-2016-MATRIZ-MT-3EM.pdf</a></span></p>
+</div>
+<p>Tente resolver as questões você mesmo, antes de consultar a solução:
+não desista na primeira tentativa. Tanto o texto quanto as soluções dos
+exercícios são recursos para que você possa estudar ou revisar os
+conceitos e técnicas essenciais para sua aprendizagem.</p>
+</div>
+<h3 id="representações-de-números-racionais">Representações de números
+racionais</h3>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.1</strong> (Equivalência de frações). <em>Calcule o
+valor de <span class="math inline"><em>x</em></span> para o qual a
+seguinte <em>equivalência</em> de frações é válida: <span
+class="math display">$$\frac{x}{9} = \frac{4}{6}\cdot$$</span></em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Inicialmente, observemos que <span
+class="math inline">18</span> é, ao mesmo tempo, um múltiplo de <span
+class="math inline">6</span> e de <span class="math inline">9</span>.
+Portanto, multiplicamos os dois lados da igualdade por <span
+class="math inline">18</span>, preservando a igualdade e obtendo <span
+class="math display">$$\textcolor{blue}{18} \times \frac{x}{9} =
+\textcolor{blue}{18} \times \frac{4}{6}\cdot$$</span> Uma vez que <span
+class="math display">$$\frac{18}{9}  = 2 \quad \mbox{ e } \quad
+\frac{18}{6} = 3,$$</span> concluímos que <span
+class="math display">2<em>x</em> = 12.</span> Agora, dividindo cada um
+dos dois lados desta equação por <span class="math inline">2</span>,
+obtemos <span class="math display"><em>x</em> = 6.</span> Assim,
+deduzimos que as frações <span class="math inline">$\frac{6}{9}$</span>
+e <span class="math inline">$\frac{4}{6}$</span> são
+<em>equivalentes</em>, isto é, <span class="math display">$$\frac{6}{9}
+= \frac{4}{6}\cdot$$</span> ◻</p>
+</div>
+</div>
+<div class="fBox">
+<p>Uma alternativa de solução da questão é a seguinte: multiplicamos o
+numerador e o denominador da fração <span
+class="math inline">$\frac{4}{6}$</span> por <span
+class="math inline">3</span>, obtendo <span
+class="math display">$$\frac{4\times \textcolor{blue}{3}}{6\times
+\textcolor{blue}{3}} = \frac{12}{18}\cdot$$</span> Em seguida, dividimos
+o numerador e o denominador desta última fração por <span
+class="math inline">2</span>, o que resulta em <span
+class="math display">$$\frac{12:\textcolor{blue}{2}}{18:
+\textcolor{blue}{2}} = \frac{6}{9}\cdot$$</span> Vejamos uma explicação
+gráfica para esta solução: a fração <span
+class="math inline">$\frac{4}{6}$</span> está representada na figura
+seguinte, em que cada um dos retângulos menores representa <span
+class="math inline">$\frac{1}{6}$</span> do retângulo maior.</p>
+<p><span style="color: blue">Dividindo</span> cada um dos retângulos
+menores em <span style="color: blue">3</span> partes iguais, obtemos 18
+retângulos, dos quais <span class="math inline">12</span> estão
+coloridos, representando a mesma fração da figura anterior.</p>
+<p>Logo, deduzimos que <span
+class="math inline">$\frac{4}{6}=\frac{12}{18}$</span>. Agora, <span
+style="color: blue">agrupando</span> os retângulos menores na figura
+anterior em grupos de <span style="color: blue">2</span>, obtemos</p>
+<p>Portanto, demonstramos, com o suporte das figuras, que <span
+class="math display">$$\frac{4}{6}=
+\frac{\textcolor{blue}{12}}{\textcolor{blue}{18}} =
+\frac{6}{9}\cdot$$</span></p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.2</strong> (Frações e números decimais). <em>O
+número decimal <span class="math inline">0, 75</span> equivale a qual
+das seguintes frações?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em><span class="math inline">$\dfrac{6}{4}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{4}{6}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{3}{6}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{3}{4}$</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Observe, inicialmente que as frações <span
+class="math inline">$\frac{1}{10}$</span> e <span
+class="math inline">$\frac{10}{100}$</span> são equivalentes, uma vez
+que <span class="math display">$$\frac{1\textcolor{violet}{\times
+10}}{10 \textcolor{violet}{\times 10}} = \frac{10}{100}\cdot$$</span>
+Usando essa equivalência, vemos que o número decimal <span
+class="math inline">0, 75</span> é expandido da seguinte forma <span
+class="math display">$$0,\textcolor{blue}{7}\textcolor{red}{5} =
+0,\textcolor{blue}{7} + 0,0\textcolor{red}{5} =
+\textcolor{blue}{7}\times \frac{1}{10} +
+\textcolor{red}{5}\times\frac{1}{100}  = 7\times \frac{10}{100} +
+5\times \frac{1}{100}
+= \frac{7\times 10 + 5}{100} = \frac{75}{100}\cdot$$</span> Em resumo, o
+número decimal <span class="math inline">0, 75</span>
+<span><strong>equivale</strong></span> à fração <span
+class="math inline">$\frac{75}{100}$</span>. Todavia, esta fração pode
+ser <em>simplificada</em> da seguinte forma: <span
+class="math display">$$\frac{75\textcolor{violet}{\div
+25}}{100\textcolor{violet}{\div 25}} = \frac{3}{4}\cdot$$</span>
+Portanto, o número decimal <span class="math inline">0, 75</span> é
+equivalente à fração <span class="math inline">$\frac{75}{100}$</span>
+que, por sua vez, é equivalente à fração <span
+class="math inline">$\frac{3}{4}$</span>. Logo, a alternativa correta é
+a de letra D). ◻</p>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong> (Localização de números racionais na
+reta). <em>Estudemos as demais alternativas do exercício anterior. Temos
+as seguintes equivalências de frações: <span
+class="math display">$$\frac{3}{6} = \frac{3\textcolor{violet}{\div
+3}}{6\textcolor{violet}{\div 3}} = \frac{1}{2} =
+\frac{1\textcolor{violet}{\times 2}}{2\textcolor{violet}{\times 2}} =
+\frac{2}{4}\cdot$$</span> Além disso, <span
+class="math display">$$\frac{6}{4} = \frac{4}{4}+\frac{2}{4} = 1 +
+\frac{2}{4}&gt; 1.$$</span> Podemos ver, também, que <span
+class="math display">$$\frac{6}{4} = \frac{3}{4}+\frac{3}{4} =
+2\times\frac{3}{4}\cdot$$</span> Deduzimos, assim, a seguinte
+<em>comparação</em> de frações <span class="math display">$$\frac{3}{6}
+= \frac{2}{4} &lt; \frac{3}{4} &lt; 2\times \frac{3}{4}=
+\frac{6}{4}\cdot$$</span> Resta, agora, compararmos a fração <span
+class="math inline">$\frac{4}{6}$</span> com as outras três frações que
+aparecem nas alternativas. Observamos que <span
+class="math display">$$\frac{4\times 2}{6\times 2} = \frac{8}{12} \quad
+\mbox \quad \frac{3\times 3}{4\times 3} = \frac{9}{12}\cdot$$</span>
+Assim, <span class="math display">$$\frac{4}{6} &lt;
+\frac{3}{4}\cdot$$</span> Por fim, dado que, como vimos acima, <span
+class="math inline">$\frac{1}{2} = \frac{3}{6}$</span>, concluímos que
+<span class="math display">$$\frac{1}{2}&lt; \frac{4}{6} &lt;
+\frac{3}{4}\cdot$$</span> Podemos representar esses cálculos e
+desigualdades usando a <em>reta numérica</em>: as frações <span
+class="math inline">$\frac{1}{2}, \frac{4}{6}$</span> e <span
+class="math inline">$\frac{3}{4}$</span> estão respectivamente
+representadas nas retas numéricas</em></p>
+<p><em>Dividindo cada um dos segmentos de reta de mesmo comprimento, do
+ponto <span class="math inline">0</span> ao ponto <span
+class="math inline">1</span>, em 6, 2 e 3 partes iguais,
+respectivamente, obtemos 12 segmentos, do ponto 0 ao ponto 1, em cada
+uma das três retas numéricas:</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.3</strong>. <em>Qual dos seguintes números decimais
+é equivalente à fração <span
+class="math inline">$\dfrac{3}{4}$</span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em>0,34</em></p></li>
+<li><p><em>0,75</em></p></li>
+<li><p><em>3,4</em></p></li>
+<li><p><em>7,5</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que a fração <span
+class="math inline">$\frac{3}{4}$</span> expressa a divisão de 3 por 4.
+Para representar o resultado dessa divisão na forma de um número
+decimal, executamos os seguintes passos: <span
+class="math display">$$\begin{aligned}
+\frac{3}{4}  = \frac{3\times 10}{4\times 10} = \frac{1}{10} \times
+\frac{30}{4} = \frac{1}{10} \times \Big(7+\frac{2}{4}\Big)= \frac{7}{10}
++ \frac{1}{10} \times \frac{2\times 10}{4 \times 10} = \frac{7}{10} +
+\frac{1}{100} \times \frac{20}{4}= \frac{7}{10} + \frac{5}{100}\cdot
+%\\
+%&amp;   = 0,7 + 0,05 = 0,75.
+\end{aligned}$$</span> As frações <span
+class="math inline">$\frac{7}{10}$</span> e <span
+class="math inline">$\frac{5}{100}$</span>, com denominadores iguais a
+10 e 100, são representados como números decimais <span
+class="math display">$$\frac{7}{10} = 0,7 \quad { \mbox e
+}\quad  \frac{5}{100} = 0,05.$$</span></p>
+<p>Temos <span class="math display">$$\frac{3}{4} = 0,7 + 0,05 =
+0,75.$$</span> A resposta correta é a alternativa B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.4</strong>. <em>Qual dos seguintes números
+racionais equivale à fração <span
+class="math inline">$\dfrac{3}{8}$</span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em>0,375</em></p></li>
+<li><p><em>0,38</em></p></li>
+<li><p><em>3,75</em></p></li>
+<li><p><em>3,8</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Observe que a fração <span
+class="math inline">$\frac{3}{8}$</span> é dada pela divisão de 3 por 8.
+Temos: <span class="math display">$$\frac{3}{8} = \frac{3\times
+125}{8\times 125} = \frac{375}{1000} = 0,375.$$</span> Logo, a resposta
+correta é a alternativa A). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Outra forma de calcular a
+representação decimal de <span class="math inline">$\frac{3}{8}$</span>
+é observar que esta fração é obtida dividindo 3 por 4 e, depois, o
+resultado dessa divisão por 2: <span class="math display">$$\frac{3}{8}
+= \frac{3}{4}: 2= \frac{3}{4} \times \frac{1}{2} =  \frac{75}{100}
+\times \frac{1}{2} = \frac{75}{100} \times \frac{5}{10} =
+\frac{375}{1000} = 0,375.$$</span></em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.5</strong>. <em>Qual das frações abaixo
+<span><strong>não</strong></span> é equivalente a <span
+class="math inline">$\frac{12}{18}$</span>.</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em><span class="math inline">$\frac{6}{9}$</span></em></p></li>
+<li><p><em><span
+class="math inline">$\frac{10}{16}$</span></em></p></li>
+<li><p><em><span class="math inline">$\frac{4}{6}$</span></em></p></li>
+<li><p><em><span class="math inline">$\frac{8}{12}$</span></em></p></li>
+<li><p><em><span class="math inline">$\frac{2}{3}$</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Uma possibilidade é simplificar as frações dadas, obtendo
+<span class="math display">$$\frac{12}{18}=\frac{12 \div  2}{18
+\div  2}=\frac{6}{9}=\frac{6 \div  3}{9\div 3}=\frac{2}{3}.$$</span>
+Logo, <span class="math inline">$\frac{6}{9}$</span> e <span
+class="math inline">$\frac{2}{3}$</span> são frações equivalentes a
+<span class="math inline">$\frac{12}{18}$</span>. Por outro lado, <span
+class="math display">$$\frac{8}{12}=\frac{8 \div
+2}{12\div  2}=\frac{4}{6}=\frac{4\div  2}{6\div 2}=\frac{2}{3}.$$</span>
+Assim, <span class="math inline">$\frac{8}{12}$</span> também é
+equivalente a <span class="math inline">$\frac{12}{18}$</span>.
+Finalmente, <span class="math display">$$\frac{10}{16}=\frac{10
+\div  2}{16 \div  2}=\frac{5}{8}.$$</span> Mas, como <span
+class="math inline">$\frac{2}{3}$</span> e <span
+class="math inline">$\frac{5}{8}$</span> são frações irredutíveis
+diferentes, concluímos que <span
+class="math inline">$\frac{10}{16}$</span> e <span
+class="math inline">$\frac{12}{18}$</span> não são equivalentes.
+Portanto, a alternativa que apresenta uma fração que não é equivalente a
+<span class="math inline">$\frac{12}{18}$</span> é a letra (b).</p>
+<p>Para ilustrarmos graficamente esses cálculos, representamos as
+frações utilizando <span><strong>barras</strong></span> de mesmo
+comprimento, como nas figuras abaixo, particionadas em 18, 9, 6, 3 ou 16
+partes iguais, respectivamente:</p>
+<div class="center">
+
+</div>
+<p>Uma solução alternativa seria verificar as equivalências de <span
+class="math inline">$\frac{12}{18}$</span> e <span
+class="math inline">$\frac{6}{9}$</span>, o que também pode ser feito
+para as frações dos itens (c), (d), (e), calculando os produtos <span
+class="math inline">12 × 9</span> e <span
+class="math inline">6 × 18</span>: como <span
+class="math inline">12 × 9 = 108 = 6 × 18</span>, as frações <span
+class="math inline">$\frac{12}{18}$</span> e <span
+class="math inline">$\frac{6}{9}$</span> são equivalentes. Da mesma
+forma, <span class="math inline">$\frac{12}{18}$</span> não é
+equivalente a <span class="math inline">$\frac{10}{16}$</span> porque
+<span class="math inline">12 × 16 = 192</span> e <span
+class="math inline">10 × 18 = 180</span>, logo, <span
+class="math inline">12 × 16 ≠ 10 × 18</span>. ◻</p>
+</div>
+<div class="versaoProfessor">
+<div class="fBox">
+<p>De modo geral, as frações <span
+class="math inline">$\frac{m}{n}$</span> e <span
+class="math inline">$\frac{p}{q}$</span> são
+<span><strong>equivalentes</strong></span>, ou seja, a igualdade <span
+class="math display">$$\frac{m}{n} = \frac{p}{q}$$</span> é verdadeira
+<em>se, e somente se,</em> <span
+class="math display"><em>q</em> × <em>m</em> = <em>p</em> × <em>n</em>.</span>
+Nestas expressões, <span
+class="math inline"><em>m</em>, <em>n</em>, <em>p</em></span> e <span
+class="math inline"><em>q</em></span> são números naturais, com <span
+class="math inline"><em>n</em></span> e <span
+class="math inline"><em>q</em></span> diferentes de <span
+class="math inline">0</span>.</p>
+</div>
+<p>De fato, basta multiplicarmos cada um dos lados da igualdade pelo
+produto <span class="math inline"><em>q</em> × <em>n</em></span>,
+obtendo <span class="math display">$$q \times n \times \frac{m}{n} = q
+\times n \times \frac{p}{q},$$</span> igualdade que pode ser reescrita
+como <span class="math display">$$q \times m \times n   \times
+\frac{1}{n} = n \times p \times  q \times \frac{1}{q},$$</span> o que
+nos permite concluir que <span
+class="math display"><em>q</em> × <em>m</em> = <em>n</em> × <em>p</em>.</span></p>
+<div class="obsBox">
+<div id="obs1" class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Em nosso estudo, esse conceito
+de equivalência de frações será visto como uma <span><strong>relação de
+proporcionalidade</strong></span>: diremos que <span
+class="math display">$$\frac{m}{n} = \frac{p}{q}$$</span> quando <span
+class="math inline"><em>m</em></span> <em>está para</em> <span
+class="math inline"><em>n</em></span> <em>assim como</em> <span
+class="math inline"><em>p</em></span> <em>está para</em> <span
+class="math inline"><em>q</em></span>, situação em que vale a igualdade
+dos produtos dos <em>meios</em> e do produtos dos <em>extremos</em>:
+<span
+class="math display"><em>q</em> × <em>m</em> = <em>p</em> × <em>n</em>.</span></em></p>
+</div>
+</div>
+<p>Usando a definição acima de equivalência de frações, vamos, agora,
+apresentar algumas <span><strong>critérios práticos</strong></span>, que
+são consequências lógicas da definição, para verificar se duas frações
+são equivalentes.</p>
+<div class="obsBox">
+<div id="obs2" class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Se multiplicarmos ou dividirmos
+o numerador e o denominador de uma fração <strong>por um mesmo
+número</strong> <span class="math inline"><em>a</em></span> natural
+diferente de zero, obtemos uma fração equivalente. De fato, <span
+class="math display">$$\frac{m}{n} = \frac{m \times a}{n \times
+a}$$</span> visto que <span
+class="math display"><em>m</em> × <em>n</em> × <em>a</em> = <em>n</em> × <em>m</em> × <em>a</em>.</span>
+Da mesma forma, <span class="math display">$$\frac{m}{n} = \frac{m :
+a}{n: a}\cdot$$</span> Neste caso, <span
+class="math inline"><em>a</em></span> deve ser um <em>divisor ou fator
+comum</em> de <span class="math inline"><em>m</em></span> e <span
+class="math inline"><em>n</em></span> com <span
+class="math inline"><em>m</em> : <em>a</em> = <em>p</em></span> e <span
+class="math inline"><em>n</em> : <em>a</em> = <em>q</em></span>. Assim,
+temos <span class="math display">$$\frac{m}{n} = \frac{p\times
+a}{q\times a} = \frac{p}{q}=\frac{m : a}{n: a},$$</span> como queríamos
+demonstrar.</em></p>
+</div>
+</div>
+<p>Por exemplo, no caso das frações <span
+class="math inline">$\frac{2}{4}$</span> e <span
+class="math inline">$\frac{3}{6}$</span>, multiplicando <em>tanto</em> o
+numerador <em>quanto</em> o denominador por <span
+class="math inline">3</span> e por <span class="math inline">2</span>,
+respectivamente, obtemos: <span
+class="math display">$$\frac{2}{4}=\frac{2\times 3}{4\times
+3}=\frac{6}{12}$$</span> e <span
+class="math display">$$\frac{3}{6}=\frac{3\times 2}{6\times
+2}=\frac{6}{12},$$</span> o que corresponde, na reta, a particionarmos
+cada segmento de comprimento <span
+class="math inline">$\frac{1}{4}$</span> em <span
+class="math inline">3</span> partes e cada segmento de comprimento <span
+class="math inline">$\frac{1}{6}$</span> em 2 partes, conforme
+representado nas seguintes figuras.</p>
+<p>Note que os comprimentos realçados nos dois segmentos são iguais, o
+que justifica, graficamente, a equivalência das frações.</p>
+<div class="fBox">
+<p>Recapitulando, quando multiplicamos o numerador e o denominador de
+uma fração por um mesmo número natural diferente de zero, aumentamos a
+quantidade de partes nas quais um dado segmento é dividido, bem como
+aumentamos <em>proporcionalmente</em> a quantidade de partes tomadas.
+Por outro lado, quando dividimos o numerador e o denominador por um
+mesmo natural diferente de zero, diminuímos <em>proporcionalmente</em>
+essas quantidades de partes. Em ambos esses casos, obtemos uma fração
+equivalente à inicial.</p>
+</div>
+</div>
+<h3 class="unnumbered"
+id="exercícios-propostos-equivalências-representações-comparações-e-localizações-de-números-racionais">Exercícios
+propostos: equivalências, representações, comparações e localizações de
+números racionais</h3>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.6</strong>. <em>Em uma prova, um aluno acertou 15
+questões, o que corresponde a <span
+class="math inline">$\frac{5}{7}$</span> do total de questões. Nesta
+prova havia quantas questões?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>20</em></p></li>
+<li><p><em>21</em></p></li>
+<li><p><em>28</em></p></li>
+<li><p><em>30</em></p></li>
+<li><p><em>35</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Vamos representar o total de questões da prova pelo
+segmento de reta entre os pontos 0 e 1 na reta numérica. Sendo assim,
+particionamos esse segmento em 7 segmentos de mesmo comprimento e
+destacamos 5 desses segmentos para representar o total de questões
+respondidas corretamente.</p>
+<p>Como 5 dos segmentos menores correspondem a <span
+class="math inline">5/7</span> do total de questões, ou seja, a 15
+questões, cada um desses segmentos corresponde a <span
+class="math inline">15 : 5 = 3 questões</span>. Isso pode ser
+visualizado na próxima figura,
+<span><strong>particionando</strong></span> cada segmento menor em 3
+partes e observando que, agora, cada parte corresponde a uma questão.
+Portanto, os 7 segmentos, que representam o total de questões da prova,
+correspondem a <span class="math inline">7 × 3 = 21
+questões</span>.</p>
+<p>Logo, a alternativa correta é a de letra (B). ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div id="dizima" class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>A representação decimal de
+frações pode ser dada por <em>dízimas periódicas</em>. Esse é o caso da
+fração <span class="math inline">$\frac{3}{7}$</span>. De fato, temos:
+<span class="math display">$$\begin{aligned}
+\frac{3}{7}  = \frac{3\times 10}{7\times 10} = \frac{1}{10} \times
+\frac{30}{7} = \frac{1}{10} \times \Big(4+\frac{2}{7}\Big)= \frac{4}{10}
++ \frac{1}{10} \times \frac{2\times 10}{7 \times 10} = \frac{4}{10} +
+\frac{1}{100} \times \frac{20}{7}\cdot
+\end{aligned}$$</span> Logo, <span
+class="math display">$$\begin{aligned}
+\frac{3}{7}   = \frac{4}{10} + \frac{1}{100} \times
+\Big(2+\frac{6}{7}\Big)= \frac{4}{10} + \frac{2}{100} +\frac{1}{1000}
+\times \frac{60}{7} = \frac{4}{10} + \frac{2}{100} +\frac{1}{1000}
+\times \Big(8+\frac{4}{7}\Big) \cdot
+\end{aligned}$$</span> Portanto, <span
+class="math display">$$\begin{aligned}
+\frac{3}{7}   = \frac{4}{10} + \frac{2}{100} +\frac{8}{1000}  +
+\frac{1}{10000}\times \frac{40}{7} = \frac{4}{10} + \frac{2}{100}
++\frac{8}{1000}  + \frac{1}{10000}\times \Big(5+ \frac{5}{7}\Big)\cdot
+\end{aligned}$$</span> Continuamos com as divisões, obtendo: <span
+class="math display">$$\begin{aligned}
+\frac{3}{7}   = \frac{4}{10} + \frac{2}{100} +\frac{8}{1000}  +
+\frac{5}{10000} +  \frac{1}{100000} \times\frac{50}{7}=  \frac{4}{10} +
+\frac{2}{100} +\frac{8}{1000}  + \frac{5}{10000} +  \frac{1}{100000}
+\times\Big(7+\frac{1}{7}\Big)\cdot
+\end{aligned}$$</span> Assim, <span
+class="math display">$$\begin{aligned}
+\frac{3}{7}   &amp; =   \frac{4}{10} + \frac{2}{100} +\frac{8}{1000}  +
+\frac{5}{10000} +  \frac{7}{100000} + \frac{1}{1000000}
+\times\frac{10}{7} \\
+&amp; = \frac{4}{10} + \frac{2}{100} +\frac{8}{1000}  + \frac{5}{10000}
++  \frac{7}{100000} + \frac{1}{1000000} +\frac{1}{1000000}
+\times\frac{3}{7}\cdot
+\end{aligned}$$</span> Logo, <span class="math display">$$\frac{3}{7} =
+0,4+0,02+0,008+0,0005+ 0,00007 + 0,000001 + \frac{1}{1000000}\times
+\frac{3}{7}\cdot$$</span> Concluímos que <span
+class="math display">$$\frac{3}{7} = 0,428571 + 0,000000428571 +
+\ldots$$</span> Portanto, <span class="math display">$$\frac{3}{7} =
+0,428571428571\ldots,$$</span> onde a expressão do lado direito é uma
+<em>dízima periódica</em>.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.7</strong> (SPAECE - Item M120963E4, adaptado).
+<em>Observe o seguinte número racional destacado abaixo.</em></p>
+<div class="center">
+<p><em><span><strong><span
+class="math inline">$\dfrac{7}{4}$</span></strong></span></em></p>
+</div>
+<p><em>Qual é a representação decimal desse número?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>0,57</em></p></li>
+<li><p><em>1,75</em></p></li>
+<li><p><em>4,7</em></p></li>
+<li><p><em>7,4</em></p></li>
+<li><p><em>10,75</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Temos a equivalência de frações <span
+class="math display">$$\frac{7}{4} = \frac{7\times 25}{4 \times 25} =
+\frac{175}{100} = 1,75.$$</span> o que corresponde à alternativa
+B. ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Note que a alternativa D
+corresponde a um erro bastante frequente, cuja provável razão se deve a
+uma incompreensão <em>conceitual</em> da representação decimal de
+frações, segundo a qual o número decimal é formado pelo numerador,
+seguido do denominador e separados um do outro por vírgula.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div id="q1" class="questaoT">
+<p><strong>Questão 1.8</strong>. <em>A desigualdade <span
+class="math display">$$\frac{5}{7} &lt; \frac{6}{7}$$</span> é
+verdadeira? Justifique sua resposta.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div id="q2" class="questaoT">
+<p><strong>Questão 1.9</strong>. <em>A desigualdade <span
+class="math display">$$\frac{5}{7} &lt; \frac{5}{6}$$</span> é
+verdadeira? Justifique sua resposta.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div id="q3" class="questaoT">
+<p><strong>Questão 1.10</strong>. <em>As desigualdades <span
+class="math display">$$\frac{2}{5} &lt; \frac{3}{4}$$</span> e <span
+class="math display">$$\frac{4}{5} &lt; \frac{6}{7}$$</span> são
+verdadeiras? Justifique sua resposta.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Todas as desigualdades são verdadeiras. Vejamos as
+justificativas.</p>
+<p>Observe que, no exercício <a href="#q1" data-reference-type="ref"
+data-reference="q1">1.8</a>, temos denominadores iguais: nesse caso, a
+maior fração é a que tem <span><strong>maior</strong></span> numerador.
+Intuitivamente, dividindo <span class="math inline">6</span> em <span
+class="math inline">7</span> partes iguais, temos uma fração maior do
+que ao dividir <span class="math inline">5</span> em <span
+class="math inline">7</span> partes iguais.</p>
+<p>No segundo exercício, questão <a href="#q2" data-reference-type="ref"
+data-reference="q2">1.9</a>, temos numeradores iguais: sendo assim, a
+maior fração é a que tem <span><strong>menor</strong></span>
+denominador. Podemos justificar isso, considerando que, ao dividir 5 em
+7 partes iguais, temos uma fração menor do que dividindo 5 em 6 partes
+iguais.</p>
+<p>Nas desigualdades do terceiro exercício, temos frações com
+numeradores e denominadores diferentes. Sendo assim, podemos raciocinar
+da seguinte forma, baseando-se nos dois casos anteriores: <span
+class="math display">$$\frac{2}{\textcolor{red}{5}} &lt;
+\frac{\textcolor{blue}{2}}{\textcolor{red}{4}} &lt;
+\frac{\textcolor{blue}{3}}{4}\cdot$$</span> Na primeira desigualdade
+acima, temos numeradores iguais e denominadores decrescendo, de <span
+class="math inline">5</span> para <span class="math inline">4</span>, da
+esquerda para a direita. Na segunda desigualdade, temos denominadores
+iguais e numeradores crescendo, da esquerda para a direita.</p>
+<p>No caso da segunda desigualdade da questão <a href="#q3"
+data-reference-type="ref" data-reference="q3">1.10</a>, a estratégia é
+escrever frações equivalentes às frações dadas, de modo que passem a ter
+denominadores iguais. Temos, por exemplo, <span
+class="math display">$$\frac{4}{5} = \frac{4 \times 7}{5\times 7} =
+\frac{28}{35}$$</span> e <span class="math display">$$\frac{6}{7} =
+\frac{6 \times 5}{7\times 5} = \frac{30}{28}\cdot$$</span> Logo, <span
+class="math display">$$\frac{4}{5} = \frac{28}{35} &lt; \frac{30}{35} =
+\frac{6}{7}\cdot$$</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.11</strong>. <em>Determine, em cada uma das
+expressões, o valor de <span class="math inline"><em>x</em></span> que
+torna a igualdade verdadeira:</em></p>
+<ul>
+<li><p><em><span class="math inline">$\dfrac{2}{5} =
+\dfrac{x}{10}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{5}{8} =
+\dfrac{x}{1000}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{12}{25} =
+\dfrac{x}{100}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{375}{1000} =
+\dfrac{x}{40}$</span></em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Considere o critério de equivalência de frações discutido
+no texto, segundo o qual, ao multiplicarmos o numerador e o denominador
+de uma dada fração por um mesmo número natural não-nulo, produzimos uma
+fração equivalente a esta.</p>
+<p>Basta, então, multiplicarmos os numeradores e denominadores das
+frações (de cima para baixo, respectivamente) por 2; por 125; por 4; e
+por 1/50.</p>
+<p>Em cada caso, é importante notar que precisamos “completar” os
+denominadores para termos uma potência de dez: por exemplo <span
+class="math display">4 × 25 = 2<sup>2</sup> × 5<sup>2</sup> = 10<sup>2</sup></span>
+e <span
+class="math display">8 × 125 = 2<sup>3</sup> × 5<sup>3</sup> = 10<sup>3</sup> = 1 000,</span>
+assim como <span
+class="math display">40 × 50 = 8 × 5 × 25 × 2 = 2<sup>3</sup> × 5<sup>3</sup> = 1 000.</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.12</strong>. <em>Complete as expressões abaixo de
+modo que as igualdades sejam verdadeiras:</em></p>
+<ul>
+<li><p><em><span class="math inline">$\dfrac{4}{5} =
+0,\rule{5mm}{0.4pt}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{5}{8} =
+0,\rule{5mm}{0.4pt}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{18}{25} =
+0,\rule{5mm}{0.4pt}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{7}{40} =
+0,\rule{5mm}{0.4pt}$</span></em></p></li>
+</ul>
+<p><em>Agora, coloque os números decimais que você obteve em ordem
+crescente.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Temos <span class="math display">$$\frac{4}{5} =
+\frac{1}{10} \times \frac{40}{5} = \frac{8}{10} = 0,8.$$</span> Da mesma
+forma, <span class="math display">$$\begin{aligned}
+\frac{5}{8} &amp;= \frac{1}{10} \times \frac{50}{8} = \frac{1}{10}
+\times \bigg(6+\frac{2}{8}\bigg)= \frac{1}{10} \times
+\bigg(6+\frac{1}{10}\times \frac{20}{8}\bigg) = \frac{6}{10} +
+\frac{1}{100} \times \bigg(2+\frac{4}{8}\bigg) = \frac{6}{10} +
+\frac{2}{100} + \frac{1}{1\,000} \times \frac{40}{8}\\
+&amp; = \frac{6}{10} + \frac{2}{100} + \frac{5}{1\,000} =0,625.
+\end{aligned}$$</span> ou, mais diretamente, <span
+class="math display">$$\frac{5}{8} = \frac{5\times 125}{8 \times 125} =
+\frac{625}{1\,000} = 0,625.$$</span> Temos, ainda <span
+class="math display">$$\frac{18}{25} = \frac{18 \times 4}{25 \times 4} =
+\frac{72}{100} = 0,72$$</span> e, finalmente, <span
+class="math display">$$\frac{7}{40} = \frac{7\times 25}{40 \times 25} =
+\frac{175}{1\,000} = 0,175.$$</span> Colocando esses números racionais
+em ordem crescente, temos <span
+class="math display">0, 175 &lt; 0, 625 &lt; 0, 72 &lt; 0, 8,</span> ou
+seja, <span class="math display">$$\frac{7}{40} = \frac{175}{1\,000}
+&lt; \frac{625}{1\,000} = \frac{5}{8}$$</span> e <span
+class="math display">$$\frac{5}{8} = \frac{625}{1\,000} &lt;
+\frac{72}{100} = \frac{18}{25}\cdot$$</span> Por fim <span
+class="math display">$$\frac{18}{25} = \frac{72}{100} &lt; \frac{8}{10}
+= 0,8.$$</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.13</strong>. <em>Qual das seguintes desigualdades é
+verdadeira?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">$\dfrac{3}{4}&lt;\dfrac{6}{7}$</span></em></p></li>
+<li><p><em><span
+class="math inline">$\dfrac{3}{7}&lt;\dfrac{2}{5}$</span></em></p></li>
+<li><p><em><span class="math inline">$\dfrac{3}{7} &lt;
+\dfrac{4}{9}$</span></em></p></li>
+<li><p><em><span
+class="math inline">$\dfrac{2}{3}&lt;\dfrac{3}{4}$</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Temos <span class="math display">3 × 7 &lt; 4 × 6.</span>
+Logo, dividindo ambos os lados da desigualdade <span
+class="math inline">4 × 7</span>, temos <span
+class="math display">$$\frac{3}{4} &lt; \frac{6}{7}\cdot$$</span> Temos
+também <span class="math display">3 × 5 &gt; 2 × 7.</span> Assim,
+dividindo ambos os lados da desigualdade <span
+class="math inline">5 × 7</span>, temos <span
+class="math display">$$\frac{3}{7} &gt; \frac{2}{5}\cdot$$</span> Agora,
+temos <span class="math display">3 × 9 &lt; 4 × 7.</span> Assim,
+dividindo ambos os lados da desigualdade <span
+class="math inline">7 × 9</span>, temos <span
+class="math display">$$\frac{3}{7} &lt; \frac{4}{9}\cdot$$</span>
+Finalmente, temos <span class="math display">2 × 4 &lt; 3 × 3.</span>
+Logo, dividindo ambos os lados da desigualdade <span
+class="math inline">3 × 4</span>, temos <span
+class="math display">$$\frac{2}{3} &lt; \frac{3}{4}\cdot$$</span>
+Podemos representar essas frações na reta numérica, ordenando-as:</p>
+<p>Note que <span class="math display">$$\frac{2}{5} = 0,4$$</span>
+<span class="math display">$$\frac{3}{7} = 0,428571\ldots$$</span> <span
+class="math display">$$\frac{4}{9} = 0,444\ldots$$</span> <span
+class="math display">$$\frac{2}{3} =0,666\ldots$$</span> <span
+class="math display">$$\frac{3}{4} = 0,75$$</span> <span
+class="math display">$$\frac{6}{7}= 2 \times \frac{3}{7} =
+0,857142\ldots$$</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.14</strong>. <em>Na reta numérica a seguir, foram
+assinalados alguns pontos:</em></p>
+<div class="center">
+
+</div>
+<p><em>Em qual das alternativas o ponto corresponde corretamente à
+fração?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em>A = 1/4</em></p></li>
+<li><p><em>B = 2/5</em></p></li>
+<li><p><em>C = 5/4</em></p></li>
+<li><p><em>D = 4/3</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Na representação geométrica na reta numérica, <span
+class="math inline"><em>A</em></span> está à direita do ponto médio
+entre <span class="math inline">0</span> e <span
+class="math inline">$\frac{1}{2}$</span>. Logo, <span
+class="math inline">$A&gt; \frac{1}{4}$</span>. O ponto <span
+class="math inline"><em>B</em></span> está à direita de <span
+class="math inline">$\frac{1}{2} = \frac{5}{10}$</span>. Logo <span
+class="math inline">$B&gt; \frac{4}{10} = \frac{2}{5}$</span>.</p>
+<p>Agora, observe que <span class="math inline"><em>C</em></span> é,
+exatamente, o ponto médio entre <span
+class="math inline">$1=\frac{4}{4}$</span> e <span
+class="math inline">$\frac{3}{2}= \frac{6}{4}$</span>. Logo, <span
+class="math inline">$C= \frac{5}{4}$</span>. Portanto, a alternativa
+correta é <span class="math inline"><em>C</em>)</span>.</p>
+<p>Finalmente, observe que <span class="math inline">$\frac{4}{3} &lt;
+\frac{3}{2}$</span>. Logo, <span class="math inline"><em>D</em></span>
+deveria estar à esquerda de <span
+class="math inline">$\frac{3}{2}$</span> e não à direita, como na
+figura. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.15</strong>. <em>Observe a seguinte representação
+da reta numérica:</em></p>
+<div class="center">
+
+</div>
+<p><em>Em qual das alternativas o ponto corresponde corretamente ao
+número racional?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em><span class="math inline">$A
+=\dfrac{1}{5}$</span></em></p></li>
+<li><p><em><span class="math inline">$B =
+\dfrac{7}{5}$</span></em></p></li>
+<li><p><em><span class="math inline">$C =
+\dfrac{15}{5}$</span></em></p></li>
+<li><p><em><span class="math inline">$D =
+\dfrac{4}{5}$</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Na reta representada na figura, estão representados
+intervalos de comprimento <span
+class="math inline">$\frac{1}{5}$</span>. Logo, <span
+class="math display">$$A = \frac{2}{5} \quad B = \frac{7}{5} \quad C =
+\frac{10}{5} = 2 \quad D = \frac{22}{5}\cdot$$</span> Portanto, a
+alternativa correta é <span class="math inline"><em>B</em>)</span>.
+Observe que um erro comum seria marcar a alternativa <span
+class="math inline"><em>D</em>)</span>, por julgar que <span
+class="math inline">$\frac{4}{5}$</span> deve ser um número entre 4 e
+5. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.16</strong>. <em>Qual dos seguintes números
+decimais é mais próximo da fração <span
+class="math inline">$\dfrac{2}{3}$</span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em><span class="math inline">6, 7</span></em></p></li>
+<li><p><em><span class="math inline">2, 3</span></em></p></li>
+<li><p><em><span class="math inline">0, 67</span></em></p></li>
+<li><p><em><span class="math inline">0, 23</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A fração <span class="math inline">$\frac{2}{3}$</span>
+tem, como expansão decimal, uma <em>dízima periódica</em>: <span
+class="math display">$$\begin{aligned}
+\frac{2}{3} = \frac{1}{10} \times \frac{20}{3} = \frac{1}{10} \times
+\bigg(6+ \frac{2}{3}\bigg) = \frac{6}{10} + \frac{1}{100} \times
+\frac{20}{3} = \frac{6}{10} + \frac{6}{100} + \frac{1}{1\,000} \times
+\frac{20}{3} = \ldots
+\end{aligned}$$</span> Portanto <span class="math display">$$\frac{2}{3}
+= 0,6 + 0,06 + \ldots = 0,666\ldots$$</span> Logo, a alternativa correta
+é <span class="math inline"><em>C</em>)</span>. ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Vimos, acima, que frações como
+<span class="math inline">$\frac{3}{8}$</span> ou <span
+class="math inline">$\frac{7}{40}$</span> podem ser escritas na notação
+decimal quando “completamos” seus denominadores para potências de 10,
+como em <span class="math display">$$\frac{3}{8} = \frac{3\times 5^3}{ 8
+\times 5^3} = \frac{375}{1\,000} = 0,375$$</span> ou <span
+class="math display">$$\frac{7}{40} = \frac{7 \times 5^2}{40 \times 5^2}
+=\frac{175}{1\,000} = 0,175.$$</span> Nesses casos, os denominadores têm
+2 e 5 como fatores primos. Esse é caso de denominadores 2, 4, 5 e 8, por
+exemplo. No caso em que os denominadores têm <span
+class="math inline">3</span> e <span class="math inline">7</span> como
+fatores primos, não há essa possibilidade de “completamento”: surgem,
+então, expansões decimais <em>infinitas</em> e <em>periódicas</em>, ou
+seja, <span><strong>dízimas periódicas</strong></span>, como em <span
+class="math display">$$\frac{1}{3} = 0,3 + 0,03 + 0,003 + \ldots =
+0,333\ldots$$</span> e <span class="math display">$$\begin{aligned}
+\frac{1}{7} &amp;=0,142857 + 0,000000142857 + 0,000000000000142857 +
+\ldots \\
+&amp;  = 0,142857\textcolor{blue}{142857}\textcolor{red}{142857}\ldots
+\end{aligned}$$</span> Da mesma forma, temos, por exemplo, <span
+class="math display">$$\frac{1}{6} = \frac{1}{2} \times \frac{1}{3} =
+\frac{1}{2} \times \big(0,3 + 0,03 + 0,003 + \ldots
+\big) = 0,15 + 0,015 + 0,0015 + \ldots = 0,166\ldots$$</span> ou <span
+class="math display">$$\frac{1}{9} = \frac{1}{3}\times \frac{1}{3} =
+\frac{1}{3} \times \big(0,3 + 0,03 + 0,003 + \ldots
+\big) = 0,1 + 0,01 + 0,001 + \ldots = 0,111\ldots$$</span> e <span
+class="math display">$$\frac{2}{7} = 2\times \frac{1}{7} =
+0,285714\textcolor{blue}{285714}\ldots$$</span> <span
+class="math display">$$\frac{3}{7} = 3\times \frac{1}{7} =
+0,428571\textcolor{blue}{428571}\ldots$$</span> e assim por
+diante.</em></p>
+<p><em>Reciprocamente, expansões decimais infinitas e periódicas como em
+<span class="math display">0, 151515…</span> pode sem representadas em
+termos de frações. Nesse exemplo, a fração <em>geratriz</em> pode ser
+determinada considerando-se a soma de uma progressão geométrica cujo
+termo inicial é <span class="math inline">$\frac{15}{100}$</span> e cuja
+razão é <span class="math inline">$\frac{1}{100}$</span>. Vejamos: <span
+class="math display">$$\begin{aligned}
+0,151515\ldots &amp; = 0,15 + 0,0015 + 0,000015 + \ldots =
+\frac{15}{100} + \frac{15}{10\,000} + \frac{15}{1\,000\,000} + \ldots \\
+&amp; =  \frac{\frac{15}{100}}{1-\frac{1}{100}} =
+\frac{\frac{15}{100}}{\frac{99}{100}} = \frac{15}{99}\cdot
+\end{aligned}$$</span></em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.17</strong>. <em>Na reta numérica a seguir, foram
+assinalados alguns pontos:</em></p>
+<div class="center">
+
+</div>
+<p><em>Assinale a alternativa correta.</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">$P &gt;
+\dfrac{2}{6}$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>Q</em> &lt; 1, 1666…</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>R</em> &gt; 1, 75</span></em></p></li>
+<li><p><em><span class="math inline">$S &lt;
+\dfrac{2}{3}$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>T</em> &gt; 2, 8333…</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Na reta representada na figura, estão representados
+intervalos de comprimento <span
+class="math inline">$\frac{1}{6}$</span>. Logo, <span
+class="math inline">$P = \frac{2}{6}$</span> e, portanto, a alternativa
+<span class="math inline"><em>A</em>)</span> não é correta.</p>
+<p>Temos, também, <span class="math inline">$R=\frac{10}{6}$</span> e
+<span class="math inline">$S=\frac{14}{6}$</span>. Logo, <span
+class="math display">$$R = \frac{10}{6} = 1+ \frac{4}{6} = 1 +
+\frac{2}{3} = 1 + 0,666\ldots = 1,666\ldots &lt; 1,75.$$</span> Assim, a
+alternativa <span class="math inline"><em>C</em>)</span> é falsa. De
+fato, <span class="math inline">$1,75 = \frac{7}{4} &gt;
+\frac{10}{6}$</span>. Além disso, <span class="math display">$$S =
+\frac{14}{6} = \frac{7}{3} &gt; \frac{2}{3},$$</span> o que mostra qua e
+alternativa <span class="math inline"><em>D</em>)</span> é falsa.</p>
+<p>O ponto <span class="math inline"><em>Q</em></span> é o ponto médio
+entre <span class="math inline">$\frac{7}{6}= \frac{14}{12}$</span> e
+<span class="math inline">$\frac{8}{6}= \frac{16}{12}$</span>. Portanto,
+<span class="math display">$$Q = \frac{15}{12} = \frac{5}{4} = 1,25 &gt;
+1,1666\ldots.$$</span> De fato, note que <span
+class="math display">$$1,166\ldots = 1,1 + 0,06 + 0,006 + \ldots =
+\frac{11}{10} + \frac{1}{10} \times \frac{2}{3}  = \frac{11}{10} +
+\frac{2}{30} = \frac{33+2}{30} = \frac{35}{30} = \frac{7}{6} =
+\frac{14}{12}\cdot$$</span> O ponto <span
+class="math inline"><em>T</em></span> é o ponto médio entre <span
+class="math inline">$\frac{17}{6}= \frac{34}{12}$</span> e <span
+class="math inline">$3= \frac{18}{6}= \frac{36}{12}$</span>. Portanto,
+<span class="math inline">$T = \frac{35}{12}$</span>. Por outro lado
+<span class="math display">$$2,833\ldots = 2,8 + 0,03 + 0,003 + \ldots =
+\frac{28}{10} + \frac{1}{10} \times \frac{1}{3}  = \frac{28}{10} +
+\frac{1}{30} = \frac{85}{30} = \frac{17}{6} =
+\frac{34}{12}\cdot$$</span> Logo <span
+class="math display">$$2,833\ldots = \frac{34}{12} &lt; \frac{35}{12}
+=T.$$</span> Logo, a alternativa correta é <span
+class="math inline"><em>E</em>)</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.18</strong> (SABE - Item M120905E4, adaptado).
+<em>Observe a reta numérica abaixo. Ela está dividida em segmentos de
+mesma medida.</em></p>
+<div class="center">
+
+</div>
+<p><em>O número <span class="math inline">$\frac{3}{4}$</span> está
+localizado entre os pontos</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>S</em></span> e <span
+class="math inline"><em>T</em></span>.</em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span> e <span
+class="math inline"><em>U</em></span>.</em></p></li>
+<li><p><em><span class="math inline"><em>U</em></span> e <span
+class="math inline"><em>V</em></span>.</em></p></li>
+<li><p><em><span class="math inline"><em>V</em></span> e <span
+class="math inline"><em>W</em></span>.</em></p></li>
+<li><p><em><span class="math inline"><em>W</em></span> e <span
+class="math inline"><em>X</em></span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O segmento da reta entre 0 e 1 está dividido em 10
+intervalos de comprimento <span
+class="math inline">$\frac{1}{10}$</span>. Logo, <span
+class="math display">$$\frac{3}{4} = 0,75$$</span> está entre os números
+<span class="math inline">$0,7 = \frac{7}{10}$</span> e <span
+class="math inline">$0,8 = \frac{8}{10}$</span>, ou seja, está no oitavo
+intervalo de comprimento <span
+class="math inline">$\frac{1}{10}$</span>, da esquerda para a direita.
+Portanto, está entre os pontos <span
+class="math inline"><em>W</em></span> e <span
+class="math inline"><em>X</em></span>. A alternativa correta é a <span
+class="math inline"><em>E</em>)</span>.</p>
+<p>Comparando as frações, vê-se que, de fato, <span
+class="math display">$$\frac{5}{8} &lt; \frac{6}{8} =
+\frac{3}{4}$$</span> e <span class="math display">$$\frac{3}{4} =
+\frac{9}{12} &lt; \frac{10}{12} = \frac{5}{6}\cdot$$</span> ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Apenas para completar a
+discussão, observe que <span class="math display">$$\frac{5}{8} =
+\frac{5\times 125}{8 \times 125} = \frac{625}{1\,000} = 0,625$$</span> e
+<span class="math display">$$\frac{5}{6} =
+0,8333\ldots$$</span></em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.19</strong> (PAEBES - Item M090258G5, adaptado).
+<em>Observe a reta numérica abaixo. Ela está dividida em segmentos de
+mesma medida.</em></p>
+<p><em>Qual é o ponto que melhor representa a localização do número
+<span class="math inline">$\frac{5}{4}$</span> nessa reta?</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>M</em></span>.</em></p></li>
+<li><p><em><span class="math inline"><em>L</em></span>.</em></p></li>
+<li><p><em><span class="math inline"><em>K</em></span>.</em></p></li>
+<li><p><em><span class="math inline"><em>J</em></span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A reta numérica está dividida em intervalos de comprimento
+<span class="math inline">$0,2 = \frac{2}{10}$</span>. Observe que <span
+class="math display">$$\frac{5}{4} = 1 + \frac{1}{4} = 1,25.$$</span>
+Logo, <span class="math display">$$1,2 &lt; \frac{5}{4} &lt;
+1,4$$</span> e a alternativa correta é <span
+class="math inline"><em>B</em>)</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.20</strong> (SPAECE - Item M090307H6). <em>Observe
+abaixo a reta numérica dividida em segmentos de mesma medida.</em></p>
+<p><em>O número racional representado pelo ponto X é</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"> − 6, 4</span>.</em></p></li>
+<li><p><em><span class="math inline"> − 5, 5</span>.</em></p></li>
+<li><p><em><span class="math inline"> − 4, 5</span>.</em></p></li>
+<li><p><em><span class="math inline"> − 4, 6</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A reta numérica está dividida em intervalos de comprimento
+<span class="math inline">$0,5 = \frac{5}{10} = \frac{1}{2}$</span>.
+Observe que <span class="math inline"><em>X</em></span> é, portanto,
+dado por <span class="math display"> − 4 − 0, 5 =  − 4, 5</span> ou,
+equivalentemente, por <span
+class="math display"> − 6 + 3 × 0, 5 =  − 6 + 1, 5 =  − 4, 5</span>
+Logo, a alternativa correta é <span
+class="math inline"><em>C</em>)</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.21</strong> (SAEPE - Item M110764E4, adaptado).
+<em>Caroline está completando a reta numérica representada abaixo, na
+qual as distâncias entre dois pontos consecutivos são todas
+iguais.</em></p>
+<div class="center">
+
+</div>
+<p><em>Para completar essa reta numérica, qual número Caroline deve
+escrever no lugar da letra R?</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"> − 25</span>.</em></p></li>
+<li><p><em><span class="math inline"> − 23</span>.</em></p></li>
+<li><p><em><span class="math inline"> − 16</span>.</em></p></li>
+<li><p><em><span class="math inline"> − 9</span>.</em></p></li>
+<li><p><em><span class="math inline"> − 7</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A reta numérica está dividida em intervalos de comprimento
+<span class="math inline">8</span>. Observe que <span
+class="math inline"><em>R</em></span> é, portanto, dado por <span
+class="math display"> − 8 − 8 =  − 16</span> ou, equivalentemente, por
+<span class="math display"> − 24 + 8 =  − 16.</span> Logo, a alternativa
+correta é <span class="math inline"><em>C</em>)</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.22</strong> (SAEPE - Item M100064C2, adaptado).
+<em>Observe as retas numéricas representadas abaixo que estão divididas
+em segmentos de mesma medida.</em></p>
+<p><em>I)</em></p>
+<p><em>II)</em></p>
+<p><em>III)</em></p>
+<p><em>IV)</em></p>
+<p><em>V)</em></p>
+<p><em>Em qual dessas retas os pontos P, Q e R melhor representam a
+localização dos números <span
+class="math inline">$-\frac{7}{4}$</span>,; <span
+class="math inline">1, 555…</span> e <span class="math inline">$\sqrt
+6$</span>, respectivamente?</em></p>
+<ol type="A">
+<li><p><em>I</em></p></li>
+<li><p><em>II</em></p></li>
+<li><p><em>III</em></p></li>
+<li><p><em>IV</em></p></li>
+<li><p><em>V.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A reta numérica está dividida em intervalos de comprimento
+<span class="math inline">$0,5 = \frac{5}{10} = \frac{1}{2}$</span>.
+Observe que <span class="math display">$$-\frac{7}{4} = -1 - \frac{3}{4}
+= -1,75,$$</span> ponto entre <span class="math inline"> − 2</span> e
+<span class="math inline"> − 1, 5</span>. Portanto, as alternativas
+<span class="math inline"><em>D</em>)</span> e <span
+class="math inline"><em>E</em>)</span> estão erradas.</p>
+<p>Quanto ao número racional <span class="math inline">1, 555…</span>
+está entre <span class="math inline">1, 5</span> e <span
+class="math inline">2</span>, o que mostra que a alternativa <span
+class="math inline"><em>A</em>)</span> é falsa.</p>
+<p>Finalmente, observamos que, se <span class="math display">$$\sqrt 6
+&gt; 2,5 = \frac{25}{10}$$</span> teríamos <span
+class="math display">$$6 &gt; \frac{625}{100} = 6,25,$$</span> o que é
+uma contradição. Logo, <span class="math inline">$2 &lt;\sqrt  6&lt;
+2,5$</span> e, portanto, a alternativa correta é <span
+class="math inline"><em>B</em>)</span>. ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Proponha aos alunos uma
+atividade de pesquisa e discussão sobre estimativas da raiz quadrada
+<span class="math inline">$\sqrt 6$</span>. Já sabemos que se trata de
+um número “próximo” a 2,5. Como melhorar essa estimativa?</em></p>
+</div>
+</div>
+</div>
+<h3 id="operações-aritméticas-com-números-racionais">Operações
+aritméticas com números racionais</h3>
+<p>Nesta seção, lidamos com conceitos e técnicas relativos a operações
+com frações e porcentagens, os quais serão fundamentais para as
+habilidades definidas nos descritores D16, D19, D20 e D78, por exemplo,
+na Matriz de Referência do SPAECE.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.23</strong>. <em>Como tem que fazer refeições fora
+de casa nos dias em que trabalha, Mariana gasta <span
+class="math inline">$\frac{1}{3}$</span> do seu salário mensal de R<span
+class="math inline">$</span> 1.500,00 com alimentação. Feito esse gasto,
+quanto sobra de seu salário?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Os gastos com alimentação representam, por mês, <span
+class="math display">$$\frac{1}{3} \times 1.500 = \frac{1.500}{3} = 500
+\mbox{ reais}.$$</span> Logo, após esses gastos, sobram, do salário
+mensal de Mariana, <span class="math display">1.500 − 500 = 1.000
+reais,</span> ou seja, <span class="math inline">$\frac{2}{3}$</span> do
+seu salário mensal. ◻</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.24</strong>. <em>Além das despesas com alimentação,
+Mariana gasta <span class="math inline">$\frac{1}{4}$</span> do seu
+salário mensal de R<span class="math inline">$</span> 1.500,00 com
+transporte de casa para o trabalho. Qual fração do seu salário,
+portanto, gasta com alimenação e transportes? Qual valor, em reais,
+corresponde a essa fração?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Os gastos de Mariana com alimentação e transporte
+<em>somam</em>, por mês, <span class="math display">$$\frac{1}{4} +
+\frac{1}{3} = \frac{3}{12} + \frac{4}{12}  = \frac{7}{12}$$</span> de
+seu salário mensal, ou seja, <span class="math display">$$\frac{7}{12}
+\times 1.500 = 7 \times \frac{1.500}{12} = 7 \times \frac{500}{4} =
+7\times  \frac{250}{2} = 7\times 125 =  700 + 6 \times 25 + 25 = 700 +
+150 + 25 = 875 \mbox{ reais}.$$</span> ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Outra forma de efetuar esse
+cálculo é, inicialmente, determinar <span
+class="math inline">$\frac{1}{4}$</span> e <span
+class="math inline">$\frac{1}{3}$</span> do salário, isoladamente, e,
+depois, somar os resultados. Desse modo, temos: <span
+class="math display">$$\frac{1}{4} \times 1.500 = 375 \quad \mbox{ e }
+\quad \frac{1}{3} \times 1.500 = 500.$$</span> A soma dessss duas partes
+do salário é, portanto, dada por <span
+class="math inline">375 + 500 = 875</span> reais.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.25</strong>. <em>Preocupada com a educação de seu
+filho, Mariana reserva <span class="math inline">$\frac{1}{10}$</span>
+do que sobra de seu salário, retiradas as despesas com alimentação e
+transporte. Com essa reserva, paga a mensalidade de um curso de
+programação para ele. Quanto custa esse curso de programação por mês? E
+por ano?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Vimos, na questão anterior, que Mariana gasta <span
+class="math inline">$\frac{7}{12}$</span> do seu salário mensal com
+alimentos e transporte. Sobram, então, <span class="math display">$$1 -
+\frac{7}{12} = \frac{12}{12} - \frac{7}{12} = \frac{5}{12}$$</span> do
+seu salário mensal. Mariana, então, reserva <span
+class="math inline">$\frac{1}{10}$</span> desse restante para a
+mensalidade do curso, ou seja, reserva <span
+class="math display">$$\frac{1}{10} \times \frac{5}{12} = \frac{5}{10}
+\times \frac{1}{12} = \frac{1}{2} \times \frac{1}{12} =
+\frac{1}{24}$$</span> do seu salário
+<span><strong>total</strong></span>. Isso significa que paga uma
+mensalidade igual a <span class="math display">$$\frac{1}{24} \times
+1.500 = \frac{1.500}{24} = \frac{500}{8} = \frac{250}{4} = \frac{125}{2}
+= 62,50 \mbox{ reais},$$</span> ou seja, 62 reais e 50 centavos por mês,
+o que representamos, em forma decimal, como R<span
+class="math inline">$</span> 62,50. Portanto, Mariana paga, por ano,
+<span class="math display">$$12 \times \frac{1}{24} \times 1.500 =
+\frac{1}{2} \times 1.500 = 750 \mbox{ reais}$$</span> para o curso de
+programação. Note que esse valor, por ano, equivale à metade de um
+salário mensal. ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Podemos fazer essas contas
+diretamente, considerando o valor restante do salário, após os gastos
+com alimentos e transporte: como esse restante é igual a <span
+class="math display">1.500 − 875 = 1.400 − 800 + 100 − 75 = 625
+reais,</span> concluímos que <span
+class="math inline">$\frac{1}{10}$</span> desse saldo restante é igual a
+<span class="math display">$$\frac{625}{10} = 62,50$$</span> reais por
+mês.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.26</strong>. <em>Com a alta dos preços, os gastos
+mensais de Mariana com alimentação e transporte aumentaram, <span
+class="math inline">12%</span> e <span class="math inline">8%</span>,
+respectivamente. Com esses aumentos, quanto passou a ser a despesa
+mensal de Mariana com esses dois itens?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O aumento das despesas de alimentação de Mariana é igual a
+<span class="math display">$$\frac{12}{100} \times 500 = 12 \times
+\frac{500}{100} = 12 \times 5 = 60 \mbox{ reais por mês},$$</span>
+enquanto o aumento das despesas de alimentação de Mariana é igual a
+<span class="math display">$$\frac{8}{100} \times 375 = \frac{2}{25}
+\times 375   = 2 \times \frac{375}{25} = 2 \times \frac{300+75}{25}=  2
+\times (12 + 3) = 2 \times 15 = 30 \mbox{ reais por mês},$$</span> ou,
+mais simplesmente, <span class="math display">$$\frac{8}{100} \times 375
+= \frac{3.000}{100} = 30 \mbox{ reais mensais}.$$</span> Logo, os dois
+aumentos, juntos, somam <span class="math inline">60 + 30 = 90</span>
+reais por mês. Sendo assim, a despesa de Mariana com alimentação e
+transporte passou a ser <span class="math display">875 + 90 = 965 reais
+por mês.</span> ◻</p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>A questão pode ser resolvida,
+alternativamente, observando-se que o aumento de 12<span
+class="math inline">%</span> em alimentação significa que a
+<span><strong>parte</strong></span> do salário gasta com esse item passa
+a ser <span class="math display">$$\frac{1}{3} + \frac{12}{100} \times
+\frac{1}{3} = \frac{1}{3} + \frac{1}{100} \times \frac{12}{3} =
+\frac{1}{3} + \frac{4}{100}$$</span> do salário mensal, ou seja, <span
+class="math display">$$\frac{1}{3} \times 1.500 + \frac{4}{100} \times
+1.500 = 500 + 60 = 560 \mbox{ reais por mês}.$$</span> De modo análogo,
+o aumento de 8<span class="math inline">%</span> em transporte significa
+que a <span><strong>parte</strong></span> do salário gasta com esse item
+passa a ser <span class="math display">$$\frac{1}{4} + \frac{8}{100}
+\times \frac{1}{4} = \frac{1}{4} + \frac{1}{100} \times \frac{8}{4} =
+\frac{1}{4} + \frac{2}{100}$$</span> do salário mensal, ou seja, <span
+class="math display">$$\frac{1}{4} \times 1.500 + \frac{2}{100} \times
+1.500 =375 + 30 = 405 \mbox{ reais por mês}.$$</span> Somando esses dois
+resultados, chegamos ao <em>novo</em> total de despesas com alimentação
+e transporte, após os aumentos, a saber R<span
+class="math inline">$</span> 965,00, como já havíamos
+calculado.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.27</strong>. <em>Na situação descrita
+anteriormente, qual o aumento percentual dos gastos com alimentação e
+transporte?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O aumento, em <em>termos absolutos</em>, foi igual a <span
+class="math display">965 − 875 = 90 reais,</span> como vimos. No
+entanto, nos interessa, aqui, calcular o aumento <em>relativamente</em>
+ao valor inicial, isto é, determinar a
+<span><strong>razão</strong></span> <span
+class="math display">$$\frac{965-875}{875} =
+\frac{90}{875}\cdot$$</span> Essa fração pode ser representada como um
+número decimal ou um percentual, do seguinte modo: <span
+class="math display">$$\begin{aligned}
+\frac{90}{875} &amp; = \frac{1}{10} \times \frac{900}{875} =
+\frac{1}{10} \times \bigg(1+\frac{25}{875}\bigg) =  \frac{1}{10} \times
+\bigg(1+\frac{1}{35}\bigg) \\
+&amp; = \frac{1}{10} \times \bigg(1+\frac{1}{5} \times \frac{1}{7}\bigg)
+= \frac{1}{10} \times \bigg(1+\frac{1}{10} \times \frac{2}{7}\bigg)\cdot
+\end{aligned}$$</span> Uma vez que <span
+class="math display">$$\frac{2}{7} = 0,285714\ldots$$</span> (vide
+exercício <a href="#dizima" data-reference-type="ref"
+data-reference="dizima">1.1</a>), temos <span
+class="math display">$$\frac{90}{875} = \frac{1}{10} + \frac{1}{100}
+\times \frac{2}{7} = 0,1 + 0,00285714\ldots = 0,10285714\ldots$$</span>
+Portanto, o aumento percentual dos gastos com alimentação e transporte é
+<em>aproximadamente</em> igual a <span
+class="math inline">10, 29%</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.28</strong>. <em>O aumento total dos dois itens
+representa que percentual do salário mensal de Mariana? Para compensar o
+aumento dessas duas despesas, qual deveria ser o percentual de aumento
+desse salário?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Antes dos aumentos, a fração do salário mensal gasta com
+alimentação e transporte, era igual a <span
+class="math display">$$\frac{875}{1.500} = 58,33\ldots\%,$$</span> ou
+seja, <em>aproximadamente</em> 58<span class="math inline">%</span>.
+Após os aumentos, essa fração passou a ser <span
+class="math display">$$\frac{965}{1.500} = 64,33\ldots\%,$$</span> isto
+é, <em>aproximadamente</em> 64<span class="math inline">%</span>.</p>
+<p>Logo, o aumento total representa a seguinte fração do salário mensal:
+<span class="math display">$$\frac{965-865}{1.500} = \frac{90}{1.500} =
+\frac{3}{50} = \frac{6}{100} = 6\%.$$</span> Concluímos que Mariana
+deveria ter um aumento de salário mensal de pelo menos 6<span
+class="math inline">%</span> para compensar os aumentos de suas despesas
+com alimentação e transporte. ◻</p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em><span><strong>Não é
+correto</strong></span> dizer que os aumentos de 12<span
+class="math inline">%</span> e de <span class="math inline">8%</span>
+representam um aumento total de 20<span class="math inline">%</span>. Da
+mesma forma, não é verdadeiro afirmar que o aumento total seja a
+<em>média</em> desses aumentos, isto é, <span
+class="math inline">10%</span>. A razão é bem intuitiva: como
+alimentação e transporte correspondem, respectivamente, a <span
+class="math inline">$\frac{1}{3}$</span> e <span
+class="math inline">$\frac{1}{4}$</span> do salário, esses dois itens
+representam <span><em>p</em>esos</span> diferentes. Logo, o aumento
+total, resultante desses dois aumentos, é dado pela seguinte
+<span><strong>média ponderada</strong></span>: <span
+class="math display">$$\frac{12}{100} \times \frac{1}{3}+ \frac{8}{100}
+\times \frac{1}{4} = \frac{4}{100} + \frac{2}{100} = \frac{6}{100} =
+6\%$$</span> de R<span class="math inline">$</span> 1.500,00. Logo,
+confirmamos nossos cálculos anteriores: se as despesas de alimentação e
+transporte somavam, antes do aumento, R<span
+class="math inline">$</span> 875,00, passam a somar, depois do aumento,
+<span class="math display">$$875 + \frac{6}{100} \times 1.500 = 875 + 90
+= 965 \mbox{ reais}.$$</span></em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<p>Agora, iniciamos o estudo da divisão de frações, tópico necessário
+para modelarmos problemas com grandezas diretamente ou inversamente
+proporcionais</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.29</strong>. <em>Marcela fez <span
+class="math inline">3/4</span> das questões da prova de Matemática e
+acertou <span class="math inline">2/3</span> de todas as questões.
+Considerando apenas as questões que ela fez, qual fração delas Marcela
+acertou?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Temos <span class="math display">$$\frac{2}{3} &lt;
+\frac{3}{4},$$</span> pois <span
+class="math inline">2 ⋅ 4 &lt; 3 ⋅ 3</span>. Verificaremos essa
+desigualdade, representando as duas frações em retas numéricas. Por ora,
+concluímos dessa desigualdade que <span
+class="math display">$$\dfrac{\frac{2}{3}}{\frac{3}{4}} &lt;1.$$</span>
+Portanto, como já sabíamos, Marcela <span><strong>não</strong></span>
+acerta todas as questões que fez na prova. Para calcular de forma
+precisa quantas questões acertou dentre as que respondeu, calculemos o
+quociente das duas frações. Começamos representando as frações <span
+class="math inline">2/3</span> e <span class="math inline">3/4</span>
+nos seguintes segmentos de reta:</p>
+<p>Considerando 12 como <em>múltiplo comum</em> de <span
+class="math inline">3</span> e <span class="math inline">4</span>, temos
+as equivalências de frações <span class="math display">$$\frac{2}{3} =
+\frac{2\cdot 4}{3\cdot 4} = \frac{8}{12} \qquad \mbox{ e }
+\qquad  \frac{3}{4} = \frac{3\cdot 3}{4\cdot 3} = \frac{9}{12},$$</span>
+representadas nas seguintes segmentos da reta numérica (com doze
+intervalos, cada um deles de comprimento igual a <span
+class="math inline">1/12</span> da unidade de medida):</p>
+<p>Observe que a <em>razão</em> entre o comprimento do segmento
+correspondente a <span class="math inline">2/3</span> e o comprimento do
+segmento correspondente a <span class="math inline">3/4</span> é de 8
+para 9, ou seja: <span class="math inline">2/3</span> <em>está para</em>
+<span class="math inline">3/4</span> assim como 8 está para 9. Ao
+utilizarmos <span class="math inline">1/12</span> da unidade de medida
+nas duas retas numéricas, conseguimos comparar as frações <span
+class="math inline">$\frac{2}{3}$</span> e <span
+class="math inline">$\frac{3}{4}$</span> e obtemos <span
+class="math display">$$\frac{\frac{2}{3}}{\frac{3}{4}} =
+\frac{\frac{8}{12}}{\frac{9}{12}} = \frac{8}{9}&lt; 1.$$</span> Logo,
+comprovamos o que já havíamos concluído: Marcela acerta <span
+class="math inline">$\frac{8}{9}$</span> das questões que fez, ou seja,
+não acerta todas as questões que fez. Para esclarecer esse ponto,
+digamos que o teste tivesse 12 questões. Marcela teria feito <span
+class="math display">$$\frac{3}{4} \cdot 12 = 3 \cdot 3 = 9 \mbox{
+questões}$$</span> e teria acertado <span class="math inline">2/3</span>
+do <em>total</em> de questões, isto é, <span
+class="math display">$$\frac{2}{3}\cdot 12 = 2\cdot 4 = 8 \mbox{
+questões}.$$</span> Assim, a <em>razão</em> entre questões acertadas e
+questões feitas por Marcela seria <span
+class="math display">$$\frac{8}{9},$$</span> como já havia sido
+calculado. ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<p>Resumindo o que desenvolvemos ao resolver essa questão, temos o
+seguinte <span><strong>algoritmo da divisão de
+frações</strong></span>:</p>
+<div class="fBox">
+<p><strong>Divisão de uma fração <span
+class="math inline">$\dfrac{a}{b}$</span> pela fração <span
+class="math inline">$\dfrac{c}{d}$</span>.</strong> Dados números
+naturais <span
+class="math inline"><em>a</em>, <em>b</em>, <em>c</em>, <em>d</em></span>
+com <span class="math inline"><em>b</em> ≠ 0</span>, <span
+class="math inline"><em>c</em> ≠ 0</span> e <span
+class="math inline"><em>d</em> ≠ 0</span>, temos <span
+class="math display">$$\frac{a}{b} :\frac{c}{d} = \frac{a}{b} \cdot
+\frac{d}{c} =\frac{a\cdot d}{b\cdot c}$$</span></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Vamos justificar esse algoritmo,
+usando retas numéricas. Na primeira das seguintes retas numéricas,
+representamos <span class="math inline"><em>a</em> = 5</span> cópias de
+um segmento cujo comprimento é igual a <span
+class="math inline">$\frac{1}{b}=\frac{1}{6}$</span> da unidade de
+medida. Na segunda reta numérica, destacamos <span
+class="math inline"><em>c</em> = 3</span> cópias de um segmento cuja
+comprimento é igual a <span
+class="math inline">$\frac{1}{d}=\frac{1}{4}$</span> da unidade de
+medida.</em></p>
+<p><em>Considerando <span
+class="math inline"><em>c</em> ⋅ <em>d</em> = 6 ⋅ 4 = 24</span> como
+<em>múltiplo comum</em> de <span class="math inline">3</span> e <span
+class="math inline">4</span> (poderíamos ter escolhido 12 em vez de 24,
+também), temos as <span><strong>equivalências de frações</strong></span>
+<span class="math display">$$\frac{a}{b}=\frac{5}{6} = \frac{5\cdot
+4}{6\cdot 4} = \frac{20}{24} = \frac{a\cdot d}{b\cdot d} \qquad \mbox{ e
+} \qquad  \frac{c}{d}=\frac{3}{4} = \frac{3\cdot 6}{4\cdot 6} =
+\frac{18}{24}  = \frac{c\cdot b}{d\cdot b},$$</span> representadas nas
+seguintes retas numéricas (com <span
+class="math inline"><em>b</em> ⋅ <em>d</em></span> intervalos, de
+comprimento <span class="math inline">$\frac{1}{b\cdot
+d}$</span>):</em></p>
+<p><em>Na terceira (respectivamente, quarta) reta numérica, a escala é
+<span class="math inline"><em>d</em></span> vezes menor
+(respectivamente, <span class="math inline"><em>b</em></span> vezes
+menor) do que na primeira (respectivamente, segunda), com intervalos de
+comprimento <span class="math inline">$\frac{1}{b\cdot d}$</span> da
+unidade de medida entre uma marcação e outra. Temos: <span
+class="math display">$$\frac{a}{b}: \frac{c}{d} = \frac{\frac{a}{b}}{
+\frac{c}{d}} = \frac{\frac{a\cdot d}{b\cdot d}}{ \frac{b\cdot c}{b\cdot
+d}} = \frac{a\cdot d}{b\cdot c}$$</span> No exemplo que temos
+trabalhado, essas expressões são dadas por <span
+class="math display">$$\frac{5}{6}: \frac{3}{4} = \frac{\frac{5}{6}}{
+\frac{3}{4}} = \frac{\frac{5\cdot 4}{6\cdot 4}}{ \frac{6\cdot 3}{6\cdot
+4}} = \frac{5\cdot 4}{3\cdot 6} = \frac{20}{18} =
+\frac{10}{9}\cdot$$</span></em></p>
+</div>
+</div>
+</div>
+<p>Finalizamos com um exemplo em que representamos as frações envolvidas
+por barras divididas em partes de acordo com os denominadores das
+frações.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.30</strong>. <em>Calcule a divisão <span
+class="math inline">$\frac{2}{3}:\frac{1}{6}$</span>.</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Para a representação da divisão entre duas frações, vamos
+recorrer novamente às barras. Consideramos a seguinte operação <span
+class="math inline">$\frac{2}{3} : \frac{1}{6}$</span>. Conseguimos
+representar por meio das barras, tanto o número <span
+class="math inline">$\frac{2}{3}$</span> quanto <span
+class="math inline">$\frac{1}{6}$</span>, como mostrado a seguir:</p>
+<div class="center">
+
+</div>
+<p>Temos: <span class="math display">$$\frac{2}{3}:\frac{1}{6} =
+\frac{2\cdot 2 }{3\cdot 2}: \frac{1}{6} =
+\frac{\textcolor{red}{4}}{6}:\frac{\textcolor{blue}{1}}{6} =4$$</span>
+Graficamente, dividimos o segmento de reta de 0 a 1 em 6 partes iguais
+de comprimento <span class="math inline">$\frac{1}{6}$</span>:</p>
+<div class="center">
+
+</div>
+<p> ◻</p>
+</div>
+<h3 class="unnumbered"
+id="exercícios-propostos-modelos-e-problemas-envolvendo-frações-e-porcentagens">Exercícios
+propostos: modelos e problemas envolvendo frações e porcentagens</h3>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.31</strong>. <em>Para ajudá-los de uma forma mais
+individualizada, a professora de Matemática agrupou seus alunos das
+turmas de terceira série em três grupos, de acordo com os assuntos em
+que têm mais dificuldades na disciplina. Cada aluno dessas turmas deve
+ficar em um grupo e apenas em um. Sabendo que 25<span
+class="math inline">%</span> deles estão no grupo A, <span
+class="math inline">$\frac{2}{5}$</span> pertencem ao grupo B e os 49
+alunos restantes fazem parte do grupo C. Quantas alunos há, ao todo,
+nesses três grupos?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Note que <span class="math display">$$25\% =
+\frac{25}{100} = \frac{1}{4}\cdot$$</span> Logo, o total de alunos nos
+grupos <span class="math inline"><em>A</em></span> e <span
+class="math inline"><em>B</em></span> corresponde a <span
+class="math display">$$\frac{1}{4} + \frac{2}{5} = \frac{5}{20} +
+\frac{8}{20} = \frac{13}{20}$$</span> do total de alunos. Logo, os
+alunos do grupo <span class="math inline"><em>C</em></span> correspondem
+a <span class="math display">$$1 - \frac{13}{20} = \frac{7}{20}$$</span>
+do total de alunos. Assim, <span class="math display">$$\frac{7}{20}
+\mbox{ dos alunos equivalem a } 49 \mbox{ alunos.}$$</span> Logo, <span
+class="math display">$$\frac{1}{20} \mbox{ dos alunos equivale a
+}  \frac{49}{7} = 7 \mbox{ alunos.}$$</span> Assim, o total de alunos é
+igual a <span class="math display">20 × 7 = 140 alunos.</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.32</strong>. <em>Com base nos dados da questão
+anterior, determine:</em></p>
+<ul>
+<li><p><em>a <em>diferença</em> entre o número de alunos no grupo B e o
+número de alunos no grupo A;</em></p></li>
+<li><p><em>a <em>diferença</em> entre o número de alunos no grupo B e o
+número de alunos no grupo C;</em></p></li>
+<li><p><em>a <em>razão</em> entre o número de alunos no grupo A e o
+número de alunos no grupo B;</em></p></li>
+<li><p><em>a <em>razão</em> entre o número de alunos no grupo C e o
+número de alunos no grupo B;</em></p></li>
+<li><p><em>o <em>percentual</em> de alunos da terceira série no grupo
+B;</em></p></li>
+<li><p><em>o <em>percentual</em> de alunos da terceira série no grupo
+C.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Os números de alunos nos grupos A, B e C são,
+respectivamente, iguais a <span class="math display">$$25\% \times 140 =
+\frac{1}{4} \times 140 = 35 \mbox{ alunos},$$</span> <span
+class="math display">$$\frac{2}{5} \times 140 = 2 \times 28 = 56 \mbox{
+alunos}$$</span> e 49 alunos. Assim, a diferença dos números de alunos
+nos grupos A e B é igual a <span class="math inline">56 − 35 = 21</span>
+alunos. Da mesma forma, a diferença dos números de alunos nos grupos B e
+C é, respectivamente, igual a <span
+class="math inline">56 − 49 = 56 − 50 + 1 = 7</span> alunos.</p>
+<p>Agora, devemos calcular as razões entre esses números. Para tanto,
+<em>não</em> precisamos conhecer os números de alunos em cada grupo, mas
+a fração que cada um desses números representa do número total de
+alunos. Sabemos que a quantidade de alunos no grupo A representa <span
+class="math inline">$\frac{25}{100}$</span> ou <span
+class="math inline">$\frac{1}{4}$</span> do total. Já o número de alunos
+no grupo B representa <span class="math inline">$\frac{2}{5} =
+\frac{40}{100} = 40\%$</span> do número total de alunos. Por fim, os 49
+alunos do grupo C correspondem a <span class="math display">$$1 -
+\frac{1}{4} - \frac{2}{5} = 1 - \frac{25}{100} - \frac{40}{100} =
+\frac{35}{100} = 35\%$$</span> do total de alunos.</p>
+<p>Logo, a razão entre o número de alunos no grupo A e o número de
+alunos no grupo B é igual a fração <span
+class="math display">$$\dfrac{\frac{25}{100}}{\frac{40}{100}} =
+\dfrac{25}{40} = \frac{5}{8},$$</span> ou seja, para cada <span
+class="math inline">8</span> alunos do grupo B, há <span
+class="math inline">5</span> alunos do grupo A. De fato, <span
+class="math display">$$\frac{5}{8} \times 56 = 5 \times 7 = 35.$$</span>
+Agora, a razão entre o número de alunos no grupo C e o número de alunos
+no grupo B é igual a fração <span
+class="math display">$$\dfrac{\frac{35}{100}}{\frac{40}{100}} =
+\dfrac{35}{40} = \frac{7}{8},$$</span> ou seja, para cada <span
+class="math inline">8</span> alunos do grupo B, há <span
+class="math inline">7</span> alunos do grupo C. De fato, <span
+class="math display">$$\frac{7}{8} \times 56 = 7 \times 7 = 49.$$</span>
+Vimos, nos cálculos acima, que o número de alunos dos grupos A, B e C
+representam, respectivamente <span class="math inline">25%</span>, <span
+class="math inline">40%</span> e <span class="math inline">35%</span> da
+quantidade total de alunos das turmas da terceira série.</p>
+<div class="center">
+<p><img src="grupos.jpg" alt="image" /></p>
+</div>
+<p>Esses dados podem ser representados no <span><strong>gráfico de
+setores</strong></span> acima. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.33</strong>. <em>A professora aplicou três testes
+aos três grupos e obteve as seguintes médias das notas em cada
+grupo:</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"></th>
+<th style="text-align: center;"><em>  Teste 1  </em></th>
+<th style="text-align: center;"><em>   Teste 2  </em></th>
+<th style="text-align: center;"><em>  Teste 3  </em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><em>Grupo A</em></td>
+<td style="text-align: center;"><em>   8,00  </em></td>
+<td style="text-align: center;"><em>   8,00  </em></td>
+<td style="text-align: center;"><em>   8,00</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><em>Grupo B</em></td>
+<td style="text-align: center;"><em>   7,00  </em></td>
+<td style="text-align: center;"><em>   9,00  </em></td>
+<td style="text-align: center;"><em>   8,00</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><em>Grupo C</em></td>
+<td style="text-align: center;"><em>   7,50  </em></td>
+<td style="text-align: center;"><em>   8,00  </em></td>
+<td style="text-align: center;"><em>   8,50</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>Com base nesses dados, calcule:</em></p>
+<ul>
+<li><p><em>a média dos resultados dos testes no grupo A;</em></p></li>
+<li><p><em>a média dos resultados dos testes no grupo B;</em></p></li>
+<li><p><em>a média dos resultados dos testes no grupo C;</em></p></li>
+<li><p><em>a média dos resultados do teste 1 em toda a terceira
+série;</em></p></li>
+<li><p><em>a média dos resultados do teste 2 em toda a terceira
+série;</em></p></li>
+<li><p><em>a média dos resultados do teste 3 em toda a terceira
+série;</em></p></li>
+<li><p><em>a média dos resultados de todos os testes em toda a terceira
+série.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>A <span><strong>média
+aritmética</strong></span> de dois números <span
+class="math inline"><em>x</em><sub>1</sub></span> e <span
+class="math inline"><em>x</em><sub>2</sub></span> é o número <span
+class="math inline"><em>x̄</em></span> que, multiplicado por 2, é igual a
+soma de <span class="math inline"><em>x</em><sub>1</sub></span> e <span
+class="math inline"><em>x</em><sub>2</sub></span>, ou seja, <span
+class="math display">$$\bar x = \frac{x_1+x_2}{2}\cdot$$</span> Por
+exemplo, se <span class="math inline"><em>x</em><sub>1</sub> = 6</span>
+e <span class="math inline"><em>x</em><sub>2</sub> = 8</span>, temos
+<span class="math display">$$\bar x = \frac{6+8}{2} = 7.$$</span> Note
+que <span class="math display">$$6+8  = 6 +\textcolor{red}{1} + 8 -
+\textcolor{red}{1} = 7 + 7.$$</span> Geometricamente, a média aritmética
+<span class="math inline"><em>x̄</em></span> é o <em>ponto médio</em>
+entre <span class="math inline"><em>x</em><sub>1</sub></span> e <span
+class="math inline"><em>x</em><sub>2</sub></span>:</em></p>
+<p><em>A distância do ponto <span
+class="math inline"><em>x</em><sub>1</sub> = 6</span> à média <span
+class="math inline"><em>x̄</em> = 7</span> é igual a distância da média
+<span class="math inline"><em>x̄</em> = 7</span> ao ponto <span
+class="math inline"><em>x</em><sub>2</sub> = 8</span>. No caso de dois
+ou mais números <span
+class="math inline"><em>x</em><sub>1</sub>, …, <em>x</em><sub><em>N</em></sub></span>,
+a média aritmética é definida como <span class="math display">$$\bar x =
+\frac{x_1 + x_2 + \ldots + x_N}{N}\cdot$$</span> Em um exemplo com <span
+class="math inline"><em>N</em> = 4</span>, fixemos <span
+class="math inline"><em>x</em><sub>1</sub> = 4</span>, <span
+class="math inline"><em>x</em><sub>2</sub> = 5</span>, <span
+class="math inline"><em>x</em><sub>3</sub> = 10</span>, <span
+class="math inline"><em>x</em><sub>4</sub> = 13</span>:</em></p>
+<p><em>Observe que a média é um <span><strong>ponto de
+equilíbrio</strong></span>, em que “distribuímos” os valores de modo que
+fiquem “balanceados”: <span class="math display">$$4 + 5 + 10 + 13 = 4 +
+\textcolor{red}{4} + 5 + \textcolor{red}{3} + 10 - \textcolor{blue}{2} +
+13 - \textcolor{blue}{5} = 8 + 8 + 8 + 8.$$</span> o
+<span><strong>gráfico de barras</strong></span> abaixo ajuda a entender
+essa “redistribuição” dos valores para que se ajustem à média: “tiramos”
+das barras de altura maior que a altura da média e “pomos” nas barras de
+altura menor que a altura da média:</em></p>
+<div class="center">
+<p><img src="barras.jpg" alt="image" /></p>
+</div>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A média dos resultados dos testes no grupo A é dada por
+<span class="math display">$$\frac{8+8+8}{3} = 8$$</span> ao passo que a
+média dos resultados no grupo B é calculado da seguinte forma: <span
+class="math display">$$\frac{7+8+9}{3} = \frac{7+1+8 + 9-1}{3} =
+\frac{8+8+8}{3} =8.$$</span> Finalmente, a média dos resultados no grupo
+C é dada por <span class="math display">$$\frac{7,50+8,00+8,50}{3} =
+\frac{7,50 +0,50+8,00+8,50-0,50}{3} = \frac{8+8+8}{3} =8.$$</span>
+Observamos que a média dos três grupos foi a mesma, a saber, 8. Embora
+os resultados sejam diferentes em cada grupo, suas médias são
+iguais.</p>
+<p>Com respeito à média dos resultados no teste 1, devemos levar em
+conta que os três grupos têm <span><strong>pesos</strong></span>
+diferentes no cálculo da média. De fato, 25<span
+class="math inline">%</span> dos alunos da terceira série estão no grupo
+A enquanto 40<span class="math inline">%</span> estão no grupo B e
+35<span class="math inline">%</span> estão no grupo C. Assim, a média da
+terceira série no teste 1 deve ser calculada de forma
+<span><strong>ponderada</strong></span>: <span
+class="math display">$$\frac{25 \times 8 + 40 \times 7 +  35 \times 7,5
+}{100} =\frac{200+280+262,5}{100} = \frac{742,5}{100} = 7,425.$$</span>
+Note que calculamos essa média ponderada levando em conta os
+<em>percentuais</em> de alunos em cada grupo. Podemos fazer o cálculo
+também em termos das <em>proporções</em> ou <em>frequências
+relativas</em> de alunos em cada grupo: <span
+class="math display">$$\frac{35 \times 8 + 56 \times 7 +  49 \times 7,5
+}{140} =\frac{280+392+367,5}{140} = \frac{1039,5}{140} = 7,425.$$</span>
+Obtemos, claro, o mesmo resultado pois as frequência relativas ou
+proporções são dadas pelos percentuais que usamos na primeira conta:
+<span class="math display">$$\frac{35}{140}  = 25\% \qquad
+\frac{56}{140} = 40\% \quad \mbox{ e } \quad \frac{49}{140} =
+35\%.$$</span> Quanto a média <em>ponderada</em> dos resultados no teste
+2 entre os alunos da terceira série, calculamos, usando os percentuais
+de cada grupo: <span class="math display">$$\frac{25 \times 8 + 40
+\times 9 +  35 \times 8 }{100} =\frac{200+360+280}{100} =
+\frac{840}{100} = 8,4.$$</span> Finalmente, a média dos alunos da
+terceira série no teste 3 é calculada, de forma ponderada, como <span
+class="math display">$$\frac{25 \times 8 + 40 \times 8 +  35 \times 8,5
+}{100} =\frac{200+320+297,5}{100} = \frac{817,5}{100} =
+8,175.$$</span> ◻</p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>As
+<span><strong>médias</strong></span> dos resultados dos três testes
+foram iguais nos três grupos, embora os resultados em cada teste tenham
+sido diferentes. Como você explica isso? Em qual grupos os resultados
+foram mais variados? Pode justificar sua resposta?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Esse é um momento apropriado
+para uma discussão, ainda que informal, da ideia de
+<span><strong>dispersão</strong></span> ou
+<span><strong>variabilidade</strong></span> dos dados, em relação à
+média. A reta numérica seguinte mostra a variabilidade dos resultados no
+grupo B, em que os valores <span class="math inline">7</span> e <span
+class="math inline">9</span> estão distanciados uma unidade à esquerda e
+uma unidade à direita, respectivamente, da média 8:</em></p>
+<p><em>Nesse caso, a dispersão é medida pela
+<span><strong>variância</strong></span>, ou seja, pela <em>soma dos
+quadrados</em> das distâncias em relação à média: <span
+class="math display">(7−8)<sup>2</sup> + (8−8)<sup>2</sup> + (9−8)<sup>2</sup> = 1<sup>2</sup> + 0<sup>2</sup> + 1<sup>2</sup> = 2.</span>
+Observe que, somando apenas as distâncias em vez dos <em>quadrados</em>
+das distâncias, teríamos o valor <span class="math inline">0</span>: as
+distâncias dos pontos à média se compensam, de modo que sua soma é 0,
+confirmando o fato de que a média é o “ponto de equilíbrio”.</em></p>
+<p><em>Já a seguinte reta numérica representa a variabilidade dos
+resultados no grupo C, em que os valores <span
+class="math inline">7, 5</span> e <span class="math inline">8, 5</span>
+estão distanciados <span><strong>meia</strong></span> unidade à esquerda
+e <span><strong>meia</strong></span> unidade à direita, respectivamente,
+da média 8:</em></p>
+<p><em>No grupo C, a variância dos resultados é, portanto, dada por
+<span
+class="math display">(7,5−8)<sup>2</sup> + (8−8)<sup>2</sup> + (8,5−8)<sup>2</sup> = 0, 5<sup>2</sup> + 0<sup>2</sup> + 0, 5<sup>2</sup> = 0, 25 + 0 + 0, 25 = 0, 5,</span>
+dispersão menor, como esperado, do que a dispersão no grupo B.
+Concluímos que os resultados do grupo C são menos
+<span><strong>dispersos</strong></span> em relação à média do que os
+resultados do grupo B. Podemos também constatar isso com a ajuda dos
+seguintes <span><strong>gráficos de barras</strong></span>:</em></p>
+<div class="center">
+<p><img src="barras-2.jpg" alt="image" /></p>
+</div>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.34</strong>. <em>Alice é uma das alunas do grupo A.
+Suas notas nos testes 1 e 2 foram, respectivamente, iguais a <span
+class="math inline">7, 50</span> e <span
+class="math inline">8, 50</span>. Qual sua nota no teste 3, sabendo que
+sua média nos três testes foi igual a <span
+class="math inline">7, 75</span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em>8,00</em></p></li>
+<li><p><em>7,75</em></p></li>
+<li><p><em>7,50</em></p></li>
+<li><p><em>7,25</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Esse é um problema de tipo bastante corriqueiro em testes
+e exames. Vejamos uma estratégia de resolução: se a média em 3 testes
+foi igual a 7,75, a soma das notas nesses testes foi igual a <span
+class="math display">3 × 7, 75 = 3 × 7 + 3 × 0, 7 + 3 × 0, 05 = 21 + 2, 1 + 0, 15 = 23, 25.</span>
+Como as notas em dois desses testes somam <span
+class="math display">7, 5 + 8, 5 = 16,</span> deduzimos que a terceira
+nota foi igual a <span class="math display">23, 25 − 16 = 7, 25.</span>
+o que corresponde à alternativa D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.35</strong>. <em>Para continuar com os bons
+resultados de aprendizagem, a professora marcou 4 horas, por semana, de
+horários de atendimentos para os três grupos. Para cada grupo, reservou
+um tempo proporcional ao número de alunos no grupo. Sendo assim, podemos
+afirmar que</em></p>
+<ol type="A">
+<li><p><em>o grupo B é atendido com 40 minutos por semana.</em></p></li>
+<li><p><em>o grupo B é atendido com 2 horas por semana.</em></p></li>
+<li><p><em>o grupo B é atendido com 16 minutos por semana.</em></p></li>
+<li><p><em>o grupo C é atendido com 1 hora e 40 minutos por
+semana.</em></p></li>
+<li><p><em>o grupo C é atendido com 1 hora e 24 minutos por
+semana.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Como vimos, as quantidades de alunos nos grupos A, B e C
+são <span><strong>proporcionais</strong></span> a <span
+class="math display">$$\frac{25}{100}, \quad \frac{40}{100}\quad \mbox{
+e } \quad \frac{35}{100},$$</span> respectivamente. Assim, os tempos
+reservados a esses grupos, do total de 4 horas ou 240 minutos, são
+iguais a <span class="math display">$$\frac{25}{100} \times 4 = 1 \mbox{
+hora para o grupo A},$$</span> <span
+class="math display">$$\frac{40}{100} \times 4 = 1,6 \mbox{ hora para o
+grupo B e }$$</span> <span class="math display">$$\frac{35}{100} \times
+4 = 1,4 \mbox{ hora para o grupo C}.$$</span> Portanto, os grupos A, B e
+C são atendidos, respectivamente, com tempos de <span
+class="math display">$$\begin{aligned}
+&amp; 1 \mbox{ hora} =   60 \mbox{ minutos},\\
+&amp; 1,6 \mbox{ hora} =  \frac{16}{10} \times 60 \mbox{ minutos} = 16
+\times 6 \mbox{ minutos} = 96 \mbox{ minutos,} \\
+&amp; 1,4 \mbox{ hora} =  \frac{14}{10} \times 60 \mbox{ minutos} = 14
+\times 6 \mbox{ minutos} = 84 \mbox{ minutos.}
+\end{aligned}$$</span> Portanto, o grupo C é atendido com um tempo de
+<span class="math inline">84 = 60 + 24</span> minutos, ou seja, de 1
+hora e 24 minutos. Logo, a alternativa E) é a opção correta. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.36</strong>. <em>Se 14 alunos do grupo C migram
+para os grupos A e B, qual passa a ser a porcentagem de alunos de grupo
+C no total de alunos da terceira série?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>63<span class="math inline">%</span></em></p></li>
+<li><p><em>35<span class="math inline">%</span></em></p></li>
+<li><p><em>25<span class="math inline">%</span></em></p></li>
+<li><p><em>18<span class="math inline">%</span></em></p></li>
+<li><p><em>14<span class="math inline">%</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Com a migração, o número de alunos no grupo C passa a ser
+<span class="math display">49 − 14 = 35.</span> Logo, a proporção dos
+alunos no grupo C no total de alunos é <span
+class="math display">$$\frac{35}{140} = \frac{35 : 7}{140 : 7} =
+\frac{5}{20} = \frac{5 \times 5}{20 \times 5} = \frac{25}{100} =
+25\%.$$</span> Portanto, a alternativa correta é a C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.37</strong>. <em>Quantos alunos dos grupos B e C
+devem migrar para o grupo A de modo que o número de alunos nesse grupo
+passe a ser <span class="math inline">$\frac{2}{7}$</span> do total de
+alunos da terceira série?</em></p>
+<ol type="A">
+<li><p><em>5 alunos</em></p></li>
+<li><p><em>7 alunos</em></p></li>
+<li><p><em>25 alunos</em></p></li>
+<li><p><em>35 alunos</em></p></li>
+<li><p><em>40 alunos</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Com a migração, a fração de alunos no grupo A passa de
+<span class="math display">$$25\% = \frac{1}{4}$$</span> para <span
+class="math inline">$\frac{2}{7}$</span> do total de alunos, ou seja,
+passa de <span class="math display">$$\frac{1}{4} \times 140 = 35 \mbox{
+alunos}$$</span> para <span class="math display">$$\frac{2}{7} \times
+140 = 40 \mbox{ alunos},$$</span> ou seja, é necessária uma migração de
+5 alunos dos grupos B e C para o grupo A.</p>
+<p>Isso pode ser visto também da seguinte forma <span
+class="math display">$$\frac{2}{7} - \frac{1}{4} = \frac{8}{28} -
+\frac{7}{28} = \frac{1}{28},$$</span> o que representa <span
+class="math inline">$\frac{1}{28} \times 140 = 5$</span> alunos.
+Portanto, a alternativa correta é a A). ◻</p>
+</div>
+</div>
+<h3 id="proporcionalidade-conceitos-e-aplicações">Proporcionalidade:
+conceitos e aplicações</h3>
+<p>As tarefas nesta seção trabalham mais diretamente a noção de
+proporcionalidade, que está na base dos descritores D19, D28, D55, D58,
+D64 e D78 da Matriz de Referência do SPAECE.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.38</strong>. <em>Para atrair compradores, as
+construtoras exibem maquetes, isto é, modelos em miniaturas de edifícios
+de apartamentos residenciais. Sabendo que a escala, isto é, a
+<span><strong>razão</strong></span> entre as dimensões da maquete e do
+que ela representa, é igual a <span
+class="math inline">$\frac{1}{50}$</span>,</em></p>
+<div class="center">
+<p><img src="predio-maquete.jpg" alt="image" /></p>
+</div>
+<div class="center">
+<p><em><span>Image by Anna Pan’šina from Pixabay</span></em></p>
+</div>
+<p><em>qual é a altura real do edifício, sabendo que a maquete tem <span
+class="math inline">90</span> centímetros de altura?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> A <span><strong>razão</strong></span> <span
+class="math display">$$\frac{1}{50}$$</span> significa que <span
+class="math inline">1</span> centímetro na maquete corresponde a 50
+centímetros no edifício real. Portanto, 90 centímetros na maquete
+correspondem a <span class="math display">90 × 50 centímetros = 4.500
+centímetros = 45 metros</span> no edifício real. Logo, a altura real é
+dada por <span class="math inline">45</span> metros. ◻</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.39</strong>. <em>O edifício representado pela
+maquete virtual no exercício anterior tem dois tipos de apartamentos,
+sendo que a razão entre suas áreas é de <span
+class="math inline">$\frac{3}{4}$</span>. Qual a área do tipo maior de
+apartamento, sabendo que o menor tem <span
+class="math inline">120</span> metros quadrados de área?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Representemos a área do maior apartamento, que não
+conhecemos, por <span class="math inline"><em>x</em></span>. Como as
+áreas da maquete devem ser <em>proporcionais</em> às áreas dos
+apartamentos reais, temos a mesma <em>razão</em> entre as áreas na
+maquete, ou seja, <span class="math inline">$\frac{4}{3}$</span>, e as
+áreas reais, isto é, <span class="math inline">$\frac{x}{120}$</span>.
+Logo, <span class="math display">$$\frac{x}{120} = \frac{4}{3}.$$</span>
+Multiplicando os dois lados da equação por 120, temos: <span
+class="math display">$$x  = 120 \times\frac{4}{3} = 120 \times
+\frac{1}{3} \times 4 = 40 \times 4 = 160 \mbox{ metros
+quadrados},$$</span> o que nos fornece a área do maior tipo de
+apartamento.</p>
+<p>Poderíamos <em>não</em> recorrer à linguagem algébrica e,
+simplesmente, considerar que a área do apartamento maior é igual a a
+<span class="math inline">$\frac{4}{3}$</span> da área do apartamento
+menor, ou seja, <span class="math display">$$\frac{4}{3} \times 120 =
+160 \mbox{ metros quadrados.}$$</span> ◻</p>
+</div>
+<p>Uma variação interessante deste exercício é a seguinte:</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.40</strong>. <em>O edifício representado pela
+maquete virtual no exercício anterior tem dois tipos de apartamentos,
+sendo que a razão entre suas áreas é de <span
+class="math inline">$\frac{3}{4}$</span>. Qual a área do tipo menor de
+apartamento, sabendo que a soma das áreas de dois apartamentos, um de
+cada tipo, é igual a <span class="math inline">210</span> metros
+quadrados?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Esse é um exemplo de uma <span><strong>divisão em partes
+proporcionais.</strong></span> Observe que a área do menor apartamento é
+<span class="math inline">$\frac{3}{4}$</span> da área do maior. Assim,
+se dividíssemos a área total dos dois, que é igual a 210 metros
+quadrados, em <em>sete</em> partes iguais de 30 metros quadrados, o
+apartamento menor corresponderia a 3 dessas partes, isto é, a <span
+class="math display">3 × 30 = 90 metros quadrados,</span> enquanto que o
+apartamento maior corresponderia a 4 dessas partes, isto é, a <span
+class="math display">4 × 30 = 120 metros quadrados.</span> ◻</p>
+</div>
+<p>A solução alternativa que propomos agora é mais algébrica e,
+portanto, também importante para o estudo das <em>equações
+lineares</em>, que faremos mais adiante.</p>
+<div class="versaoProfessor">
+<p>Seja <span class="math inline"><em>x</em></span> a área do menor
+apartamento. Então, a área do maior é dada por <span
+class="math inline">210 − <em>x</em></span>, já que a área total dos
+dois é 210 metros quadrados. Logo, a <span><strong>razão</strong></span>
+entre a área do maior apartamento e a área do menor apartamento é <span
+class="math display">$$\frac{210-x}{x} = \frac{4}{3}.$$</span>
+Multiplicando, agora, os dois lados por <span
+class="math inline"><em>x</em></span>, temos: <span
+class="math display">$$210-x = \frac{4}{3}x$$</span> Assim, somando
+<span class="math inline"><em>x</em></span> aos dois lados da equação,
+obtemos: <span class="math display">$$210 = x+\frac{4}{3}x.$$</span>
+Portanto <span class="math display">$$210 = \frac{7}{3}x.$$</span>
+Dividindo os dois lados da equação por <span
+class="math inline">7</span>, obtemos: <span class="math display">$$30 =
+\frac{1}{3}x.$$</span> Multiplicando os dois lados da equação por <span
+class="math inline">3</span>, concluímos que <span
+class="math display"><em>x</em> = 90 metros quadrados,</span> a área do
+apartamento menor.</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.41</strong>. <em>O custo para revestir o piso do
+apartamento de 90 metros quadrados com porcelanato é igual a R<span
+class="math inline">$</span> 7.200,00. Nestas mesmas condições, qual é o
+custo para revestir o piso do apartamento de 120 metros
+quadrados?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Como o custo para revestir 90 metros quadrados de piso é
+igual a R<span class="math inline">$</span> 7.200,00, cada metro
+quadrado de porcelanato custa <span
+class="math display">$$\frac{7.200}{90} = 80 \mbox{ reais}.$$</span>
+Portanto, o revestimento de 120 metros quadrados com o mesmo material
+custa <span class="math display">120 × 80 = 9.600 reais.</span> ◻</p>
+</div>
+<div class="versaoProfessor">
+<p>Podemos resolver este problema do seguinte modo: se <span
+class="math inline"><em>x</em></span> simboliza o custo do revestimento
+do apartamento de 120 metros quadrados, temos a seguinte
+<span><strong>proporção</strong></span>: <span
+class="math display">$$\frac{x}{7.200} = \frac{120}{90},$$</span> o que
+significa que o custo <em>varia na mesma proporção</em> que a área a ser
+revestida, ou seja, o custo <span class="math inline"><em>x</em></span>
+<span><strong>está para</strong></span> R<span
+class="math inline">$</span> 4.500 <span><strong>assim
+como</strong></span> a área 120 metros quadrados <span><strong>está
+para</strong></span> 90 metros quadrados.</p>
+<p>Multiplicando os dois lados da equação por 7.200, obtemos: <span
+class="math display">$$x = 7.200 \times \frac{120}{90},$$</span> o que
+nos leva a concluir que <span
+class="math display"><em>x</em> = 80 × 120 = 9.600 reais.</span></p>
+<p>Podemos representar esta solução com o seguinte diagrama:</p>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">90 metros quadrados</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+7.200</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">1 metro quadrado</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+80</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">120</span>
+metros quadrados</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+9.600</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Lembramos que porcentagens são
+frações com denominador igual a 100. Por exemplo, <span
+class="math inline">40%</span> é apenas uma <em>maneira de escrever</em>
+a fração <span class="math inline">$\frac{40}{100}$</span>, que tem
+numerador 40 e denominador 100. Da mesma forma, <span
+class="math inline">60%</span> é, de fato, uma maneira alternativa de
+representar a fração <span class="math inline">$\frac{60}{100}$</span>.
+Observe que quando escrevemos “40<span class="math inline">%</span> de
+120” queremos dizer que <span class="math display">$$\frac{40}{100}
+\times 120 = \frac{40\times 120}{100} = \frac{4.800}{100} = 48.$$</span>
+Da mesma forma, “<span class="math inline">60%</span> de <span
+class="math inline">120</span>” significa, apenas, a fração <span
+class="math display">$$\frac{60}{100} \times 120 = \frac{60\times
+120}{100} = 72.$$</span></em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.42</strong>. <em>O custo total da construção de um
+imóvel tem a seguinte composição: 40<span class="math inline">%</span>
+do custo total com mão-de-obra, 60<span class="math inline">%</span> com
+material. As demais despesas (administrativas e com equipamentos) não
+são consideradas relevantes. Dados recentes mostram que o custo médio
+para construção civil é de cerca de R<span class="math inline">$</span>
+1.500,00 por metro quadrado. A partir destas informações,
+responda:</em></p>
+<ol>
+<li><p><em>qual seria o custo médio por metro quadrado, caso os custos
+com mão-de-obra representassem 25<span class="math inline">%</span> do
+custo total, mantidos os custos com material?</em></p></li>
+<li><p><em>Qual seria o custo médio por metro quadrado, caso os custos
+com material passem a representar 50<span class="math inline">%</span>
+do custo total, mantidos os custos com mão-de-obra?</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> (a) Inicialmente, os custos com mão-de-obra por metro
+quadrado totalizam <span class="math display">$$40\% \times 1.500 = 40
+\times \frac{1.500}{100} = 40 \times 15 = 600,$$</span> ou seja, R<span
+class="math inline">$</span> 600,00. Da mesma forma, os custos com
+material, por metro quadrado, correspondem, inicialmente, a <span
+class="math display">$$60\% \times 1.500 = \frac{60}{100} \times 1.500 =
+60 \times \frac{1.500}{100} = 60 \times 15 = 900,$$</span> ou seja,
+R<span class="math inline">$</span> 900,00. Se esses custos com material
+forem mantidos, mas os custos de mão-de-obra passarem a representar
+<span class="math inline">25%</span> do custo total, então os custos com
+material passam a ser <span class="math display">100% − 25% = 75%</span>
+do custo total. Logo,</p>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline">$\frac{75}{100}$</span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+900,00</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline">$\frac{1}{100}$</span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+12,00</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline">$\frac{100}{100}$</span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+1.200,00</td>
+</tr>
+</tbody>
+</table>
+<p>Portanto, o custo médio por metro quadrado passaria, também nesse
+caso, a ser de R<span class="math inline">$</span> 1.200,00.</p>
+<p>(b) Agora, se os custos com mão-de-obra forem mantidos em R<span
+class="math inline">$</span> 600,00, mas os custos com material passarem
+a representar 50<span class="math inline">%</span> do custo total, então
+os custos com mão-de-obra passam a ser <span
+class="math inline">100% − 50% = 50%</span> do custo total. Logo,</p>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline">$\frac{50}{100}$</span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+600,00</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline">$\frac{1}{100}$</span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+12,00</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline">$\frac{100}{100}$</span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;">R<span class="math inline">$</span>
+1.200,00</td>
+</tr>
+</tbody>
+</table>
+<p>Portanto, o custo médio por metro quadrado passaria, também nesse
+caso, a ser de R<span class="math inline">$</span> 1.200,00.</p>
+<p>Concluímos que o custo médio, por metro quadrado, pode ser reduzido
+de R<span class="math inline">$</span> 1.500,00 para R<span
+class="math inline">$</span> 1.200,00 segundo duas estratégias: os
+custos de material passando a representar 50<span
+class="math inline">%</span> do custo total; ou os custos com
+mão-de-obra passando a representar 25<span class="math inline">%</span>
+do total.</p>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Reunindo os cálculos que fizemos
+no item (a), temos <span class="math display">$$\frac{900 \times
+\textcolor{blue}{100}}{ \textcolor{red}{75}},$$</span> fração igual a
+<span class="math display">$$12 \times \textcolor{blue}{100} =
+1.200   \mbox{ reais}.$$</span></em></p>
+</div>
+</div>
+<p>Esta solução pode ser representada no seguinte diagrama:</p>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span style="color: red"><span
+class="math inline">75%</span></span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span style="color: blue">900</span>
+reais</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span style="color: blue"><span
+class="math inline">100%</span></span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span
+class="math inline"><em>x</em></span> reais</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<p>onde <span class="math display">$$\frac{x}{\textcolor{blue}{900}}=
+\frac{\textcolor{blue}{100}}{ \textcolor{red}{75}},$$</span> ou,
+multiplicando ambos os lados desta igualdade por <span
+class="math inline">900</span>, <span class="math display">$$x=
+\frac{900 \times \textcolor{blue}{100}}{ \textcolor{red}{75}} = 1.200
+\mbox{ reais}.$$</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.43</strong>. <em>Na construção de um condomínio de
+casas, os engenheiros responsáveis conseguiram modernizar as técnicas de
+construção, o que permite dispensar 10<span class="math inline">%</span>
+da mão-de-obra, mantendo o mesmo cronograma e qualidade da empreita. Com
+isso, a construção passou a ter 450 empregados. Quantos empregados havia
+antes da dispensa de mão-de-obra?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Esses 450 empregados representam, de acordo com o
+enunciado <span class="math display">$$100\% - 10\% = 90\% =
+\frac{90}{100}$$</span> do total de empregados que havia antes da
+dispensa de mão-de-obra. Logo, podemos organizar esses dados no seguinte
+diagrama:</p>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span style="color: red"><span
+class="math inline">90%</span></span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span style="color: blue">450</span>
+empregados</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span style="color: blue"><span
+class="math inline">100%</span></span> do custo total</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span
+class="math inline"><em>x</em></span> empregados</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<p>onde <span class="math inline"><em>x</em></span> é o número de
+empregados antes da dispensa de mão-de-obra. Portanto, <span
+class="math display">$$\frac{x}{\textcolor{blue}{450}}=
+\frac{\textcolor{blue}{100}}{ \textcolor{red}{90}},$$</span> ou,
+multiplicando ambos os lados desta igualdade por <span
+class="math inline">450</span>, <span class="math display">$$x=
+\frac{\textcolor{blue}{450 \times 100}}{ \textcolor{red}{90}} = 5 \times
+100 = 500 \mbox{ empregados}.$$</span> Uma vez mais, podemos resolver o
+problema ser recorrer à notação algébrica: basta considerarmos que o
+número anterior de empregados era <span
+class="math inline">$\frac{100}{90}$</span> do número após a dispensa,
+ou seja, <span class="math display">$$\frac{100}{90} \times 450 =
+\frac{10}{9} \times 450 =  10 \times 50 = 500.$$</span> ◻</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.44</strong> (EsSA – 1988). <em>Doze pedreiros
+fizeram 5 barracões em 30 dias, trabalhando 6 horas por dia. O número de
+horas por dia que deverão trabalhar 18 pedreiros para fazer 10 barracões
+em 20 dias é:</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>8.</em></p></li>
+<li><p><em>9.</em></p></li>
+<li><p><em>10.</em></p></li>
+<li><p><em>12.</em></p></li>
+<li><p><em>15.</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observamos, inicialmente, que os doze pedreiros trabalham
+<span class="math display">30 × 6 = 180 horas,</span> ou seja, 6 horas
+por dia, durante 30 dias, para construir 5 barracões. Portanto, para
+construir 1 barracão apenas, os mesmos doze pedreiros trabalhariam 5
+vezes menos, ou seja, <span
+class="math display">$$\frac{180}{\textcolor{red}{5}}  = 36 \mbox{
+horas}$$</span> apenas. Logo, 1 pedreiro sozinho teria que trabalhar 12
+vezes mais, isto é, <span class="math display">$$\textcolor{blue}{12}
+\times 36 = 432 \mbox{ horas}$$</span> para construir um barracão.
+Obviamente, mantendo a capacidade de trabalho, 18 pedreiros gastariam um
+tempo 18 vezes menor que 1 pedreiro, ou seja, <span
+class="math display">$$\frac{1}{\textcolor{red}{18}} \times 432 =
+\frac{12\times 36}{18} = \frac{2}{3} \times 36 = 24 \mbox{
+horas}$$</span> para construir um barracão. Logo, os 18 pedreiros
+utilizariam <span class="math display">10 × 24 = 240 horas</span> para
+construir 10 barracões. Esse é o total de horas trabalhadas pelos 18
+pedreiros em 20 dias. Portanto, a equipe de 18 pedreiros trabalharia
+<span class="math display">$$\frac{240}{20} = 12 \mbox{ horas}$$</span>
+por dia, trabalhando durante 20 dias. ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Reunindo os cálculos que fizemos
+em cada um dos passos na solução acima, temos: <span
+class="math display">$$\frac{\textcolor{blue}{30 \times 6 \times
+12  \times 10 }}{ \textcolor{red}{5\times 18\times 20}},$$</span> fração
+igual a <span
+class="math display">$$\frac{10  \times  \textcolor{blue}{12\times 10}
+}{\textcolor{red}{5\times 20}} = \textcolor{blue}{12}   \mbox{
+horas}.$$</span></em></p>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<p>Essa solução pode ser representada no seguinte diagrama:</p>
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span style="color: blue">12</span>
+pedreiros</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span style="color: red">5</span>
+barracões</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span style="color: blue">30</span>
+dias</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span style="color: blue">6</span>
+horas</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><span class="math inline">↑</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↑</span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><span class="math inline">↓</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span style="color: red">18</span>
+pedreiros</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span style="color: blue">10</span>
+barracões</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span style="color: red">20</span>
+dias</td>
+<td style="text-align: center;">———–</td>
+<td style="text-align: center;"><span
+class="math inline"><em>x</em></span> horas</td>
+</tr>
+</tbody>
+</table>
+<p>onde <span class="math display">$$\frac{x}{\textcolor{blue}{6}}=
+\frac{\textcolor{blue}{30  \times 10  \times 12 }}{
+\textcolor{red}{20\times 5\times 18}}$$</span> Logo, <span
+class="math display"><em>x</em> = 12 horas,</span> como já havíamos
+calculado. Desse modo, obtemos a resposta da questão, a alternativa
+D).</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.45</strong>. <em>Em 2019, a inflação acumulada de
+preços para famílias de baixa renda (i.e, as que têm renda de até R<span
+class="math inline">$</span> 1.643,78 por mês) foi de 4,43<span
+class="math inline">%</span>. Para estas famílias, 70<span
+class="math inline">%</span> da inflação se deve às altas dos preços de
+alimentos e habitação. Uma família que gastava R<span
+class="math inline">$</span> 840,00 com esses dois itens, no início de
+2019, teve que gastar quanto a mais no fim do ano, para continuar
+atendendo suas necessidades no mesmo nível de antes?</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Inflação, neste caso, significa alta de preços ao
+consumidor: para calculá-la, comparamos os preços de vários itens no fim
+e no começo de um certo período (um ano, neste caso) e calculamos a
+<em>variação percentual</em>: <span class="math display">$$\frac{\mbox{
+preços finais} - \mbox{ preços iniciais}}{\mbox{ preços
+iniciais}}\cdot$$</span> A inflação específica com alimentos e habitação
+foi, no ano de 2019, segundo os dados, igual a <span
+class="math display">$$70\% \mbox{ de } 4,43\% = \frac{70}{100} \times
+4, 43\% = 3,101\%\cong 3,1\%.$$</span> Portanto, despesas com alimentos
+e habitação, que totalizavam R<span class="math inline">$</span> 840,00
+no início do ano, passaram a ser, corrigidas por esta inflação, iguais a
+<span class="math display">$$840 + \frac{3,1}{100} \times 840 \cong 840
++ 26,05 = 866,05 \mbox{ reais},$$</span> ou seja, R<span
+class="math inline">$</span> 26,05 a mais do que antes da alta dos
+preços. ◻</p>
+</div>
+<div class="eBox">
+<div id="tab:my_label" class="questaoT">
+<p><strong>Questão 1.46</strong> (Variáveis diretamente proporcionais).
+<em>Sabendo que duas variáveis, <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, são diretamente proporcionais,
+complete a tabela com os valores adequados destas variáveis:</em></p>
+<div id="tab:my_label">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><em> Valores de <span
+class="math inline"><em>x</em></span> </em></th>
+<th style="text-align: center;"><em> 6 </em></th>
+<th style="text-align: center;"><em> 15 </em></th>
+<th style="text-align: center;"><em> 18 </em></th>
+<th style="text-align: center;"><em> 24 </em></th>
+<th style="text-align: center;"><em> a </em></th>
+<th style="text-align: center;"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><em> Valores de <span
+class="math inline"><em>y</em></span> </em></td>
+<td style="text-align: center;"><em> 4 </em></td>
+<td style="text-align: center;"><em> 10 </em></td>
+<td style="text-align: center;"><em> b </em></td>
+<td style="text-align: center;"><em> 16 </em></td>
+<td style="text-align: center;"><em> 20 </em></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em></em></p>
+<p><em>Determine <span><strong>razão</strong></span> entre os valores
+das variáveis <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, expressando-a como uma <em>fração
+irredutível</em>.</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> O fato de que <span class="math inline"><em>x</em></span>
+e <span class="math inline"><em>y</em></span> são <em>diretamente</em>
+proporcionais significa que <span class="math display">$$\frac{4}{6} =
+\frac{10}{15} = \frac{\textcolor{blue}{b}}{18}= \frac{16}{24}   =
+\frac{20}{\textcolor{blue}{a}},$$</span> ou seja, que as frações nesta
+expressão são equivalentes umas às outras. Em particular, <span
+class="math display">$$\frac{4}{6}
+=  \frac{\textcolor{blue}{b}}{18}\cdot$$</span> Multiplicando cada um
+dos dois lados desta igualdade por 18, obtemos <span
+class="math display">$$18\times \frac{4}{6} =
+\textcolor{blue}{b},$$</span> donde concluímos que <span
+class="math display"><em>b</em> = 3 × 4 = 12.</span> Agora, observe que,
+multiplicando o numerador e o denominador da fração <span
+class="math inline">$\frac{4}{6}$</span> por 5, obtemos <span
+class="math display">$$\frac{4\times \textcolor{blue}{5}}{6\times
+\textcolor{blue}{5}} = \frac{20}{30}\cdot$$</span> Portanto, as frações
+<span class="math inline">$\frac{4}{6}$</span> e <span
+class="math inline">$\frac{20}{30}$</span> são equivalentes. Concluímos
+que <span class="math inline"><em>a</em> = 30</span>. Por fim, deduzimos
+que a razão entre os valores das variáveis <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> é igual a <span
+class="math inline">$\frac{2}{3}$</span>, uma vez que <span
+class="math display">$$\frac{4}{6} = \frac{10}{15} = \frac{12}{18}=
+\frac{16}{24}   = \frac{20}{30} =
+\textcolor{blue}{\frac{2}{3}}\cdot$$</span> Note que <span
+class="math display">$$\frac{2\times 2}{3\times 2} = \frac{4}{6}
+\qquad  \frac{2\times 5}{3\times 5} = \frac{10}{15}
+\qquad   \frac{2\times 6}{3\times 6} = \frac{12}{18},$$</span> e assim
+por diante. Essas frações são <em>equivalentes</em> umas às outras. Isto
+significa que os valores de <span class="math inline"><em>x</em></span>
+e <span class="math inline"><em>y</em></span> estão relacionados da
+seguinte forma <span class="math display">$$y = \frac{2}{3} x.$$</span>
+De fato, de acordo com os valores na tabela acima, temos <span
+class="math display">$$\begin{aligned}
+&amp; \mbox{se } x=6, \mbox{ então } y = \frac{2}{3} \times 6 = 4,
+\qquad \mbox{se } x=15, \mbox{ então } y = \frac{2}{3} \times 15 = 10,\\
+&amp; \mbox{se } x=18, \mbox{ então } y = \frac{2}{3} \times 18 = 12,
+\qquad \mbox{se } x=24, \mbox{ então } y = \frac{2}{3} \times 24 = 16,\\
+&amp; \mbox{se } x=30, \mbox{ então } y = \frac{2}{3} \times 30= 20.
+\end{aligned}$$</span> ◻</p>
+</div>
+<p>Na sequência, vejamos alguns exercícios, baseados em questões do ENEM
+e dos vestibulares, que envolvem <span><strong>razões</strong></span> e
+<span><strong>proporções</strong></span>. Esse tópico aparece, de forma
+explícita ou não, em todas as edições do ENEM, não apenas na prova de
+Matemática, mas também em questões de Física, Química e Geografia. As
+questões também trabalham, indiretamente, o tópico das
+<span><strong>grandezas e medidas</strong></span>.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.47</strong> (ENEM 2011, Caderno 6, Questão 143,
+adaptada). <em>Sabe-se que a distância real, em linha reta, de uma
+cidade <span class="math inline"><em>A</em></span>, localizada no estado
+de São Paulo, a uma cidade <span class="math inline"><em>B</em></span>,
+localizada no estado de Alagoas, é igual a 2 000 quilômetros. Um
+estudante, ao analisar um mapa, verificou com sua régua que a distância
+entre essas duas cidades, <span class="math inline"><em>A</em></span> e
+<span class="math inline"><em>B</em></span>, representadas no mapa, era
+8 centímetros.</em></p>
+<p><em>Os dados nos indicam que o mapa observado pelo estudante está na
+escala de</em></p>
+<ul>
+<li><p><em>1:250.</em></p></li>
+<li><p><em>1:2 500.</em></p></li>
+<li><p><em>1:25 000.</em></p></li>
+<li><p><em>1:250 000.</em></p></li>
+<li><p><em>1:25 000 000.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> A questão trata de <em>escala</em>, isto é, a
+<em>razão</em> entre <span><strong>distância entre pontos no
+mapa</strong></span> e as <span><strong>distâncias reais entre as
+cidades</strong></span> representadas por esses pontos. Portanto <span
+class="math display">$$\mbox{escala}  = \frac{\mbox{distância no
+mapa}}{\mbox{distância real}}\cdot$$</span> Um detalhe importante no
+cálculo da escala: as distâncias tem que ser <em>ambas</em> medidas na
+mesma unidade de comprimento. Portanto, temos que converter a distância
+real, dada em quilômetros, para centímetros. Como <span
+class="math inline">1</span> quilômetro <span
+class="math inline"> = 1000</span> metros e <span
+class="math inline">1</span> metro <span
+class="math inline"> = 100</span> centímetros, temos <span
+class="math display">$$\begin{aligned}
+2.000 \mbox{ quilômetros} &amp;= 2.000 \times 1.000 \mbox { metros} \\
+&amp;= 2.000 \times 1.000 \times 100 \mbox{ centímetros}.
+\end{aligned}$$</span> Portanto, a escala é dada por <span
+class="math display">$$\mbox{escala}  = \frac{8\mbox{
+centímetros}}{2.000 \times 1.000 \times 100 \mbox{
+centímetros}}\cdot$$</span> Dividindo tanto o numerador quanto o
+denominador por 8, obtemos <span class="math display">$$\mbox{escala}  =
+\frac{1}{250 \times 1.000 \times 100 }= \frac{1}{25.000.000},$$</span>
+ou seja, a escala é dada por <span
+class="math inline">1 : 25 000 000</span>, o que corresponde à
+alternativa E). ◻</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.48</strong> (ENEM 2011, Caderno 6, Questão 146,
+adaptada). <em>Para uma atividade realizada no laboratório de
+Matemática, um aluno precisa construir uma maquete da quadra de esportes
+da escola que tem 28 metros de comprimento por 12 metros de largura. A
+maquete deverá ser construída na escala de 1:250.</em></p>
+<p><em>Que medidas de comprimento e largura, em centímetros, o aluno
+utilizará na construção da maquete?</em></p>
+<ul>
+<li><p><em>4,8 e 11,2</em></p></li>
+<li><p><em>7,0 e 3,0</em></p></li>
+<li><p><em>11,2 e 4,8</em></p></li>
+<li><p><em>28,0 e 12,0</em></p></li>
+<li><p><em>30,0 e 70,0</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Esta questão também trata de <em>escala</em> que, agora, é
+a <em>razão</em> entre os comprimentos na maquete e os comprimentos
+reais na quadra de esportes: <span
+class="math display">$$\mbox{escala}  = \frac{\mbox{comprimento na
+maquete}}{\mbox{comprimento real na quadra}}\cdot$$</span> Desta vez, o
+enunciado da questão nos informa a escala, que é igual a <span
+class="math inline">1 : 250</span>, ou seja, <span
+class="math display">$$\frac{1}{250} = \frac{1\mbox{ centímetro}}{250
+\mbox{ centímetros}}\cdot$$</span> Logo, 250 centímetros na quadra real
+correspondem a apenas 1 centímetro na maquete. Como 1 metro são 100
+centímetros concluímos que 28 metros equivalem a <span
+class="math display">$$\begin{aligned}
+28 \times 100 \mbox{ centímetros} &amp;=  2.800 \mbox{ centímetros} \\
+&amp;= 2,8 \times 1.000 \mbox{ centímetros} \\
+&amp; = 2,8 \times 4 \times 250 \mbox{ centímetros} \\
+&amp; = 11,2 \times  250 \mbox{ centímetros}.
+\end{aligned}$$</span> Portanto, na maquete, o comprimento real de 28
+metros é representado por um comprimento de 11,2 centímetros. Da mesma
+forma, a largura real de 12 metros da quadra equivalem a <span
+class="math display">$$\begin{aligned}
+12 \times 100 \mbox{ centímetros} &amp;=  1200 \mbox{ centímetros} \\
+&amp;= 1,2 \times 1.000 \mbox{ centímetros} \\
+&amp; = 1,2 \times 4 \times 250 \mbox{ centímetros} \\
+&amp; = 4,8 \times  250 \mbox{ centímetros},
+\end{aligned}$$</span> ou seja, a largura real da quadra é representada
+por uma largura de 4,8 centímetros na maquete. Concluímos que a
+alternativa correta é C). ◻</p>
+</div>
+</div>
+<p>Vamos treinar um pouco a respeito de razões e proporções em outros
+contextos.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.49</strong> (ENEM 2011, Caderno 6, Questão 162,
+adaptada). <em>Cerca de 20 milhões de brasileiros vivem na região
+coberta pela caatinga, em quase 800 mil quilômetros quadrados de área.
+Quando não chove, o homem do sertão e sua família precisam caminhar
+quilômetros em busca da água dos açudes. A irregularidade climática é um
+dos fatores que mais interferem na vida do sertanejo.</em></p>
+<p><em><span><span>Disponível em: <a href="http://www.wwf.org.br"
+class="uri">http://www.wwf.org.br</a>. Acesso em: 23 abr.
+2010.</span></span></em></p>
+<p><em>Segundo este levantamento, a densidade demográfica da região
+coberta pela caatinga, em habitantes por quilômetro quadrado, é
+de</em></p>
+<ul>
+<li><p><em>250.</em></p></li>
+<li><p><em>25.</em></p></li>
+<li><p><em>2,5.</em></p></li>
+<li><p><em>0,25.</em></p></li>
+<li><p><em>0,025.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> <em>Densidade demográfica</em> é também um exemplo de
+<span><strong>razão</strong></span>. De fato, densidade demográfica é
+definida como <span class="math display">$$\mbox{densidade demográfica}
+= \frac{\mbox{ população}}{\mbox{ área }},$$</span> onde a população é
+medida pelo número de habitantes de uma região e a área desta região é
+medida em metros quadrados. De acordo com os dados, temos <span
+class="math display">$$\begin{aligned}
+&amp; \mbox{densidade demográfica} = \frac{20.000.000 \mbox{
+habitantes}}{800.000 \mbox{ quilômetros quadrados}}\\
+&amp; =  \frac{200}{8} = 25 \mbox{ habitantes por quilômetro quadrado}.
+\end{aligned}$$</span> Logo, a alternativa correta é B). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Nesses 3 últimos exercícios,
+temos exemplos de <span><strong>funções afins</strong></span>. Vejamos:
+no primeiro, a variável <em>distância no mapa</em> (<span
+class="math inline"><em>y</em></span>) é uma função afim da variável
+<em>distância real</em> (<span class="math inline"><em>x</em></span>),
+sendo que a <span><strong>taxa de variação</strong></span> ou
+<span><strong>coeficiente angular</strong></span> é dado pela escala,
+isto é, <span class="math display">$$y = \frac{1}{25.000.000}x \quad
+\mbox{ ou }\quad x = 25.000.000 y.$$</span> No segundo exercício, o
+comprimento na maquete (<span class="math inline"><em>y</em></span>) é
+uma função afim do comprimento real (<span
+class="math inline"><em>x</em></span>), cujo coeficiente angular ou taxa
+de variação é, novamente, a escala: <span
+class="math inline">$y=\frac{1}{250}x$</span>. Por fim, a densidade
+demográfica no terceiro exercício é a taxa de variação ou coeficiente
+angular da função afim que define a população <span
+class="math inline"><em>y</em></span> em função da área <span
+class="math inline"><em>x</em></span>, ou seja, <span
+class="math inline"><em>y</em> = 25<em>x</em></span>.</em></p>
+</div>
+</div>
+<p>Finalizando esta primeira parte de nossos estudos, discutiremos
+alguns exercícios sobre <em>porcentagens</em> e <em>divisões em partes
+proporcionais</em>.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.50</strong> (ENEM 2015, Caderno 7, Questão 158,
+adaptada ). <em>Um produtor de milho utiliza uma área de 160 hectares
+para as suas atividades agrícolas. Essa área é dividida em duas partes:
+uma de 40 hectares, com maior produtividade. A produtividade é dada pela
+razão entre a produção, em tonelada, e a área cultivada. Sabe-se que a
+área de 40 hectares tem produtividade igual a 2,5 vezes a da outra. Esse
+fazendeiro pretende aumentar sua produção total em 15<span
+class="math inline">%</span> aumentando o tamanho de sua propriedade.
+Para tanto, pretende comprar uma parte de uma fazenda vizinha, que
+possui a mesma produtividade da parte de 120 hectares de suas
+terras.</em></p>
+<p><em>Qual é a área mínima, em hectare, que o produtor precisará
+comprar?</em></p>
+<ol>
+<li><p><em>36</em></p></li>
+<li><p><em>33</em></p></li>
+<li><p><em>27</em></p></li>
+<li><p><em>24</em></p></li>
+<li><p><em>21</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A área total é dividida em duas partes: a primeira de 40
+hectares e a segunda de 120 hectares, ou seja, 3 vezes maior que a
+primeira. Porém, cada hectare da primeira parte rende 2,5 vezes mais do
+que cada hectare da segunda parte. Assim, se um hectare da segunda parte
+produz <span class="math inline">1</span> tonelada, um hectare da
+primeira parte produz <span class="math inline">2, 5</span> toneladas.
+Sendo assim, a produção da área total seria <span
+class="math display">40 × 2, 5 + 120 × 1 = 100 + 120 = 220
+toneladas.</span> Um aumento de 15<span class="math inline">%</span>
+nesta produção corresponde a <span class="math display">$$\frac{15}{100}
+\times 220 = 33 \mbox{ toneladas}$$</span> a mais. Como um hectare da
+segunda parte produz, digamos, 1 tonelada, bastaria que o fazendeiro
+comprasse mais 33 <em>hectares</em> da parte da fazenda vizinha que
+também tem esta produtividade. Portanto, a alternativa correta é
+B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.51</strong>. <em>Dois irmãos, donos de um carrinho
+de cachorro-quente, devem repartir 7.200 reais, obtidos nas vendas, de
+modo <span><strong>diretamente proporcional</strong></span> aos números
+de dias que cada um trabalhou no carrinho. Sabendo que um deles
+trabalhou 12 dias e o outro, 18 dias, quais quantias, respectivamente,
+cada um receberá?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O número total de dias que os dois trabalharam é igual a
+<span class="math inline">12 + 18 = 30</span> dias. Logo, o valor média
+das vendas por dia é igual a <span
+class="math display">$$\frac{7.200}{30} = \frac{7200:10}{30:10} =
+\frac{720}{3} = \frac{600+120}{3} = 200 + 40 = 240 \mbox{
+reais}.$$</span> Portanto, a quantia proporcional a ser recebida pelo
+que trabalhou 12 dias é <span
+class="math display">12 × 240 = 12 × 12 × 20 = 144 × 20 = 2.880
+reais</span> e a quantia proporcional a ser recebida pelo irmão que
+trabalhou 18 dias é o valor restante, isto é, <span
+class="math display">18 × 240 = 18 × 24 × 10 = 4.320 reais.</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.52</strong> (ENEM 2019, Caderno 7, Questão 151,
+adaptada). <em>Três sócios resolveram fundar uma fábrica. O investimento
+inicial foi de R<span class="math inline">$</span> 1.000.000,00. E,
+independentemente do valor que cada um investiu nesse primeiro momento,
+resolveram considerar que cada um deles contribuiu com um terço do
+investimento inicial.</em></p>
+<p><em>Algum tempo depois, um quarto sócio entrou para a sociedade, e os
+quatro, juntos, investiram mais R<span class="math inline">$</span>
+800.000,00 na fábrica. Cada um deles contribuiu com um quarto desse
+valor. Quando venderam a fábrica, nenhum outro investimento havia sido
+feito. Os sócios decidiram então dividir o montante de R<span
+class="math inline">$</span> 1.800.000,00 obtido com a venda, de modo
+proporcional à quantia total investida por cada sócio.</em></p>
+<p><em>Quais os valores mais próximos, em porcentagens, correspondentes
+às parcelas financeiras que cada um dos três sócios iniciais e o quarto
+sócio, respectivamente, receberam?</em></p>
+<ul>
+<li><p><em>29,60 e 11,11</em></p></li>
+<li><p><em>28,70 e 13,89</em></p></li>
+<li><p><em>25,00 e 25,00</em></p></li>
+<li><p><em>18,52 e 11,11</em></p></li>
+<li><p><em>12,96 e 13,89</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O total investido, ao longo do tempo, foi de R<span
+class="math inline">$</span> 1.800.000,00. Cada um dos três primeiros
+sócios investiu o seguinte valor <span
+class="math display">$$\frac{1}{3} \times 1.000.000 + \frac{1}{4} \times
+800.000,$$</span> enquanto que o quarto sócio investiu apenas <span
+class="math display">$$\frac{1}{4} \times 800.000,$$</span> ou seja,
+200.000 reais. Logo, a <em>proporção</em> entre o que este quarto sócio
+investiu e o total de investimentos é igual a <span
+class="math display">$$\frac{200.000}{1.800.000} =
+\frac{1}{9}\cdot$$</span> Portanto, proporcionalmente, o quarto sócio
+deve ter recebido apenas <span class="math inline">$\frac{1}{9}$</span>
+do dinheiro total investido, enquanto que os três primeiros sócios,
+<em>juntos</em>, devem ter recebido os outros <span
+class="math inline">$\frac{8}{9}$</span> do dinheiro total investido.
+Portanto, o quarto sócio recebeu <span
+class="math display">$$\frac{1}{9} = 0,1111\ldots \approx
+11,11\%$$</span> enquanto <em>cada um</em> dos três primeiros sócios
+recebeu <span class="math display">$$\frac{1}{3} \times \frac{8}{9} =
+\frac{8}{3}  \times \frac{1}{9}  \approx 2,6666 \times 0,1111 = 0,2962 =
+29,62\%.$$</span> A alternativa é a da letra A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.53</strong> (ENEM 2019, Caderno 7, Questão 152,
+adaptada). <em>Para contratar três máquinas que farão o reparo de vias
+rurais de um município, a prefeitura elaborou um edital que, entre
+outras cláusulas, previa:</em></p>
+<ul>
+<li><p><em>cada empresa interessada só pode cadastrar uma única máquina
+para concorrer ao edital;</em></p></li>
+<li><p><em>o total de recursos destinados para contratar o conjunto de
+três máquinas é de R<span class="math inline">$</span>
+31.000,00;</em></p></li>
+<li><p><em>o valor a ser pago a cada empresa será inversamente
+proporcional à idade de uso da máquina cadastrada pela empresa para o
+presente edital.</em></p></li>
+</ul>
+<p><em>As três empresas vencedoras do edital cadastraram máquinas com 2,
+3 e 5 anos de idade de uso.</em></p>
+<p><em>Quanto receberá a empresa que cadastrou a máquina com maior idade
+de uso?</em></p>
+<ul>
+<li><p><em>R<span class="math inline">$</span> 3.100,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 6.000,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 6.200,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 15.000,00</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 15.500,00</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> De acordo com a terceira regra do edital, as partes a
+serem recebidas pelas empresas são proporcionais ao <em>inverso</em> do
+tempo de uso de suas máquinas, isto é, são proporcionais a <span
+class="math display">$$\frac{1}{2},\,\,\,\, \frac{1}{3} \,\, \mbox{e}
+\,\, \frac{1}{5},$$</span> já que os tempos de uso são 2 anos, 3 anos e
+5 anos, respectivamente. Portanto, o valor total de R<span
+class="math inline">$</span> 31.000,00 será dividido entre as três
+empresas em partes proporcionais a <span
+class="math display">$$\frac{1}{2},\,\,\,\, \frac{1}{3} \,\, \mbox{e}
+\,\, \frac{1}{5}\cdot$$</span> ou, calculando um denominador comum às
+três frações, em partes proporcionais a <span
+class="math display">$$\frac{15}{30},\,\,\,\, \frac{10}{30} \,\,
+\mbox{e} \,\, \frac{6}{30}\cdot$$</span> Logo, as três partes somam
+<span class="math display">$$\frac{15}{30}+\frac{10}{30} + \frac{6}{30}
+= \frac{31}{30}\cdot$$</span> Essa soma corresponde ao valor total de
+31.000 reais: <span class="math display">$$\frac{31}{30}
+\longrightarrow  31.000 \mbox{ reais}$$</span> Portanto, dividindo ambos
+os termos por 31, temos <span class="math display">$$\frac{1}{30}
+\longrightarrow  1.000 \mbox{ reais}$$</span> Agora, multiplicando ambos
+os termos por 6, obtemos <span class="math display">$$\frac{6}{30}
+\longrightarrow  6.000 \mbox{ reais}.$$</span> Esta é a parte a ser paga
+à empresa que cadastrou a máquina de maior tempo de uso. Portanto, a
+alternativa correta é a da letra B). ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em><span><strong>Uma alternativa de
+solução.</strong></span> O tempo de uso da segunda máquina, na ordem
+crescente de tempo de uso, é <span
+class="math display">$$\frac{3}{2}$$</span> vezes maior do que o tempo
+de uso da primeira máquina. Da mesma forma, o tempo de uso da terceira
+máquina é <span class="math display">$$\frac{5}{2}$$</span> vezes maior
+do que o tempo de uso da primeira máquina. Assim, se a empresa que
+cadastrou a primeira máquina receber <span
+class="math inline"><em>x</em></span> reais do valor total, a empresa
+que cadastrou a segunda máquina receberá apenas <span
+class="math inline">$\frac{2}{3}$</span> desse valor e a empresa que
+cadastrou a terceira máquina receberá apenas <span
+class="math inline">$\frac{2}{5}$</span> desse valor. Logo, as três
+juntas receberão <span class="math display">$$x + \frac{2}{3}x +
+\frac{2}{5} x = 31.000 \mbox{ reais}.$$</span> Multiplicando os dois
+lados desta equação por 15, obtemos <span
+class="math display">15<em>x</em> + 10<em>x</em> + 6<em>x</em> = 15 × 31.000.</span>
+Logo, obtemos <span
+class="math display">31<em>x</em> = 15 × 31.000.</span> Portanto, o
+valor a ser recebido pela empresa que cadastrou a primeira máquina é
+<span class="math display"><em>x</em> = 15 × 1.000 = 15.000
+reais.</span> Assim, a empresa que cadastrou a <em>terceira</em> máquina
+(de maior tempo de uso) receberá <span
+class="math display">$$\frac{2}{5}x = \frac{2}{5} \times 15.000 = 2
+\times 3.000 = 6.000 \mbox{ reais}.$$</span></em></p>
+</div>
+</div>
+</div>

@@ -1,0 +1,604 @@
+<h2 class="unnumbered" id="sugestões-de-percursos-pedagógicos">Sugestões
+de percursos pedagógicos</h2>
+<h3 class="unnumbered"
+id="primeiro-percurso-conceitos-operações-e-problemas-sobre-aritmética-de-números-racionais">Primeiro
+percurso: conceitos, operações e problemas sobre aritmética de números
+racionais</h3>
+<p>Neste percurso, as etapas graduais de aquisição e mobilização de
+repertório <em>culminam</em> nas seguintes habilidades, especificados
+por descritores da Matriz de Referência do SPAECE:</p>
+<ul>
+<li><p>D16: Estabelecer relações entre representações fracionárias e
+decimais dos números racionais.</p></li>
+<li><p>D19: Resolver problema envolvendo juros simples.</p></li>
+<li><p>D20: Resolver problema envolvendo juros compostos.</p></li>
+</ul>
+<p>Este percurso tem etapas especificadas por saberes e habilidades da
+Matriz dos Saberes: iniciamos pela retomada do conceito de equivalência
+de frações, abordado dos pontos de vista aritmético e geométrico. A
+relação de equivalência entre frações ou, mais precisamente, entre pares
+de números inteiros, é geometricamente interpretada como a adoção de uma
+escala ou de unidade de medida comum: essa abordagem reforça, desde o
+início do caderno, as conexões naturais entre conceitos aritméticos,
+algébricos e geométricos que estão na base de todos os tópicos que serão
+trabalhados em todo o material. Portanto, ao longo do percurso, a
+equivalência de frações será estudada em termos de uma relação de
+proporcionalidade. Para os alunos no primeiro quartil, em relação ao
+desempenho mensurado na Avaliação Diagnóstica 2022.1, sugerimos o
+seguinte percurso de atividades a este propósito:</p>
+<ol>
+<li><p>Questões 1 a 13: ao trabalhar essas questões, o aluno mobiliza
+conhecimentos básicos relativos à equivalência e comparação de frações.
+Em particular, o aluno deve dominar critérios de comparação de frações,
+sendo capaz de ordená-las.</p></li>
+<li><p>Questões 14 a 22: uma vez consolidado o uso das noções de
+equivalência e comparação de frações do ponto de vista aritmético, o
+aluno deve exercitar habilidades relativas à representação geométrica,
+particularmente localizando-as e ordenando-as na reta numérica. Nessa
+parte do percurso, o aluno é confrontado com exercícios retirados ou
+inspirados em avaliações de larga escala, em que são usadas retas
+numéricas com várias gradações.</p></li>
+</ol>
+<h3 class="unnumbered"
+id="expectativas-de-aprendizagens-do-primeiro-percurso">Expectativas de
+aprendizagens do primeiro percurso</h3>
+<p>Ao longo desse percurso, professores e tutores devem observar o
+desempenho dos alunos em relação ao desenvolvimento das seguintes
+habilidades:</p>
+<ol type="1">
+<li><p>S02.H26: utilizar procedimentos e algoritmos de divisão, corretos
+e justificados, em particular o algoritmo de divisão euclidiano (com
+restos não nulos, inclusive) em suas relações com os algoritmos de
+adição e multiplicação.</p></li>
+<li><p>S03.H4: compreender a noção de equivalência de frações e suas
+interpretações aritméticas e geométricas.</p>
+<ul>
+<li><p>Utilizar os critérios de equivalência de frações nas observações
+<a href="#obs1" data-reference-type="ref" data-reference="obs1">1.1</a>
+e <a href="#obs2" data-reference-type="ref"
+data-reference="obs2">1.1</a>;</p></li>
+<li><p>representar geometricamente frações equivalentes usando barras ou
+segmentos da reta numérica;</p></li>
+<li><p>usar representações geométricas de frações equivalentes para
+localizar números racionais na reta numérica.</p></li>
+</ul></li>
+<li><p>S03.H6: escrever frações equivalentes a uma fração dada, com
+denominadores dados por potências de dez.</p></li>
+<li><p>S03.H7: associar frações a números decimais (e reciprocamente) e,
+em particular, estabelecer a equivalência entre porcentagens, frações
+centesimais e suas representações como números decimais.</p></li>
+<li><p>S03.H10: reconhecer a representação decimal de números racionais,
+compondo-os e decompondo-os em termos de potências de dez, positivas e
+negativas.</p>
+<ul>
+<li><p>Representar números decimais na reta numérica, utilizando escalas
+com múltiplos e submúltiplos da unidade de medida na reta;</p></li>
+<li><p>associar expansões decimais finitas a números racionais na forma
+fracionária;</p></li>
+<li><p>associar expansões decimais infinitas, periódicas, a números
+racionais na forma fracionária.</p></li>
+</ul></li>
+<li><p>S03.H12: ordenar ou comparar números racionais, em suas
+representações fracionárias ou decimais, em particular por meio de sua
+localização na reta numérica.</p></li>
+<li><p>S03.H25: modelar e resolver problemas, motivados por diferentes
+contextos e com recurso a diferentes procedimentos, envolvendo operações
+entre números racionais, em suas representações fracionárias ou
+decimais.</p></li>
+<li><p>S04.H2: expressar proporcionalidade em termos de frações
+equivalentes.</p></li>
+<li><p>S09.H4: determinar aproximações de um dado número real por
+números racionais.</p></li>
+<li><p>S09.H9: utilizar aproximações e estimativas para comparar,
+ordenar ou localizar números reais na reta numérica.</p></li>
+<li><p>S09.H10: determinar a localização de números reais na reta
+numérica.</p></li>
+<li><p>S09.H11: ordenar e comparar números reais, com base nas expansões
+decimais ou localizações na reta numérica.</p></li>
+<li><p>S09.H18: reconhecer e descrever padrões e regularidades (e.g.,
+leis de formação, recursividade ou recorrência) em sequências de números
+racionais e reais, em representações aritméticas, algébricas ou
+geométricas.</p></li>
+<li><p>S09.H19: efetuar cálculos aritméticos utilizando as expansões
+decimais de números reais, sejam racionais ou não.</p></li>
+<li><p>S09.H20: modelar e resolver problemas envolvendo as várias
+representações de números reais (expansões decimais, “dízimas”, frações
+contínuas, entre outras)</p></li>
+<li><p>S09.H21: utilizar arredondamentos e estimativas para determinar o
+resultado de operações aritméticas com números reais, em conexão com as
+ideias de erros e algarismos significativos.</p></li>
+</ol>
+<h3 class="unnumbered"
+id="segundo-percurso-das-frações-e-porcentagens-à-noção-de-proporcionalidade">Segundo
+percurso: das frações e porcentagens à noção de proporcionalidade</h3>
+<p>Neste percurso, articulamos os conhecimentos trabalhados no primeiro
+percurso para definir a noção de proporcionalidade em bases aritméticas,
+usando os critérios de equivalência de frações. Para que ingressem neste
+percurso, espera-se que os alunos tenham compreendido o conceito de
+equivalência de frações; usado as diversões representações geométricas
+dos números racionais, especialmente na reta numérica; estabelecido
+equivalências entre as representações decimais de números racionais. Ao
+longo desse segundo percurso, serão usados esses conhecimentos e
+habilidades para lidarmos com as operações aritméticas entre números
+racionais, em suas representações fracionárias ou decimais,
+especialmente multiplicações ou divisões de frações. Em seguida, será
+trabalhada a noção de porcentagem em vários contextos e problemas. Por
+fim, são combinados os conhecimentos prévios sobre representações e
+operações com frações e porcentagens para aprofundar o conceito e os
+usos de proporcionalidade. Para os alunos no segundo quartil, sugerimos,
+portanto, o seguinte percurso de atividades:</p>
+<ol>
+<li><p>Questões 23 a 37: nesta sequência de questões, exploramos o uso
+de operações aritméticas entre números racionais, especialmente
+multiplicação e divisão de frações, em contextos e problemas que
+envolvem porcentagens. Nas tarefas do final da sequência, associamos o
+estudo das operações com frações e porcentagens a problemas relativos a
+tratamento da informação, especialmente a leitura e interpetação de
+gráficos de barras e de setores, além do cálculo de médias aritméticas.
+Finalizamos esta parte do percurso com alguns exercícios e observações
+que ajudam a desenvolver intuição sobre significados das medidas de
+tendência central e de dispersão. Em suma, avançamos, gradualmente, do
+estudo de números racionais e de suas operações, expressos em termos de
+frações, números decimais e porcentagens, para a modelagem e resolução
+de problemas em contextos que envolvem dados e informações relacionados,
+em vários casos, a situações cotidianas e financeiras.</p></li>
+<li><p>Questões 38 a 49: realizado o circuito anterior, envolvendo
+cálculos e problemas com frações e porcentagens, aprofundamos, enfim, o
+conceito de proporcionalidade (direta e inversa), motivado por problemas
+postos em diversos contextos, em gradação de complexidade crescente. Ao
+longo das atividades, apresentamos justificativas naturais para as
+propriedades operatórias com razões e proporções, demonstrando como as
+chamadas “regras de três simples ou compostas” derivam, de fato, do
+próprio conceito de razão e, portanto, são apenas recursos mnemônicos ou
+operacionais para organizar os dados e os procedimentos de cálculo. As
+tarefas seguem propõem problemas com variáveis cujos valores ou cujas
+variações de valores são proporcionais (ou inversamente proporcionais)
+umas às outras. Esse passo consiste em uma progressão cognitiva
+considerável, pois significa que os alunos começam a lidar com conceitos
+algébricos em que as razões não são apenas entre números estáticos mas
+entre variáveis dinâmicas. Finalizamos a sequência com exercícios,
+alguns dos quais retirados ou inspirados no ENEM, em que razões e
+proporções são usadas no contexto de grandezas relativas como escalas,
+densidades, fluxos, entre outras acepções, usos e significados do
+conceito de proporcionalidade.</p></li>
+</ol>
+<h3 class="unnumbered"
+id="expectativas-de-aprendizagens-do-segundo-percurso">Expectativas de
+aprendizagens do segundo percurso</h3>
+<p>Professores e tutores devem observar o desempenho dos alunos em
+relação ao desenvolvimento das seguintes habilidades:</p>
+<ol type="1">
+<li><p>S04.H2: expressar proporcionalidade em termos de frações
+equivalentes.</p></li>
+<li><p>S04.H3: relacionar números racionais a razões entre grandezas ou
+entre suas variações, expressando, em particular, a taxa de variação
+(percentual) entre essas grandezas.</p></li>
+<li><p>S04.H4: reconhecer relações de proporcionalidade entre grandezas
+ou entre variações dessas grandezas em gráficos, tabelas e outros
+suportes.</p></li>
+<li><p>S04.H6: determinar as relações entre razões, taxas de variação,
+frações e suas representações decimais, inclusive quando expressas na
+forma de porcentagem.</p></li>
+<li><p>S04.H8: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, que envolvam a variação proporcional entre
+grandezas direta ou inversamente proporcionais.</p></li>
+<li><p>S04.H9: resolver problemas que envolvam porcentagens, motivados
+por diferentes contextos e aplicações.</p></li>
+<li><p>S04.H10: modelar e resolver problemas, utilizando procedimentos
+corretos e justificados, que envolvam duas ou mais grandezas direta ou
+inversamente proporcionais (e.g., divisão em partes
+proporcionais).</p></li>
+<li><p>S04.H13: utilizar, correta e justificadamente, propriedades
+operatórias de razões e proporções, inclusive quando expressas na forma
+das chamadas “regras de três”, combinando grandezas direta e/ou
+inversamente proporcionais.</p></li>
+<li><p>S04.H14: modelar e resolver problemas que envolvam grandezas
+relativas, como velocidades, densidades, fluxos, vazões e outras taxas
+de variação entre grandezas, motivadas por diversos contextos e
+aplicações.</p></li>
+<li><p>S04.H16: identificar relações de proporcionalidade em contextos e
+problemas que envolvam acréscimos simples ou, equivalentemente,
+progressão aritmética de uma variável.</p></li>
+<li><p>S04.H17: modelar e resolver problemas, motivados por diversos
+contextos e aplicações, envolvendo acréscimos/decréscimos aritméticos
+(e.g., juros simples).</p></li>
+<li><p>S04.H19: modelar e resolver problemas, no contexto da Matemática
+Financeira, relativos a acréscimos, descontos, valores presente e
+futuro, débitos, créditos, poupança, consumo, investimento e outras
+grandezas envolvidas na educação financeira.</p></li>
+</ol>
+<h3 class="unnumbered"
+id="terceiro-percurso-da-noção-de-proporcionalidade-às-funções-afins-e-equações-lineares">Terceiro
+percurso: da noção de proporcionalidade às funções afins e equações
+lineares</h3>
+<p>Neste percurso, aprofundamos a noção de proporcionalidade, partindo
+dos conhecimentos, já consolidados, sobre aritmética de números
+racionais e avançando rumo à expressão algébrica da proporcionalidade em
+termos de relações lineares entre variáveis. Como consequência do
+esforço a ser realizado nesse percurso, devem ser desenvolvidas
+habilidades relativas aos seguintes descritores da Matriz de Referência
+do SPAECE:</p>
+<ul>
+<li><p>D16: Estabelecer relações entre representações fracionárias e
+decimais dos números racionais.</p></li>
+<li><p>D19: Resolver problema envolvendo juros simples.</p></li>
+<li><p>D20: Resolver problema envolvendo juros compostos.</p></li>
+<li><p>D57: Identificar a localização de pontos no plano
+cartesiano.</p></li>
+<li><p>D28: Reconhecer a representação algébrica ou gráfica da função
+polinomial de 1<span
+class="math inline"><sup><em>c</em><em>i</em><em>r</em><em>c</em></sup></span>
+grau.</p></li>
+<li><p>D55: Determinar uma equação da reta a partir de dois pontos dados
+ou de um ponto e sua inclinação.</p></li>
+<li><p>D58: Interpretar geometricamente os coeficientes da equação de
+uma reta.</p></li>
+<li><p>D64: Resolver problema utilizando as relações entre diferentes
+unidades de medidas, de capacidade e de volume.</p></li>
+</ul>
+<p>Para que ingressem neste percurso, espera-se que os alunos tenham
+compreendido o conceito de equivalência de frações; usado as diversões
+representações geométricas dos números racionais, especialmente na reta
+numérica; estabelecido equivalências entre as representações decimais de
+números racionais. Ao longo desse segundo percurso, serão usados esses
+conhecimentos e habilidades para lidarmos com as operações aritméticas
+entre números racionais, em suas representações fracionárias ou
+decimais, especialmente multiplicações ou divisões de frações. Em
+seguida, será trabalhada a noção de porcentagem em vários contextos e
+problemas. Por fim, são combinados os conhecimentos prévios sobre
+representações e operações com frações e porcentagens para aprofundar o
+conceito e os usos de proporcionalidade. Para os alunos no terceiro
+quartil, sugerimos, portanto, o seguinte percurso de atividades:</p>
+<ol>
+<li><p>Questões 50 a 85: esta conjunto de tarefas inicia com questões
+que retomam conceitos como razões, proporções, taxas de variação e
+grandezas relativas, com o propósito de revisão e consolidação das
+habilidades trabalhadas no segundo percurso. A lista de exercícios
+propostos, da questão 54 à questão 63, inclui itens expostos em
+avaliações de larga escala similares ao SPAECE. As questões de 64 a 77
+exploram contextos que permitem apresentar as distinções entre
+<em>acréscimos simples</em> e <em>acréscimos compostos</em>. De fato, as
+observações <a href="#pa1" data-reference-type="ref"
+data-reference="pa1">1.1</a> e <a href="#pa2" data-reference-type="ref"
+data-reference="pa2">1.1</a> discutem, brevemente, representações
+algébricas e geométricas de progressões aritméticas e geométricas com o
+intuito de antecipar o estudo de funções afins, aprofundado na segunda
+parte do percurso. Em resumo, esta sequência de atividades é de
+fundamental relevância na transição da linguagem aritmética das razões e
+proporções em termos de operações com números reais para uma formulação
+algébrica do conceito de proporcionalidade, em termos de funções reais e
+de suas representações gráficas. Esta trajetória de problemas encerra
+com questões, algumas extraídas de vestibulares, sobre divisões em
+partes (diretamente ou inversamente) proporcionais e o uso das noções de
+razão e taxa de variação em diversos contextos.</p></li>
+<li><p>Questões 86 a 152: a segunda parte do percurso continua, de modo
+mais acentuado, a passagem gradual da descrição aritmética da
+proporcionalidade, ainda assentada no uso de frações, razões e taxas de
+variação, para o modelo algébrica de proporcionalidade, em termos de
+<em>variações</em> de variáveis. Ampliamos, assim, o escopo da linguagem
+de razões e proporções para passar a modelar relações de
+proporcionalidade entre <em>variáveis</em> ou entre variações dessas
+variáveis, as quais, em muitos casos, representam a mudança
+<em>dinâmica</em> de grandezas físicas, monetárias, métricas, entre
+outras. Para prover as bases dessa transição cognitiva, apresentamos
+problemas sobre: a) o uso do plano cartesiano; b) a associação entre
+pontos e coordenadas; c) a representação geométrica de relações lineares
+entre variáveis; d) a relação entre parâmetros de uma função afim (ou de
+uma equação linear) e a respectiva representação geométrica em termos de
+retas no plano; d) as equivalências entre funções afins e equações
+lineares como formas diferentes de descrever uma relação linear entre
+duas variáveis ou entre suas variações; e) a interpretação geométrica da
+taxa de variação (ou do coeficiente angular, digamos) como declividade;
+f) a escrita algébrica da declividade como taxa de variação: g) a
+representação geométrica de soluções de sistemas de equações lineares no
+plano; h) critérios para solução de sistemas lineares no plano e as
+interpretações geométricas desses critérios; i) e, por fim, técnicas de
+resolução desses sistemas. Todos esses tópicos são paulatinamente
+apresentados, ao longo de sequências de problemas em um crescendo suave
+de dificuldade. Alguns desses problemas são extraídos ou baseados em
+itens costumeiros em avaliações de larga escala. A sequência finaliza
+com um par de questões que antecipa a discussão sobre não-linearidade a
+ser explorada no próximo percurso.</p></li>
+</ol>
+<h3 class="unnumbered"
+id="expectativas-de-aprendizagens-do-terceiro-percurso">Expectativas de
+aprendizagens do terceiro percurso</h3>
+<p>Professores e tutores devem observar o desempenho dos alunos em
+relação ao desenvolvimento das seguintes habilidades:</p>
+<ol type="1">
+<li><p>S04.H2: expressar proporcionalidade em termos de frações
+equivalentes.</p></li>
+<li><p>S04.H3: relacionar números racionais a razões entre grandezas ou
+entre suas variações, expressando, em particular, a taxa de variação
+(percentual) entre essas grandezas.</p></li>
+<li><p>S04.H4: reconhecer relações de proporcionalidade entre grandezas
+ou entre variações dessas grandezas em gráficos, tabelas e outros
+suportes.</p></li>
+<li><p>S04.H6: determinar as relações entre razões, taxas de variação,
+frações e suas representações decimais, inclusive quando expressas na
+forma de porcentagem.</p></li>
+<li><p>S04.H8: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, que envolvam a variação proporcional entre
+grandezas direta ou inversamente proporcionais.</p></li>
+<li><p>S04.H9: resolver problemas que envolvam porcentagens, motivados
+por diferentes contextos e aplicações.</p></li>
+<li><p>S04.H10: modelar e resolver problemas, utilizando procedimentos
+corretos e justificados, que envolvam duas ou mais grandezas direta ou
+inversamente proporcionais (e.g., divisão em partes
+proporcionais).</p></li>
+<li><p>S04.H13: utilizar, correta e justificadamente, propriedades
+operatórias de razões e proporções, inclusive quando expressas na forma
+das chamadas “regras de três”, combinando grandezas direta e/ou
+inversamente proporcionais.</p></li>
+<li><p>S04.H14: modelar e resolver problemas que envolvam grandezas
+relativas, como velocidades, densidades, fluxos, vazões e outras taxas
+de variação entre grandezas, motivadas por diversos contextos e
+aplicações.</p></li>
+<li><p>S04.H16: identificar relações de proporcionalidade em contextos e
+problemas que envolvam acréscimos simples ou, equivalentemente,
+progressão aritmética de uma variável.</p></li>
+<li><p>S04.H17: modelar e resolver problemas, motivados por diversos
+contextos e aplicações, envolvendo acréscimos/decréscimos aritméticos
+(e.g., juros simples).</p></li>
+<li><p>S04.H19: modelar e resolver problemas, no contexto da Matemática
+Financeira, relativos a acréscimos, descontos, valores presente e
+futuro, débitos, créditos, poupança, consumo, investimento e outras
+grandezas envolvidas na educação financeira.</p></li>
+<li><p>S06.H3: interpretar representações gráficas ou geométricas de
+variáveis (e suas variações) expressas em informações contidas em
+textos, tabelas, gráficos ou outro conjunto de dados.</p></li>
+<li><p>S06.H5: reconhecer os elementos básicos do plano cartesiano, em
+particular eixos coordenados e projeções ortogonais sobre esses
+eixos.</p></li>
+<li><p>S06.H7: localizar pontos na reta numérica e no plano cartesiano,
+associando-os a coordenadas (cartesianas ou polares).</p></li>
+<li><p>S06.H8: descrever movimentos e transformações geométricas do
+plano em termos do efeito sobre as coordenadas de pontos e de elementos
+de figuras geométricas.</p></li>
+<li><p>S06.H9: associar relações de proporcionalidade entre grandezas a
+pontos sobre retas no plano, em particular identificando razões entre
+grandezas proporcionais à inclinação das retas correspondentes.</p></li>
+<li><p>S06.H10: expressar relações lineares entre duas variáveis (ou
+suas variações) em termos de equações lineares.</p></li>
+<li><p>S06.H12: reconhecer ou descrever relações de proporcionalidade
+(linearidade) entre variáveis ou suas variações a partir de modelos,
+tabelas, gráficos e outros conjuntos de informações.</p></li>
+<li><p>S06.H14: resolver uma equação linear com procedimentos corretos e
+justificados (e.g., o método de falsa posição).</p></li>
+<li><p>S06.H15: reconhecer e utilizar representações geométricas de
+(sistemas de) equações lineares em termos de retas no plano e suas
+intersecções.</p></li>
+<li><p>S06.H16: utilizar, com correção e justificativa, procedimentos
+algébricos para solução (de sistemas) de equações lineares a duas
+variáveis (eliminação, substituição, sistemas equivalentes, entre
+outros).</p></li>
+<li><p>S06.H18: identificar e descrever, algébrica ou graficamente,
+relações entre variáveis que são dadas por funções, a partir de modelos,
+tabelas, gráficos e outras representações e modelos dessas
+relações.</p></li>
+<li><p>S06.H19: identificar, em diferentes contextos e via distintos
+suportes (gráficos, figuras, tabelas, etc.), a dependência de uma
+variável como função afim de outra.</p></li>
+<li><p>S06.H22: relacionar funções afins e equações lineares a relações
+de proporcionalidade (linearidade) entre variáveis ou suas variações e
+suas representações gráficas em termos de retas no plano.</p></li>
+<li><p>S06.H23: identificar os parâmetros ou a representação algébrica
+de uma função afim a partir da reta que a representa
+graficamente.</p></li>
+<li><p>S06.H25: associar a declividade e interceptos de uma reta aos
+parâmetros da função afim representada pela reta, e vice-versa.</p></li>
+<li><p>S06.H27: modelar ou resolver problemas, motivados por diferentes
+contextos e aplicações, em termos de (in)equações e sistemas de
+(in)equações lineares.</p></li>
+<li><p>S06.H28: modelar ou resolver problemas, com diferentes motivações
+e contextos, envolvendo (in)equações lineares ou funções afins.</p></li>
+<li><p>S06.H33: identificar a equação de uma reta apresentada a partir
+de dois pontos dados ou de um ponto e sua inclinação.</p></li>
+<li><p>S06.H34: interpretar geometricamente os coeficientes da equação
+de uma reta.</p></li>
+<li><p>S09.H28: realizar cálculos aritméticos em notação científica para
+medidas de grandezas, considerando ordens de grandeza, algarismos
+significativos, algarismos duvidosos e erros.</p></li>
+<li><p>S09.H32: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, utilizando unidades de medida padronizadas,
+sobretudo do sistema métrico decimal, em particular para comprimento
+(perímetro), área, volume (capacidade) e massa.</p></li>
+<li><p>S09.H36: modelar e resolver problemas, motivado por diversos
+contextos e aplicações, utilizando unidades de medida para grandezas
+relativas (velocidades, densidades, fluxos, vazões, entre
+outras).</p></li>
+<li><p>S09.H37: modelar e resolver problema envolvendo informações
+numéricas apresentadas em tabelas, gráficos e outros suportes, relativas
+a diversos contextos</p></li>
+<li><p>S09.H38: estabelecer relações entre diferentes unidades de medida
+(físicas, geométricas, monetárias ou de tempo) em problemas motivados
+por diversos contextos e aplicações.</p></li>
+</ol>
+<h3 class="unnumbered"
+id="quarto-percurso-modelos-algébricos-e-geométricos-de-linearidade-e-não-linearidade-tratamento-da-informação">Quarto
+percurso: modelos algébricos e geométricos de linearidade e
+não-linearidade; tratamento da informação</h3>
+<p>Este quarto percurso pressupõe que os alunos dominem os conhecimentos
+e habilidades explorados nos percursos anteriores, relativos à
+aritmética de números racionais, em suas representações fracionárias,
+decimais e geométricas; ao uso, em diversos contextos e problemas, das
+noções de proporcionalidade e linearidade; e à formulação algébrica, em
+termos de funções e equações, dessas noções. Trilhando este novo
+percurso, o aluno é exposto a modelos <em>não-lineares</em> de relações
+entre variáveis, especialmente quando descritos equações e funções
+quadráticas. Além disso, o percurso conta com uma seção específica sobre
+visualização e interpretações de dados em gráficos e tabelas. Portanto,
+lidamos, mais explicitamente, com os seguintes descritores da Matriz de
+Referência do SPAECE:</p>
+<ul>
+<li><p>D64: Resolver problema utilizando as relações entre diferentes
+unidades de medidas, de capacidade e de volume.</p></li>
+<li><p>D65: Calcular o perímetro de figuras planas numa situação
+problema.</p></li>
+<li><p>D67: Resolver problema envolvendo o cálculo de área de figuras
+planas.</p></li>
+<li><p>D24: Fatorar e simplificar expressões algébricas.</p></li>
+<li><p>D40: Relacionar as raízes de um polinômio com sua decomposição em
+fatores do 1<span class="math inline"><sup>∘</sup></span> grau.</p></li>
+<li><p>D76: Associar informações apresentadas em listas e/ ou tabelas
+aos gráficos que as representam, e vice-versa.</p></li>
+<li><p>D78: Resolver problema envolvendo medidas de tendência central:
+média, moda ou mediana.</p></li>
+</ul>
+<p>Para os alunos no quarto quartil, sugerimos, portanto, o seguinte
+percurso de atividades:</p>
+<ol>
+<li><p>Questões 153 a 177: o objetivo precípuo dessa sucessão de tarefas
+é o de apresentar as distinções entre relações lineares e não-lineares
+entre variáveis. Esse tema foi brevemente exposto no terceiro percurso,
+quando discutimos progressões aritméticas e geométricas no contexto de
+acréscimos simples ou compostos. Na ocasião, ilustramos, no plano
+cartesiano, as diferenças entre as representações gráficas de variáveis
+em crescimento aritmético e em crescimento geométrico. Nesta parte do
+percurso, elaboramos as distinções entre crescimento linear e
+crescimento quadrático, Para tanto, o <em>mote</em> escolhido são as
+expressões funcionais do perímetro e da área de figuras planas
+elementares, como retângulos, triângulos, paralelogramos e trapézios, em
+<em>função</em> de medidas lineares, como as medidas dos lados dessas
+figuras. Ao expor o aluno aos problemas geométricos neste percurso,
+pretendemos, também, revisitar os conceitos de área e perímetro,
+especialmente a ideia da invariância dessas medidas por movimentos
+rígidos do plano, o que permite decompor, recombinar e simetrizar
+figuras menos “regulares” em figuras mais simétricas, deduzindo, desse
+modo, as tradicionais expressões algébrico-aritméticas para áreas de
+triângulos, paralelogramos e outras figuras ditas elementares. Além
+desse intuito, o trabalho com a decomposição e recomposição dessas áreas
+permite deduzir, de modo intuitivo e geométrico, expressões algébricas
+para quadrados de somas e de diferenças e para diferenças de quadrados.
+Esses “produtos notáveis”, geometricamente motivados e demonstrados, são
+retomados, mais adiante na sequência, quando abordamos a fatoração de
+expressões quadráticas em uma variável. Essas fatorações, por sua vez,
+são essenciais para estudarmos funções quadráticas em sua “forma
+fatorada”, o que permite estabelecer relações entre, de um lado, raízes
+e coeficientes e, de outro, eixos de simetria, interceptos, vértices e
+convexidade/curvatura das parábolas que representam geometricamente as
+funções. Esta abordagem, exposta, passo a passo ao longo dos exercícios,
+articula e unifica vários elementos conceituais sobre equações e funções
+quadráticas que são tratados de modo desarticulado em muitos
+livros-texto. Reforçando essa ênfase na articulação e unificação dos
+conceitos matemáticos e, ao mesmo tempo, dando exemplos concretas da
+<em>transferência</em> desses conhecimentos para contextos em outras
+área do conhecimento. Esse é o caso dos problemas relativos a movimentos
+uniformemente acelerados sugeridos nesse percurso. Para a resolução
+desses problemas físicas, devem ser mobilizados e transferidos os
+conhecimentos geométricos e algébricos sobre equações e funções
+quadráticas, devidamente reinterpretados.</p></li>
+<li><p>Questões 178 a 193: esta segunda parte do percurso continua
+apresenta um conjunto de problemas, extraídos, em sua maioria, de
+avaliações de larga escala, a respeito da leitura e interpretação de
+gráficos de barras, gráficos de setores, tabelas (inclusive de dupla
+entrada). Há questões sobre a apresentação de dados em tabelas a partir
+de gráficos, e vice-versa. Finalizamos esse percurso com questões que
+retomam o estudo das médias aritméticas e de medidas de dispersão,
+também abordado no segundo percurso.</p></li>
+</ol>
+<h3 class="unnumbered"
+id="expectativas-de-aprendizagens-do-quarto-percurso">Expectativas de
+aprendizagens do quarto percurso</h3>
+<p>Professores e tutores devem observar o desempenho dos alunos em
+relação ao desenvolvimento das seguintes habilidades:</p>
+<ol type="1">
+<li><p>S07.H3: calcular ou estimar perímetros de figuras geométricas
+gerais por aproximação ou comparação com o perímetro de figuras planas
+elementares, em diversos contextos, aplicações e problemas.</p></li>
+<li><p>S07.H5: resolver problemas, motivados por diferentes modelos,
+contextos e aplicações, envolvendo o cálculo de perímetro de figuras
+planas.</p></li>
+<li><p>S07.H6: compreender a noção de área de figuras planas.</p></li>
+<li><p>S07.H8: calcular ou estimar a área de figuras geométricas planas
+por aproximação ou comparação com áreas de figuras elementares (e.g.,
+quadrados e retângulos), em diversos contextos, problemas e
+aplicações.</p></li>
+<li><p>S07.H10: modelar ou resolver problemas, motivados por diferentes
+contextos e aplicações, envolvendo o cálculo de áreas de figuras
+planas.</p></li>
+<li><p>S07.H12: calcular ou estimar a área de figuras geométricas planas
+utilizando movimentos geométricos e composição, decomposição,
+justaposição, simetrização, entre outros rearranjos dessas
+figuras.</p></li>
+<li><p>S07.H15: expressar as relações entre perímetro e área de figuras
+planas, em particular identificando figuras com mesmo perímetro e
+diferentes áreas, e vice-versa.</p></li>
+<li><p>S07.H16: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, envolvendo perímetro e área de figuras planas e
+as relações entre essas grandezas.</p></li>
+<li><p>S07.H21: descrever a ação de movimentos geométricos (translações,
+rotações, homotetias, reflexões) sobre áreas de figuras planas.</p></li>
+<li><p>S07.H22: relacionar a ação de homotetias a mudanças de escala ou
+de unidades de medida de grandezas geométricas.</p></li>
+<li><p>S09.H24: modelar e resolver problemas, motivados por diferentes
+contextos, envolvendo a expressão de perímetros, áreas ou volumes em
+medidas expressas por números reais.</p></li>
+<li><p>S09.H25: descrever quantitativamente as relações entre medidas de
+perímetro e área ou área e volume sob o efeito de homotetias ou de
+mudanças de unidades de medidas.</p></li>
+<li><p>S09.H28: realizar cálculos aritméticos em notação científica para
+medidas de grandezas, considerando ordens de grandeza, algarismos
+significativos, algarismos duvidosos e erros.</p></li>
+<li><p>S09.H32: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, utilizando unidades de medida padronizadas,
+sobretudo do sistema métrico decimal, em particular para comprimento
+(perímetro), área, volume (capacidade) e massa.</p></li>
+<li><p>S09.H36: modelar e resolver problemas, motivado por diversos
+contextos e aplicações, utilizando unidades de medida para grandezas
+relativas (velocidades, densidades, fluxos, vazões, entre
+outras).</p></li>
+<li><p>S09.H37: modelar e resolver problema envolvendo informações
+numéricas apresentadas em tabelas, gráficos e outros suportes, relativas
+a diversos contextos</p></li>
+<li><p>S09.H38: estabelecer relações entre diferentes unidades de medida
+(físicas, geométricas, monetárias ou de tempo) em problemas motivados
+por diversos contextos e aplicações.</p></li>
+<li><p>S10.H5: identificar fatores comuns em expressões
+algébricas.</p></li>
+<li><p>S10.H6: reescrever expressões algébricas, utilizando fatores
+comuns e produtos notáveis.</p></li>
+<li><p>S10.H7: elaborar ou reconhecer modelos geométricos dos produtos
+notáveis.</p></li>
+<li><p>S10.H9: modelar e resolver problemas envolvendo simplificação,
+fatoração ou determinação de valores numéricos de expressões
+algébricas.</p></li>
+<li><p>S10.H11: associar um fator linear de uma expressão algébrica
+quadrática (ou polinomial, em geral) a um zero ou raiz.</p></li>
+<li><p>S10.H12: fatorar e simplificar expressões quadráticas
+(polinomiais, em geral).</p></li>
+<li><p>S10.H13: relacionar as raízes de um polinômio quadrático à sua
+decomposição em fatores lineares.</p></li>
+<li><p>S10.H14: efetuar completamento de quadrados em expressões
+quadráticas para determinação das raízes.</p></li>
+<li><p>S10.H15: resolver problema envolvendo equação quadrática (em
+particular, determinação de suas raízes).</p></li>
+<li><p>S10.H16: expressar relações entre coeficientes e raízes de
+equações quadráticas (polinomiais, em geral).</p></li>
+<li><p>S10.H17: expressar, em diversos contextos e aplicações, a
+dependência de uma variável como função quadrática de outra.</p></li>
+<li><p>S10.H18: reconhecer as representações algébricas ou geométricas
+de funções quadráticas.</p></li>
+<li><p>S10.H19: identificar os parâmetros de uma função quadrática em
+termos da parábola que a representa graficamente.</p></li>
+<li><p>S10.H20: determinar raízes, máximos/mínimos e outros elementos
+algébricos e geométricos (convexidade, interceptos, vértice, eixo de
+simetria) a partir da forma estendida ou da forma fatorada de uma função
+quadrática.</p></li>
+<li><p>S10.H22: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, em termos de funções lineares ou
+quadráticas.</p></li>
+<li><p>S15.H8: interpretar dados dispostos em tabelas, gráficos,
+diagramas, grafos, textos e outros meios de representação.</p></li>
+<li><p>S15.H20: resolver problema envolvendo informações apresentadas em
+tabelas e/ou gráficos.</p></li>
+<li><p>S15.H21: associar informações apresentadas em listas e/ou tabelas
+simples aos gráficos que as representam, e vice-versa.</p></li>
+<li><p>S15.H23: calcular medidas de tendência central ou de
+dispersão.</p></li>
+<li><p>S15.H24: distinguir as características e finalidades das diversas
+medidas de tendência central ou de dispersão.</p></li>
+<li><p>S15.H26: modelar e resolver problemas envolvendo medidas de
+tendência central, tais como média, moda ou mediana, entre
+outras.</p></li>
+</ol>

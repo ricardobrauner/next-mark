@@ -1,0 +1,331 @@
+<h2 class="unnumbered"
+id="habilidades-da-matriz-dos-saberes-contempladas-no-caderno">Habilidades
+da Matriz dos Saberes contempladas no caderno</h2>
+<p>Com base nas evidências, geradas e devidamente interpretadas a partir
+dos dados das avaliações diagnósticas, tanto as realizadas por meio do
+SISEDU quanto pelo SPAECE, enumeramos as seguintes habilidades a serem
+trabalhadas, em intervenções planejadas para os diferentes agrupamentos
+de alunos, com o uso deste material e o apoio dos tutores, sob
+supervisão da coordenação pedagógica e dos professores da área:</p>
+<ul>
+<li><p>Saber S02: efetuar operações e resolver problemas envolvendo
+números naturais e inteiros.</p>
+<ul>
+<li><p>S02.H15: associar números inteiros a pontos na reta numérica,
+determinando a localização dos pontos correspondentes aos
+números.</p></li>
+<li><p>S02.H16: ordenar e comparar números inteiros, usando suas
+expressões no sistema decimal ou suas representações geométricas (por
+exemplo, na reta numérica).</p></li>
+<li><p>S02.H26: utilizar procedimentos e algoritmos de divisão, corretos
+e justificados, em particular o algoritmo de divisão euclidiano (com
+restos não nulos, inclusive) em suas relações com os algoritmos de
+adição e multiplicação.</p></li>
+</ul></li>
+<li><p>Saber S03: efetuar operações e resolver problemas envolvendo
+números racionais e suas representações fracionárias e decimais.</p>
+<ul>
+<li><p>S03.H4: compreender a noção de equivalência de frações e suas
+interpretações aritméticas e geométricas.</p></li>
+<li><p>S03.H6: escrever frações equivalentes a uma fração dada, com
+denominadores dados por potências de dez.</p></li>
+<li><p>S03.H7: associar frações a números decimais (e reciprocamente) e,
+em particular, estabelecer a equivalência entre porcentagens, frações
+centesimais e suas representações como números decimais.</p></li>
+<li><p>S03.H10: reconhecer a representação decimal de números racionais,
+compondo-os e decompondo-os em termos de potências de dez, positivas e
+negativas.</p></li>
+<li><p>S03.H12: ordenar ou comparar números racionais, em suas
+representações fracionárias ou decimais, em particular por meio de sua
+localização na reta numérica.</p></li>
+<li><p>S03.H19: efetuar, segundo algoritmos corretos e justificados,
+operações aritméticas (soma, subtração, multiplicação, divisão e
+potenciação) de números racionais, em suas representações fracionárias
+ou decimais.</p></li>
+<li><p>S03.H21: utilizar as propriedades das operações aritméticas
+(comutatividade, associatividade, distributividade) para efetuar
+cálculos envolvendo números racionais em suas representações
+fracionárias ou decimais).</p></li>
+<li><p>S03.H23: efetuar aproximações, estimativas e arredondamentos de
+números racionais e dos resultados de operações aritméticas (somas,
+produtos, diferenças, quocientes e potências) entre esses
+números.</p></li>
+<li><p>S03.H25: modelar e resolver problemas, motivados por diferentes
+contextos e com recurso a diferentes procedimentos, envolvendo operações
+entre números racionais, em suas representações fracionárias ou
+decimais.</p></li>
+</ul></li>
+<li><p>Saber S04: reconhecer e utilizar relações de proporcionalidade
+entre grandezas numéricas.</p>
+<ul>
+<li><p>S04.H2: expressar proporcionalidade em termos de frações
+equivalentes.</p></li>
+<li><p>S04.H3: relacionar números racionais a razões entre grandezas ou
+entre suas variações, expressando, em particular, a taxa de variação
+(percentual) entre essas grandezas.</p></li>
+<li><p>S04.H4: reconhecer relações de proporcionalidade entre grandezas
+ou entre variações dessas grandezas em gráficos, tabelas e outros
+suportes.</p></li>
+<li><p>S04.H6: determinar as relações entre razões, taxas de variação,
+frações e suas representações decimais, inclusive quando expressas na
+forma de porcentagem.</p></li>
+<li><p>S04.H8: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, que envolvam a variação proporcional entre
+grandezas direta ou inversamente proporcionais.</p></li>
+<li><p>S04.H9: resolver problemas que envolvam porcentagens, motivados
+por diferentes contextos e aplicações.</p></li>
+<li><p>S04.H10: modelar e resolver problemas, utilizando procedimentos
+corretos e justificados, que envolvam duas ou mais grandezas direta ou
+inversamente proporcionais (e.g., divisão em partes
+proporcionais).</p></li>
+<li><p>S04.H13: utilizar, correta e justificadamente, propriedades
+operatórias de razões e proporções, inclusive quando expressas na forma
+das chamadas “regras de três”, combinando grandezas direta e/ou
+inversamente proporcionais.</p></li>
+<li><p>S04.H14: modelar e resolver problemas que envolvam grandezas
+relativas, como velocidades, densidades, fluxos, vazões e outras taxas
+de variação entre grandezas, motivadas por diversos contextos e
+aplicações.</p></li>
+<li><p>S04.H16: identificar relações de proporcionalidade em contextos e
+problemas que envolvam acréscimos simples ou, equivalentemente,
+progressão aritmética de uma variável.</p></li>
+<li><p>S04.H17: modelar e resolver problemas, motivados por diversos
+contextos e aplicações, envolvendo acréscimos/decréscimos aritméticos
+(e.g., juros simples).</p></li>
+<li><p>S04.H19: modelar e resolver problemas, no contexto da Matemática
+Financeira, relativos a acréscimos, descontos, valores presente e
+futuro, débitos, créditos, poupança, consumo, investimento e outras
+grandezas envolvidas na educação financeira.</p></li>
+</ul></li>
+<li><p>Saber S06: modelar e resolver problemas envolvendo relações
+lineares entre variáveis.</p>
+<ul>
+<li><p>S06.H3: interpretar representações gráficas ou geométricas de
+variáveis (e suas variações) expressas em informações contidas em
+textos, tabelas, gráficos ou outro conjunto de dados.</p></li>
+<li><p>S06.H5: reconhecer os elementos básicos do plano cartesiano, em
+particular eixos coordenados e projeções ortogonais sobre esses
+eixos.</p></li>
+<li><p>S06.H7: localizar pontos na reta numérica e no plano cartesiano,
+associando-os a coordenadas (cartesianas ou polares).</p></li>
+<li><p>S06.H8: descrever movimentos e transformações geométricas do
+plano em termos do efeito sobre as coordenadas de pontos e de elementos
+de figuras geométricas.</p></li>
+<li><p>S06.H9: associar relações de proporcionalidade entre grandezas a
+pontos sobre retas no plano, em particular identificando razões entre
+grandezas proporcionais à inclinação das retas correspondentes.</p></li>
+<li><p>S06.H10: expressar relações lineares entre duas variáveis (ou
+suas variações) em termos de equações lineares.</p></li>
+<li><p>S06.H12: reconhecer ou descrever relações de proporcionalidade
+(linearidade) entre variáveis ou suas variações a partir de modelos,
+tabelas, gráficos e outros conjuntos de informações.</p></li>
+<li><p>S06.H14: resolver uma equação linear com procedimentos corretos e
+justificados (e.g., o método de falsa posição).</p></li>
+<li><p>S06.H15: reconhecer e utilizar representações geométricas de
+(sistemas de) equações lineares em termos de retas no plano e suas
+intersecções.</p></li>
+<li><p>S06.H16: utilizar, com correção e justificativa, procedimentos
+algébricos para solução (de sistemas) de equações lineares a duas
+variáveis (eliminação, substituição, sistemas equivalentes, entre
+outros).</p></li>
+<li><p>S06.H18: identificar e descrever, algébrica ou graficamente,
+relações entre variáveis que são dadas por funções, a partir de modelos,
+tabelas, gráficos e outras representações e modelos dessas
+relações.</p></li>
+<li><p>S06.H19: identificar, em diferentes contextos e via distintos
+suportes (gráficos, figuras, tabelas, etc.), a dependência de uma
+variável como função afim de outra.</p></li>
+<li><p>S06.H22: relacionar funções afins e equações lineares a relações
+de proporcionalidade (linearidade) entre variáveis ou suas variações e
+suas representações gráficas em termos de retas no plano.</p></li>
+<li><p>S06.H23: identificar os parâmetros ou a representação algébrica
+de uma função afim a partir da reta que a representa
+graficamente.</p></li>
+<li><p>S06.H25: associar a declividade e interceptos de uma reta aos
+parâmetros da função afim representada pela reta, e vice-versa.</p></li>
+<li><p>S06.H27: modelar ou resolver problemas, motivados por diferentes
+contextos e aplicações, em termos de (in)equações e sistemas de
+(in)equações lineares.</p></li>
+<li><p>S06.H28: modelar ou resolver problemas, com diferentes motivações
+e contextos, envolvendo (in)equações lineares ou funções afins.</p></li>
+<li><p>S06.H33: identificar a equação de uma reta apresentada a partir
+de dois pontos dados ou de um ponto e sua inclinação.</p></li>
+<li><p>S06.H34: interpretar geometricamente os coeficientes da equação
+de uma reta.</p></li>
+</ul></li>
+<li><p>Saber S07: compreender e medir grandezas geométricas de figuras
+geométricas planas</p>
+<ul>
+<li><p>S07.H3: calcular ou estimar perímetros de figuras geométricas
+gerais por aproximação ou comparação com o perímetro de figuras planas
+elementares, em diversos contextos, aplicações e problemas.</p></li>
+<li><p>S07.H5: resolver problemas, motivados por diferentes modelos,
+contextos e aplicações, envolvendo o cálculo de perímetro de figuras
+planas.</p></li>
+<li><p>S07.H6: compreender a noção de área de figuras planas.</p></li>
+<li><p>S07.H8: calcular ou estimar a área de figuras geométricas planas
+por aproximação ou comparação com áreas de figuras elementares (e.g.,
+quadrados e retângulos), em diversos contextos, problemas e
+aplicações.</p></li>
+<li><p>S07.H10: modelar ou resolver problemas, motivados por diferentes
+contextos e aplicações, envolvendo o cálculo de áreas de figuras
+planas.</p></li>
+<li><p>S07.H12: calcular ou estimar a área de figuras geométricas planas
+utilizando movimentos geométricos e composição, decomposição,
+justaposição, simetrização, entre outros rearranjos dessas
+figuras.</p></li>
+<li><p>S07.H15: expressar as relações entre perímetro e área de figuras
+planas, em particular identificando figuras com mesmo perímetro e
+diferentes áreas, e vice-versa.</p></li>
+<li><p>S07.H16: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, envolvendo perímetro e área de figuras planas e
+as relações entre essas grandezas.</p></li>
+<li><p>S07.H21: descrever a ação de movimentos geométricos (translações,
+rotações, homotetias, reflexões) sobre áreas de figuras planas.</p></li>
+<li><p>S07.H22: relacionar a ação de homotetias a mudanças de escala ou
+de unidades de medida de grandezas geométricas.</p></li>
+</ul></li>
+<li><p>Saber S08: compreender e aplicar, em problemas de diversos
+contextos, relações métricas e razões trigonométricas (em figuras
+geométricas planas.</p>
+<ul>
+<li><p>S08.H1: utilizar, com correção e justificativa, o Teorema de
+Pitágoras, em diversos contextos, aplicações e problemas.</p></li>
+<li><p>S08.H2: relacionar o Teorema de Pitágoras à expressão analítica,
+em coordenadas, da distância entre pontos.</p></li>
+</ul></li>
+<li><p>Saber S09: efetuar operações aritméticas, expressar medidas e
+representar informações com números reais</p>
+<ul>
+<li><p>S09.H4: determinar aproximações de um dado número real por
+números racionais.</p></li>
+<li><p>S09.H9: utilizar aproximações e estimativas para comparar,
+ordenar ou localizar números reais na reta numérica.</p></li>
+<li><p>S09.H10: determinar a localização de números reais na reta
+numérica.</p></li>
+<li><p>S09.H11: ordenar e comparar números reais, com base nas expansões
+decimais ou localizações na reta numérica.</p></li>
+<li><p>S09.H18: reconhecer e descrever padrões e regularidades (e.g.,
+leis de formação, recursividade ou recorrência) em sequências de números
+racionais e reais, em representações aritméticas, algébricas ou
+geométricas.</p></li>
+<li><p>S09.H19: efetuar cálculos aritméticos utilizando as expansões
+decimais de números reais, sejam racionais ou não.</p></li>
+<li><p>S09.H20: modelar e resolver problemas envolvendo as várias
+representações de números reais (expansões decimais, “dízimas”, frações
+contínuas, entre outras)</p></li>
+<li><p>S09.H21: utilizar arredondamentos e estimativas para determinar o
+resultado de operações aritméticas com números reais, em conexão com as
+ideias de erros e algarismos significativos.</p></li>
+<li><p>S09.H24: modelar e resolver problemas, motivados por diferentes
+contextos, envolvendo a expressão de perímetros, áreas ou volumes em
+medidas expressas por números reais.</p></li>
+<li><p>S09.H25: descrever quantitativamente as relações entre medidas de
+perímetro e área ou área e volume sob o efeito de homotetias ou de
+mudanças de unidades de medidas.</p></li>
+<li><p>S09.H28: realizar cálculos aritméticos em notação científica para
+medidas de grandezas, considerando ordens de grandeza, algarismos
+significativos, algarismos duvidosos e erros.</p></li>
+<li><p>S09.H32: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, utilizando unidades de medida padronizadas,
+sobretudo do sistema métrico decimal, em particular para comprimento
+(perímetro), área, volume (capacidade) e massa.</p></li>
+<li><p>S09.H36: modelar e resolver problemas, motivado por diversos
+contextos e aplicações, utilizando unidades de medida para grandezas
+relativas (velocidades, densidades, fluxos, vazões, entre
+outras).</p></li>
+<li><p>S09.H37: modelar e resolver problema envolvendo informações
+numéricas apresentadas em tabelas, gráficos e outros suportes, relativas
+a diversos contextos</p></li>
+<li><p>S09.H38: estabelecer relações entre diferentes unidades de medida
+(físicas, geométricas, monetárias ou de tempo) em problemas motivados
+por diversos contextos e aplicações.</p></li>
+</ul></li>
+<li><p>Saber S10: utilizar modelos e resolver problemas envolvendo
+relações quadráticas e polinomiais entre variáveis</p>
+<ul>
+<li><p>S10.H5: identificar fatores comuns em expressões
+algébricas.</p></li>
+<li><p>S10.H6: reescrever expressões algébricas, utilizando fatores
+comuns e produtos notáveis.</p></li>
+<li><p>S10.H7: elaborar ou reconhecer modelos geométricos dos produtos
+notáveis.</p></li>
+<li><p>S10.H9: modelar e resolver problemas envolvendo simplificação,
+fatoração ou determinação de valores numéricos de expressões
+algébricas.</p></li>
+<li><p>S10.H11: associar um fator linear de uma expressão algébrica
+quadrática (ou polinomial, em geral) a um zero ou raiz.</p></li>
+<li><p>S10.H12: fatorar e simplificar expressões quadráticas
+(polinomiais, em geral).</p></li>
+<li><p>S10.H13: relacionar as raízes de um polinômio quadrático à sua
+decomposição em fatores lineares.</p></li>
+<li><p>S10.H14: efetuar completamento de quadrados em expressões
+quadráticas para determinação das raízes.</p></li>
+<li><p>S10.H15: resolver problema envolvendo equação quadrática (em
+particular, determinação de suas raízes).</p></li>
+<li><p>S10.H16: expressar relações entre coeficientes e raízes de
+equações quadráticas (polinomiais, em geral).</p></li>
+<li><p>S10.H17: expressar, em diversos contextos e aplicações, a
+dependência de uma variável como função quadrática de outra.</p></li>
+<li><p>S10.H18: reconhecer as representações algébricas ou geométricas
+de funções quadráticas.</p></li>
+<li><p>S10.H19: identificar os parâmetros de uma função quadrática em
+termos da parábola que a representa graficamente.</p></li>
+<li><p>S10.H20: determinar raízes, máximos/mínimos e outros elementos
+algébricos e geométricos (convexidade, interceptos, vértice, eixo de
+simetria) a partir da forma estendida ou da forma fatorada de uma função
+quadrática.</p></li>
+<li><p>S10.H22: modelar e resolver problemas, motivados por diferentes
+contextos e aplicações, em termos de funções lineares ou
+quadráticas.</p></li>
+</ul></li>
+<li><p>Saber S15: utilizar ferramentas estatísticas no tratamento da
+informação.</p>
+<ul>
+<li><p>S15.H8: interpretar dados dispostos em tabelas, gráficos,
+diagramas, grafos, textos e outros meios de representação.</p></li>
+<li><p>S15.H20: resolver problema envolvendo informações apresentadas em
+tabelas e/ou gráficos.</p></li>
+<li><p>S15.H21: associar informações apresentadas em listas e/ou tabelas
+simples aos gráficos que as representam, e vice-versa.</p></li>
+<li><p>S15.H23: calcular medidas de tendência central ou de
+dispersão.</p></li>
+<li><p>S15.H24: distinguir as características e finalidades das diversas
+medidas de tendência central ou de dispersão.</p></li>
+<li><p>S15.H26: modelar e resolver problemas envolvendo medidas de
+tendência central, tais como média, moda ou mediana, entre
+outras.</p></li>
+</ul></li>
+</ul>
+<h3 class="unnumbered"
+id="descritores-da-matriz-de-referência-do-spaece-contemplados-no-caderno">Descritores
+da Matriz de Referência do SPAECE contemplados no caderno</h3>
+<ul>
+<li><p>D16: Estabelecer relações entre representações fracionárias e
+decimais dos números racionais.</p></li>
+<li><p>D19: Resolver problema envolvendo juros simples.</p></li>
+<li><p>D20: Resolver problema envolvendo juros compostos.</p></li>
+<li><p>D57: Identificar a localização de pontos no plano
+cartesiano.</p></li>
+<li><p>D28: Reconhecer a representação algébrica ou gráfica da função
+polinomial de 1<span
+class="math inline"><sup><em>c</em><em>i</em><em>r</em><em>c</em></sup></span>
+grau.</p></li>
+<li><p>D55: Determinar uma equação da reta a partir de dois pontos dados
+ou de um ponto e sua inclinação.</p></li>
+<li><p>D58: Interpretar geometricamente os coeficientes da equação de
+uma reta.</p></li>
+<li><p>D64: Resolver problema utilizando as relações entre diferentes
+unidades de medidas, de capacidade e de volume.</p></li>
+<li><p>D65: Calcular o perímetro de figuras planas numa situação
+problema.</p></li>
+<li><p>D67: Resolver problema envolvendo o cálculo de área de figuras
+planas.</p></li>
+<li><p>D24: Fatorar e simplificar expressões algébricas.</p></li>
+<li><p>D40: Relacionar as raízes de um polinômio com sua decomposição em
+fatores do 1<span class="math inline"><sup>∘</sup></span> grau.</p></li>
+<li><p>D76: Associar informações apresentadas em listas e/ ou tabelas
+aos gráficos que as representam, e vice-versa.</p></li>
+<li><p>D78: Resolver problema envolvendo medidas de tendência central:
+média, moda ou mediana.</p></li>
+</ul>

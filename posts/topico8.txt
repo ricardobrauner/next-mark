@@ -1,0 +1,35 @@
+<h2 class="unnumbered"
+id="inserções-curriculares-competência-específica-4">Inserções
+curriculares: competência específica 4</h2>
+<p>Os tópicos enumerados a seguir são objetos de conhecimento (e objetos
+do conhecimentos associados à competência específica 4 no DCRC.
+Estabelecemos, para cada um desses tópicos, a correspondência com os
+percursos descritos anteriormente. A proposta é de que os percursos, no
+que trazem de conhecimentos prévios e de tarefas, possam ser integrados,
+em momentos adequados do planejamento curricular, ao desenvolvimentos
+dos tópicos correspondentes.</p>
+<ol>
+<li><p>Conceitos, usos, procedimentos e contextos envolvendo funções
+afins. <em>Objetos específicos</em>: funções afins: conceitos, notações
+e representações gráficas. Relações entre proporcionalidade e
+linearidade. Reconhecimento da relação entre a proporcionalidade direta
+e funções afins em diversos modelos, contextos e problemas. Funções
+afins e crescimento linear. <em>Percurso correspondente</em>: percurso
+3.</p></li>
+<li><p>Funções quadráticas. <em>Objetos específicos</em>: conceitos,
+notações e representações gráficas. <em>Percurso correspondente</em>:
+percurso 4.</p></li>
+<li><p>Noções fundamentais de funções e suas representações geométricas
+no plano cartesiano. <em>Objetos específicos</em>: relações lineares e
+não lineares: exemplos e contextos geométricos, científicos,
+tecnológicos e cotidianos. Representação geométrica de funções: gráficos
+no plano cartesiano. <em>Percursos correspondentes</em>: percursos 3 e
+4.</p></li>
+<li><p>Métodos, técnicas e ferramentas para organização, representação,
+divulgação, visualização, leitura, interpretação e análise de dados
+estatísticos. <em>Objetos específicos</em>: disposições, representações,
+interpretações e análises de dados em diferentes meios e formatos
+(tabelas, matrizes, gráficos, entre outras representações matriciais ou
+geométricas). <em>Percursos correspondentes</em>: percursos 2, 3 e
+4.</p></li>
+</ol>

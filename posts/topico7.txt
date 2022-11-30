@@ -1,0 +1,51 @@
+<h2 class="unnumbered"
+id="inserções-curriculares-competência-específica-3">Inserções
+curriculares: competência específica 3</h2>
+<p>Os tópicos enumerados a seguir são objetos de conhecimento (e objetos
+do conhecimentos associados à competência específica 3 no DCRC.
+Estabelecemos, para cada um desses tópicos, a correspondência com os
+percursos descritos anteriormente. A proposta é de que os percursos, no
+que trazem de conhecimentos prévios e de tarefas, possam ser integrados,
+em momentos adequados do planejamento curricular, ao desenvolvimentos
+dos tópicos correspondentes.</p>
+<ol>
+<li><p>Conceitos, procedimentos, significados, contextos, aplicações e
+abordagens algébricas e geométricas de matrizes, equações lineares e
+determinantes. <em>Objetos específicos</em>: resolução de sistemas de
+equações lineares. Interpretação geométrica da solução de sistemas
+lineares <span class="math inline">2 × 2</span>. <em>Percurso
+correspondente</em>: percurso 3.</p></li>
+<li><p>Modelos, problemas e aplicações das funções afins e quadráticas
+em diversos contextos e em suas diferentes representações e relações.
+<em>Objetos específicos</em>: problemas envolvendo equações e inequações
+lineares e quadráticas. Modelos cinemáticos e geométricos de funções
+quadráticas: perímetro e área de figuras geométricas em termos de suas
+dimensões lineares; movimentos uniforme e uniformemente acelerados.
+<em>Percurso correspondente</em>: percurso 4.</p></li>
+<li><p>Modelos de crescimento aritmético e crescimento geométrico em
+Matemática Financeira. Acréscimos (decréscimos) simples e crescimento
+linear. Acréscimos (decréscimos) compostos e crescimento exponencial.
+<em>Objetos específicos</em>: porcentagem (aumentos e descontos).
+Relação entre progressões aritméticas e juros simples. Relação entre
+progressões geométricas e juros compostos. Procedimentos práticos para o
+cálculo de juros simples e compostos. Representação gráfica da evolução
+de montantes em regimes de juros simples e de juros compostos:
+comparação de crescimento linear e de crescimento exponencial.
+<em>Percurso correspondente</em>: percurso 3.</p></li>
+<li><p>Medidas e grandezas geométricas em contextos e aplicações
+científicas, tecnológicas e cotidianas. <em>Objeto específico</em>:
+ângulos, perímetros e áreas de figuras planas elementares, tais como
+polígonos e círculos. <em>Percurso corrrespondente</em>: percurso
+4.</p></li>
+<li><p>Razões, proporções e porcentagens na expressão de taxas, índices
+e grandezas. <em>Objetos específicos</em>: grandezas definidas em termos
+de razões e proporções (velocidades, densidades, vazões, fluxos, escalas
+e outras grandezas e variáveis físicas e geométricas). Taxas de variação
+como razões entre grandezas proporcionais. Taxas de variação de
+variáveis em fenômenos naturais, sociais e econômicos. <em>Percursos
+correspondentes</em>: percursos 2 e 3.</p></li>
+<li><p>Estatística Descritiva. <em>Objeto específico</em>: conceitos e
+métodos de cálculo de medidas de tendência central (média, moda e
+mediana) e medidas de dispersão (amplitude, desvio médio, variância e
+desvio padrão). <em>Percursos correspondentes</em>: 2 e 4.</p></li>
+</ol>

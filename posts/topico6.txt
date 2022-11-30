@@ -1,0 +1,20 @@
+<h2 class="unnumbered"
+id="inserções-curriculares-competência-específica-2">Inserções
+curriculares: competência específica 2</h2>
+<p>Os tópicos enumerados a seguir são objetos de conhecimento (e objetos
+do conhecimentos associados à competência específica 2 no DCRC.
+Estabelecemos, para cada um desses tópicos, a correspondência com os
+percursos descritos anteriormente. A proposta é de que os percursos, no
+que trazem de conhecimentos prévios e de tarefas, possam ser integrados,
+em momentos adequados do planejamento curricular, ao desenvolvimentos
+dos tópicos correspondentes.</p>
+<ol>
+<li><p>Geometria e as dimensões lineares, superficiais e volumétricas.
+<em>Objetos específicos</em>: modelos e problemas em contextos
+científicos e cotidianos envolvendo medidas geométricas (perímetros,
+áreas, volumes, massas e densidades; fluxos e vazões). <em>Percurso
+correspondente</em>: percurso 4.</p></li>
+<li><p>Estatística Descritiva. <em>Objeto específico</em>: resolução de
+problema com dados apresentados em tabelas ou gráficos. <em>Percurso
+correspondente</em>: percurso 4.</p></li>
+</ol>

@@ -1,0 +1,44 @@
+<h2 class="unnumbered"
+id="inserções-curriculares-competência-específica-1">Inserções
+curriculares: Competência específica 1</h2>
+<p>Os tópicos enumerados a seguir são objetos de conhecimento (e objetos
+do conhecimentos associados à competência específica 1 no DCRC.
+Estabelecemos, para cada um desses tópicos, a correspondência com os
+percursos descritos anteriormente. A proposta é de que os percursos, no
+que trazem de conhecimentos prévios e de tarefas, possam ser integrados,
+em momentos adequados do planejamento curricular, ao desenvolvimentos
+dos tópicos correspondentes.</p>
+<ol>
+<li><p>Conceitos, usos, significados e procedimentos da aritmética de
+números racionais. Modelos e problemas usando grandezas direta (e
+inversamente) proporcionais. <em>Objetos específicos:</em>
+representações e operações com números racionais em termos de frações,
+números decimais e porcentagens. Taxas e índices de natureza científica
+ou socioeconômica expressas como frações, números decimais ou
+porcentagens. Grandezas direta ou inversamente proporcionais. Regras
+operacionais envolvendo razões e proporções. <em>Percursos
+correspondentes</em>: percursos 1 e 2.</p></li>
+<li><p>Conceitos, usos, significados e procedimentos da Aritmética de
+números reais. Representações geométricas, relações de ordem e
+comparações e aproximações de números reais. Propriedades,
+representações e aplicações das operações aritméticas com números reais.
+<em>Percursos correspondentes</em>: percursos 1 e 2.</p></li>
+<li><p>Sistema de coordenadas no plano. Representações geométricas de
+relações de proporcionalidade no plano cartesiano. <em>Objetos
+específicos</em>: relações de proporcionalidade entre pares de números
+reais. Diferentes representações de relações entre variáveis: tabelas,
+gráficos, expressões algébricas, dentre outras. Representação de dados
+envolvendo pares de variáveis em termos de pontos no plano cartesiano e
+de suas coordenadas. <em>Percursos correspondentes</em>: percursos 2 e
+3.</p></li>
+<li><p>Introdução à Estatística Descritiva. <em>Objetos
+específicos</em>: leitura crítica e interpretativa de dados estatísticos
+e medidas de tendência central e de dispersão. Interpretação e
+construção de gráficos diversos. <em>Percursos correspondentes</em>:
+percursos 2 e 4.</p></li>
+<li><p>Conceitos, significados, usos, grandezas e medidas dos objetos
+geométricos. <em>Objetos específicos</em>: isometrias no plano.
+Congruência de figuras geométricas. Homotetias no plano. Semelhança de
+figuras geométricas. <em>Percurso correspondente</em>: percurso
+4.</p></li>
+</ol>

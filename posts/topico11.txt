@@ -1,0 +1,854 @@
+<h2 class="unnumbered"
+id="algumas-orientações-sobre-soluções-e-rubricas">Algumas orientações
+sobre soluções e rubricas</h2>
+<p>As soluções das tarefas, disponíveis na versão do caderno para
+professores/tutores, são escritas de modo a serem acessíveis mesmo a
+estudantes que tenham severas limitações quanto ao repertório de
+conhecimentos prévios. De fato, o propósito das soluções não é,
+necessariamente, o de que consistam na abordagem mais “elegante” e
+“sintética”. O intuito, na verdade, é o de propiciar ao estudante, uma
+vez que o professor/tutor apresente essa solução, uma apresentação
+auto-contida, sem “saltos” ou “truques” que gerem frustração e o reforço
+de um <em>mindset</em> fixo, reforçando crenças sobre a dificuldade do
+assunto e a suposta incapacidade de superá-la.</p>
+<p>Na outra direção, é de extrema importância observar, de forma
+estruturada e estudada, o comportamento dos alunos na lida com as
+tarefas, tanto do ponto de vista cognitivo quanto emocional e social.
+Para auxiliar a observação e registro dos desenvolvimento e eventuais
+impasses quanto a <em>processos cognitivos</em> demandados pelas
+tarefas, apresentamos, no que segue, uma tabela com
+<span><strong>padrões de desempenho</strong></span> relativos a alguma
+habilidades <em>estruturais</em> trabalhadas em cada percurso. Esses
+padrões são definidos por meio de <em>rubricas</em>, as quais descrevem
+situações plausíveis e frequentes que podem fornecer evidências sobre o
+grau de maturidade em cada habilidade.</p>
+<h3 class="unnumbered"
+id="monitoramento-de-aprendizagens-do-primeiro-percurso">Monitoramento
+de aprendizagens do primeiro percurso</h3>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S02.H26: utilizar procedimentos e
+algoritmos de divisão, corretos e justificados, em particular o
+algoritmo de divisão euclidiano (com restos não nulos, inclusive) em
+suas relações com os algoritmos de adição e multiplicação</td>
+<td style="text-align: left;">O aluno demonstra pouca familiaridade com
+os algoritmos de divisão de números naturais, mesmo quando aplicado a
+divisões exatas. É relevante observar eventuais erros de divisão
+cometidos ao resolver as questões 1, 3, 5 e de 7 a 13.</td>
+<td style="text-align: left;">Embora consiga reproduzir os passos da
+divisão euclidiana, tem dificuldade em justificar os algoritmos; pode,
+ainda, desconhecer como usar múltiplos do divisor para obter boas
+estimativas em cada etapa do algoritmo.</td>
+<td style="text-align: left;">O aluno executa divisões (exatas e com
+restos) com correção e consegue justificar os passos do algoritmo; usa
+aproximações e estimativas para efetuar os cálculos.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S03.H4: compreender a noção de
+equivalência de frações e suas interpretações aritméticas e
+geométricas.</td>
+<td style="text-align: left;">O aluno tem dificuldades conceituais com a
+ideia de que símbolos diferentes, como <span
+class="math inline">$\frac{2}{5}$</span> e <span
+class="math inline">$\frac{4}{10}$</span>, podem representar uma mesma
+quantidade, ou seja, um mesmo número racional; o aluno demonstra não
+conhecer ou não utilizar corretamente os critérios de equivalência de
+frações. Devem ser observadas as respostas dos alunos para as questões
+de 1 a 7.</td>
+<td style="text-align: left;">O aluno utiliza critérios de equivalência
+de frações, como multiplicar ou dividir numerador e denominador por
+fatores iguais, mas revela dificuldade em justificar (geometricamente,
+por exemplo) as razões dessas equivalências. Pode, por exemplo,
+mencionar a necessidade de fixar denominadores comuns, mas sem conseguir
+justificar as razões para isso.</td>
+<td style="text-align: left;">O aluno elabora argumentos (usando barras,
+“pizzas” ou segmentos de reta, por exemplo; ou, ainda, esboça argumentos
+aritméticos com exemplos particulares) para justificar, formal ou
+intuitivamente, os critérios de equivalência de frações, os quais
+demonstra conhecer e utilizar com propriedade.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S03.H7: associar frações a números
+decimais (e reciprocamente) e, em particular, estabelecer a equivalência
+entre porcentagens, frações centesimais e suas representações como
+números decimais.</td>
+<td style="text-align: left;">O aluno demonstra dificuldade em
+estabelecer equivalências entre frações e suas representações decimais
+(e centesimais, em termos de porcentagens), mesmo em exemplos mais
+imediatos, como <span class="math inline">$\frac{3}{4} = \frac{75}{100}
+= 0,75 = 75\%$</span>. Pode, ainda, ter dificuldades de compreensão
+quanto ao sistema posicional decimal, como em entender o papel do
+algarismo 0, da posição relativas dos algarismos e o uso da vírgula.
+Devem ser observadas as respostas dos alunos às questões 2, 3, 7, 11 e
+12, por exemplo.</td>
+<td style="text-align: left;">O aluno estabelece equivalências entre
+várias representações, recorrendo a procedimentos usuais; no entanto, ou
+mostra limitações em justificar os procedimentos utilizados ou comete
+erros que revelam lacunas conceituais.</td>
+<td style="text-align: left;">O aluno estabelece, corretamente,
+equivalências entre diversas representações de um número racional,
+justificando os procedimentos que utiliza.</td>
+</tr>
+</tbody>
+</table>
+<h3 class="unnumbered"
+id="expectativa-de-aprendizagens-do-segundo-percurso">Expectativa de
+aprendizagens do segundo percurso</h3>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S03.H25: modelar e resolver problemas,
+motivados por diferentes contextos e com recurso a diferentes
+procedimentos, envolvendo operações entre números racionais, em suas
+representações fracionárias ou decimais</td>
+<td style="text-align: left;">O aluno tem dificuldades em efetuar
+operações com frações ou números decimais, especialmente nos casos que
+exigem o uso de equivalência de frações ou equivalência entre diferentes
+representações dos números racionais. Deve ser observado, em particular,
+que procedimentos o aluno utiliza na adição de frações com denominadores
+diferentes (o que pode revelar lacunas de conhecimento quanto a
+múltiplos e divisores comuns); na divisão de frações; e nas operações
+com os números decimais (neste último caso, é relevante obter alguma
+evidência sobre os conhecimentos do aluno acerca do sistema posicional
+decimal).</td>
+<td style="text-align: left;">O aluno usa algoritmos de soma,
+multiplicação e divisão de frações e de números decimais com correção,
+embora tenha algumas dificuldade em modelar os problemas em termos de
+operações aritméticas, especialmente quando envolvem porcentagens. Pode
+ser relevante observar o trabalho do aluno ao tentar resolver questões
+como na sequência de 23 a 28.</td>
+<td style="text-align: left;">O aluno consegue modelar os problemas,
+mesmo os que envolvem porcentagens, em termos de operações aritméticas
+com frações ou números decimais; além disso, efetua corretamente essas
+operações. Por exemplo, contextos como o da questão 28 não são
+explícitos com relação a que percentuais devem ser calculados e, assim,
+exigem um esforço adicional de modelagem e, portanto, necessitam de um
+repertório de conhecimentos bastante consolidado, que possa ser
+rearranjado de modo criativo para modelar o problema.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S04.H2: expressar proporcionalidade em
+termos de frações equivalentes.</td>
+<td style="text-align: left;">O aluno tem dificuldades conceituais com a
+noção de proporcionalidade, que podem ser evidenciadas nas respostas às
+questões 38 a 41; 44, 46, 58 a 60, por exemplo.</td>
+<td style="text-align: left;">O aluno conhece os critérios de
+equivalência de frações mas não os associa à noção de proporcionalidade
+entre numeradores e denominadores.</td>
+<td style="text-align: left;">O aluno compreende que os critérios de
+equivalência de frações podem ser interpretados como relações de
+proporcionalidade entre numeradores e denominadores; reciprocamente,
+percebe que uma relação de proporcionalidade pode ser expressa como
+equivalência entre frações, a qual expressa uma razão constante entre
+grandezas inteiras.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S04.H3: relacionar números racionais a
+razões entre grandezas ou entre suas variações, expressando, em
+particular, a taxa de variação (percentual) entre essas grandezas.</td>
+<td style="text-align: left;">O aluno tem dificuldades em estabelecer
+equivalências entre as diversas representações de números racionais;
+essas lacunas em conhecimentos prévios comprometem seu entendimento da
+noção de razão ou da representação decimal da fração que expressa uma
+razão, por exemplo.</td>
+<td style="text-align: left;">O aluno estabelece equivalências entre as
+representações de um dado número racional, mas tem limitações em
+compreender equivalências como em <span class="math inline">$\frac{2}{5}
+= \frac{4}{10} = \frac{40}{100}$</span> como expressão de uma razão
+constante entre as grandezas nos numeradores e as grandezas nos
+denominadores. É relevante observar a qualidade das respostas às
+questões 42, 43, 54; 55 a 57.</td>
+<td style="text-align: left;">O aluno compreende que razões ou taxas de
+variação constante entre valores de duas variáveis inteiras podem ser
+expressas pela igualdade entre frações equivalentes e, portanto, serem
+representadas por números racionais, em suas formas fracionárias ou
+decimais ou, ainda, expressas por porcentagens ou taxas de variação
+percentuais, quando for o caso.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S04.H8: modelar e resolver problemas,
+motivados por diferentes contextos e aplicações, que envolvam a variação
+proporcional entre grandezas direta ou inversamente proporcionais.</td>
+<td style="text-align: left;">Mesmo em questões como a 46, o aluno
+revela dificuldades em modelar a taxa de variação entre as grandezas,
+que variam proporcionalmente uma a outra, em termos de uma
+razão/fração.</td>
+<td style="text-align: left;">O aluno tem facilidade em questões como a
+46, que não requerem interpretar o contexto, mas tão-somente reconhecer
+a relação de proporcionalidade e expressá-la como uma razão/fração; no
+entanto, demonstra limitações em modelar situações menos imediatas, como
+na questão 47.</td>
+<td style="text-align: left;">O aluno consegue modelar adequadamente
+problemas, relativos a vários contextos (por exemplo, como nas questões
+39 a 45), em termos de razões e proporções, mesmo cometendo alguns erros
+conceituais ou procedimentais.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S04.H9: resolver problemas que envolvam
+porcentagens, motivados por diferentes contextos e aplicações.</td>
+<td style="text-align: left;">O aluno demonstra não compreender
+porcentagens como representações de números racionais e, a partir dessa
+compreensão, modelar o problema em termos de operações com porcentagens
+(ou frações e números decimais, equivalentemente).</td>
+<td style="text-align: left;">O aluno compreende a noção de porcentagem,
+efetua cálculos e estabelece correspondências entre representações de
+números racionais; todavia, tem limitações em interpretar os contextos
+dos problemas e em formulá-los em termos de porcentagens.</td>
+<td style="text-align: left;">O aluno domina o repertório sobre
+porcentagens e modela adequadamente os problemas em ternos dessa
+linguagem (verificar, por exemplo, o desempenho em problemas como 42,
+43, 45 e 55 a 57)</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S04.H10: modelar e resolver problemas,
+utilizando procedimentos corretos e justificados, que envolvam duas ou
+mais grandezas direta ou inversamente proporcionais (e.g., divisão em
+partes proporcionais).</td>
+<td style="text-align: left;">O aluno necessita do apoio direto do tutor
+tanto para modelar o problema quanto para efetuar os cálculos com razões
+e proporções necessários para sua resolução. Com respeito a esta
+habilidade, observar o desempenho nas questões de 78 a 85.</td>
+<td style="text-align: left;">O aluno tem dificuldade na modelagem do
+problema, no que necessita do apoio do tutor; uma vez modelado o
+problema em termos de relações de proporcionalidade, emprega
+procedimentos aritméticos com correção; possivelmente, tem alguma
+dificuldade em justificá-los com base na equivalência de frações ou
+argumentos geométricos, por exemplo.</td>
+<td style="text-align: left;">O aluno, de forma autônoma, modela
+adequadamente o problema e efetua os principais passos em sua resolução,
+usando conceitos e técnicas de razões e proporções, eventualmente com
+algum suporte do monitor. Por exemplo, o aluno emprega e justifica
+corretamente propriedades operatórias de proporções, como em problemas
+envolvendo “regras de três”.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S04.H14: modelar e resolver problemas que
+envolvam grandezas relativas, como velocidades, densidades, fluxos,
+vazões e outras taxas de variação entre grandezas, motivadas por
+diversos contextos e aplicações.</td>
+<td style="text-align: left;">O aluno necessita da assistência do tutor
+para compreender os contextos e, com isso, modelar o problema em termos
+de razões e proporções; além disso, revela dificuldades nas operações
+aritméticas necessárias para a resolução. A respeito desta habilidade,
+observar o desempenho em questões como 47 a 53, 61, 78, 83, 71, 77 e
+84.</td>
+<td style="text-align: left;">O aluno tem algumas dificuldades (e as
+supera com alguma ajuda pontual do tutor) em modelar os problemas, a
+partir dos contextos dados, em termos de razões e proporções; efetua os
+cálculos com correção, embora demonstre algumas falhas conceituais em
+justificar os procedimentos realizados.</td>
+<td style="text-align: left;">O aluno modela adequadamente os problemas,
+efetua os cálculos com correção e justificativas e elabora
+interpretações sobre a solução obtida.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S04.H16: identificar relações de
+proporcionalidade em contextos e problemas que envolvam acréscimos
+simples ou, equivalentemente, progressão aritmética de uma
+variável.</td>
+<td style="text-align: left;">O aluno tem dificuldades em compreender os
+contextos e, com isso, em modelar o problema em termos de relações de
+proporcionalidade; além disso, comete erros nas operações aritméticas
+necessárias para a resolução, como no manuseio com porcentagens e
+números decimais.</td>
+<td style="text-align: left;">O aluno tem algumas dificuldades (e as
+supera com alguma ajuda pontual do tutor) em modelar os problemas, a
+partir dos contextos dados, em termos de operações com porcentagens e
+números decimais; efetua os cálculos com correção, embora demonstre
+algumas falhas conceituais em justificar os procedimentos
+realizados.</td>
+<td style="text-align: left;">O aluno modela adequadamente os problemas,
+efetua os cálculos com correção e justificativas e elabora
+interpretações sobre a solução obtida. A respeito desta habilidade,
+observar o desempenho em questões como 62 a 65 e 72 e 76.</td>
+</tr>
+</tbody>
+</table>
+<h3 class="unnumbered"
+id="expectativa-de-aprendizagens-do-terceiro-percurso">Expectativa de
+aprendizagens do terceiro percurso</h3>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S06.H7: localizar pontos na reta numérica
+e no plano cartesiano, associando-os a coordenadas (cartesianas ou
+polares).</td>
+<td style="text-align: left;">O aluno comete erros na correspondência
+entre pontos no plano e pares de coordenadas, mesmo quando estas são
+dadas por números naturais ou inteiros</td>
+<td style="text-align: left;">O aluno comete erros na correspondência
+entre pontos no plano e pares de coordenadas, sobretudo quando estas são
+dadas por números racionais não-inteiros. Observar, a propósito, o
+desempenho do aluno nas questões 95 a 98, 106, 120, 124, 127 e 128.</td>
+<td style="text-align: left;">O aluno associa, com correção, pontos no
+plano a pares de coordenadas, usando aproximações, por exemplo, para
+localizar coordenadas racionais, não-inteiras, nos eixos horizontal e
+vertical.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S06.H9: associar relações de
+proporcionalidade entre grandezas a pontos sobre retas no plano, em
+particular identificando razões entre grandezas proporcionais à
+inclinação das retas correspondentes.</td>
+<td style="text-align: left;">O aluno demonstra limitações em, ao menos,
+uma das seguintes operações: a) identificar coordenadas de pontos sobre
+a reta em questão; b) identificadas essas coordenadas, definir
+adequadamente a taxa de variação; c) escrever a equação linear ou a
+função afim entre as variáveis, dada a taxa de variação. Convém observar
+o desempenho do aluno em questões como 88 a 90; 91 a 94; e 99 a 104, por
+exemplo.</td>
+<td style="text-align: left;">O aluno identifica corretamente as
+coordenadas de pontos na reta; calcula corretamente a declividade como
+taxa de variação entre os valores das coordenadas; no entanto, tem
+dificuldades para escrever, em termos algébricos, a equação linear ou
+função afim representada pela reta; pode, ainda, não conseguir traçar a
+reta dado um de seus pontos e sua declividade (ou dois de seus
+pontos).</td>
+<td style="text-align: left;">O aluno identifica corretamente as
+coordenadas de pontos na reta; calcula corretamente a declividade como
+taxa de variação entre os valores das coordenadas; por fim, consegue
+escrever, em termos algébricos, a equação linear ou função afim
+representada pela reta a partir das figuras e dos cálculos. Consegue,
+ainda, traçar a reta dado um de seus pontos e sua declividade (ou dois
+de seus pontos)</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S06.H22: relacionar funções afins e
+equações lineares a relações de proporcionalidade (linearidade) entre
+variáveis ou suas variações e suas representações gráficas em termos de
+retas no plano/S06.H25: associar a declividade e interceptos de uma reta
+aos parâmetros da função afim representada pela reta, e vice-versa.</td>
+<td style="text-align: left;">O aluno apresenta dificuldades quanto a
+conhecimentos prévios relativos, ao menos, a um dos seguintes tópicos:
+a) taxas de variação (e sua expressão como razões/frações); b)
+correspondência entre pontos do plano e pares de coordenadas; c)
+expressões algébricas descrevendo relações lineares entre variáveis. Por
+conta disso, não consegue proceder mesmo com as etapas iniciais das
+tarefas. Deve ser observado o desempenho do aluno nas questões 86 a 94;
+99 a 111; 115 a 117; 121 a 123.</td>
+<td style="text-align: left;">O aluno consegue determinar declividade e
+interceptos das retas a partir das figuras no plano cartesiano; no
+entanto, apresenta dificuldades em escrever as expressões algébricas das
+funções afins descrevendo a relação linear entre as variáveis. Outra
+possibilidade é de que consiga relacionar o coeficiente angular da
+função afim à taxa de variação entre as (variações das) variáveis, mas
+não seja apto em representar ou reconhecer a representação geométrica da
+função afim.</td>
+<td style="text-align: left;">O aluno consegue determinar a taxa de
+variação e associá-la ao coeficiente angular da função afim; além disso,
+partindo da expressão algébrica, interpreta geometricamente os
+coeficientes da função afim em termos de declividade e de interceptos da
+reta correspondente no plano cartesiano.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S06.H15: reconhecer e utilizar
+representações geométricas de (sistemas de) equações lineares em termos
+de retas no plano e suas intersecções.</td>
+<td style="text-align: left;">O aluno apresenta dificuldades quanto a
+conhecimentos prévios relativos às equações lineares descrevendo
+relações lineares entre variáveis. Por exemplo, tem dúvidas quanto à
+interpretação geométrica dos coeficientes da equação. Deve ser observado
+o desempenho do aluno nas questões 147 a 151.</td>
+<td style="text-align: left;">O aluno interpreta geometricamente os
+coeficientes das equações, mas tem dificuldades em aplicar esse
+conhecimento para definir critérios de existência e unicidade de
+soluções (por exemplo, em compreender que declividades iguais e
+interceptos verticais diferentes implicam não existência de
+soluções).</td>
+<td style="text-align: left;">O aluno relaciona corretamente os
+coeficientes das equações a informações geométricas sobre as retas
+representadas; além disso, utiliza essas informações para decidir sobre
+a existência e unicidade de soluções (por exemplo, interpretação
+geométrica do critério de determinante não-nulo da matriz de
+coeficientes das equações).</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S06.H16: utilizar, com correção e
+justificativa, procedimentos algébricos para solução (de sistemas) de
+equações lineares a duas variáveis (eliminação, substituição, sistemas
+equivalentes, entre outros).</td>
+<td style="text-align: left;">O aluno tem dificuldades nas manipulações
+aritméticas ou algébricas envolvendo equações lineares, revelando
+lacunas em conhecimentos prévios.</td>
+<td style="text-align: left;">O aluno utiliza procedimentos como
+eliminação ou substituição na resolução de sistemas lineares; no
+entanto, comete erros conceituais ou não justifica adequadamente por que
+esses procedimentos preservam o conjunto de soluções das equações.</td>
+<td style="text-align: left;">O aluno efetua e justifica corretamente o
+uso de técnicas como eliminação ou substituição (ou, ainda, a “regra de
+Cramer”) na resolução de sistemas lineares.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S06.H28: modelar ou resolver problemas,
+com diferentes motivações e contextos, envolvendo (in)equações lineares
+ou funções afins.</td>
+<td style="text-align: left;">O aluno apresenta lacunas em conhecimentos
+prévios sobre equações lineares ou funções afins (por exemplo, suas
+representações geométricas; a interpretação geométrica de seus
+coeficientes; a determinação de coordenadas dos pontos na reta
+representada pela equação ou função; entre outros).</td>
+<td style="text-align: left;">O aluno domina os conhecimentos prévios
+necessários mas tem dificuldade em modelar algebricamente os problemas
+postos.</td>
+<td style="text-align: left;">O aluno modela algebricamente os problemas
+e os resolve corretamente com o uso de um repertório consolidado sobre
+equações lineares. Cabe observar o desempenho do aluno nas questões de
+141 a 146.</td>
+</tr>
+</tbody>
+</table>
+<h3 class="unnumbered"
+id="expectativa-de-aprendizagens-do-quarto-percurso">Expectativa de
+aprendizagens do quarto percurso</h3>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S07.H12: calcular ou estimar a área de
+figuras geométricas planas utilizando movimentos geométricos e
+composição, decomposição, justaposição, simetrização, entre outros
+rearranjos dessas figuras.</td>
+<td style="text-align: left;">O aluno não identifica formas geométricas
+elementares (por exemplo, quadrados, retângulos, paralelogramos) em que
+uma figura pode ser decomposta; ou, ainda, não compreende a invariância
+da área por movimentos rígidos; pode, ainda, ter dificuldades
+conceituais sobre a aditividade das áreas de regiões disjuntas em que
+uma figura é decomposta.</td>
+<td style="text-align: left;">O aluno reconhece formas geométricas
+elementares (quadrados, retângulos, paralelogramos) em que uma figura é
+decomposta; conhece fórmulas para áreas dessas figuras elementares; no
+entanto, não compreende a invariância da área por movimentos rígidos ou,
+ainda, pode ter dificuldades conceituais sobre.a aditividade das áreas
+de regiões disjuntas em que uma figura é decomposta.</td>
+<td style="text-align: left;">O aluno identifica formas de decompor uma
+figura em figuras elementares das quais conhece fórmulas das áreas; usa,
+quando necessário, movimentos rígidos e decomposições da figuras em
+partes disjuntas para o cálculo da área total a partir da área das
+partes. Deve ser observado o desempenho do aluno nas questões 153, 160,
+161, 167 e 168, por exemplo.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S07.H16: modelar e resolver problemas,
+motivados por diferentes contextos e aplicações, envolvendo perímetro e
+área de figuras planas e as relações entre essas grandezas.</td>
+<td style="text-align: left;">O aluno desconhece fatos básicos sobre
+perímetro e área de figuras planas elementares (triângulos, retângulos,
+paralelogramos). Convém observar as respostas dos alunos a questões como
+154 a 159 e 162 a 170.</td>
+<td style="text-align: left;">O aluno conhece fatos básicos sobre
+perímetros e áreas de figuras elementares, mas tem dificuldades em
+aplicá-los para modelar adequadamente os problemas propostos.</td>
+<td style="text-align: left;">O aluno mobiliza conhecimentos básicos
+sobre perímetros e áreas de figuras elementares para modelar e resolver
+problemas em contextos geométricos e físicos.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S10.H6: reescrever expressões algébricas,
+utilizando fatores comuns e produtos notáveis.</td>
+<td style="text-align: left;">O aluno tem dificuldades em manusear a
+linguagem algébrica e, em particular, compreender como somar e
+multiplicar expressões polinomiais quadráticas.</td>
+<td style="text-align: left;">O aluno demonstra algum conhecimento sobre
+operações com expressões algébricas quadráticas, mas comete erros na
+identificação de fatores comuns ou no reconhecimento de produtos
+notáveis.</td>
+<td style="text-align: left;">O aluno manipula expressões algébricas com
+correção e destreza e, em particular, realiza fatorações e reconhece
+produtos notáveis.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S10.H16: expressar relações entre
+coeficientes e raízes de equações quadráticas (polinomiais, em
+geral).</td>
+<td style="text-align: left;">O aluno não possui conhecimentos prévios
+consolidados sobre raízes de equações quadráticas e suas relações com os
+coeficientes das equações.</td>
+<td style="text-align: left;">O aluno recupera conhecimentos prévios
+sobre raízes e relações com os coeficientes; no entanto, comete erros
+conceituais ou tem dificuldades em justificar relações como a que
+determina a soma das raízes ou mesmo a expressão das raízes em termos
+dos coeficientes.</td>
+<td style="text-align: left;">O aluno conhece relações entre raízes e
+coeficientes, consegue deduzi-las e as aplica com correção na resolução
+dos problemas. Deve ser avaliado, a este propósito, o desempenho do
+aluno nas questões 170 a 177.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S10.H18: reconhecer as representações
+algébricas ou geométricas de funções quadráticas.</td>
+<td style="text-align: left;">O aluno tem dificuldades com a linguagem
+algébrica sobre equações e funções quadráticas; ou, ainda, com o uso do
+plano e das coordenadas cartesianas na representação gráfica dessas
+equações ou funções.</td>
+<td style="text-align: left;">O aluno conhece o significado das
+expressões algébricas de equações e funções quadráticas, mas revela
+dificuldades na representação geométrica dessas equações ou funções.
+Deve ser observada a resposta do aluno às questões 172 e 174.</td>
+<td style="text-align: left;">O aluno conhece o significado de equações
+e funções quadráticas, expressas algebricamente; além disso, as associa
+corretamente a suas representações geométricas em gráficos no plano
+cartesiano.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S10.H22: modelar e resolver problemas,
+motivados por diferentes contextos e aplicações, em termos de funções
+lineares ou quadráticas..</td>
+<td style="text-align: left;">O aluno demonstra dificuldades em
+identificar ou em interpretar geometricamente os coeficientes de uma
+função quadrática; além disso, desconhece as relações entre esses
+coeficientes e as raízes, interceptos, vértices e máximos/mínimos da
+função. .</td>
+<td style="text-align: left;">O aluno identifica e representa
+geometricamente os coeficientes de uma função quadrática, os associando
+a raízes, interceptos e máximos/mínimos; no entanto, tem dificuldades em
+modelar problemas em termos desses elementos algébricos e
+geométricos.</td>
+<td style="text-align: left;">O aluno conhece e interpreta as relações
+entre elementos algébricos e representações geométricas das funções
+quadrática; além disso, utiliza esse conhecimento para modelar e
+resolver, corretamente, os problemas propostos em questões como 171 e
+173 a 177, por exemplo.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S15.H21: associar informações apresentadas
+em listas e/ou tabelas simples aos gráficos que as representam, e
+vice-versa.</td>
+<td style="text-align: left;">O aluno demonstra dificuldades na leitura
+e interpretação das tabelas ou dos gráficos de setores ou de
+barras.</td>
+<td style="text-align: left;">O aluno lê e interpreta adequadamente os
+dados expostos em tabelas ou gráficos; no entanto, tem dificuldades em
+transpor os dados de gráficos para tabelas, ou vice-versa.</td>
+<td style="text-align: left;">O aluno lê e interpreta adequadamente
+dados em tabelas ou gráficos e consegue associar, corretamente, tabelas
+a gráficos, e vice-versa. Convém observar o trabalho dos alunos com as
+questões de 178 a 186.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th
+style="text-align: left;"><span><strong>Habilidade</strong></span></th>
+<th style="text-align: left;">  Desempenho insuficiente</th>
+<th style="text-align: left;">  Desempenho parcialmente suficiente</th>
+<th style="text-align: left;">   Desempenho suficiente</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">S15.H26: modelar e resolver problemas
+envolvendo medidas de tendência central, tais como média, moda ou
+mediana, entre outras.</td>
+<td style="text-align: left;">O aluno tem dificuldades aritméticas no
+cálculo de médias e de outras medidas de tendência central.</td>
+<td style="text-align: left;">O aluno calcula corretamente médias e
+outras medidas; todavia, tem dificuldades em modelar problemas que
+envolvem essas médias, como é o caso das questões de 187 a 193.</td>
+<td style="text-align: left;">O aluno modela os problemas com
+propriedade, calcula corretamente e interpreta as medidas de tendências
+central.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<h1
+id="percursos-de-recomposição-de-aprendizagem-em-matemática">Percursos
+de Recomposição de Aprendizagem em Matemática</h1>

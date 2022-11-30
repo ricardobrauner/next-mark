@@ -1,0 +1,64 @@
+<h2 class="unnumbered"
+id="resumo-esquemático-de-percursos-sugeridos">Resumo esquemático de
+percursos sugeridos</h2>
+<p>A seguinte tabela apresenta, de modo esquemático e abreviado, algumas
+sugestões de escolhas de tarefas para os diferentes percursos,
+selecionadas tendo em conta os padrões de desempenho dos quartis de
+alunos conforme as proficiências mensuradas na Avaliação Diagnóstica
+2022.1.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><span><strong>Percurso/Grupo de
+alunos</strong></span></th>
+<th style="text-align: left;">  <span><strong>Grupo
+1</strong></span></th>
+<th style="text-align: left;">  <span><strong>Grupo
+2</strong></span></th>
+<th style="text-align: left;">  <span><strong>Grupo
+3</strong></span></th>
+<th style="text-align: left;">   <span><strong>Grupo
+4</strong></span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Primeiro</td>
+<td style="text-align: left;">Questões 1 a 22</td>
+<td style="text-align: left;">Questões 14 a 22</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Segundo</td>
+<td style="text-align: left;">Questões 23 a 33</td>
+<td style="text-align: left;">Questões 23 a 45</td>
+<td style="text-align: left;">Questões 31 a 49</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Segundo (aprofundamento)/Terceiro
+(embasamento)</td>
+<td style="text-align: left;">Questões 54 a 67</td>
+<td style="text-align: left;">Questões 54 a 67</td>
+<td style="text-align: left;">Questões 54 a 85</td>
+<td style="text-align: left;">Questões 54 a 85</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Terceiro</td>
+<td style="text-align: left;">Questões 86 a 111</td>
+<td style="text-align: left;">Questões 86 a 138</td>
+<td style="text-align: left;">Questões 86 a 149</td>
+<td style="text-align: left;">Questões 86 a 152</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Quarto</td>
+<td style="text-align: left;">Questões 178 a 193</td>
+<td style="text-align: left;">Questões 153 a 168 e questões 178 a
+193</td>
+<td style="text-align: left;">Questões 153 a 172 e questões 178 a
+193</td>
+<td style="text-align: left;">Questões 153 a 193</td>
+</tr>
+</tbody>
+</table>

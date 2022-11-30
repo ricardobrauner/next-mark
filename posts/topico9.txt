@@ -1,0 +1,48 @@
+<h2 class="unnumbered"
+id="inserções-curriculares-competência-específica-5">Inserções
+curriculares: competência específica 5</h2>
+<p>Os tópicos enumerados a seguir são objetos de conhecimento (e objetos
+do conhecimentos associados à competência específica 5 no DCRC.
+Estabelecemos, para cada um desses tópicos, a correspondência com os
+percursos descritos anteriormente. A proposta é de que os percursos, no
+que trazem de conhecimentos prévios e de tarefas, possam ser integrados,
+em momentos adequados do planejamento curricular, ao desenvolvimentos
+dos tópicos correspondentes.</p>
+<ol>
+<li><p>Relações entre representações algébricas e geométricas de funções
+afins. <em>Objetos específicos</em>: representação gráfica de uma função
+afim em termos de retas no plano cartesiano e lugares geométricos dados
+por equações lineares. Interpretação dos coeficientes linear e angular
+na expressão matemática de uma função afim. Modelos e problemas
+envolvendo funções afins. <em>Percurso correspondente</em>: percurso
+3.</p></li>
+<li><p>Representações algébricas e geométricas das funções quadráticas.
+<em>Objetos específicos</em>: interpretação dos coeficientes de uma
+função quadrática. Relação entre os coeficientes e os elementos
+geométricos do gráfico de uma função quadrática (vértice, concavidade,
+eixos de simetria, entre outros). Modelos envolvendo equações e
+inequações quadráticas. <em>Percurso correspondente</em>: percurso
+4.</p></li>
+<li><p>Máximos e mínimos e elementos geométricos na representação
+gráfica de funções quadráticas. <em>Objetos específicos</em>: problemas
+de otimização envolvendo funções afins e quadráticas. Interpretação
+geométrica de problemas de máximos e mínimos em termos de gráficos de
+funções quadráticas. <em>Percurso correspondente</em>: percurso
+4.</p></li>
+<li><p>Simetrias, transformações e medidas geométricas. <em>Percurso
+correspondente</em>: percurso 4.</p></li>
+<li><p>Distinções entre crescimento linear e crescimento quadrático:
+interpretações geométricas de expressões quadráticas. <em>Objetos
+específicos</em>: modelos geométricos de funções quadráticas; perímetro
+e área de figuras geométricas em termos de suas dimensões lineares.
+Expressões algébricas relacionadas a perímetros e áreas de polígonos
+regulares e círculos. Interpretação geométrica de expressões algébricas
+quadráticas. <em>Percurso correspondente</em>: percurso 4.</p></li>
+<li><p>Conceitos e contextos envolvendo sequências aritméticas.
+<em>Objetos específicos</em>: sequências: definições básicas e notações.
+Lei de formação e lei de recorrência. Progressões aritméticas:
+determinação de seus elementos (termo geral, razão, médias e meios
+aritméticos, soma dos termos). Relações entre proporções, funções afins
+e progressões aritméticas. <em>Percurso correspondente</em>: percurso
+3.</p></li>
+</ol>

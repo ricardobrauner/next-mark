@@ -1,0 +1,3268 @@
+<h2 id="equações-lineares-e-funções-afins">Equações lineares e funções
+afins</h2>
+<p>Nesta seção, avançamos da revisão que fizemos sobre frações, números
+decimais, porcentagens, razões e proporções para o estudo das equações
+lineares e das funções afins. Esses são temas que dependem dos
+conhecimentos que revisamos e que são trabalhados em todo o Ensino
+Médio. Os descritores, na matriz do SPAECE, associados a esses temas,
+são o D28, D55 e D58.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.86</strong>. <em>A tabela abaixo mostra valores de
+duas variáveis, <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, diretamente proporcionais uma a
+outra:</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><em><span
+class="math inline"><em>x</em></span>  </em></th>
+<th style="text-align: center;"><em>  1  </em></th>
+<th style="text-align: center;"><em>   2  </em></th>
+<th style="text-align: center;"><em>   3  </em></th>
+<th style="text-align: center;"><em>   4   </em></th>
+<th style="text-align: center;"><em>   5   </em></th>
+<th style="text-align: center;"><em>  6  </em></th>
+<th style="text-align: center;"><em>   7   </em></th>
+<th style="text-align: center;"><em>   8</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><em><span
+class="math inline"><em>y</em></span>  </em></td>
+<td style="text-align: center;"><em>   1/2   </em></td>
+<td style="text-align: center;"><em>   1  </em></td>
+<td style="text-align: center;"><em>   3/2   </em></td>
+<td style="text-align: center;"><em>   2   </em></td>
+<td style="text-align: center;"><em>  5/2  </em></td>
+<td style="text-align: center;"><em>   3   </em></td>
+<td style="text-align: center;"><em>   7/2   </em></td>
+<td style="text-align: center;"><em>   4</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>A variável <span class="math inline"><em>y</em></span> é função
+da variável <span class="math inline"><em>x</em></span> de acordo com a
+seguinte expressão <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em></span>. Qual o
+valor do coeficiente <span
+class="math inline"><em>a</em></span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em>2</em></p></li>
+<li><p><em>1</em></p></li>
+<li><p><em>1/2</em></p></li>
+<li><p><em>1/4</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.87</strong>. <em>A tabela abaixo mostra valores de
+duas variáveis, <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>:</em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><em><span
+class="math inline"><em>x</em></span>  </em></th>
+<th style="text-align: center;"><em>  1  </em></th>
+<th style="text-align: center;"><em>   2  </em></th>
+<th style="text-align: center;"><em>   3  </em></th>
+<th style="text-align: center;"><em>   4   </em></th>
+<th style="text-align: center;"><em>   5   </em></th>
+<th style="text-align: center;"><em>  6  </em></th>
+<th style="text-align: center;"><em>   7   </em></th>
+<th style="text-align: center;"><em>   8</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><em><span
+class="math inline"><em>y</em></span>  </em></td>
+<td style="text-align: center;"><em>   3/2   </em></td>
+<td style="text-align: center;"><em>   2  </em></td>
+<td style="text-align: center;"><em>   5/2   </em></td>
+<td style="text-align: center;"><em>   3   </em></td>
+<td style="text-align: center;"><em>  7/2  </em></td>
+<td style="text-align: center;"><em>   4   </em></td>
+<td style="text-align: center;"><em>   9/2   </em></td>
+<td style="text-align: center;"><em>   5</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>As <em>variações</em> de <span
+class="math inline"><em>y</em></span> são diretamente proporcionais às
+<em>variações</em> correspondentes de <span
+class="math inline"><em>x</em></span>. A variável <span
+class="math inline"><em>y</em></span> é função da variável <span
+class="math inline"><em>x</em></span> de acordo com a seguinte expressão
+<span
+class="math inline"><em>y</em> = <em>a</em><em>x</em> + <em>b</em></span>.
+Quais os valores dos coeficientes <span
+class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>a</em> = 1/2</span> e <span
+class="math inline"><em>b</em> = 1</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 1</span> e <span
+class="math inline"><em>b</em> = 1/2</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 1/2</span> e <span
+class="math inline"><em>b</em> = 0</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 1</span> e <span
+class="math inline"><em>b</em> = 3/2</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Dada a variação, por exemplo, de <span
+class="math inline"><em>x</em> = 1</span> para <span
+class="math inline"><em>x</em> = 2</span>, a variação correspondente de
+<span class="math inline"><em>y</em></span> é de <span
+class="math inline"><em>y</em> = 3/2</span> para <span
+class="math inline"><em>y</em> = 2</span>. Assim, <span
+class="math display">$$a = \frac{\mbox{ variação de }y}{\mbox{variação
+de } x} = \frac{2-\frac{3}{2}}{2-1} = \frac{1}{2}\cdot$$</span>
+Concluímos que, dados valores correspondentes de <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, temos <span
+class="math display">$$\frac{y-\frac{3}{2}}{x-1} =
+\frac{1}{2}\cdot$$</span> Logo, a expressão de <span
+class="math inline"><em>y</em></span> como função afim de <span
+class="math inline"><em>x</em></span> pode ser escrita como <span
+class="math display">$$y - \frac{3}{2} = \frac{1}{2}(x-1),$$</span> ou
+seja, <span class="math display">$$y = \frac{1}{2}x + 1.$$</span> A
+alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div id="gr-afim-1" class="questaoT">
+<p><strong>Questão 1.88</strong>. <em>O gráfico abaixo mostra valores de
+duas variáveis, <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, diretamente proporcionais uma a
+outra:</em></p>
+<div class="center">
+
+</div>
+<p><em>A variável <span class="math inline"><em>y</em></span> é função
+da variável <span class="math inline"><em>x</em></span> de acordo com a
+expressão <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em></span>? Qual o
+valor do coeficiente <span
+class="math inline"><em>a</em></span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em>1/2</em></p></li>
+<li><p><em>3/4</em></p></li>
+<li><p><em>1</em></p></li>
+<li><p><em>2</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que o <em>coeficiente angular</em> ou
+<em>declividade</em> da reta é dada por <span class="math display">$$a =
+\frac{\mbox{ variação de }y}{\mbox{variação de } x} = \frac{6-0}{8-0} =
+\frac{6}{8} = \frac{3}{4}\cdot$$</span> Logo, a alternativa correta é
+B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.89</strong>. <em>O gráfico abaixo mostra valores de
+duas variáveis, <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>:</em></p>
+<div class="center">
+
+</div>
+<p><em>As <em>variações</em> de <span
+class="math inline"><em>y</em></span> são diretamente proporcionais às
+variações correspondentes de <span
+class="math inline"><em>x</em></span>. A variável <span
+class="math inline"><em>y</em></span> é função da variável <span
+class="math inline"><em>x</em></span> de acordo a expressão <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em> + <em>b</em></span>.
+Quais os valores dos coeficientes <span
+class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span>?</em></p>
+<div class="multicols">
+<p><em><span>4</span></em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>a</em> = 7</span> e <span
+class="math inline"><em>b</em> = 8</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 7/8</span> e <span
+class="math inline"><em>b</em> = 1</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 3/4</span> e <span
+class="math inline"><em>b</em> = 1</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 1</span> e <span
+class="math inline"><em>b</em> = 3/4</span></em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O gráfico é obtido <em>transladando-se</em> o gráfico na
+questão <a href="#gr-afim-1" data-reference-type="ref"
+data-reference="gr-afim-1">1.88</a> para cima em uma 1 unidade de
+medida. Logo, a função desejada é <span class="math display">$$y =
+\frac{3}{4}x+1,$$</span> ou seja, o coeficiente angular é <span
+class="math inline"><em>a</em> = 3/4</span> e o coeficiente linear é
+<span class="math inline"><em>b</em> = 1</span>. Verifiquemos isso
+diretamente. Para tanto, note que, dada a variação, por exemplo, de
+<span class="math inline"><em>x</em> = 0</span> para <span
+class="math inline"><em>x</em> = 8</span>, a variação correspondente de
+<span class="math inline"><em>y</em></span> é de <span
+class="math inline"><em>y</em> = 1</span> para <span
+class="math inline"><em>y</em> = 7</span>. Assim, <span
+class="math display">$$a = \frac{\mbox{ variação de }y}{\mbox{variação
+de } x} = \frac{7-1}{8-0} = \frac{6}{8} = \frac{3}{4}\cdot$$</span>
+Concluímos que, dados valores correspondentes de <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, temos <span
+class="math display">$$\frac{y-1}{x} = \frac{3}{4}\cdot$$</span> Logo, a
+expressão de <span class="math inline"><em>y</em></span> como função
+afim de <span class="math inline"><em>x</em></span> pode ser dada por
+<span class="math display">$$y - 1 = \frac{3}{4}x,$$</span> ou seja,
+<span class="math display">$$y = \frac{3}{4}x + 1.$$</span> A
+alternativa correta é C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.90</strong>. <em>Complete a tabela de valores das
+variáveis <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, sabendo que são diretamente
+proporcionais, de acordo com a função afim <span
+class="math display">$$y = -\frac{1}{2} x$$</span></em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><em><span
+class="math inline"><em>x</em></span>  </em></th>
+<th style="text-align: center;"><em>  <span
+class="math inline"> − 3</span>  </em></th>
+<th style="text-align: center;"><em>     </em></th>
+<th style="text-align: center;"><em>   <span
+class="math inline"> − 1</span>  </em></th>
+<th style="text-align: center;"><em>   0   </em></th>
+<th style="text-align: center;"><em>   1/2   </em></th>
+<th style="text-align: center;"><em>     </em></th>
+<th style="text-align: center;"><em>   3/2   </em></th>
+<th style="text-align: center;"><em>   2</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><em><span
+class="math inline"><em>y</em></span>  </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>   1  </em></td>
+<td style="text-align: center;"><em>   1/2   </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  <span
+class="math inline"> − 1/4</span>  </em></td>
+<td style="text-align: center;"><em>   <span
+class="math inline"> − 1/2</span>   </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  </em></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Completando a tabela, obtemos:</p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><span
+class="math inline"><em>x</em></span>  </th>
+<th style="text-align: center;">  <span
+class="math inline"> − 3</span>  </th>
+<th style="text-align: center;">   <span
+class="math inline"> − 2</span>  </th>
+<th style="text-align: center;">   <span
+class="math inline"> − 1</span>  </th>
+<th style="text-align: center;">   0   </th>
+<th style="text-align: center;">   1/2   </th>
+<th style="text-align: center;">   1  </th>
+<th style="text-align: center;">   3/2   </th>
+<th style="text-align: center;">   2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline"><em>y</em></span>  </td>
+<td style="text-align: center;">   3/2   </td>
+<td style="text-align: center;">   1  </td>
+<td style="text-align: center;">   1/2   </td>
+<td style="text-align: center;">   0   </td>
+<td style="text-align: center;">  <span
+class="math inline"> − 1/4</span>  </td>
+<td style="text-align: center;">   <span
+class="math inline"> − 1/2</span>   </td>
+<td style="text-align: center;">   <span
+class="math inline"> − 3/4</span>   </td>
+<td style="text-align: center;">   <span
+class="math inline"> − 1</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>O gráfico dessa função é representado na seguinte figura:</p>
+<div class="center">
+
+</div>
+<p> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.91</strong>. <em>Complete a tabela de valores das
+variáveis <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, sabendo que as variações
+correspondentes de <span class="math inline"><em>x</em></span> e de
+<span class="math inline"><em>y</em></span> são diretamente
+proporcionais, de acordo com a função afim <span
+class="math display">$$y = - \frac{1}{2}x+1$$</span></em></p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><em><span
+class="math inline"><em>x</em></span>  </em></th>
+<th style="text-align: center;"><em>  <span
+class="math inline"> − 3</span>  </em></th>
+<th style="text-align: center;"><em>     </em></th>
+<th style="text-align: center;"><em>   <span
+class="math inline"> − 1</span>  </em></th>
+<th style="text-align: center;"><em>   0   </em></th>
+<th style="text-align: center;"><em>   1/2   </em></th>
+<th style="text-align: center;"><em>     </em></th>
+<th style="text-align: center;"><em>   3/2   </em></th>
+<th style="text-align: center;"><em>   2</em></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><em><span
+class="math inline"><em>y</em></span>  </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>   2  </em></td>
+<td style="text-align: center;"><em>   3/2   </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  <span
+class="math inline">3/4</span>  </em></td>
+<td style="text-align: center;"><em>   <span
+class="math inline">1/2</span>   </em></td>
+<td style="text-align: center;"><em>     </em></td>
+<td style="text-align: center;"><em>  </em></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Completando a tabela, obtemos:</p>
+<div class="center">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><span
+class="math inline"><em>x</em></span>  </th>
+<th style="text-align: center;">  <span
+class="math inline"> − 3</span>  </th>
+<th style="text-align: center;">   <span
+class="math inline"> − 2</span>  </th>
+<th style="text-align: center;">   <span
+class="math inline"> − 1</span>  </th>
+<th style="text-align: center;">   0   </th>
+<th style="text-align: center;">   1/2   </th>
+<th style="text-align: center;">   1  </th>
+<th style="text-align: center;">   3/2   </th>
+<th style="text-align: center;">   2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><span
+class="math inline"><em>y</em></span>  </td>
+<td style="text-align: center;">   5/2   </td>
+<td style="text-align: center;">   2  </td>
+<td style="text-align: center;">   3/2   </td>
+<td style="text-align: center;">   1   </td>
+<td style="text-align: center;">  <span
+class="math inline">3/4</span>  </td>
+<td style="text-align: center;">   <span class="math inline">1/2</span>
+  </td>
+<td style="text-align: center;">   <span class="math inline">1/4</span>
+  </td>
+<td style="text-align: center;">   <span
+class="math inline">0</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>O gráfico dessa função é representado na seguinte figura:</p>
+<div class="center">
+
+</div>
+<p> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.92</strong>. <em>Esboce o gráfico determinado pelos
+pontos <span class="math inline">(<em>x</em>,<em>y</em>)</span>, sabendo
+que essas variáveis são diretamente proporcionais, de acordo com a
+função <span class="math display">$$y = -\frac{3}{4}x.$$</span></em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.93</strong>. <em>Esboce o gráfico determinado pelos
+pontos <span class="math inline">(<em>x</em>,<em>y</em>)</span>, sabendo
+que as variações correspondentes dessas variáveis são diretamente
+proporcionais, de acordo com a função <span class="math display">$$y = -
+\frac{3}{4}x +1$$</span></em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.94</strong> (Proporcionalidade e retas no plano).
+<em>A reta abaixo representa o gráfico de uma função da forma <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em></span>, onde <span
+class="math inline"><em>a</em></span> é uma constante positiva.</em></p>
+<div class="center">
+
+</div>
+<p><em>Determine o valor da constante <span
+class="math inline"><em>a</em></span> e a razão entre as coordenadas do
+ponto destacado no gráfico.</em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Observamos que a <span><strong>razão</strong></span> entre
+os valores correspondentes da variável <span
+class="math inline"><em>x</em></span> e da variável <span
+class="math inline"><em>y</em></span> é sempre igual a <span
+class="math inline"><em>a</em></span>. De fato, uma vez que <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em></span>, temos
+<span class="math display">$$\frac{y}{x}=a,$$</span> caso <span
+class="math inline"><em>x</em> ≠ 0</span>. O ponto com coordenadas <span
+class="math inline"><em>x</em> = 6</span> e <span
+class="math inline"><em>y</em> = 4</span> pertence ao gráfico. Portanto,
+calculando a razão entre as coordenadas, temos <span
+class="math display">$$a=\frac{4}{6}= \frac{2}{3}\cdot$$</span> Logo, o
+valor da constante <span class="math inline"><em>a</em></span> é <span
+class="math inline">$\frac{2}{3}$</span>. Concluímos que a função é dada
+por <span class="math inline">$y=\frac{2}{3}x$</span>.</p>
+<p>Agora, observemos que o ponto tem a segunda coordenada (ordenada)
+dada por <span class="math inline"><em>y</em> = 2</span>. Como este
+ponto pertence ao gráfico da função, sua primeira coordenada (abscissa)
+satisfaz a equação <span class="math display">$$\frac{2}{3}x =
+2.$$</span> Logo, <span class="math inline"><em>x</em> = 3</span>.
+Portanto, as coordenadas do ponto destacado são <span
+class="math inline">(3,2)</span>, isto é, <span
+class="math inline"><em>x</em> = 3</span> e <span
+class="math inline"><em>y</em> = 2</span>. ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Nos exercícios a seguir,
+trabalhamos com o conceito de proporcionalidade e iniciamos o estudo das
+<em>funções afins</em>. Uma variável <span
+class="math inline"><em>y</em></span> é dada como função afim de uma
+variável <span class="math inline"><em>x</em></span> quando as
+<em>variações</em> de <span class="math inline"><em>x</em></span> e de
+<span class="math inline"><em>y</em></span> são diretamente
+proporcionais, isto é, dados dois valores <span
+class="math inline"><em>x</em><sub>0</sub></span> e <span
+class="math inline"><em>x</em><sub>1</sub></span> (distintos) da
+variável <span class="math inline"><em>x</em></span> e os valores
+correspondentes <span class="math inline"><em>y</em><sub>0</sub></span>
+e <span class="math inline"><em>y</em><sub>1</sub></span> da variável
+<span class="math inline"><em>y</em></span>, temos <span
+class="math display">$$\frac{\mbox{variação de } y}{\mbox{variação de }
+x} = \frac{y_1-y_0}{x_1-x_0} = a,$$</span> onde <span
+class="math inline"><em>a</em></span> é uma constante, chamada
+<span><strong>taxa de variação</strong></span> ou
+<span><strong>coeficiente angular</strong></span> da função afim. Dada
+esta taxa de variação, a função afim tem a seguinte forma <span
+class="math display"><em>y</em> = <em>a</em><em>x</em> + <em>b</em>,</span>
+onde <span class="math inline"><em>b</em></span> é também uma constante,
+dada pelo valor da função quando <span
+class="math inline"><em>x</em> = 0</span>. Vejamos o exemplo da função
+afim cujos <span><strong>coeficientes</strong></span> são <span
+class="math inline">$a=\frac{2}{3}$</span> e <span
+class="math inline"><em>b</em> = 1</span>: <span
+class="math display">$$y = \frac{2}{3}x+1.$$</span> O gráfico desta
+função afim é a reta que passa pelo ponto <span
+class="math inline"><em>A</em> = (0,1)</span> no eixo vertical e tem
+coeficiente angular dado por <span
+class="math inline">$a=\frac{2}{3}$</span> como pode ser visto na figura
+seguinte:</em></p>
+<div class="center">
+
+</div>
+<p><em>Expliquemos essa afirmações: o ponto <span
+class="math inline"><em>A</em></span> tem coordenada vertical (ordenada)
+igual a <span class="math inline">1</span>, que é, exatamente, o valor
+do coeficiente <span class="math inline"><em>b</em></span> da função
+afim. Para verificarmos que o coeficiente angular <span
+class="math inline"><em>a</em></span> é igual a <span
+class="math inline">$\frac{2}{3}$</span>, vejamos as <em>variações</em>
+das coordenadas: do ponto <span
+class="math inline"><em>P</em> = (6,5)</span> para o ponto <span
+class="math inline"><em>Q</em> = (12,9)</span>, temos as seguintes
+variações das coordenadas <span class="math display">variação de
+<em>x</em> = 12 − 6 = 6   e   variação de <em>y</em> = 9 − 5 = 4.</span>
+Logo, <span class="math display">$$a = \frac{\mbox{variação de }
+y}{\mbox{variação de } x} = \frac{4}{6} = \frac{2}{3}\cdot$$</span> Você
+pode verificar que esta <em>taxa de variação</em> é a mesma entre os
+pontos <span class="math inline"><em>A</em></span> e <span
+class="math inline"><em>P</em></span> e entre os pontos <span
+class="math inline"><em>A</em></span> e <span
+class="math inline"><em>Q</em></span>, por exemplo.</em></p>
+</div>
+</div>
+<div class="fBox">
+<p>Em geral, o gráfico da função afim <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em> + <em>b</em></span>
+é uma reta que passa pelo ponto <span
+class="math inline">(0,<em>b</em>)</span> no eixo vertical e tem
+coeficiente angular <span class="math inline"><em>a</em></span>. O
+coeficiente angular é uma medida da
+<span><strong>inclinação</strong></span> ou
+<span><strong>declividade</strong></span> desta reta. Esse coeficiente
+mede também a <span><strong>taxa de variação</strong></span> da função,
+isto é, a razão entre as variações correspondentes de <span
+class="math inline"><em>y</em></span> e de <span
+class="math inline"><em>x</em></span>.</p>
+</div>
+<div class="fBox">
+<p>Nas questões <a href="#afim-1" data-reference-type="ref"
+data-reference="afim-1">1.95</a> a <a href="#afim-n"
+data-reference-type="ref" data-reference="afim-n">1.104</a>, considere a
+seguinte figura:</p>
+<div class="center">
+
+</div>
+</div>
+<div class="eBox">
+<div id="afim-1" class="questaoT">
+<p><strong>Questão 1.95</strong>. <em>Sobre os pontos assinalados na
+figura, complete as lacunas com as informações solicitadas:</em></p>
+<ul>
+<li><p><em>o ponto <span class="math inline"><em>P</em></span> tem
+coordenadas <span class="math inline">$(\rule{5mm}{0.1mm} \,,\,
+\rule{5mm}{0.1mm})$</span></em></p></li>
+<li><p><em>o ponto <span class="math inline"><em>Q</em></span> tem
+coordenadas <span class="math inline">$(\rule{5mm}{0.1mm} \,,\,
+\rule{5mm}{0.1mm})$</span></em></p></li>
+<li><p><em>o ponto <span class="math inline">$\rule{5mm}{0.1mm}$</span>
+tem coordenadas <span
+class="math inline">$(6,\frac{9}{2})$</span></em></p></li>
+<li><p><em>o ponto <span class="math inline">$\rule{5mm}{0.1mm}$</span>
+tem coordenadas <span
+class="math inline">$(\rule{5mm}{0.1mm}\,,\,6)$</span></em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Respostas: <span
+class="math inline"><em>P</em> = (6,3/2)</span>; <span
+class="math inline"><em>Q</em> = (6,3)</span>; <span
+class="math inline"><em>R</em> = (6,9/2)</span>; <span
+class="math inline"><em>S</em> = (6,6)</span>; <span
+class="math inline"><em>T</em> = (6,8)</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.96</strong>. <em>O ponto com coordenadas <span
+class="math inline">(7,7)</span> pertence a qual das retas representadas
+na figura?</em></p>
+<ol type="A">
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>P</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>R</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>S</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.97</strong>. <em>O ponto com coordenadas <span
+class="math inline">$(7,\frac{7}{2})$</span> pertence a qual das retas
+representadas na figura?</em></p>
+<ol type="A">
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>P</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>R</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>S</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.98</strong>. <em>O ponto com coordenadas <span
+class="math inline">$(7,\frac{7}{4})$</span> pertence a qual das retas
+representadas na figura?</em></p>
+<ol type="A">
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>P</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>R</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>S</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Vimos que as retas
+(não-verticais) na figura são gráficos de funções afins ou de primeiro
+grau da forma <span
+class="math display"><em>y</em> = <em>a</em><em>x</em> + <em>b</em>,</span>
+onde <span class="math inline"><em>x</em></span> é variável representada
+no eixo horizontal, <span class="math inline"><em>y</em></span> é a
+variável representada no eixo vertical e <span
+class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span> são <em>constantes</em>. O
+coeficiente <span class="math inline"><em>a</em></span> determina a
+<span><strong>inclinação</strong></span> ou
+<span><strong>declividade</strong></span> da reta e o coeficiente <span
+class="math inline"><em>b</em></span> determina a coordenada vertical do
+ponto em que a reta <span><strong>intercepta</strong></span> o eixo
+vertical.</em></p>
+<p><em>Como as retas representadas na figura passam todas pela origem
+<span class="math inline"><em>O</em> = (0,0)</span>, temos que, se <span
+class="math inline"><em>x</em> = 0</span>, então <span
+class="math inline"><em>y</em> = 0</span>. Logo, substituindo essa
+informação na equação <a href="#eqreta" data-reference-type="ref"
+data-reference="eqreta">[eqreta]</a> <span
+class="math display">0 = <em>a</em> ⋅ 0 + <em>b</em> = <em>b</em>.</span>
+Logo, o coeficiente <span class="math inline"><em>b</em></span> é igual
+a <span class="math inline">0</span>, isto é, <span
+class="math inline"><em>b</em> = 0</span>. Portanto, a equação <a
+href="#eqreta" data-reference-type="ref"
+data-reference="eqreta">[eqreta]</a> se reduz a <span
+class="math display"><em>y</em> = <em>a</em><em>x</em>.</span>
+Precisamos, agora, determinar o coeficiente <span
+class="math inline"><em>a</em></span>. Para isso, usamos a informação de
+que o ponto <span class="math inline">$(7, \frac{7}{4})$</span>, por
+exemplo, também pertence à reta. Assim, se <span
+class="math inline"><em>x</em> = 7</span>, temos <span
+class="math inline">$y=\frac{7}{4}$</span>. Substituindo na equação <a
+href="#eqreta-2" data-reference-type="ref"
+data-reference="eqreta-2">[eqreta-2]</a> <span
+class="math display">$$\frac{7}{4} = a \cdot 7.$$</span> Assim, <span
+class="math display">$$a = \frac{1}{4}\cdot$$</span> Portanto, a equação
+da reta que passa pelos pontos <span class="math inline">(0,0)</span> e
+<span class="math inline">$(7, \frac{7}{4})$</span>é dada por <span
+class="math display">$$y= \frac{1}{4}x.$$</span></em></p>
+</div>
+</div>
+<div class="fBox">
+<p>Uma forma alternativa de determinar a equação da reta da forma <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em> + <em>b</em></span>
+é observar que o coeficiente <span class="math inline"><em>a</em></span>
+é dado pela <span><strong>razão</strong></span> entre a variação da
+coordenada <span class="math inline"><em>y</em></span> e a variação da
+coordenada <span class="math inline"><em>x</em></span> entre dois pontos
+da reta. Se a reta passa pelos pontos pontos <span
+class="math inline"><em>O</em> = (0,0)</span> e <span
+class="math inline">$(7, \frac{7}{4})$</span>, essa razão é dada pela
+<span><strong>taxa de variação</strong></span> <span
+class="math display">$$a = \frac{\mbox{variação de }y}{\mbox{variação de
+}x} = \frac{\frac{7}{4}-0}{7-0} = \dfrac{\frac{7}{4}}{7} =
+\frac{1}{4}\cdot$$</span> Por outro lado, dado um ponto
+<em>qualquer</em> da reta, com coordenadas <span
+class="math inline"><em>P</em> = (<em>x</em>,<em>y</em>)</span>, temos
+<span class="math display">$$a = \frac{y-0}{x-0} =
+\frac{y}{x}\cdot$$</span> Concluímos que <span
+class="math display">$$\frac{y}{x} = \frac{1}{4},$$</span> ou seja, que
+<span class="math display">$$y = \frac{1}{4}x$$</span> é a equação que
+define a reta, em que a variável <span
+class="math inline"><em>y</em></span> é escrita como uma
+<span><strong>função afim</strong></span> da variável <span
+class="math inline"><em>x</em></span>.</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.99</strong>. <em>Qual das retas na figura
+representa a função do primeiro grau <span
+class="math inline">$y=\frac{3}{4}x$</span>?</em></p>
+<ol type="A">
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>P</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>R</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>S</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Observe que os pontos P, Q, R, S e T têm a mesma
+coordenada horizontal, igual a 6. Tomando <span
+class="math inline"><em>x</em> = 6</span>, temos, a partir da equação
+<span class="math display">$$y = \frac{3}{4}x,$$</span> o seguinte valor
+de <span class="math inline"><em>y</em></span>: <span
+class="math display">$$y = \frac{3}{4} \times 6 = 3 \times \frac{6}{4} =
+3 \times \frac{3}{2} = \frac{9}{2}.$$</span> Portanto, o ponto <span
+class="math display">$$(6, \frac{9}{2})$$</span> pertence à reta
+definida pela função <span class="math inline">$y=\frac{3}{4}x$</span>.
+Esse é o ponto R, já que sua coordenada horizontal é 6 e sua coordenada
+vertical é a média entre 4 e 5, ou seja, <span
+class="math inline">$\frac{9}{2}$</span>. Logo, a alternativa correta é
+C). ◻</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.100</strong>. <em>Qual das retas na figura
+representa a função do primeiro grau <span
+class="math inline">$y=\frac{4}{3}x$</span>?</em></p>
+<ol type="A">
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>P</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>R</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>S</em></span></em></p></li>
+<li><p><em>A reta que passa pelos pontos <span
+class="math inline"><em>O</em></span> e <span
+class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é E). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.101</strong>. <em>Qual a equação da reta que passa
+pela origem e pelo ponto <span
+class="math inline"><em>P</em></span>?</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">$y=\frac{4}{3}x$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = <em>x</em></span></em></p></li>
+<li><p><em><span
+class="math inline">$y=\frac{3}{4}x$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=\frac{1}{2}x$</span></em></p></li>
+<li><p><em><span class="math inline">$y =
+\frac{1}{4}x$</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> O ponto P tem coordenada horizontal (abscissa) igual a 6 e
+coordenada vertical (ordenada) igual a média entre 1 e 2, ou seja, igual
+a <span class="math inline">$\frac{3}{2}$</span>. Como a reta deve
+passar pela origem <span class="math inline"><em>O</em> = (0,0)</span> e
+por <span class="math inline">$P=(6,\frac{3}{2})$</span>, sua
+<span><strong>inclinação</strong></span> ou
+<span><strong>declividade</strong></span> com relação ao eixo horizontal
+é dada por <span class="math display">$$a=\frac{\frac{3}{2}-0}{6-0} =
+\dfrac{\frac{3}{2}}{6} = \frac{3}{12}\cdot$$</span> De fato, a variação
+da coordenada <span class="math inline"><em>x</em></span> entre os
+pontos <span class="math inline"><em>O</em></span> e <span
+class="math inline"><em>P</em></span> é dada por <span
+class="math display">variação de <em>x</em> = 6 − 0</span> e a a
+variação da coordenada <span class="math inline"><em>y</em></span> entre
+os pontos <span class="math inline"><em>O</em></span> e <span
+class="math inline"><em>P</em></span> é dada por <span
+class="math display">$$\mbox{variação de }y = \frac{3}{2} -0.$$</span>
+Como <span class="math display">$$\frac{3}{12} = \frac{1}{4},$$</span>
+(justifique!), a equação da reta que passa por esses dois pontos é <span
+class="math display">$$y = \frac{1}{4}x,$$</span> expressão que define a
+variável <span class="math inline"><em>y</em></span> como função afim da
+variável <span class="math inline"><em>x</em></span>. Portanto, a
+alternativa correta é E). ◻</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.102</strong>. <em>Qual a equação da reta que passa
+pela origem e pelo ponto <span
+class="math inline"><em>Q</em></span>?</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">$y=\frac{4}{3}x$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = <em>x</em></span></em></p></li>
+<li><p><em><span
+class="math inline">$y=\frac{3}{4}x$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=\frac{1}{2}x$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 2<em>x</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.103</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(0,0)</span> e <span class="math inline">$(6,
+\frac{9}{2})$</span> é dada pela equação linear</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">4<em>x</em> − 3<em>y</em> = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">3<em>x</em> − 4<em>y</em> = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">4<em>x</em> + 3<em>y</em> = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">3<em>x</em> + 4<em>y</em> = 0</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Como a reta passa por <span
+class="math inline"><em>O</em> = (0,0)</span> e por <span
+class="math inline">$R=(6, \frac{9}{2})$</span> não é vertical, é
+gráfico de uma função da forma <span
+class="math display"><em>y</em> = <em>a</em><em>x</em>,</span> onde o
+coeficiente <span class="math inline"><em>b</em></span> é nulo
+(justifique!) e o coeficiente <span
+class="math inline"><em>a</em></span> é não-nulo e dado pela razão <span
+class="math display">$$a = \frac{\mbox{variação de }y}{\mbox{variação de
+} x} = \frac{\frac{9}{2}-0}{6-0} = \frac{\frac{9}{2}}{6} = \frac{9}{12}
+= \frac{3}{4}\cdot$$</span> Logo <span class="math display">$$y =
+\frac{3}{4}x.$$</span> Multiplicando ambos os lados por <span
+class="math inline">4</span>, temos <span
+class="math display">4<em>y</em> = 3<em>x</em>.</span> Subtraindo o
+termo <span class="math inline">4<em>y</em></span> de ambos os lados,
+temos a <span><strong>equação linear</strong></span> da reta que passa
+pelos pontos <span class="math inline"><em>O</em></span> e <span
+class="math inline"><em>R</em></span>: <span
+class="math display">3<em>x</em> − 4<em>y</em> = 0.</span> ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>O gráfico de uma função afim da
+forma <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em> + <em>b</em></span>
+é, como vimos, uma reta (não-vertical) com inclinação dada pelo
+coeficiente <span class="math inline"><em>a</em></span> e que corta o
+eixo vertical em um ponto com coordenada vertical <span
+class="math inline"><em>b</em></span>. Podemos escrever essa equação da
+reta na forma <span
+class="math display"> − <em>a</em><em>x</em> + <em>y</em> = <em>b</em>,</span>
+uma <span><strong>equação linear</strong></span> nas variáveis <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>. Por exemplo, a reta dada como
+gráfico da função <span class="math inline">$y= \frac{3}{4}x$</span> é
+dada pela equação linear <span
+class="math display">$$-\frac{3}{4}x+y=0$$</span> ou, multiplicando
+ambos os lados da igualdade por <span class="math inline"> − 4</span>,
+por <span class="math display">3<em>x</em> − 4<em>y</em> = 0.</span> Em
+geral, dada uma equação linear nas variáveis <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> da forma <span
+class="math display"><em>A</em><em>x</em> + <em>B</em><em>y</em> = <em>C</em>,</span>
+onde <span class="math inline"><em>A</em>, <em>B</em></span> e <span
+class="math inline"><em>C</em></span> são constantes, com <span
+class="math inline"><em>B</em> ≠ 0</span>, temos <span
+class="math display"><em>B</em><em>y</em> =  − <em>A</em><em>x</em> + <em>C</em>.</span>
+Dividindo cada um dos lados da equação por <span
+class="math inline"><em>B</em></span>, concluímos que <span
+class="math display">$$y = - \frac{A}{B} x + \frac{C}{B}\cdot$$</span>
+Assim, escrevemos <span class="math inline"><em>y</em></span> como
+função afim de <span class="math inline"><em>x</em></span> da forma
+<span
+class="math display"><em>y</em> = <em>a</em><em>x</em> + <em>b</em>,</span>
+onde <span class="math display">$$a = - \frac{A}{B} \quad \mbox{ e }
+\quad b = \frac{C}{B}\cdot$$</span> Por exemplo, dada a equação linear
+nas variáveis <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> dada por <span
+class="math display">4<em>x</em> − 3<em>y</em> = 0,</span> escrevemos
+<span class="math display">3<em>y</em> = 4<em>x</em>,</span> obtendo a
+expressão de <span class="math inline"><em>y</em></span> como a seguinte
+função afim de <span class="math inline"><em>x</em></span>: <span
+class="math display">$$y  = \frac{4}{3}x\cdot$$</span></em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div id="afim-n" class="questaoT">
+<p><strong>Questão 1.104</strong>. <em>A reta dada pela equação linear
+<span class="math inline">4<em>x</em> − 3<em>y</em> = 0</span> passa
+pela origem <span class="math inline">(0,0)</span> e pelo ponto</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">(4,3)</span></em></p></li>
+<li><p><em><span class="math inline">(3,4)</span></em></p></li>
+<li><p><em><span
+class="math inline">$(\frac{4}{3},0)$</span></em></p></li>
+<li><p><em><span class="math inline">$(0,
+\frac{3}{4})$</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="fBox">
+<p>Nas questões <a href="#afim-2" data-reference-type="ref"
+data-reference="afim-2">1.105</a> a <a href="#afim-p"
+data-reference-type="ref" data-reference="afim-p">1.111</a>, considere a
+seguinte figura:</p>
+<div class="center">
+
+</div>
+</div>
+<div class="eBox">
+<div id="afim-2" class="questaoT">
+<p><strong>Questão 1.105</strong>. <em>Qual dos pontos pertence à reta
+dada pela equação linear <span
+class="math inline"><em>x</em> + <em>y</em> = 8</span>?</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é E). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.106</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(0,8)</span> e <span
+class="math inline">(6,0)</span> passa pelo ponto</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.107</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(0,8)</span> e <span
+class="math inline">(3,0)</span> é dada pela equação</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">8<em>x</em> + 3<em>y</em> = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">8<em>x</em> + 3<em>y</em> = 8</span></em></p></li>
+<li><p><em><span
+class="math inline">8<em>x</em> + 3<em>y</em> = 24</span></em></p></li>
+<li><p><em><span
+class="math inline">8<em>x</em> − 3<em>y</em> = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">8<em>x</em> − 3<em>y</em> = 24</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Uma reta é dada por uma equação linear da forma <span
+class="math display"><em>A</em><em>x</em> + <em>B</em><em>y</em> = <em>C</em>,</span>
+onde <span class="math inline">(<em>x</em>,<em>y</em>)</span> são
+coordenadas de um ponto na reta e <span
+class="math inline"><em>A</em>, <em>B</em>, <em>C</em></span> são
+constantes, que precisamos determinar. Para isso, podemos usar a
+informação de que os pontos <span class="math inline">(0,8)</span> e
+<span class="math inline">(3,0)</span> pertencem à reta. Substituindo
+<span class="math inline"><em>x</em> = 0</span> e <span
+class="math inline"><em>y</em> = 8</span> na equação linear, temos <span
+class="math display"><em>A</em> ⋅ 0 + <em>B</em> ⋅ 8 = <em>C</em>.</span>
+Logo, <span class="math display">$$B = \frac{1}{8}C.$$</span> Agora,
+tomando <span class="math inline"><em>x</em> = 3</span> e <span
+class="math inline"><em>y</em> = 0</span> na equação linear, temos <span
+class="math display"><em>A</em> ⋅ 3 + <em>B</em> ⋅ 0 = <em>C</em>.</span>
+Portanto, <span class="math display">$$A = \frac{1}{3}C.$$</span> Assim,
+a equação da reta passa a ser <span class="math display">$$\frac{1}{3} C
+x + \frac{1}{8} C y = C.$$</span> Dividindo ambos os lados por <span
+class="math inline"><em>C</em></span> (que é diferente de <span
+class="math inline">0</span>, já que a reta não passa pela origem),
+temos <span class="math display">$$\frac{1}{3} x + \frac{1}{8}  y =
+1.$$</span> Multiplicando ambos os lados por <span
+class="math inline">24</span>, que é múltiplo comum dos denominadores
+<span class="math inline">3</span> e <span class="math inline">8</span>,
+obtemos <span
+class="math display">8<em>x</em> + 3<em>y</em> = 24,</span> a equação da
+reta que passa pelos pontos dados. Portanto, a alternativa correta é
+C). ◻</p>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Uma forma alternativa de
+resolver esse problema é observar que a reta é o gráfico de uma função
+afim da forma <span
+class="math display"><em>y</em> = <em>a</em><em>x</em> + <em>b</em>.</span>
+Para determinar os coeficientes <span
+class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span>, usamos a informação de que os
+pontos <span class="math inline">(0,8)</span> e <span
+class="math inline">(3,0)</span> pertencem à reta. Assim, substituindo
+<span class="math inline"><em>x</em> = 0</span> e <span
+class="math inline"><em>y</em> = 8</span> na expressão <a
+href="#funcao1" data-reference-type="ref"
+data-reference="funcao1">[funcao1]</a> da função afim, temos <span
+class="math display">8 = <em>a</em> ⋅ 0 + <em>b</em> = <em>b</em>.</span>
+Logo, <span class="math inline"><em>b</em> = 8</span>, o que confirma o
+fato de que <span class="math inline"><em>b</em></span> é a coordenada
+vertical do ponto <span class="math inline">(0,8)</span> em que o
+gráfico da função <em>intercepta</em> o eixo vertical. Agora,
+substituindo os valores <span class="math inline"><em>x</em> = 3</span>
+e <span class="math inline"><em>y</em> = 0</span> na equação <a
+href="#funcao1" data-reference-type="ref"
+data-reference="funcao1">[funcao1]</a> e já usando que <span
+class="math inline"><em>b</em> = 8</span>, obtemos <span
+class="math display">0 = <em>a</em> ⋅ 3 + 8 = 3<em>a</em> + 8.</span>
+Logo, <span class="math display">$$a = - \frac{8}{3}\cdot$$</span>
+Portanto, a função afim é dada por <span class="math display">$$y = -
+\frac{8}{3} x + 8.$$</span> Multiplicando ambos os lados dessa expressão
+por <span class="math inline">3</span>, obtemos <span
+class="math display">3<em>y</em> =  − 8<em>x</em> + 24</span> ou seja,
+<span class="math display">8<em>x</em> + 3<em>y</em> = 24,</span> a
+equação linear em <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> que define a reta, como já
+sabíamos.</em></p>
+</div>
+</div>
+</div>
+<div class="fBox">
+<p>Resumindo essa discussão, podemos dizer que a reta que passa pelos
+pontos <span class="math inline">(0,8)</span> e <span
+class="math inline">(3,0)</span> na figura acima (vide a reta que passa
+pelo ponto Q) pode ser vista de duas formas:</p>
+<ul>
+<li><p>como gráfico da função afim <span
+class="math inline">$y=-\frac{8}{3}x+8$</span>. De fato, se <span
+class="math inline"><em>x</em> = 0</span>, então <span
+class="math inline"><em>y</em> = 8</span> e, se <span
+class="math inline"><em>x</em> = 3</span>, então <span
+class="math inline"><em>y</em> = 0</span>;</p></li>
+<li><p>como conjunto das soluções da equação linear <span
+class="math inline">8<em>x</em> + 3<em>y</em> = 24</span>. De fato, se
+<span class="math inline"><em>x</em> = 0</span> e <span
+class="math inline"><em>y</em> = 8</span>, então <span
+class="math inline">8 ⋅ 0 + 3 ⋅ 8 = 24</span> e, se <span
+class="math inline"><em>x</em> = 3</span> e <span
+class="math inline"><em>y</em> = 0</span>, então <span
+class="math inline">8 ⋅ 3 + 3 ⋅ 0 = 24</span>. Note que o ponto <span
+class="math inline">(3,2)</span>, por exemplo, <em>não</em> pertence à
+reta, pois os valores <span class="math inline"><em>x</em> = 3</span> e
+<span class="math inline"><em>y</em> = 2</span> não resolvem a equação,
+uma vez que <span
+class="math inline">8 ⋅ 3 + 3 ⋅ 2 = 24 + 6 = 30 ≠ 24</span>.</p></li>
+</ul>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.108</strong>. <em>A reta que passa pelos pontos
+<span class="math inline"><em>R</em></span> e <span
+class="math inline">$(\frac{9}{2},0)$</span> na figura representa as
+soluções da equação linear</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">$\frac{2}{9}x+\frac{1}{8}y=1$</span></em></p></li>
+<li><p><em><span
+class="math inline">$\frac{1}{8}x+\frac{2}{9}y=1$</span></em></p></li>
+<li><p><em><span
+class="math inline">$\frac{9}{2}x+8y=1$</span></em></p></li>
+<li><p><em><span
+class="math inline">$8x+\frac{9}{2}y=1$</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é A). Para verificar essa resposta,
+podemos trabalhar com a chamada <em>forma reduzida</em> da equação
+linear <span
+class="math display"><em>A</em><em>x</em> + <em>B</em><em>y</em> = <em>C</em></span>
+que define a reta. Levando em consideração que a reta não é horizontal,
+nem vertlcal e não passa pela origem (ou seja, que intercepta os eixos
+horizontal e vertical em pontos diferentes da origem), dividimos ambos
+os lados dessa equação linear por <span
+class="math inline"><em>C</em> ≠ 0</span>, obtendo <span
+class="math display">$$\frac{A}{C} x + \frac{B}{C} y =1,$$</span> ou
+seja, <span class="math display">$$\frac{x}{p} + \frac{y}{q} =
+1,$$</span> onde <span class="math display">$$p = \frac{C}{A}$$</span> e
+<span class="math display">$$q = \frac{C}{B}$$</span> são as coordenadas
+dos pontos em que a reta intersecta o eixo horizontal e o eixo vertical,
+respectivamente (note que <span
+class="math inline"><em>A</em> ≠ 0</span> e <span
+class="math inline"><em>B</em> ≠ 0</span>, visto que a reta não é
+horizontal e não é vertical). Em nosso caso, <span
+class="math inline">$p=\frac{9}{2}$</span> e <span
+class="math inline"><em>q</em> = 8</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.109</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(0,8)</span> e <span
+class="math inline"><em>P</em></span> na figura representa as soluções
+da equação linear</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">16<em>x</em> − 3<em>y</em> = 24</span></em></p></li>
+<li><p><em><span
+class="math inline">3<em>x</em> − 16<em>y</em> = 24</span></em></p></li>
+<li><p><em><span
+class="math inline">16<em>x</em> + 3<em>y</em> = 24</span></em></p></li>
+<li><p><em><span
+class="math inline">3<em>x</em> + 16<em>y</em> = 24</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.110</strong>. <em>A reta que passa pelos pontos
+<span class="math inline"><em>Q</em></span> e <span
+class="math inline">(3,0)</span> na figura representa o gráfico da
+função do primeiro grau</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">$y=\frac{8}{3}x+8$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=-\frac{8}{3}x+8$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=-\frac{8}{3}x-8$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=\frac{8}{3}x-8$</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div id="afim-p" class="questaoT">
+<p><strong>Questão 1.111</strong> (SPAECE D55). <em>A reta que passa
+pelos pontos <span class="math inline">(0,8)</span> e <span
+class="math inline"><em>S</em></span> na figura representa o gráfico da
+função do primeiro grau</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline">$y=\frac{4}{3}x+8$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=-\frac{4}{3}x+8$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=-\frac{4}{3}x-8$</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=\frac{4}{3}x-8$</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="fBox">
+<p>Nas questões <a href="#afim-3" data-reference-type="ref"
+data-reference="afim-3">1.112</a> a <a href="#afim-q"
+data-reference-type="ref" data-reference="afim-q">1.117</a>, considere a
+seguinte figura:</p>
+<div class="center">
+
+</div>
+</div>
+<div class="eBox">
+<div id="afim-3" class="questaoT">
+<p><strong>Questão 1.112</strong>. <em>Qual dos pontos pertence à reta
+dada como gráfico da função afim <span
+class="math inline"><em>y</em> = <em>x</em> + 2</span>?</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.113</strong>. <em>Qual dos pontos pertence à reta
+dada pelas soluções da equação linear <span
+class="math inline"><em>x</em> − <em>y</em> = 2</span>?</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.114</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(−4,0)</span> e <span
+class="math inline">(0,4)</span> passa pelo ponto</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.115</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(1,−1)</span> e <span
+class="math inline">(4,2)</span> é dada pelas soluções da equação
+linear</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>x</em> − <em>y</em> = 2</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> − <em>y</em> =  − 2</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> + <em>y</em> = 2</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> + <em>y</em> =  − 2</span></em></p></li>
+<li><p><em><span
+class="math inline">2<em>x</em> − <em>y</em> = 0</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.116</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(1,−3)</span> e <span
+class="math inline"><em>T</em></span> é gráfico da função afim</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> = <em>x</em> − 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − <em>x</em> − 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = <em>x</em> + 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − <em>x</em> − 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 4<em>x</em> − 1</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div id="afim-q" class="questaoT">
+<p><strong>Questão 1.117</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(−1,−3)</span> e <span
+class="math inline">(1,−1)</span> tem coeficiente angular dado
+por</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>a</em> =  − 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>a</em> =  − 1</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 0</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 1</span></em></p></li>
+<li><p><em><span class="math inline"><em>a</em> = 4</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é D). ◻</p>
+</div>
+</div>
+<div class="fBox">
+<p>Nas questões <a href="#afim-4" data-reference-type="ref"
+data-reference="afim-4">1.118</a> a <a href="#afim-r"
+data-reference-type="ref" data-reference="afim-r">[afim-r]</a>,
+considere a seguinte figura:</p>
+<div class="center">
+
+</div>
+</div>
+<div class="eBox">
+<div id="afim-4" class="questaoT">
+<p><strong>Questão 1.118</strong>. <em>Qual dos pontos pertence à reta
+dada como gráfico da função afim <span
+class="math inline">$y=\frac{x}{4}+3$</span>?</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é C). De fato, dada a equação <span
+class="math inline">$y=\frac{x}{4}+3$</span>, temos que, se <span
+class="math inline"><em>x</em> = 6</span>, então <span
+class="math inline">$y=\frac{6}{4} + 3 = \frac{6+12}{4} =
+\frac{9}{2}$</span>. Além disso, se <span
+class="math inline"><em>x</em> = 4</span>, temos <span
+class="math inline"><em>y</em> = 1 + 3 = 4</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.119</strong>. <em>Qual dos pontos pertence à reta
+dada pelas soluções da equação linear <span
+class="math inline"><em>x</em> + 2<em>y</em> = 12</span>?</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é B). De fato, dada a equação <span
+class="math inline"><em>x</em> + 2<em>y</em> = 12</span>, temos que, se
+<span class="math inline"><em>x</em> = 6</span>, então <span
+class="math inline">2<em>y</em> = 12 − 6 = 6</span> e, portanto, <span
+class="math inline"><em>y</em> = 3</span>. Além disso, se <span
+class="math inline"><em>x</em> = 4</span>, temos <span
+class="math inline">2<em>y</em> = 12 − 4 = 8</span>, ou seja, <span
+class="math inline"><em>y</em> = 4</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.120</strong>. <em>A reta que com equação reduzida
+<span class="math inline">$\frac{x}{8}+\frac{y}{8}=1$</span> passa pelo
+ponto</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>P</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>Q</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>R</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>S</em></span></em></p></li>
+<li><p><em><span class="math inline"><em>T</em></span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é A). Note que o ponto <span
+class="math inline">(4,4)</span> pertence à reta com esta equação
+reduzida. Além disso, as coordenadas dos pontos de intersecção desta
+reta com os eixos horizontal e vertical são, respectivamente, <span
+class="math inline">(8,0)</span> e <span
+class="math inline">(0,8)</span>. Logo, a reta com esta equação é a que
+passa pelo ponto P. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.121</strong>. <em>A reta que passa pelos pontos
+<span class="math inline">(4,4)</span> e <span
+class="math inline">$(7,\frac{11}{2})$</span> é dada pelas soluções da
+equação linear</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">$\frac{x}{8} +
+\frac{y}{8}=1$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> + 2<em>y</em> = 12</span></em></p></li>
+<li><p><em><span class="math inline">$y= -\frac{1}{4}x +
+5$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> − 4<em>y</em> =  − 3</span></em></p></li>
+<li><p><em><span class="math inline">$y
+=\frac{x}{2}+2$</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é E). A declividade da reta que
+passa por esses pontos é <span class="math display">$$a =
+\frac{\frac{11}{2}-4}{7-4} = \frac{\frac{3}{2}}{3} =
+\frac{1}{2}\cdot$$</span> Assim, a equação tem a forma <span
+class="math display">$$y = \frac{1}{2}x + b,$$</span> para alguma
+constante <span class="math inline"><em>b</em></span> a determinar.
+Substituindo <span class="math inline"><em>x</em> = 4</span> e <span
+class="math inline"><em>y</em> = 4</span> nesta equação, temos <span
+class="math display">4 = 2 + <em>b</em>.</span> Logo, <span
+class="math inline"><em>b</em> = 2</span> e a equação que define a reta
+é, portanto, dada por <span class="math display">$$y = \frac{x}{2} +
+2.$$</span> ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.122</strong>. <em>A reta que passa pelos pontos
+<span class="math inline"><em>T</em></span> e <span
+class="math inline">$(6, \frac{7}{2})$</span> é dada por</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">$\frac{x}{8} +
+\frac{y}{8}=1$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> + 2<em>y</em> = 12</span></em></p></li>
+<li><p><em><span
+class="math inline">$\frac{x}{4}-y=-3$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> + 4<em>y</em> = 20</span></em></p></li>
+<li><p><em><span class="math inline">$y
+-\frac{x}{2}=2$</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é D). A reta é descrita por uma
+equação linear da forma <span
+class="math display"><em>A</em><em>x</em> + <em>B</em><em>y</em> = <em>C</em>.</span>
+Substituindo <span class="math inline"><em>x</em> = 6</span> e <span
+class="math inline">$y=\frac{7}{2}$</span> nesta equação, temos <span
+class="math display">$$6A + \frac{7}{2}B=C.$$</span> Agora, substituindo
+as coordenadas de T, isto é <span
+class="math inline"><em>x</em> = 2</span> e <span
+class="math inline">$y=\frac{9}{2}$</span>, temos <span
+class="math display">$$2A + \frac{9}{2}B = C.$$</span> Assim, deduzimos
+que <span class="math display">4<em>A</em> − <em>B</em> = 0,</span> ou
+seja, que <span class="math inline"><em>B</em> = 4<em>A</em>.</span>
+Logo, a equação linear da reta tem a forma <span
+class="math display"><em>A</em><em>x</em> + 4<em>A</em><em>y</em> = <em>C</em>.</span>
+Assim, considerando uma vez mais <span
+class="math inline"><em>x</em> = 2</span> e <span
+class="math inline">$y=\frac{9}{2}$</span>, temos <span
+class="math inline">2<em>A</em> + 18<em>A</em> = <em>C</em></span>,
+deduzindo que <span
+class="math inline"><em>C</em> = 20<em>A</em></span>. Assim, a equação
+desejada tem a forma <span
+class="math display"><em>A</em><em>x</em> + 4<em>A</em><em>x</em> = 20<em>A</em>.</span>
+Dividindo ambos os lados por <span
+class="math inline"><em>A</em></span>, obtemos <span
+class="math inline"><em>x</em> + 4<em>y</em> = 20</span>. ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.123</strong>. <em>Escreva a equação da reta que
+passa pelos pontos <span class="math inline">(<em>p</em>,0)</span> e
+<span class="math inline">(0,<em>q</em>)</span>, onde <span
+class="math inline"><em>p</em></span> e <span
+class="math inline"><em>q</em></span> são números reais dados.
+Interprete geometricamente o significados desses números.</em></p>
+</div>
+</div>
+<h3 id="aplicações-de-equações-lineares-e-funções-afins">Aplicações de
+equações lineares e funções afins</h3>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.124</strong> (PAEBES - Item M120205G5, adaptado).
+<em>Observe o plano cartesiano abaixo.</em></p>
+<div class="center">
+
+</div>
+<p><em>Os pontos que têm coordenadas <span
+class="math inline">(−2,−2)</span> e <span
+class="math inline">(1,3)</span> são, respectivamente,</em></p>
+<ol type="A">
+<li><p><em>O e R.</em></p></li>
+<li><p><em>S e R.</em></p></li>
+<li><p><em>H e R.</em></p></li>
+<li><p><em>O e L.</em></p></li>
+<li><p><em>O e F.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.125</strong> (PAEBES - Item M120180G5, adaptada).
+<em>Qual é a equação da reta que passa pelos pontos <span
+class="math inline">(−1,5)</span> e <span
+class="math inline">(1,1)</span>?</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> =  − 2<em>x</em> − 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − 2<em>x</em> + 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − 2<em>x</em> + 9</span></em></p></li>
+<li><p><em><span class="math inline">$y=-\frac{x}{2} +
+\frac{3}{2}$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 2<em>x</em> + 4</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A equação da reta em questão é dada por <span
+class="math display">$$\frac{y-5}{x-(-1)} = \frac{1-5}{1-(-1)},$$</span>
+ou seja, <span class="math display">$$y-5 = -\frac{4}{2} (x+1).$$</span>
+Reagrupando os termos, escrevemos <span
+class="math display"><em>y</em> =  − 2<em>x</em> + 3.</span> Logo, <span
+class="math inline"><em>y</em></span> pode ser escrita como função afim
+de <span class="math inline"><em>x</em></span> do seguinte modo: <span
+class="math display"><em>y</em> =  − 2<em>x</em> + 3.</span> Portanto, a
+alternativa correta é D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.126</strong> (SAEPE - Item M120276H6). <em>Observe
+abaixo as duas retas <span class="math inline"><em>r</em></span> e <span
+class="math inline"><em>s</em></span> traçadas em um plano cartesiano em
+que os pontos H, I, J, K, L foram destacados.</em></p>
+<div class="center">
+
+</div>
+<p><em>A solução do sistema que envolve as equações das retas <span
+class="math inline"><em>r</em></span> e <span
+class="math inline"><em>s</em></span> é o ponto</em></p>
+<ol type="A">
+<li><p><em>H.</em></p></li>
+<li><p><em>I.</em></p></li>
+<li><p><em>J.</em></p></li>
+<li><p><em>K.</em></p></li>
+<li><p><em>L.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.127</strong> (SAEPE - Item M120701H6). <em>Observe
+os pontos P, Q, R, S e T representados no plano cartesiano
+abaixo.</em></p>
+<div class="center">
+
+</div>
+<p><em>Em qual desses pontos a abscissa é <span
+class="math inline"> − 3</span> e a ordenada é <span
+class="math inline"> − 2</span>?</em></p>
+<ol type="A">
+<li><p><em>P.</em></p></li>
+<li><p><em>Q.</em></p></li>
+<li><p><em>R.</em></p></li>
+<li><p><em>S.</em></p></li>
+<li><p><em>T.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é E). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.128</strong> (SAEPE - Item M100182H6). <em>Uma
+organização que protege animais silvestres colocou um dispositivo de
+localização em dois filhotes, permitindo, assim, acompanhá-los. No
+desenho abaixo está representada a localização desses dois filhotes
+pelos pontos Z e W.</em></p>
+<div class="center">
+
+</div>
+<p><em>Os pares ordenados que representam a localização dos filhotes Z e
+W são, respectivamente,</em></p>
+<ol type="A">
+<li><p><em><span class="math inline">(−4,−3)</span> e <span
+class="math inline">(3,−2)</span>.</em></p></li>
+<li><p><em><span class="math inline">(−4,3)</span> e <span
+class="math inline">(−3,−2)</span>.</em></p></li>
+<li><p><em><span class="math inline">(3,−4)</span> e <span
+class="math inline">(−3,−2)</span>.</em></p></li>
+<li><p><em><span class="math inline">(3,−4)</span> e <span
+class="math inline">(−2,−3)</span>.</em></p></li>
+<li><p><em><span class="math inline">(4,3)</span> e <span
+class="math inline">(3,2)</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.129</strong> (SAEPE - Item M120325H6, adaptado).
+<em>Os coeficientes da equação reduzida de uma reta <span
+class="math inline"><em>r</em></span> são ambos negativos. Qual das
+retas abaixo pode representar a reta <span
+class="math inline"><em>r</em></span>?</em></p>
+<ol type="A">
+<li></li>
+<li><div class="flushleft">
+
+</div></li>
+<li><div class="flushleft">
+
+</div></li>
+<li><div class="flushleft">
+
+</div></li>
+<li><div class="flushleft">
+
+</div></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Recordemos que a equação de uma
+reta no plano tem a seguinte forma geral <span
+class="math display"><em>A</em><em>x</em> + <em>B</em><em>y</em> = <em>C</em>.</span>
+onde <span class="math inline"><em>A</em>, <em>B</em></span> e <span
+class="math inline"><em>C</em></span> são constantes e as coordenadas
+<span class="math inline">(<em>x</em>,<em>y</em>)</span> especificam
+pontos dessa reta. No caso em que a reta não passa pela origem <span
+class="math inline">(0,0)</span>, temos <span
+class="math inline"><em>C</em> ≠ 0</span>. Dividindo ambos os lados da
+equação por <span class="math inline"><em>C</em></span>, obtemos a
+chamada <span><strong>equação reduzida</strong></span> da reta: <span
+class="math display">$$\frac{x}{a} + \frac{y}{b}=1,$$</span> onde <span
+class="math inline"><em>a</em> = <em>C</em>/<em>A</em></span> e <span
+class="math inline"><em>b</em> = <em>C</em>/<em>B</em></span>, nos casos
+em que <span class="math inline"><em>A</em> ≠ 0</span> e <span
+class="math inline"><em>B</em> ≠ 0</span> (quando a reta não é vertical
+e não é horizontal). Observe que os coeficientes <span
+class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span> têm a seguinte interpretação: os
+pontos <span class="math inline">(<em>a</em>,0)</span> e <span
+class="math inline">(0,<em>b</em>)</span> são os pontos em que a reta
+intersecta os eixos horizontal e vertical, respectivamente.</em></p>
+<p><em>Por exemplo, dada a equação da reta <span
+class="math inline">4<em>x</em> + 3<em>y</em> = 24</span>, a equação
+reduzida é dada por <span class="math display">$$\frac{x}{6} +
+\frac{y}{8} = 1.$$</span> Logo, a reta descrita por essas equações
+intersecta o eixo horizontal no ponto <span
+class="math inline">(6,0)</span> e o eixo vertical no ponto <span
+class="math inline">(0,8)</span>. Vejamos o gráfico:</em></p>
+<div class="center">
+
+</div>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Nas alternativas A) e D), as retas passam pela origem
+<span class="math inline">(0,0)</span> e, portanto, seus coeficientes
+lineares são nulos. Nas alternativas C) e E), o gráfico intersecta o
+eixo vertical em um ponto com ordenada positiva: logo o coeficiente de
+<span class="math inline"><em>y</em></span> na equação reduzida é
+positivo em ambos os casos. Na alternativa B), o gráfico intersecta o
+eixo horizontal em um ponto com abscissa negativa e o eixo vertical em
+um ponto com ordenada negativa: isso significa que os coeficientes das
+variáveis <span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> são ambos negativos na equação
+reduzida da reta. Em resumo, a alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.130</strong> (SAEPE - Item M120184H6). <em>A reta
+<span class="math inline"><em>k</em></span> passa pelos pontos de
+coordenadas <span class="math inline">(0,1)</span> e <span
+class="math inline">(3,2)</span>. Qual é a equação reduzida dessa
+reta?</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> =  − 3<em>x</em> − 1</span></em></p></li>
+<li><p><em><span
+class="math inline">$y=\frac{x}{3}+1$</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = <em>x</em> + 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 3<em>x</em> + 1</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 3<em>x</em> + 2</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A equação da reta em questão é dada por <span
+class="math display">$$\frac{y-1}{x-0} = \frac{2-1}{3-0},$$</span> ou
+seja, <span class="math display">$$y-1 = \frac{1}{3}x.$$</span>
+Reagrupando os termos, escrevemos <span
+class="math inline"><em>y</em></span> como função afim de <span
+class="math inline"><em>x</em></span> do seguinte modo: <span
+class="math display">$$y = \frac{1}{3}x+1.$$</span> A seguinte figura
+ilustra o gráfico dessa função:</p>
+<div class="center">
+
+</div>
+<p>Portanto, a alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.131</strong> (SAEPE - Item M120898E4). <em>A reta
+<span class="math inline"><em>s</em></span> passa pelos pontos <span
+class="math inline">(4,1)</span> e <span
+class="math inline">(2,3)</span>. Qual é a equação dessa reta <span
+class="math inline"><em>s</em></span>?</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> =  − <em>x</em> + 5</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − 2<em>x</em> + 2</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 2<em>x</em> + 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 4<em>x</em> + 1</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 6<em>x</em> + 4</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A reta é gráfico de uma função afim da forma <span
+class="math display"><em>y</em> = <em>a</em><em>x</em> + <em>b</em>,</span>
+onde os coeficientes <span class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span> são constantes que devemos
+determinar a partir da informação de que os pontos <span
+class="math inline">(4,1)</span> e <span
+class="math inline">(2,3)</span> pertencem à reta. Assim, fixando <span
+class="math inline"><em>x</em> = 4</span> e <span
+class="math inline"><em>y</em> = 1</span>, temos a seguinte <em>equação
+linear</em> em <span class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span>: <span
+class="math display">4<em>a</em> + <em>b</em> = 1.</span> Da mesma
+forma, tomando <span class="math inline"><em>x</em> = 2</span> e <span
+class="math inline"><em>y</em> = 3</span>, temos uma segunda <em>equação
+linear</em> em <span class="math inline"><em>a</em></span> e <span
+class="math inline"><em>b</em></span>: <span
+class="math display">2<em>a</em> + <em>b</em> = 3.</span> Desse modo,
+obtemos o <em>sistema de equações lineares</em>: <span
+class="math display">$$\begin{aligned}
+\begin{cases}
+&amp; 4a+b=1\\
+&amp; 2a +b =3
+\end{cases}
+\end{aligned}$$</span> Subtraindo os lados esquerdos e os lados direitos
+dessas duas equações, temos <span
+class="math display">2<em>a</em> =  − 2,</span> ou seja, <span
+class="math inline"><em>a</em> =  − 1</span>. Substituindo esse valor de
+<span class="math inline"><em>a</em></span> na primeira equação, por
+exemplo, temos <span class="math display"> − 4 + <em>b</em> = 1,</span>
+do que concluímos que <span class="math display"><em>b</em> = 5.</span>
+Logo, a equação da reta em questão é dada por <span
+class="math display"><em>y</em> =  − <em>x</em> + 5.</span> A seguinte
+figura ilustra o gráfico dessa função:</p>
+<div class="center">
+
+</div>
+<p>Portanto, a alternativa correta é A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.132</strong> (SPAECE - Item M120283H6). <em>Dois
+pontos pertencentes à reta <span class="math inline"><em>r</em></span>
+são <span class="math inline">(−2,3)</span> e <span
+class="math inline">(1,6)</span>. Qual é a equação dessa reta?</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> =  − 3<em>x</em> − 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − 2<em>x</em> + 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = <em>x</em> + 5</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = <em>x</em> + 6</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 2<em>x</em> + 2</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A equação da reta que desejamos encontrar é dada por <span
+class="math display">$$\frac{y-3}{x-(-2)} = \frac{6-3}{1-(-2)},$$</span>
+ou seja, <span
+class="math display"><em>y</em> − 3 = <em>x</em> + 2.</span> Reagrupando
+os termos, escrevemos <span class="math inline"><em>y</em></span> como
+função afim de <span class="math inline"><em>x</em></span> do seguinte
+modo: <span class="math display"><em>y</em> = <em>x</em> + 5.</span>
+Portanto, a alternativa correta é C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.133</strong> (SPAECE - Item M120703H6).
+<em>Considere uma reta r que passa pelos pontos de coordenadas <span
+class="math inline">(−2,3)</span> e <span
+class="math inline">(4,−2)</span>. Uma equação dessa reta <span
+class="math inline"><em>r</em></span> está representada em</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>x</em> + 2<em>y</em> + 16 = 0</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>x</em> + 6<em>y</em> − 16 = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">2<em>x</em> − 3<em>y</em> + 6 = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">5<em>x</em> + 6<em>y</em> − 8 = 0</span></em></p></li>
+<li><p><em><span
+class="math inline">3<em>x</em> + 5<em>y</em> − 3 = 0</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> A equação da reta que desejamos encontrar tem a seguinte
+forma <span
+class="math display"><em>A</em><em>x</em> + <em>B</em><em>y</em> = <em>C</em>,</span>
+onde <span class="math inline"><em>A</em>, <em>B</em></span> e <span
+class="math inline"><em>C</em></span> são constantes e <span
+class="math inline">(<em>x</em>,<em>y</em>)</span> são as coordenadas de
+um ponto arbitrário da reta. Fixando <span
+class="math inline"><em>x</em> =  − 2</span> e <span
+class="math inline"><em>y</em> = 3</span>, obtemos a equação linear em
+<span class="math inline"><em>A</em></span> e <span
+class="math inline"><em>B</em></span>: <span
+class="math display"> − 2<em>A</em> + 3<em>B</em> = <em>C</em>.</span>
+Agora, tomando <span class="math inline"><em>x</em> = 4</span> e <span
+class="math inline"><em>y</em> =  − 2</span>, temos uma segunda equação
+linear em <span class="math inline"><em>A</em></span> e <span
+class="math inline"><em>B</em></span>: <span
+class="math display">4<em>A</em> − 2<em>B</em> = <em>C</em>.</span>
+Concluímos que <span
+class="math display"> − 2<em>A</em> + 3<em>B</em> = 4<em>A</em> − 2<em>B</em>,</span>
+ou seja, que <span
+class="math display">5<em>B</em> = 6<em>A</em>.</span> Portanto <span
+class="math display">$$B = \frac{6}{5}A.$$</span> Substituindo essa
+expressão para <span class="math inline"><em>B</em></span> na primeira
+equação linear, por exemplo, temos <span class="math display">$$-2A +
+\frac{18}{5} A = C.$$</span> Portanto <span class="math display">$$C =
+\frac{8}{5}A.$$</span> Assim, a equação linear da reta tem a forma <span
+class="math display">$$Ax + \frac{6}{5}A y = \frac{8}{5}A.$$</span>
+Dividindo ambos os lados da equação por <span
+class="math inline"><em>A</em></span> e multiplicando-os por <span
+class="math inline">5</span>, obtemos <span
+class="math display">5<em>x</em> + 6<em>y</em> = 8,</span> Portanto, a
+alternativa correta é D). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>A inspeção direta das
+alternativas pode ajudar a descobrir a resposta correta. Por exemplo,
+substituindo os dados <span class="math inline"><em>x</em> = 4</span> e
+<span class="math inline"><em>y</em> =  − 2</span> nas equações escritas
+nas alternativas A), B) e C), temos, respectivamente, <span
+class="math display">4 + 2 × (−2) + 16 = 16 ≠ 0,</span> <span
+class="math display">4 − 6 × (−2) + 16 = 32 ≠ 0</span> e <span
+class="math display">2 × 4 − 3 × (−2) + 6 = 20 ≠ 0.</span> Da mesma
+forma, substituindo esses valores na equação escrita na alternativa E),
+obtemos <span
+class="math display">3 × 4 + 5 × (−2) − 3 =  − 1 ≠ 0.</span></em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.134</strong> (SPAECE - Item M120881E4). <em>No
+plano cartesiano abaixo está representado o gráfico de uma reta <span
+class="math inline"><em>r</em></span> de equação <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em> + <em>b</em></span>.</em></p>
+<div class="center">
+
+</div>
+<p><em>Os valores dos coeficientes angular e linear dessa reta, são,
+respectivamente</em></p>
+<ol type="A">
+<li><p><em><span class="math inline"><em>a</em> &lt; 0</span> e <span
+class="math inline"><em>b</em> &lt; 0</span>.</em></p></li>
+<li><p><em><span class="math inline"><em>a</em> &lt; 0</span> e <span
+class="math inline"><em>b</em> &gt; 0</span>.</em></p></li>
+<li><p><em><span class="math inline"><em>a</em> &gt; 0</span> e <span
+class="math inline"><em>b</em> &gt; 0</span>.</em></p></li>
+<li><p><em><span class="math inline"><em>a</em> &gt; 0</span> e <span
+class="math inline"><em>b</em> &lt; 0</span>.</em></p></li>
+<li><p><em><span class="math inline"><em>a</em> &gt; 0</span> e <span
+class="math inline"><em>b</em> = 0</span>.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que o gráfico está <em>positivamente</em>
+inclinado, isto é, dada uma variação <em>positiva</em> da variável <span
+class="math inline"><em>x</em></span>, temos que a variação
+correspondente da variável <span class="math inline"><em>y</em></span> é
+também positiva. Portanto, a razão entre as variações, ou seja, o
+<span><strong>coeficiente angular</strong></span>, é positiva. Assim,
+<span class="math inline"><em>a</em> &gt; 0</span>.</p>
+<p>Observamos, ainda, que o gráfico intersecta o eixo vertical em um
+ponto <span class="math inline">(0,<em>b</em>)</span> com <span
+class="math inline"><em>b</em> &lt; 0</span>, ou seja, o
+<span><strong>coeficiente linear</strong></span> <span
+class="math inline"><em>b</em></span> da função afim é negativo.</p>
+<p>Portanto, a alternativa correta é D). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Vejamos exemplos com as
+diferentes possibilidades de sinais dos coeficientes angular <span
+class="math inline"><em>a</em></span> e linear <span
+class="math inline"><em>b</em></span> em uma função afim da forma <span
+class="math display"><em>y</em> = <em>a</em><em>x</em> + <em>b</em>.</span>
+Nos casos em que o coeficiente angular é positivo, isto é, quando <span
+class="math inline"><em>a</em> &gt; 0</span>, temos inclinação positiva
+da reta: ou seja, variações positivas de <span
+class="math inline"><em>x</em></span> correspondem a variações positivas
+de <span class="math inline"><em>y</em></span>. Dito de outro modo, se a
+variável <span class="math inline"><em>x</em></span> cresce, a variável
+<span class="math inline"><em>y</em></span> também cresce
+(proporcionalmente, além disso). No exemplo seguinte, temos <span
+class="math inline"><em>a</em> &gt; 0</span> e <span
+class="math inline"><em>b</em> &gt; 0</span>, visto que, além de
+inclinado positivamente, o gráfico intersecta o eixo vertical no ponto
+<span class="math inline">(0,<em>b</em>)</span> com ordenada
+positiva.</em></p>
+<div class="center">
+
+</div>
+<p><em>Neste exemplo, temos <span class="math display">$$y =
+\frac{4}{5}x +1,$$</span> ou seja, <span
+class="math inline">$a=\frac{4}{5}$</span> e <span
+class="math inline"><em>b</em> = 1</span>. No exemplo seguinte, temos
+<span class="math inline"><em>a</em> &gt; 0</span> e <span
+class="math inline"><em>b</em> &lt; 0</span>, ou seja, o gráfico é
+também positivamente inclinado mas, desta vez, intersecta o eixo
+vertical em um ponto com <span class="math inline">(0,<em>b</em>)</span>
+com ordenada negativa:</em></p>
+<div class="center">
+
+</div>
+<p><em>Neste exemplo, temos <span class="math display">$$y =\frac{4}{5}x
+-1,$$</span> ou seja, <span class="math inline">$a = \frac{4}{5}$</span>
+e <span class="math inline"><em>b</em> =  − 1</span>. Nos próximos dois
+exemplos, o gráfico é <em>negativamente</em> inclinado, ou seja, o
+coeficiente angular <span class="math inline"><em>a</em></span> é
+negativo. Isso significa que, dada uma variação positiva de <span
+class="math inline"><em>x</em></span>, a variação correspondente de
+<span class="math inline"><em>y</em></span> é negativa. Em outros
+termos, se a variável <span class="math inline"><em>x</em></span>
+cresce, a variável <span class="math inline"><em>y</em></span> decresce
+proporcionalmente. Vejamos, portanto, um exemplo em que <span
+class="math inline"><em>a</em> &lt; 0</span> mas <span
+class="math inline"><em>b</em> &gt; 0</span>, indicando que o gráfico
+intersecta o eixo vertical em um ponto acima do eixo
+horizontal:</em></p>
+<div class="center">
+
+</div>
+<p><em>Neste exemplo, temos a função afim dada por <span
+class="math display">$$y = -\frac{4}{5} x + 4,$$</span> com <span
+class="math inline">$a = -\frac{4}{5}$</span> e <span
+class="math inline"><em>b</em> = 4</span>. Finalmente, apresentamos um
+exemplo de função afim <span
+class="math inline"><em>y</em> = <em>a</em><em>x</em> + <em>b</em></span>
+com <span class="math inline"><em>a</em> &lt; 0</span> (gráfico
+negativamente inclinado) e <span
+class="math inline"><em>b</em> &lt; 0</span> (intersecção do gráfico com
+o eixo vertical em um ponto <em>abaixo</em> do eixo horizontal).
+Temos:</em></p>
+<div class="center">
+
+</div>
+<p><em>Nesta figura, representamos o gráfico da função afim <span
+class="math display">$$y = -\frac{4}{5}x-1$$</span> com <span
+class="math inline">$a=-\frac{4}{5}$</span> e <span
+class="math inline"><em>b</em> =  − 1</span>. Note que o gráfico é
+negativamente inclinado (<span
+class="math inline"><em>a</em> &lt; 0</span>) e intersecta o eixo
+vertical em um ponto abaixo do eixo horizontal, com ordenada negativa
+<span class="math inline"><em>b</em> &lt; 0</span>.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.135</strong> (SPAECE - Item M120881E4). <em>A reta
+<span class="math inline"><em>t</em></span> de equação <span
+class="math inline"><em>y</em> = <em>j</em><em>x</em> + <em>k</em></span>
+está representada no gráfico abaixo.</em></p>
+<div class="center">
+
+</div>
+<p><em>Os coeficientes angular <span
+class="math inline"><em>j</em></span> e linear <span
+class="math inline"><em>k</em></span>, em relação ao sinal, são,
+respectivamente,</em></p>
+<ol type="A">
+<li><p><em>negativo e negativo.</em></p></li>
+<li><p><em>negativo e nulo.</em></p></li>
+<li><p><em>positivo e negativo.</em></p></li>
+<li><p><em>positivo e nulo.</em></p></li>
+<li><p><em>positivo e positivo.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que o gráfico está <em>negativamente</em>
+inclinado, isto é, dada uma variação <em>positiva</em> da variável <span
+class="math inline"><em>x</em></span>, temos que a variação
+correspondente da variável <span class="math inline"><em>y</em></span> é
+negativa. Portanto, o <span><strong>coeficiente angular</strong></span>
+<span class="math inline"><em>j</em></span> é negativo. Em suma, <span
+class="math inline"><em>j</em> &lt; 0</span>.</p>
+<p>Observamos, ainda, que o gráfico intersecta o eixo vertical na
+origem, isto é, no ponto <span class="math inline">(0,0)</span>. Logo, o
+<span><strong>coeficiente linear</strong></span> <span
+class="math inline"><em>k</em></span> da função afim <span
+class="math inline"><em>y</em> = <em>j</em><em>x</em> + <em>k</em></span>
+é nulo, ou seja, <span class="math inline"><em>k</em> = 0</span>.</p>
+<p>Portanto, a alternativa correta é B). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.136</strong> (SPAECE - Item M120935E4, adaptado).
+<em>Observe abaixo o gráfico de uma função polinomial do 1<span
+class="math inline"><sup>∘</sup></span> grau.</em></p>
+<div class="center">
+
+</div>
+<p><em>A lei de formação dessa função <span
+class="math inline"><em>f</em></span> é</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> =  − 3<em>x</em> + 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − <em>x</em> + 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − <em>x</em> + 3</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 2<em>x</em> + 1</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 3<em>x</em> + 3</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que o gráfico está <em>negativamente</em>
+inclinado, isto é, a declividade do gráfico é negativa. Observe que, a
+medida que os valores da coordenada <span
+class="math inline"><em>x</em></span> dos pontos sobre a reta
+<em>aumentam</em>, os respectivos valores da coordenada
+<em>diminuem</em>. Em resumo, dada uma variação <em>positiva</em> da
+variável <span class="math inline"><em>x</em></span>, a variação
+correspondente da variável <span class="math inline"><em>y</em></span> é
+<em>negativa</em>. Portanto, o <span><strong>coeficiente
+angular</strong></span> da função é negativo. Portanto, as alternativas
+D) e E) são falsas.</p>
+<p>Observamos, ainda, que o gráfico intersecta o eixo vertical no ponto
+<span class="math inline">(0,3)</span>. Logo, o
+<span><strong>coeficiente linear</strong></span> <span
+class="math inline"><em>b</em></span> da função afim é igual a <span
+class="math inline">3</span>. Portanto, a alternativa B) não é correta.
+Para decidirmos entre as alternativas A) e C), devemos calcular,
+explicitamente, o valor do coeficiente angular. Veja que, quando a
+variável <span class="math inline"><em>x</em></span> varia de <span
+class="math inline"><em>x</em> = 0</span> para <span
+class="math inline"><em>x</em> = 3</span>, a variável <span
+class="math inline"><em>y</em></span> varia de <span
+class="math inline"><em>y</em> = 3</span> para <span
+class="math inline"><em>y</em> = 0</span>. Assim, o coeficiente angular
+<span class="math inline"><em>a</em></span> é dado por <span
+class="math display">$$a=\frac{\mbox{ variação de } y}{\mbox{variação de
+}x} = \frac{0-3}{3-0} =-1,$$</span> Concluímos que a função afim é
+expressa por <span
+class="math display"><em>y</em> =  − <em>x</em> + 3.</span> Portanto, a
+alternativa correta é C). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.137</strong> (SAEPE - Item M120460H6). <em>Observe
+abaixo um esboço do gráfico da função polinomial do 1<span
+class="math inline"><sup>∘</sup></span> grau <span
+class="math inline"><em>f</em> : ℝ → ℝ</span>:</em></p>
+<div class="center">
+
+</div>
+<p><em>A lei de formação dessa função <span
+class="math inline"><em>f</em></span> é</em></p>
+<ol type="A">
+<li><p><em><span
+class="math inline"><em>y</em> =  − 4<em>x</em> − 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − 4<em>x</em> + 1</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> =  − 4<em>x</em> + 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 4<em>x</em> − 4</span></em></p></li>
+<li><p><em><span
+class="math inline"><em>y</em> = 4<em>x</em> + 1</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Observe que o gráfico está <em>positivamente</em>
+inclinado, isto é, dada uma variação <em>positiva</em> da variável <span
+class="math inline"><em>x</em></span>, temos que a variação
+correspondente da variável <span class="math inline"><em>y</em></span> é
+também positiva. Portanto, o <span><strong>coeficiente
+angular</strong></span> da função é positivo. Observamos, ainda, que o
+gráfico intersecta o eixo vertical no ponto <span
+class="math inline">(0,−4)</span>. Logo, o <span><strong>coeficiente
+linear</strong></span> <span class="math inline"><em>b</em></span> da
+função afim é igual a <span class="math inline"> − 4</span>. Para
+calcular explicitamente, o valor do coeficiente angular, vemos que,
+quando a variável <span class="math inline"><em>x</em></span> varia de
+<span class="math inline"><em>x</em> = 0</span> para <span
+class="math inline"><em>x</em> = 1</span>, a variável <span
+class="math inline"><em>y</em></span> varia de <span
+class="math inline"><em>y</em> =  − 4</span> para <span
+class="math inline"><em>y</em> = 0</span>. Assim, o coeficiente angular
+<span class="math inline"><em>a</em></span> é dado por <span
+class="math display">$$a=\frac{\mbox{ variação de } y}{\mbox{variação de
+}x} = \frac{0-(-4)}{1-0} =4,$$</span> Concluímos que a função afim é
+expressa por <span
+class="math display"><em>y</em> = 4<em>x</em> − 4.</span> Portanto, a
+alternativa correta é D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.138</strong> (SAEPE - Item M100363H6). <em>A função
+polinomial do 1<span class="math inline"><sup>∘</sup></span> grau <span
+class="math inline"><em>f</em> : ℝ → ℝ</span> possui coeficiente angular
+e coeficiente linear iguais a <span class="math inline"> − 3</span> e
+<span class="math inline">1</span>, respectivamente.</em></p>
+<p><em>Um esboço do gráfico dessa função é</em></p>
+<div class="center">
+<p><img src="graficos.jpg" style="width:50.0%" alt="image" /></p>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Uma vez que o coeficiente angular <span
+class="math inline"><em>a</em></span> é igual a <span
+class="math inline"> − 3</span> e, portanto, é negativo, concluímos que
+o gráfico é <em>negativamente</em> inclinado, Além disso, como o
+coeficiente linear <span class="math inline"><em>b</em></span> é igual a
+<span class="math inline">1</span> e, sendo assim, é positivo, o gráfico
+intersecta o eixo vertical em um ponto <em>acima</em> do eixo
+horizontal.</p>
+<p>Os únicos gráficos, nas alternativas, com essas propriedades
+geométricas, são aqueles das letras A) e C). No entanto, a inclinação ou
+declividade do gráfico na alternativa C) é igual a <span
+class="math display">$$\frac{0-1}{3-0} = -\frac{1}{3}$$</span> ao passo
+que a inclinação ou declividade do gráfico na alternativa A) é dada por
+<span class="math display">$$\frac{0-1}{\frac{1}{3}-0} =
+-\frac{1}{\frac{1}{3}} =-3.$$</span> Portanto, a alternativa correta é
+A). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.139</strong>. <em>Ao percorrer uma avenida de
+Fortaleza, um automóvel passa por um primeiro fotossensor às 19:59:40 e
+por um segundo, distante 1 200 metros do primeiro, às 20:00:20. O
+automóvel estava acima ou abaixo da velocidade média de 60 km/h,
+permitida nesse trecho da avenida?</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.140</strong>. <em>Um automóvel passa por um
+cruzamento a uma velocidade de 50 km/h. Descreva a distância <span
+class="math inline"><em>y</em></span>, em quilômetros, percorrida a
+partir do cruzamento, em função do tempo <span
+class="math inline"><em>x</em></span>, medido em horas, supondo que o
+automóvel mantém essa velocidade. Em seguida, desenhe um gráfico
+mostrando as sucessivas distâncias percorridas pelo automóvel em função
+do tempo.</em></p>
+</div>
+</div>
+<p>Agora, seguimos com uma questão para que você possa exercitar a noção
+de razão como uma <em>taxa de variação</em>. Este exercício envolve,
+além disso, as chamadas <span><strong>progressões
+aritméticas</strong></span>.</p>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.141</strong> (ENEM 2011, Caderno 6, Questão 159,
+adaptada). <em>O número mensal de passagens de uma determinada empresa
+aérea aumentou no ano passado nas seguintes condições: em janeiro foram
+vendidas 33 000 passagens; em fevereiro, 34 500; em março, 36 000. Esse
+padrão de crescimento se mantém para os meses subsequentes.</em></p>
+<p><em>Quantas passagens foram vendidas por essa empresa em julho do ano
+passado?</em></p>
+<ol type="a">
+<li><p><em><span class="math inline">38 000</span></em></p></li>
+<li><p><em><span class="math inline">40 500</span></em></p></li>
+<li><p><em><span class="math inline">41 000</span></em></p></li>
+<li><p><em><span class="math inline">42 000</span></em></p></li>
+<li><p><em><span class="math inline">48 000</span></em></p></li>
+</ol>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> Observe que o <em>aumento</em> do número de passagens de
+janeiro para fevereiro foi de <span
+class="math inline">34.500 − 33.000 = 1.500</span> passagens. Já o
+<em>aumento</em> do número de passagens de fevereiro para março foi de
+<span class="math inline">36.000 − 34.500 = 1.500</span> passagens. O
+fato de que o padrão de crescimento se manteve constante significa que o
+aumento do número de passagens de um mês para o seguinte foi sempre
+igual a <span class="math inline">1.500</span>. De março a julho, temos
+4 meses. A cada mês, foram vendidas 1.500 passagens <em>a mais</em>.
+Logo, nos quatro meses, foram vendidas <span
+class="math inline">4 × 1.500 = 6.000</span> passagens a mais. Portanto,
+em julho, foram vendidas <span
+class="math inline">36.000 + 6.000 = 42.000</span> passagens. A
+alternativa correta é letra D). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>No exercício anterior, a
+variável tempo é <em>discreta</em>, pois são os meses do ano, e podemos
+identificá-la por uma variável <span
+class="math inline"><em>n</em></span>, que varia de <span
+class="math inline">1</span> a <span class="math inline">12</span>. O
+número de passagens no mês <span class="math inline"><em>n</em></span> é
+simbolizado por <span
+class="math inline"><em>a</em><sub><em>n</em></sub></span>. Assim, temos
+<span
+class="math display"><em>a</em><sub><em>n</em></sub> = 33 000 + 1 500 ⋅ (<em>n</em>−1)</span>
+Em março, por exemplo, que corresponde ao mês <span
+class="math inline"><em>n</em> = 3</span>, temos <span
+class="math display"><em>a</em><sub>3</sub> = 33 000 + 1 500 ⋅ (3−1) = 33 000 + 3 000 = 36 000
+passagens vendidas.</span> Este é um exemplo de uma
+<span><strong>progressão aritmética</strong></span> em que o valor da
+variável em <span class="math inline"><em>n</em></span> é dado por <span
+class="math display"><em>a</em><sub><em>n</em></sub> = <em>a</em><sub>1</sub> + <em>r</em> ⋅ (<em>n</em>−1),</span>
+onde <span class="math inline"><em>a</em><sub>1</sub></span> é o valor
+da variável em <span class="math inline">1</span> e <span
+class="math inline"><em>r</em></span> é uma constante chamada
+<span><strong>razão</strong></span>.</em></p>
+</div>
+</div>
+<div class="fBox">
+<p>Os conceitos de funções afins, acréscimos simples e progressões
+aritméticas são naturalmente relacionados entre si. Vimos, acima, que
+acréscimos simples, a uma taxa <span
+class="math inline"><em>i</em></span>, sobre um valor inicial <span
+class="math inline"><em>C</em></span>, definem o
+<span><strong>montante</strong></span> <span
+class="math inline"><em>M</em></span> como função do tempo <span
+class="math inline"><em>t</em></span> dada por <span
+class="math display"><em>M</em>(<em>t</em>) = <em>C</em> + <em>C</em><em>i</em><em>t</em>.</span>
+Note que, tomando <span
+class="math inline"><em>t</em> = 1, 2, 3…</span>, definimos uma
+<span><strong>progressão aritmética</strong></span> de montantes em que
+a <span><strong>razão</strong></span> <span
+class="math inline"><em>r</em></span> é igual a <span
+class="math inline"><em>C</em><em>i</em></span>. Assim, denotando <span
+class="math inline"><em>r</em> = <em>C</em><em>i</em></span>, temos
+<span class="math display">$$\begin{aligned}
+&amp; M(0) = C,\\
+&amp; M(1) = C + Ci = C+ r,\\
+&amp; M(2) = C + 2Ci = C + 2r,
+\end{aligned}$$</span> e assim por diante. O termo geral desta
+progressão aritmética de montantes é dado pelo montante no tempo <span
+class="math inline"><em>t</em> = <em>n</em></span>, isto é, por <span
+class="math display"><em>M</em>(<em>n</em>) = <em>C</em> + <em>C</em><em>i</em><em>n</em> = <em>C</em> + <em>r</em><em>n</em>,</span>
+onde <span class="math inline"><em>r</em> = <em>C</em><em>i</em></span>
+é o acréscimo (por exemplo, juros) somado a cada iteração.</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Continuando a discussão sobre a
+relação entre funções afins, acréscimos simples e progressões
+geométricas, dada uma função afim <span
+class="math display"><em>f</em>(<em>x</em>) = <em>b</em> + <em>a</em><em>x</em>,</span>
+considere valores inteiros da variável <span
+class="math inline"><em>x</em></span>, dados por <span
+class="math inline"><em>x</em> = <em>n</em></span>, onde <span
+class="math inline"><em>n</em> = 1, 2, 3, …</span> Então <span
+class="math display"><em>f</em>(<em>n</em>) = <em>b</em> + <em>a</em><em>n</em>.</span>
+Essa sequência de valores da função define uma <span><strong>progressão
+aritmética</strong></span> com termos <span
+class="math display">$$\begin{aligned}
+&amp; f(0) = b,\\
+&amp; f(1) = b + a ,\\
+&amp; f(2) = b+2a,
+\end{aligned}$$</span> e assim por diante. O termo geral desta
+progressão aritmética é dado pela função <span
+class="math inline"><em>f</em></span> no valor da variável <span
+class="math inline"><em>x</em> = <em>n</em></span>, isto é, por <span
+class="math display"><em>f</em>(<em>n</em>) = <em>b</em> + <em>a</em><em>n</em>,</span>
+onde <span class="math inline"><em>r</em> = <em>a</em></span> é a razão
+da progressão aritmética e <span class="math inline"><em>b</em></span> é
+seu termo inicial.</em></p>
+<div class="center">
+
+</div>
+<p><em>A figura ilustra o gráfico da função afim <span
+class="math display">$$f(x) = 1 +\frac{4}{5}x,$$</span> em que
+destacamos os pontos que correspondem aos valores <span
+class="math inline"><em>x</em> = <em>n</em></span>, onde <span
+class="math inline"><em>n</em> = 1, 2, 3, 4, 5</span>. Observe que os
+valores <span class="math display">$$f(n) = 1 + \frac{4}{5}n$$</span>
+formam uma progressão aritmética de razão <span
+class="math inline">$r=\frac{4}{5}$</span>, o que, geometricamente, é
+representado pelo fato de que os pontos correspondentes no gráfico estão
+todos alinhados.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.142</strong> (SAEPE - Item M110370H6, adaptado).
+<em>Em março de 2017, Taís começou a trabalhar como manicure e comprou 8
+vidros de esmalte. Após isso, a cada mês, ela comprou 2 vidros de
+esmalte a mais do que havia comprado no mês anterior. Em agosto de 2017,
+o preço de cada vidro de esmalte era R<span class="math inline">$</span>
+3,75.</em></p>
+<p><em>A quantia gasta por Taís, em agosto de 2017, na compra desses
+vidros de esmalte foi</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>R<span class="math inline">$</span> 37,50.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 45,00.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 52,50.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 67,50.</em></p></li>
+<li><p><em>R<span class="math inline">$</span> 75,00.</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> As quantidades de vidros de esmalte comprados a cada mês,
+de março a agosto de 2017, formam uma <span><strong>progressão
+aritmética</strong></span>: <span
+class="math display">8,  8 + 2 = 10,  8 + 4 = 12   8 + 6 = 14,  8 + 8 = 16,  8 + 10 = 18.</span>
+Em agosto de 2017, portanto, Taís comprou 18 vidros de esmalte a um
+preço unitário de R<span class="math inline">$</span> 3,75. Para tanto,
+gastou <span
+class="math display">18 × 3, 75 = 9 × 2 × 3, 75 = 9 × 7, 5 = 8 × 7, 5 + 7, 5 = 4 × 15 + 7, 5 = 60 + 7, 5 = 67, 50,</span>
+ou seja, R<span class="math inline">$</span> 67,50, o que corresponde à
+alternativa D). ◻</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.143</strong> (SAEPE - Item M110093H6, adaptado).
+<em>Um grupo de crianças decidiu completar um álbum que deve ser
+preenchido com 1 470 figurinhas de jogadores de futebol. Esse grupo
+encontrava-se semanalmente para juntar e colar as figurinhas inéditas.
+Na décima quinta semana, eles conseguiram completar o álbum, sendo que a
+cada semana de encontro eles sempre conseguiam 5 figurinhas inéditas a
+mais do que na semana anterior.</em></p>
+<p><em>Quantas figurinhas inéditas, no total, esse grupo colou no álbum
+na primeira semana?</em></p>
+<div class="multicols">
+<p><em><span>5</span></em></p>
+<ol type="A">
+<li><p><em>573</em></p></li>
+<li><p><em>294</em></p></li>
+<li><p><em>98</em></p></li>
+<li><p><em>63</em></p></li>
+<li><p><em>55</em></p></li>
+</ol>
+</div>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Seja <span class="math inline"><em>a</em></span> a
+quantidade de figurinhas juntadas e coladas pelo grupo no primeiro
+encontro. A cada semana, 5 figurinhas a mais eram acrescentadas pelo
+grupo, totalizando <span class="math display">$$a + (a + 5) + (a+ 5 + 5)
++ (a + 5+5+5)  + \ldots + (a+ \underbrace{(5+5 + 5 + \ldots + 5)}_{14\,
+{\rm vezes}})$$</span> figurinhas juntadas e coladas, ou seja, <span
+class="math display">15<em>a</em> + 5 + 5 × 2 + 5 × 3 + … + 5 × 14,</span>
+expressão que pode ser escrita colocando-se a
+<span><strong>razão</strong></span> 5 em evidência, como segue <span
+class="math display">15<em>a</em> + 5 × (1+2+…+14).</span> Precisamos,
+então, calcular a soma dos números de <span class="math inline">1</span>
+a <span class="math inline">14</span>. Para isso, reorganizamos as
+parcelas dessa soma da seguinte forma: <span class="math display">$$1 +
+2 + 3 + \ldots + 7 + 8 + \ldots + 12 + 13 + 14 = (1+14) + (2+13) +
+(3+12) + \ldots + (7+8) = \underbrace{15 +15 + 15 + \ldots +
+15}_{7\,{\rm vezes}}.$$</span> Logo, a soma é igual a <span
+class="math inline">7 × 15 = 105</span>. Assim, a quantidade de novas
+figurinhas adicionadas pelo grupo ao longo das 15 semanas é <span
+class="math display">15<em>a</em> + 5 × 105 = 15<em>a</em> + 525.</span>
+Como o total de figurinha juntadas e coladas foi pelo grupo foi 1 470,
+concluímos que <span
+class="math display">15 × <em>a</em> + 525 = 1 470.</span> Logo, a
+quantidade colada inicialmente foi <span class="math display">$$a =
+\frac{1\,470-525}{15} = \frac{945}{15} = \frac{315}{5} = 63$$</span>
+figurinhas, o que corresponde à alternativa D). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Poderíamos ter usado,
+diretamente, a expressão para soma <span
+class="math inline"><em>S</em><sub><em>n</em></sub></span> dos <span
+class="math inline"><em>n</em></span> primeiros termos de uma progressão
+aritmética, a saber, <span class="math display">$$S_n = \frac{n}{2} (a_1
++ a_n),$$</span> tendo em conta que <span
+class="math inline"><em>S</em><sub><em>n</em></sub> = 1 470</span> e que
+a razão da progressão é <span class="math inline"><em>r</em> = 5</span>.
+Com isso, teríamos <span
+class="math display"><em>a</em><sub><em>n</em></sub> = <em>a</em><sub>1</sub> + 14 × 5 = <em>a</em><sub>1</sub> + 70.</span>
+Assim, obteríamos <span class="math display">$$2a_1 + 70 = \frac{1\,470
+\times 2}{15},$$</span> do que concluiríamos, como sabemos, que <span
+class="math inline"><em>a</em><sub>1</sub> = 63</span>.</em></p>
+<p><em>No entanto, preferimos mostrar de que modo deduzir a expressão da
+soma como parte da resolução. Acreditamos que essa seja uma abordagem
+mais natural, por apresentar uma técnica motivada por uma problema,
+tendo em conta o contexto de recomposição de aprendizagens.</em></p>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.144</strong>. <em>Augusto investiu R<span
+class="math inline">$</span> 1 000 em letras do Tesouro Nacional, que
+rendem cerca de 13<span class="math inline">%</span> ao ano. Quanto
+deveria investir na poupança, que rende cerca de 6<span
+class="math inline">%</span> ao ano, para obter o mesmo montante, após
+um ano? Elabore tabelas e gráficos que mostrem como os montantes
+evoluem, ano a ano.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.145</strong>. <em>Um automóvel passa por um posto
+de combustíveis em uma rodovia, a 120 quilômetros por hora, no mesmo
+instante em que outro automóvel passa por um ponto na mesma rodovia,
+situado a 40 quilômetros do posto, a 140 quilômetros por hora. Caso os
+automóveis trafeguem em sentidos opostos, mantendo suas velocidades
+constantes, após quanto tempo passarão um pelo outro na
+rodovia?</em></p>
+<p><em>Represente a situação descrita pelo problema e sua resolução em
+um gráfico que mostre as distâncias percorridas pelos automóveis em
+função do tempo gasto nos percursos.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.146</strong>. <em>Um trem passa por uma estação às
+08:55 a uma velocidade de 120 quilômetros por hora. Um segundo trem
+passa por essa mesma estação, às 09:10, seguindo viagem em trilhas
+paralelos ao do primeiro trem, a uma velocidade de 150 quilômetros por
+hora. Sabendo que ambos os trens têm extensões de 100 metros, a que
+horas o segundo trem ultrapassará completamente o primeiro?</em></p>
+<p><em>Represente graficamente a situação descrita pelo problema e sua
+resolução.</em></p>
+<div class="versaoProfessor">
+<div class="obsBox">
+<div class="observacaoT">
+<p><em><strong>Observação 1.1</strong>. <em>O professor ou tutor podem
+elaborar variantes desse problema: por exemplo, considerar aviões que,
+estando em diferentes alturas, ajustam o ângulo de subida com relação ao
+solo, para que fiquem à mesma altura depois de algum tempo; ou dois
+capitais iniciais diferentes que, investidos a diferentes taxas de
+<em>juros simples</em>, resultam, após algum tempo, em um mesmo
+montante.</em></em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.147</strong>. <em>A tabela seguinte mostra dois
+planos de pacotes de dados, em megabytes (MB), de uma empresa de
+telefonia celular.</em></p>
+<div class="center">
+<table>
+<tbody>
+<tr class="odd">
+<td rowspan="2" style="text-align: center;"><em>Plano</em></td>
+<td style="text-align: center;"><em> Quantidade inicial </em></td>
+<td style="text-align: center;"><em> Assinatura </em></td>
+<td style="text-align: center;"><em> Valor por MB </em></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><em>de dados</em></td>
+<td style="text-align: center;"><em>mensal</em></td>
+<td style="text-align: center;"><em>adicional</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><em>Plano A </em></td>
+<td style="text-align: center;"><em>10 MB</em></td>
+<td style="text-align: center;"><em>R<span class="math inline">$</span>
+10,00</em></td>
+<td style="text-align: center;"><em>R<span class="math inline">$</span>
+0,50</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><em>Plano B </em></td>
+<td style="text-align: center;"><em>50 MB</em></td>
+<td style="text-align: center;"><em>R<span class="math inline">$</span>
+60,00</em></td>
+<td style="text-align: center;"><em>R<span class="math inline">$</span>
+0,30</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>Baseando-se nestas informações, podemos afirmar que</em></p>
+<ol type="A">
+<li><p><em>o plano A é mais vantajoso que o plano B para quantidade
+total de dados superior a 200 MB.</em></p></li>
+<li><p><em>o plano A é mais vantajoso que o plano B para quantidade
+total de dados inferior a 200 MB.</em></p></li>
+<li><p><em>o plano A é mais vantajoso que o plano B para qualquer
+quantidade total de dados.</em></p></li>
+<li><p><em>o plano A é menos vantajoso que o plano B para qualquer
+quantidade total de dados.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> No plano A, o custo total (assinatura mais megabytes
+adicionais) para o assinante de <span
+class="math inline"><em>x</em></span> MB (com <span
+class="math inline"><em>x</em> &gt; 10</span>) é dado por <span
+class="math display"><em>C</em><sub><em>A</em></sub>(<em>x</em>) = 10 + 0, 5 × (<em>x</em>−10) = 10 + 0, 5<em>x</em> − 0, 5 × 10 = 10 − 5 + 0, 5<em>x</em>,</span>
+ou seja, é dado pela função afim <span
+class="math display"><em>C</em><sub><em>A</em></sub>(<em>x</em>) = 0, 5<em>x</em> + 5,</span>
+onde <span class="math inline"><em>x</em> &gt; 10</span>. Já o custo
+total de <span class="math inline"><em>x</em></span> MB, com <span
+class="math inline"><em>x</em> &gt; 50</span>, para o assinante do plano
+B é representado por <span
+class="math display"><em>C</em><sub><em>B</em></sub>(<em>x</em>) = 60 + 0, 3(<em>x</em>−50) = 60 + 0, 3<em>x</em> − 0, 3 × 50 = 60 − 15 + 0, 3<em>x</em>,</span>
+uma função afim que pode ser reescrita como <span
+class="math display"><em>C</em><sub><em>B</em></sub>(<em>x</em>) = 0, 3<em>x</em> + 45,</span>
+onde <span class="math inline"><em>x</em> &gt; 50</span>. Note que <span
+class="math inline"><em>C</em><sub><em>A</em></sub></span> e <span
+class="math inline"><em>C</em><sub><em>B</em></sub></span> são exemplos
+de funções <span><strong>definidas por sentenças</strong></span>, cujas
+expressões completas são <span class="math display">$$\begin{aligned}
+C_A(x) =
+\begin{cases}
+10, \mbox{ se } 0 \le x \le 10,\\
+0,5 x + 5, \mbox{ se } x &gt; 10.
+\end{cases}
+\end{aligned}$$</span> e <span class="math display">$$\begin{aligned}
+C_B(x) =
+\begin{cases}
+60, \mbox{ se } 0 \le x \le 50,\\
+0,3 x + 45, \mbox{ se } x &gt; 50.
+\end{cases}
+\end{aligned}$$</span> Observe que o custo total do plano A passa a ser
+maior do que o custo total do plano B quando <span
+class="math inline"><em>C</em><sub><em>A</em></sub>(<em>x</em>) &gt; <em>C</em><sub><em>B</em></sub>(<em>x</em>)</span>,
+isto é, quando <span
+class="math display">0, 5<em>x</em> + 5 &gt; 0, 3<em>x</em> + 45,</span>
+com <span class="math inline"><em>x</em> &gt; 50</span>. Subtraindo
+<span class="math inline">0, 3<em>x</em> + 5</span> dos dois lados desta
+desigualdade, obtemos <span
+class="math display">0, 2<em>x</em> &gt; 40</span> Dividindo os dois
+lados desta desigualdade por <span class="math inline">0, 2</span>,
+concluímos que <span class="math display">$$x &gt; \frac{40}{0,2} =
+\frac{40\times 10}{0,2\times 10} = \frac{400}{2} = 200  \mbox{
+MB}.$$</span> Concluímos que o plano A passa a ser menos vantajoso que o
+plano B para uma quantidade total de dados superior a <span
+class="math inline">200</span> MB. Para uma quantidade inferior a 200 MB
+(mesmo quando inferior a 50MB), o plano A é a opção mais vantajosa, ou
+seja, de menor custo total. No caso em que a quantidade total de dados é
+exatamente igual a 200 MB, os dois planos representam o mesmo custo
+total. A alternativa correta é a de letra B). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong> (Expressão algébrica, coeficientes,
+gráfico e crescimento de uma função afim). <em>A função afim <span
+class="math inline"><em>f</em>(<em>x</em>) = 0, 5<em>x</em> + 5</span>
+tem coeficiente angular <span
+class="math inline"><em>a</em> = 0, 5</span> e coeficiente linear <span
+class="math inline"><em>b</em> = 5</span>, o que significa que seu
+gráfico é uma linha reta que intersecta o eixo vertical no ponto <span
+class="math inline">(0,5)</span> e tem
+<span><strong>declividade</strong></span> <span
+class="math inline">0, 5</span> em relação ao eixo horizontal. A função
+afim <span
+class="math inline"><em>g</em>(<em>x</em>) = 0, 3<em>x</em> + 45</span>
+tem coeficiente angular <span
+class="math inline"><em>a</em> = 0, 3</span> e coeficiente linear <span
+class="math inline"><em>b</em> = 45</span>, o que significa que seu
+gráfico é uma linha reta que intersecta o eixo vertical no ponto <span
+class="math inline">(0,45)</span> e tem
+<span><strong>declividade</strong></span> <span
+class="math inline">0, 3</span> em relação ao eixo horizontal. Portanto,
+o gráfico da função afim <span class="math inline"><em>g</em></span> é
+uma linha reta <em>menos inclinada</em> que a reta dada pelo gráfico da
+função afim <span class="math inline"><em>f</em></span>, como na figura
+seguinte:</em></p>
+<div class="center">
+
+</div>
+<p><em>Geometricamente, isto significa que o gráfico de <span
+class="math inline"><em>g</em></span> está “inicialmente” acima do
+gráfico da função <span class="math inline"><em>f</em></span>, para
+valores da variável <span class="math inline"><em>x</em></span> tais que
+<span class="math inline"><em>x</em> &lt; 200</span>. No entanto, o fato
+de ter menor inclinação faz com que, para valores de <span
+class="math inline"><em>x</em></span> com <span
+class="math inline"><em>x</em> &gt; 200</span>, o gráfico de <span
+class="math inline"><em>g</em></span> “passe” a ficar abaixo do gráfico
+de <span class="math inline"><em>f</em></span>.</em></p>
+<p><em>Note que os pontos <span
+class="math inline"><em>A</em> = (0,5)</span> e <span
+class="math inline"><em>P</em> = (200,105)</span> pertencem ao gráfico
+de <span class="math inline"><em>f</em></span>. O coeficiente angular
+<span class="math inline"><em>a</em> = 0, 5</span> de <span
+class="math inline"><em>f</em></span> é, portanto, dado pela
+<span><strong>taxa de variação</strong></span> <span
+class="math display">$$a=\frac{105-5}{200-0} = \frac{100}{200} =
+\frac{5}{10} = 0,5,$$</span> ao passo que o coeficiente angular <span
+class="math inline"><em>a</em> = 0, 3</span> de <span
+class="math inline"><em>g</em></span> é dado pela taxa de variação
+calculada a partir dos pontos <span
+class="math inline"><em>B</em> = (0,45)</span> e <span
+class="math inline"><em>P</em> = (200,105)</span> que pertencem ao
+gráfico de <span class="math inline"><em>g</em></span>: <span
+class="math display">$$a= \frac{105-45}{200-0} = \frac{60}{200} =
+\frac{3}{10}=0,3.$$</span></em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.148</strong> (Comparando taxas de variação).
+<em>Duas velas homogêneas e de comprimentos iguais são acesas
+simultaneamente. A primeira tem um tempo de queima de 4 horas e a
+segunda de 6 horas. Após certo tempo, ambas foram apagadas
+simultaneamente. Observou-se que o comprimento restante de uma era o
+dobro do comprimento restante da outra. Por quanto tempo ficaram
+acesas?</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Indiquemos a vela que queima mais lentamente como vela A e
+a que queima mais rapidamente por vela B. Na tabela abaixo, registramos
+as frações restantes das duas velas a cada hora, durante as primeiras
+quatro horas após terem sido acesas:</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"></th>
+<th style="text-align: center;"> 1 hora </th>
+<th style="text-align: center;"> 2 horas </th>
+<th style="text-align: center;"> 3 horas </th>
+<th style="text-align: center;"> 4 horas </th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">Vela A </td>
+<td style="text-align: center;">5/6</td>
+<td style="text-align: center;">4/6</td>
+<td style="text-align: center;">3/6</td>
+<td style="text-align: center;">2/6</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">Vela B </td>
+<td style="text-align: center;">3/4</td>
+<td style="text-align: center;">2/4</td>
+<td style="text-align: center;">1/4</td>
+<td style="text-align: center;">0</td>
+</tr>
+</tbody>
+</table>
+<p>Uma vez que <span class="math display">$$\frac{3}{6} = \frac{1}{2} =
+2 \times \frac{1}{4},$$</span> concluímos que a parte restante da vela A
+é igual ao dobro da parte restante da vela B, após 3 horas do instante
+em que ambas foram acesas.</p>
+<p>Uma solução alternativa, mais algébrica, pode ser elaborada da
+seguinte forma: supondo que o comprimento das velas é igual a 24
+centímetros (essa hipótese em nada afeta a solução), deduzimos que,
+<span class="math inline"><em>x</em></span> horas após o instante
+inicial, a vela A fica com comprimento restante igual a <span
+class="math display">$$24 - \frac{24}{6} x$$</span> enquanto o
+comprimento restante da vela B, decorridas <span
+class="math inline"><em>x</em></span> horas após o instante inicial, é
+igual a <span class="math display">$$24 - \frac{24}{4}x.$$</span> Como o
+primeiro comprimento é, pelo enunciado da questão, igual ao dobro do
+segundo, temos <span class="math display">$$24 - \frac{24}{6} x= 2\times
+\bigg(24 - \frac{24}{4}x\bigg)$$</span> Rearrajados os termos, obtemos
+<span class="math display">$$\frac{x}{2} - \frac{x}{6} = 1,$$</span> ou
+seja, <span class="math display">$$\frac{2x}{6} =1,$$</span> o que
+resulta em <span class="math inline"><em>x</em> = 3</span> horas. ◻</p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Nos próximos exercícios,
+discutiremos equações lineares em duas variáveis (<span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, digamos) da forma <span
+class="math display"><em>A</em><em>x</em> + <em>B</em><em>y</em> = <em>C</em>,</span>
+onde <span class="math inline"><em>A</em>, <em>B</em></span> e <span
+class="math inline"><em>C</em></span> são números dados, isto é, são
+<em>coeficientes</em> constantes. Relembre que, se <span
+class="math inline"><em>B</em> ≠ 0</span>, podemos reescrever a equação
+acima pondo <span class="math inline"><em>y</em></span> <em>em
+função</em> de <span class="math inline"><em>x</em></span>: <span
+class="math display">$$y = -\frac{A}{B} x +\frac{C}{B},$$</span> uma
+função afim com coeficiente angular <span
+class="math inline">$a=-\frac{A}{B}$</span>. Se <span
+class="math inline"><em>B</em> = 0</span> (e <span
+class="math inline"><em>A</em> ≠ 0</span>), a equação reduz-se a <span
+class="math inline">$x=\frac{C}{A}$</span>. Nos dois casos, as soluções
+<span class="math inline">(<em>x</em>,<em>y</em>)</span> da equação
+definem uma reta no plano, cuja declividade é, exatamente, <span
+class="math inline">$a=-\frac{A}{B}$</span>.</em></p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.149</strong>. <em>Determine a solução do
+<em>sistema</em> de equações lineares <span
+class="math display">$$\begin{aligned}
+\begin{cases}
+-2x+3y = 3\\
+3x+ 4y = 36
+\end{cases}
+\end{aligned}$$</span></em></p>
+</div>
+</div>
+<div class="proof">
+<p><em>.</em> A primeira equação do sistema define a função afim <span
+class="math display">$$y = \frac{2}{3}x+1,$$</span> cujo coeficiente
+angular é positivo e igual a <span
+class="math inline">$\frac{2}{3}$</span>. A segunda equação, por sua
+vez, define a função afim <span class="math display">$$y =
+-\frac{3}{4}x+9,$$</span> cujo coeficiente angular é negativo e igual a
+<span class="math inline">$-\frac{3}{4}.$</span> Os gráficos dessas
+funções estão ilustrados na seguinte figura: note como a inclinação da
+reta com coeficiente angular positivo é dada por um ângulo
+<em>agudo</em> com relação à horizontal ao passo que a inclinação da
+reta com coeficiente angular negativo é dada por um ângulo
+<em>obtuso</em> com relação à horizontal.</p>
+<div class="center">
+
+</div>
+<p>As coordenadas do ponto <span
+class="math inline"><em>P</em> = (<em>x</em>,<em>y</em>)</span> na
+intersecção das duas retas são a solução do sistema: igualando as duas
+expressões para <span class="math inline"><em>y</em></span> acima,
+obtemos <span class="math display">$$\frac{2}{3}x+1 =
+-\frac{3}{4}x+9$$</span> Multiplicando os dois lados por 12, temos <span
+class="math display">8<em>x</em> + 12 =  − 9<em>x</em> + 108,</span> ou
+seja, <span class="math inline">17<em>x</em> = 96</span> e, portanto,
+<span class="math inline">$x=\frac{96}{17}$</span>. Concluímos que a
+coordenada <span class="math inline"><em>y</em></span> do ponto <span
+class="math inline"><em>P</em></span> é dada por <span
+class="math display">$$y = \frac{2}{3} \times
+\frac{96}{17}+1=\frac{81}{17}.$$</span> Logo, a solução do sistema são
+as coordenadas <span class="math inline">$x=\frac{96}{17}$</span> e
+<span class="math inline">$y=\frac{81}{17}$</span> do ponto <span
+class="math inline"><em>P</em></span> dado pela intersecção das duas
+retas definidas pelas equações do sistema. ◻</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.150</strong> (INSPER 2020, Caderno 1, Questão 37,
+adaptada). <em>O ouro é um metal utilizado na confecção de diversos
+produtos e costuma ser misturado com outros metais, gerando ligas de
+ouro. Por exemplo, uma liga de ouro 800 indica que de cada 1.000 partes
+da liga de ouro, 800 são de ouro puro e 200 são de outros
+metais.</em></p>
+<p><em>Um artesão precisa de 10 gramas de liga de ouro 585 para
+confeccionar um produto, porém, em seu estoque, há apenas ligas de ouro
+750 e 375. Ele dispõe de quantidade suficiente dessas duas ligas para
+fundí-las e obter a quantidade de liga de ouro 585 de que
+necessita.</em></p>
+<p><em>Para obter exatamente 10 gramas de liga de ouro 585, a quantidade
+de liga de ouro 750 utilizada na fundição deverá superar a quantidade da
+liga de ouro 375 em</em></p>
+<ul>
+<li><p><em>1,20 g.</em></p></li>
+<li><p><em>2,35 g.</em></p></li>
+<li><p><em>4,60 g.</em></p></li>
+<li><p><em>0.80 g.</em></p></li>
+<li><p><em>5,60 g.</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Segundo o enunciado, cada 1.000 gramas da liga de ouro 750
+é composta de 750 gramas de ouro puro e 250 de outros metais. Assim, a
+<em>proporção</em> de ouro puro na liga de ouro 750 é igual a <span
+class="math display">$$\frac{750}{1.000}  =\frac{75}{100} =
+0,75.$$</span> Da mesma forma, a proporção de ouro puro na liga de ouro
+375 é <span class="math inline">0, 375</span>.</p>
+<p>Digamos que o artesão usará <span
+class="math inline"><em>x</em></span> gramas de ouro 750 e <span
+class="math inline"><em>y</em></span> gramas de ouro 375 para obter as
+10 gramas de ouro 585. Portanto, teremos <span
+class="math display"><em>x</em> + <em>y</em> = 10.</span> A quantidade
+de ouro puro nos <span class="math inline"><em>x</em></span> gramas da
+liga 750 é igual a <span class="math inline">0, 75<em>x</em></span>
+enquanto que a quantidade de ouro puro nos <span
+class="math inline"><em>y</em></span> gramas da liga 375 é <span
+class="math inline">0, 375<em>y</em></span>. Logo, a quantidade total de
+ouro ao fundir as duas ligas é dada por <span
+class="math inline">0, 75<em>x</em> + 0, 375<em>y</em></span>.</p>
+<p>A liga obtida com essa fundição das duas deve ser 585. Portanto, deve
+apresentar uma proporção de <span class="math inline">0, 585</span> de
+ouro puro. Assim, em 10 gramas desta liga deve haver <span
+class="math display">0, 585 × 10 = 5, 85 gramas</span> de ouro puro.
+Assim, <span
+class="math display">0, 75<em>x</em> + 0, 375<em>y</em> = 5, 85.</span>
+Portanto, obtemos um <em>sistema</em> de equações lineares com as
+equações (<a href="#eq1" data-reference-type="ref"
+data-reference="eq1">[eq1]</a>) e (<a href="#eq2"
+data-reference-type="ref" data-reference="eq2">[eq2]</a>): <span
+class="math display">$$\begin{aligned}
+\begin{cases}
+x+y = 10\\
+0,75 x+ 0,375 y = 5,85
+\end{cases}
+\end{aligned}$$</span> Da primeira equação, obtemos a informação de que
+<span class="math inline"><em>y</em> = 10 − <em>x</em></span>.
+<em>Substituindo</em> esta informação na segunda equação, temos <span
+class="math display">0, 75<em>x</em> + 0, 375(10−<em>x</em>) = 5, 85</span>
+Logo <span
+class="math display">0, 75<em>x</em> − 0, 375<em>x</em> + 3, 75 = 5, 85.</span>
+Assim <span class="math display">0, 375<em>x</em> = 2, 1.</span>
+Concluímos que <span class="math display">$$x = \frac{2,1}{0,375} =
+5,6  \mbox{ gramas}$$</span> enquanto <span
+class="math display"><em>y</em> = 10 − 5, 6 = 4, 4 gramas</span>
+Portanto, nesta liga fundida, a quantidade da liga de ouro 750 supera a
+quantidade da liga de ouro 375 em <span
+class="math inline">5, 6 − 4, 4 = 1, 2</span> grama. A alternativa
+correta é a da letra A). ◻</p>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="fBox">
+<p><span><strong>Solução alternativa.</strong></span> O sistema de
+equações <span class="math display">$$\begin{aligned}
+\begin{cases}
+x+y = 10\\
+0,75 x+ 0,375 y = 5,85
+\end{cases}
+\end{aligned}$$</span> pode ser resolvido também segundo a seguinte
+estratégia. Dividimos a segunda equação por 0,375, obtendo uma equação
+<em>equivalente</em> (pois contém a mesma informação sobre as incógnitas
+<span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>): <span
+class="math display">2<em>x</em> + <em>y</em> = 15, 6.</span> Assim,
+temos um sistema <em>equivalente</em> ao anterior <span
+class="math display">$$\begin{aligned}
+\begin{cases}
+x+y = 10\\
+2x+ y = 15,6
+\end{cases}
+\end{aligned}$$</span> A vantagem é que podemos subtrair a primeira
+equação da segunda, obtendo uma nova equação, a saber: <span
+class="math display">$$2x + y - \textcolor{blue}{(x+y)} =15,6 -
+\textcolor{blue}{10} = 5,6.$$</span> Com isto, obtemos um novo sistema
+que contém ainda a mesma informação que o anterior, mas é bem mais
+simples: <span class="math display">$$\begin{aligned}
+\begin{cases}
+x+y &amp;= 10\\
+x &amp;= 5,6
+\end{cases}
+\end{aligned}$$</span> Logo, concluímos trivialmente, que <span
+class="math display"><em>x</em> = 5, 6   e
+  <em>y</em> = 10 − 5, 6 = 4, 4,</span> como antes.</p>
+</div>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.151</strong> (ENEM 2013, Caderno 7 - Azul, Questão
+136, adaptada). <em>Uma loja vende automóveis em <span
+class="math inline"><em>N</em></span> parcelas iguais sem juros. No
+momento de contratar o financiamento, caso o cliente queira aumentar o
+prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas
+diminui R<span class="math inline">$</span> 200,00, ou se ele quiser
+diminuir o prazo, com 4 parcelas a menos, o valor de cada uma das
+parcelas sobe R<span class="math inline">$</span> 232,00. Considere
+ainda que, nas três possibilidades de pagamento, o valor do automóvel é
+o mesmo, todas são sem juros e não é dado desconto em nenhuma das
+situações.</em></p>
+<p><em>Nessas condições, qual é a quantidade <span
+class="math inline"><em>N</em></span> de parcelas a serem pagas de
+acordo com a proposta inicial da loja?</em></p>
+<ul>
+<li><p><em>20</em></p></li>
+<li><p><em>24</em></p></li>
+<li><p><em>29</em></p></li>
+<li><p><em>40</em></p></li>
+<li><p><em>58</em></p></li>
+</ul>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> O enunciado não nos informa o valor total do financiamento
+e o valor da parcela. Todavia, como este valor é financiado em <span
+class="math inline"><em>N</em></span> parcelas iguais a <span
+class="math inline"><em>P</em></span> reais, será representado pelo
+produto <span class="math inline"><em>N</em> × <em>P</em></span>. Se o
+cliente optar por 5 parcelas a mais, o valor de cada parcela
+<em>reduz</em> de <span class="math inline"><em>P</em></span> para <span
+class="math inline"><em>P</em> − 200</span> reais. Se, porém, decidir
+diminuir o número de parcelas de <span
+class="math inline"><em>N</em></span> para <span
+class="math inline"><em>N</em> − 4</span> (isto é, 4 parcelas a menos),
+o valor de cada parcela passa de <span
+class="math inline"><em>P</em></span> para <span
+class="math inline"><em>P</em> + 232</span> reais. De um modo ou de
+outro, o valor <em>total</em> a ser pago é o mesmo. Ou seja, <span
+class="math display">(<em>N</em>+5) × (<em>P</em>−200) = <em>N</em> × <em>P</em></span>
+e <span
+class="math display">(<em>N</em>−4) × (<em>P</em>+232) = <em>N</em> × <em>P</em>.</span>
+Expandindo o produto no lado esquerdo da primeira equação, obtemos <span
+class="math display"><em>N</em> × <em>P</em> − 200 × <em>N</em> + 5 × <em>P</em> − 5 × 200 = <em>N</em> × <em>P</em>,</span>
+ou seja, <span
+class="math display">5<em>P</em> − 200<em>N</em> = 1.000.</span> Fazendo
+o mesmo com a segunda equação, temos <span
+class="math display"><em>N</em> × <em>P</em> + 232 × <em>N</em> − 4 × <em>P</em> − 4 × 232 = <em>N</em> × <em>P</em>,</span>
+ou seja, <span
+class="math display"> − 4<em>P</em> + 232<em>N</em> = 928.</span>
+Divindindo os dois lados da primeira equação por 5 e os dois lados da
+segunda equação por 4, obtemos um <em>sistema</em> de equações lineares
+da forma <span class="math display">$$\begin{cases}
+P-40 N =200\\
+-P+58 N =232
+\end{cases}$$</span> <em>Somando</em> os lados esquerdos e os lados
+direitos dessas duas equações, obtemos <span
+class="math display">18<em>N</em> = 432,</span> ou seja, <span
+class="math inline"><em>N</em> = 24</span> parcelas. o que corresponde à
+letra B). Se quiséssemos também determinar o valor <span
+class="math inline"><em>P</em></span> da parcela, bastaria
+<em>substituir</em> o valor encontrado <span
+class="math inline"><em>N</em> = 24</span> na primeira equação do
+sistema, obtendo <span
+class="math display"><em>P</em> − 40 × 24 = 200,</span> ou seja, <span
+class="math inline"><em>P</em> = 200 + 40 × 24 = 1.160</span> reais.
+Logo, o valor total financiado é dado por <span
+class="math inline"><em>N</em><em>P</em> = 24 × 1.160 = 27.840</span>
+reais. ◻</p>
+</div>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong> (Resolução de sistemas de equações
+lineares). <em>Esse problema envolve um <em>sistema</em> de duas
+equações lineares. Cada uma dessas equações, por sua vez, envolvia duas
+<em>incógnitas</em>, o valor <span class="math inline"><em>P</em></span>
+da parcela e o número <span class="math inline"><em>N</em></span> de
+parcelas. Em geral, um sistema de 2 equações lineares a 2 incógnitas
+<span class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span> pode ser expresso da seguinte
+forma: <span class="math display">$$\begin{cases}
+ax+by =E\\
+cx+dy =F
+\end{cases}$$</span> onde <span
+class="math inline"><em>a</em>, <em>b</em>, <em>c</em>, <em>d</em></span>,
+<span class="math inline"><em>E</em></span> e <span
+class="math inline"><em>F</em></span> são números (<em>constantes</em>)
+dados. Multiplicando a primeira equação por <span
+class="math inline"><em>d</em></span> e a segunda equação por <span
+class="math inline"> − <em>b</em></span>, obtemos um novo sistema,
+<em>equivalente</em> ao primeiro: <span
+class="math display">$$\begin{cases}
+adx+bdy =dE\\
+-bcx -bdy =-bF
+\end{cases}$$</span> No entanto, somando os lados esquerdo e direito
+dessas duas novas equações, obtemos <span
+class="math display">(<em>a</em><em>d</em>−<em>b</em><em>c</em>)<em>x</em> = <em>d</em><em>E</em> − <em>b</em><em>F</em>,</span>
+ou seja (caso <span
+class="math inline"><em>a</em><em>d</em> − <em>b</em><em>c</em> ≠ 0</span>)
+<span class="math display">$$\label{x}
+x = \frac{dE-bF}{ad-bc},$$</span> o valor da incógnita <span
+class="math inline"><em>x</em></span>. Voltando ao sistema original e,
+desta vez, multiplicando a primeira equação por <span
+class="math inline"> − <em>c</em></span> e a segunda equação por <span
+class="math inline"><em>a</em></span>, obtemos um novo sistema,
+<em>equivalente</em> ao primeiro <span
+class="math display">$$\begin{cases}
+-acx-bcy =-cE\\
+acx +ady =aF
+\end{cases}$$</span> No entanto, somando os lados esquerdo e direito
+dessas duas novas equações, obtemos <span
+class="math display">(<em>a</em><em>d</em>−<em>b</em><em>c</em>)<em>y</em> = <em>a</em><em>F</em> − <em>c</em><em>E</em>,</span>
+ou seja (caso <span
+class="math inline"><em>a</em><em>d</em> − <em>b</em><em>c</em> ≠ 0</span>)
+<span class="math display">$$\label{y}
+y = \frac{aF-cE}{ad-bc}\cdot$$</span> As expressões <a href="#x"
+data-reference-type="eqref" data-reference="x">[x]</a> e <a href="#y"
+data-reference-type="eqref" data-reference="y">[y]</a> resolvem o
+sistema. Acabamos de demonstrar a chamada “<span><strong>regra de
+Cramer</strong></span>”.</em></p>
+</div>
+</div>
+<div class="versaoProfessor">
+<p>O sistema de equações da questão, como vimos, é dado por <span
+class="math display">$$\begin{cases}
+P-40 N =200\\
+-P+58 N =232
+\end{cases}$$</span> Ou seja, as incógnitas são <span
+class="math inline"><em>P</em></span> e <span
+class="math inline"><em>N</em></span> (em vez de <span
+class="math inline"><em>x</em></span> e <span
+class="math inline"><em>y</em></span>, o que não importa muito, já que
+essas são apenas notações). A informação relevante diz respeito aos
+<em>coeficientes</em>, ou seja, as constantes dadas. Nesse caso, temos
+<span
+class="math display"><em>a</em> = 1,  <em>b</em> =  − 40,  <em>E</em> = 200</span>
+e <span
+class="math display"><em>c</em> =  − 1,  <em>d</em> = 58,  <em>F</em> = 232.</span>
+Assim, as expressões <a href="#x" data-reference-type="eqref"
+data-reference="x">[x]</a> e <a href="#y" data-reference-type="eqref"
+data-reference="y">[y]</a> nos fornecem a solução do sistema <span
+class="math display">$$P = \frac{58\times 200 -(-40)\times 232}{1\times
+58 - (-40)\times (-1)} =\frac{20.880}{18} = 1.160 \mbox{ reais}$$</span>
+e <span class="math display">$$N = \frac{1\times 232 -(-1)\times
+200}{1\times 58 - (-40)\times (-1)} =\frac{432}{18} = 24 \mbox{
+parcelas},$$</span> como já havíamos demonstrado.</p>
+</div>
+<div class="eBox">
+<div class="questaoT">
+<p><strong>Questão 1.152</strong> (SAEPE - Item M120376H6). <em>Priscila
+é diretora de uma escola. Ela dispõe de 500 reais para comprar livros
+didáticos iguais. No momento da compra, ela tentou conseguir um desconto
+de 5 reais em cada unidade, o que faria com que ela pudesse levar 5
+livros a mais pelo mesmo valor total, porém nenhum desconto foi
+concedido.</em></p>
+<p><em>Qual é o preço de cada livro comprado por Priscila?</em></p>
+<ol type="A">
+<li><p><em>5 reais.</em></p></li>
+<li><p><em>20 reais.</em></p></li>
+<li><p><em>25 reais.</em></p></li>
+<li><p><em>99 reais.</em></p></li>
+<li><p><em>100 reais.</em></p></li>
+</ol>
+</div>
+</div>
+<div class="versaoProfessor">
+<div class="proof">
+<p><em>.</em> Sejam <span class="math inline"><em>p</em></span> o preço
+de cada livro, anterior ao desconto, e <span
+class="math inline"><em>q</em></span> a quantidade de livros que pode
+ser comprada com 500 reais a esse preço. Então, temos <span
+class="math display"><em>p</em><em>q</em> = 500.</span> Com a redução de
+5 reais no preço, é possível comprar 5 livros a mais com os mesmos 500
+reais. Logo, <span
+class="math display">(<em>p</em>−5)(<em>q</em>+5) = 500.</span>
+<em>Expandindo</em> o lado esquerdo da expressão, temos <span
+class="math display"><em>p</em><em>q</em> + 5<em>p</em> − 5<em>q</em> − 25 = 500.</span>
+Como <span class="math inline"><em>p</em><em>q</em> = 500</span>,
+concluímos que <span
+class="math display">5<em>p</em> − 5<em>q</em> = 25.</span> Dividindo
+cada um dos dois lados da igualdade por 5, obtemos <span
+class="math display"><em>p</em> − <em>q</em> = 5.</span> Devemos, então,
+determinar dois números naturais <span
+class="math inline"><em>p</em></span> e <span
+class="math inline"><em>q</em></span> tais que seu produto é igual a
+500, isto é, <span
+class="math display"><em>p</em><em>q</em> = 500</span> e sua diferença é
+igual a 5, ou seja, <span
+class="math display"><em>p</em> − <em>q</em> = 5.</span> Concluímos que
+a única possibilidade é que <span
+class="math inline"><em>p</em> = 25</span> e <span
+class="math inline"><em>q</em> = 20</span>. Assim, o preço de cada
+livro, com o desconto, é de <span class="math inline">25 − 5 = 20</span>
+reais, o que corresponde à alternativa B). ◻</p>
+</div>
+<div class="obsBox">
+<div class="observacaoT">
+<p><strong>Observação 1.1</strong>. <em>Esse problema nos leva ao tema
+da próxima parte do material, onde trabalhamos equações e funções
+quadráticas. De fato, em vez de buscar os valores de <span
+class="math inline"><em>p</em></span> e <span
+class="math inline"><em>q</em></span> entre os possíveis pares de
+números naturais tais que <span class="math display">$$\begin{aligned}
+\begin{cases}
+&amp; pq = 500,\\
+&amp; p-q =5.
+\end{cases}
+\end{aligned}$$</span> Vejamos uma solução desse problema em termos
+algébricos, usando uma equação quadrática. Multiplicando os dois lados
+da igualdade <span
+class="math display"><em>p</em> − <em>q</em> = 5</span> por <span
+class="math inline"><em>q</em></span>, temos <span
+class="math display"><em>p</em><em>q</em> − <em>q</em><sup>2</sup> = 5<em>q</em></span>
+Como <span class="math inline"><em>p</em><em>q</em> = 500</span>, segue
+que <span
+class="math display">500 − <em>q</em><sup>2</sup> = 5<em>q</em>.</span>
+Assim, obtemos uma equação quadrática <span
+class="math display"><em>q</em><sup>2</sup> + 5<em>q</em> − 500 = 0.</span>
+<em>Fatorando</em> a expressão quadrática do lado esquerdo, temos <span
+class="math display">(<em>q</em>+25)(<em>q</em>−20) = 0.</span> Logo
+<span class="math inline"><em>q</em> =  − 25</span> ou <span
+class="math inline"><em>q</em> = 20</span>. Como a quantidade <span
+class="math inline"><em>q</em></span> deve ser um número natural, temos
+uma única solução, a saber, <span
+class="math inline"><em>q</em> = 20</span>.</em></p>
+</div>
+</div>
+</div>
