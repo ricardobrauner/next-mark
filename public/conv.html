@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input id="entrada" type="text">
+    <button onclick="conv()">converte</button>
+    <textarea  id="saida" ></textarea>
+    <script>
+        function conv(ev){
+            //alert(entrada.value);
+            let x = JSON.stringify({a: entrada.value});
+            saida.innerHTML = x;
+            entrada.value = "";
+            saida.select(); 
+            navigator.clipboard.writeText(saida.innerHTML);
+        }
+    </script>
+</body>
+</html>
